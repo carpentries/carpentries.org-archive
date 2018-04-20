@@ -9,3 +9,5 @@ learners, or working as a [Trainer](https://github.com/carpentries/commons/blob/
 
 All Carpentries instructors have completed [instructor training](https://docs.carpentries.org/topic_folders/instructor_training/index.html). Once badged as an Instructor, you can go on to teach workshops. Find more about teaching and hosting workshops [here](https://docs.carpentries.org/topic_folders/hosts_instructors/index.html).
 
+Want to become an instructor? Look [here](https://carpentries.org/community/#instructors) for instructions! Want to train multiple students or employees at your institution?  Look into [membership](https://carpentries.org/membership/)!
+
