@@ -17,7 +17,7 @@ We offer several levels of Memberships, based on training activities expected an
 |# of Coordinated Workshops|2|4|6|negotiable|
 |Discount for additional <br>coordinated workshops|20%|33%|50%|negotiable|
 |Self-organized workshops<br> at partner organization **|no-charge|no-charge|no-charge|no-charge|
-|Number of instructors <br>trained ***|0|6 online|15 with possibility <br>for in-person^<br>training event|negotiable|
+|Number of instructors <br>trained ***|0|6 online|15 with possibility <br>for in-person<br>training event|negotiable|
 |Seat on the <br>SCF Advisory Board|No|Yes|Yes|Yes|
 |Train an in-house instructor <br>trainer at partner org|No|No|No|Available|
 |Lesson development <br>services|No|No|No|Available|
