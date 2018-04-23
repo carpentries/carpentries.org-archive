@@ -73,7 +73,7 @@
   dropdown:
   - title: "Blog"
     url: "/blog/archive/"
-  - title: "Newletter"
+  - title: "Newsletter"
     url: "/newsletter/"
 
 - title: "Donate"
