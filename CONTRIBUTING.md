@@ -70,7 +70,7 @@ and to meet some of our community members.
     
     `2017-07-10-assess_report.md`
     
-4.  In order to render correctly, posts need to have a header block, which should be created like [this example](https://raw.githubusercontent.com/carpentries/carpentries.org/gh-pages/_posts/2018/04/2018-04-11-launch-handbook.md), e.g.
+4.  In order to render correctly, posts need to have a [header block, which should be created like this example](https://raw.githubusercontent.com/carpentries/carpentries.org/gh-pages/_posts/2018/04/2018-04-11-launch-handbook.md), e.g.
 
 ```
 ---

@@ -19,7 +19,7 @@ through the [dedicated CarpentryCon feed](https://twitter.com/carpentrycon). You
 - *First call*: 13:00 GMT/UTC [see time in your zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CarpentryCon+Call&iso=20180503T13&p1=%3A&ah=1)
 - *Second call*: 19:00 GMT/UTC / 12 noon PDT [see time in your zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CarpentryCon+Call&iso=20180503T12&p1=234&ah=1)
 
-Sign up for either call on [this etherpad](http://pad.software-carpentry.org/carpconcall). All welcome. Post questions in advance if you 
+Sign up for either call on the [CarpentryCon etherpad](http://pad.software-carpentry.org/carpconcall). All welcome. Post questions in advance if you
 are unable to attend. We will post the answers.
 
 [Malvika Sharan](https://twitter.com/MalvikaSharan/), a leading member of 
@@ -35,7 +35,7 @@ You can still [buy tickets](https://www.eventbrite.com/e/carpentrycon-2018-ticke
 partner or companion, you can buy a separate dinner ticket for them.
 
 If you are interested in volunteering at CarpentryCon, please add your details 
-to [this pad](http://pad.software-carpentry.org/carpentrycon_volunteers), 
-which also explains what kind of help is needed. [Download](https://twitter.com/MalvikaSharan/status/985894053156925441) and display 
-the new poster to help publicise the event locally.
 
+to the [volunteers pad](http://pad.software-carpentry.org/carpentrycon_volunteers),
+which also explains what kind of help is needed. [Download and display
+the new poster](https://twitter.com/MalvikaSharan/status/985894053156925441) to help publicise the event locally.

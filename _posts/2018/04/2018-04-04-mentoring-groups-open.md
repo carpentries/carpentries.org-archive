@@ -15,6 +15,6 @@ Did you miss the deadline to [join a mentoring group](https://software-carpentry
 + [UTC+8](https://www.timeanddate.com/worldclock/china/beijing)
 + [UTC+11](https://www.timeanddate.com/worldclock/australia/sydney)
 
-To join, fill out [this application](https://docs.google.com/forms/d/e/1FAIpQLSfShPoHabyLUMe5894zn-h5hJGY6OH1sffBYKZML3QfHHfSWQ/viewform).
+To join, fill out the [mentoring application](https://docs.google.com/forms/d/e/1FAIpQLSfShPoHabyLUMe5894zn-h5hJGY6OH1sffBYKZML3QfHHfSWQ/viewform).
 
 Mentoring groups are beneficial to participants because group members are able to focus on specific goals, including teaching their first workshop and developing new lesson contribution material. Being a part of a group that addresses something important to you is both powerful and enjoyable. You do not want to miss out on the Carpentries mentoring opportunities. [Join a mentoring](https://docs.google.com/forms/d/e/1FAIpQLSfShPoHabyLUMe5894zn-h5hJGY6OH1sffBYKZML3QfHHfSWQ/viewform) group today!

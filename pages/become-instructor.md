@@ -21,7 +21,7 @@ There are two steps to becoming an Instructor.
 The training course runs over two full days and covers the basics of educational psychology, instructional design, and how to apply both to teaching workshops for The Carpentries. To see what our curriculum covers, visit the [instructor training course page](http://carpentries.github.io/instructor-training/).
 
 2. **Complete the checkout process**  
-You must complete three short tasks after the course in order to complete certification. These tasks are described in detail on [this page](http://carpentries.github.io/instructor-training/checkout/) and take a total of approximately 8-10 hours. Once you've read the detailed instructions, please use [this page](http://carpentries.github.io/instructor-training/checkout/) or our [simplified checklist](http://www.datacarpentry.org/checkout/) to keep track of your progress.
+You must complete three short tasks after the course in order to complete certification. These [checkout tasks are described in detail on this page](http://carpentries.github.io/instructor-training/checkout/) and take a total of approximately 8-10 hours. Once you've read the [detailed instructions, please use this page](http://carpentries.github.io/instructor-training/checkout/) or our [simplified checklist](http://www.datacarpentry.org/checkout/) to keep track of your progress.
 
 <a href="https://amy.software-carpentry.org/forms/request_training/">
         <button class="btn">

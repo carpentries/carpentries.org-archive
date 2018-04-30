@@ -28,4 +28,4 @@ of Software and Data Carpentry.
 
 ### Carpentries Policies
 
-As well as our Code of Conduct, we have a number of policies that govern how we operate, including our Privacy Policy, our instructor 'no-show' policy and others. [See them here](https://docs.carpentries.org/topic_folders/policies/index.html).
+As well as our Code of Conduct, we have a number of [policies that govern how we operate, including our Privacy Policy, our instructor 'no-show' policy and others](https://docs.carpentries.org/topic_folders/policies/index.html). 
