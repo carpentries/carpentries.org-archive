@@ -9,7 +9,7 @@ The Instructor Development Committee (formerly known as the Mentoring Committee)
 through training, teaching, curriculum development,
 and other community-related activities. They help promote community-building and networking, by 
 providing virtual spaces where instructors from all over the world can share teaching success stories and 
-discuss teaching strategies. For more about our work, see our [onboarding document](ttps://github.com/carpentries/mentoring/blob/master/onboarding-document.md).
+discuss teaching strategies. For more about our work, see our [onboarding document](https://github.com/carpentries/mentoring/blob/master/onboarding-document.md).
 
 The Committee also organises and oversees the work of Mentoring Groups. These groups support instructors in a variety of ways. 
 Whether you are a new instructor preparing to teach your first workshop, a seasoned instructor hoping to launch workshops in 
