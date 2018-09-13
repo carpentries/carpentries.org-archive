@@ -162,4 +162,4 @@ _CarpentryConnect_ (see the recent CarpentryConnect events at
 
 To learn more about the conference, join us for the next CarpentryCon Planning Task Force call scheduled for 
 25 September at 20:00 UTC - 
-[see time and date in your zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CarpentryCon+Task+Force&iso=20180925T20&p1=1440). Find our [etherpad](https://pad.carpentries.org/2018carpentrycontaskforce). You can also reach out to us by emailing [carpentrycon@carpentries.org[(mailto:carpentrycon@carpentries.org). 
+[see time and date in your zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CarpentryCon+Task+Force&iso=20180925T20&p1=1440). Find our [etherpad](https://pad.carpentries.org/2018carpentrycontaskforce). You can also reach out to us by emailing [carpentrycon@carpentries.org](mailto:carpentrycon@carpentries.org). 
