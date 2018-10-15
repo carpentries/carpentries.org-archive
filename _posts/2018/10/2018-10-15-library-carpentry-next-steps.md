@@ -1,8 +1,8 @@
 ---
 layout: page
 authors: ["Chris Erdmann", "Tracy Teal", "John Chodacki"]
-teaser: "New Library Carpentry website responds to Carpentries roadmap"
-title: "Library Carpentry’s next step towards becoming a Carpentries Lesson Program"
+teaser: "New Library Carpentry Website Responds to Carpentries Roadmap"
+title: "Library Carpentry’s Next Step Towards Becoming a Carpentries Lesson Program"
 date: 2018-10-15
 time: "09:00:00"
 tags: ["Library Carpentry", "The Carpentries", "Lesson Program"]
