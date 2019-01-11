@@ -1,3 +1,9 @@
+# Jekyll site settings.
+# Jekyll is a Ruby tool for building static sites.
+# Github Pages does all the hard work of building the Jekyll site. Yay!
+# Custom CNAME settings in this repository make carpentries.org redirect
+# to the Github Pages page.
+# 
 # ASCII-Font › http://patorjk.com/software/taag/#p=display&f=Slant&t=Phlow
 #
 #      _____ _ __          _____      __  __  _
