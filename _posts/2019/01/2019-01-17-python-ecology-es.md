@@ -8,7 +8,7 @@ time: "01:00:00"
 tags: [Translation, Latin America, Lessons, Data Carpentry, Community]
 ---
 
-From September 2017 to May 2018, there was [community-driven effort](https://software-carpentry.org/blog/2018/03/forlatinamerica.html) to translate the Software Carpentry lessons into Spanish, and the result was the production three high-quality lessons that can be used to teach a Software Carpentry Workshop consisting of [La Terminal de Unix](https://swcarpentry.github.io/shell-novice-es/), [Control de Versiones con Git](https://swcarpentry.github.io/git-novice-es/), and [R para Análisis Científicos Reproducibles](https://swcarpentry.github.io/r-novice-gapminder-es/). 
+From September 2017 to May 2018, there was a [community-driven effort](https://software-carpentry.org/blog/2018/03/forlatinamerica.html) to translate the Software Carpentry lessons into Spanish, and the result was the production of three high-quality lessons that can be used to teach a Software Carpentry Workshop consisting of [La Terminal de Unix](https://swcarpentry.github.io/shell-novice-es/), [Control de Versiones con Git](https://swcarpentry.github.io/git-novice-es/), and [R para Análisis Científicos Reproducibles](https://swcarpentry.github.io/r-novice-gapminder-es/). 
 
 The next logical step to enhance The Carpentries portfolio of Spanish lessons was to translate a Python-based Data Carpentry lesson. In November 2018, we initiated and completed a community-driven project to create [Análisis y visualización de datos usando Python](https://datacarpentry.org/python-ecology-lesson-es/).
 
