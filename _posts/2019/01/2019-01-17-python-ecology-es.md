@@ -59,4 +59,4 @@ Now that the lesson has been translated, we are excited to see how it works in p
 
 ### Acknowledgments
 
-We are very grateful to all members of [The Carpentries](https://carpentries.org/) who have provided continual encouragement and support for translation efforts likes these. [Charles Reid](https://github.com/charlesreid1) provided valuable feedback on earlier versions of this post. 
+We are very grateful to all members of [The Carpentries](https://carpentries.org/) who have provided continual encouragement and support for translation efforts likes these. [Sofía Meléndez Cartagena](https://github.com/ComplejoC), [Nicolas Palopoli](https://github.com/NPalopoli), and [Charles Reid](https://github.com/charlesreid1) provided valuable feedback on earlier versions of this post. 
