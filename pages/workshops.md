@@ -56,7 +56,7 @@ We have [tips for Instructors](https://docs.carpentries.org/topic_folders/hosts_
 
 ### <i class="fas fa-keyboard"></i> We use participatory live coding
 
-Using the UNIX command line or working in Jupyter Notebooks or RStudio helps familiarise learners with the tools they will be using post-workshop. The pace is necessarily slow since the Instructor is typing commands with learners coding along, rather than paging through a series of slides. See more about [why participatory live coding helps learners](http://carpentries.github.io/instructor-training/15-live/index.html).
+Using the UNIX command line or working in Jupyter Notebooks or RStudio helps familiarise learners with the tools they will be using post-workshop. The pace is necessarily slow since the Instructor is typing commands with learners coding along, rather than paging through a series of slides. See more about [why participatory live coding helps learners](https://carpentries.github.io/instructor-training/14-live/index.html).
 
 ### <i class="fas fa-exclamation-circle"></i> Mistakes are made (and that's a *good* thing)
 
