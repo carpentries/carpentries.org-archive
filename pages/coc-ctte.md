@@ -36,11 +36,5 @@ Please email your concerns to [coc@carpentries.org](mailto:coc@carpentries.org).
 
 [**Simon Waldman**](https://github.com/swaldman3) is a postdoc at Heriot-Watt University in the UK, working at the intersection of physical oceanography and renewable energy. He has been involved in a range of online communities since the 1990s, and feels strongly about encouraging inclusive behaviour. He has benefited from Carpentries training, and occasionally helps on workshops.
 
-[**Ethan White**](https://github.com/ethanwhite) is an Associate Professor at the University of Florida working on
-computational and data-intensive ecology. He is a Moore Foundation Investigator
-in Data Driven Discovery and serves on the board of directors of Impactstory. He
-has been involved in Software Carpentry since 2009, was a founding member of
-the Data Carpentry steering committee, wrote the first version of the Data
-Carpentry Ecology SQL material, and leads the development of the semester long
-Data Carpentry course for biologists. He serves as the Executive Council representative
-on the committee. Ethan is the Executive Council liaison.
+[**Elizabeth Wickes**](https://github.com/elliewix) is a Lecturer at the School of Information Sciences at the University of Illinois in the United States. She serves as the Interim Executive Council representative
+on the committee.
