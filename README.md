@@ -72,7 +72,7 @@ The YAML header of a blog post must look like this:
 
 ~~~
 ---
-layout: post
+layout: page
 authors: ["Your Name"]
 title: "A Title-Cased Title for the Post"
 date: YYYY-MM-DD
