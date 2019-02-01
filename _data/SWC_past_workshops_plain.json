@@ -1,5 +1,17 @@
 [
   {
+    "end_date": "2019-02-01",
+    "url": "https://butterflyology.github.io/2019-01-31-usc/",
+    "country": "US",
+    "venue": "University of Southern California",
+    "longitude": -118.288799,
+    "slug": "2019-01-31-usc",
+    "tag_name": "SWC",
+    "host_name": "University of Southern California",
+    "latitude": 34.019611,
+    "start_date": "2019-01-31"
+  },
+  {
     "end_date": "2019-01-27",
     "url": "https://julesfowler.github.io/2019-01-26-nyas-Python/",
     "country": "US",

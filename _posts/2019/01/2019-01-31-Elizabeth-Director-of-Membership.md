@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 authors: ["Elizabeth Williams"]
 title: "Announcing Elizabeth as New Director of Membership"
 date: 2019-01-31
