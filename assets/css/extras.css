@@ -48,7 +48,10 @@ ul, menu, dir {
 }
 
 
-
+.anchor-offset {
+   padding-top: 50px;
+   margin-top: -50px;
+}
 
 .team-member {
     margin-bottom: 50px;

@@ -52,8 +52,8 @@ Trainers can expect to acquire this <a href="https://github.com/carpentries/comm
 {% endif %}
 
 <div class="medium-3 columns">
-<div class="team-member">
-  <img data-src="https://avatars.githubusercontent.com/{{ person.github }}" width=128 height=128 class="img-responsive img-circle lazyload" alt="GitHub profile photo of {{person.person_name}}">
+  <div id="{{ person.github }}" class="anchor-offset team-member">
+    <img data-src="https://avatars.githubusercontent.com/{{ person.github }}" width=128 height=128 class="img-responsive img-circle lazyload" alt="GitHub profile photo of {{person.person_name}}">
   <h3>{{ person.person_name }}</h3>
   <ul class="list-inline social-buttons">
       {% if person.twitter %}<li> <a href="https://twitter.com/{{ person.twitter }}"> <i class="fab fa-twitter"></i> </a> </li> {% endif %}
