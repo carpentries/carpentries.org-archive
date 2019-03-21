@@ -2,7 +2,7 @@
 layout: page
 authors: ["Damien Irving"]
 teaser: "Join us for a discussion of past, present and future Carpentries activities in Australia"
-title: "The Carpentries Australia: Community Call"
+title: "The Carpentries Australia: Community Discussion"
 date: 2018-03-21
 time: "09:00:00"
 tags: ["Community", "Discussion"]
@@ -26,9 +26,9 @@ This can be partly explained by the fact that a number of our member organisatio
 * What can be done to establish and support Carpentries communities in cities (e.g. Adelaide, Darwin) and regional centres that don’t currently have one?
 * How do we capture non-branded / unofficial usage of Carpentries lessons in our statistics?
 * Should we establish a team of regional coordinators spread around the country, as opposed to relying on one person?
-* Should we establish a regular community call and/or newsletter so that people can stay up-to-date with what's happening around the country?
+* Should we establish a regular community discussion and/or newsletter so that people can stay up-to-date with what's happening around the country?
 
-To start answering these and other questions, we've scheduled an **Australia Community Discussion for 12pm AEDST on Tuesday 2 April**. Please sign up on the [etherpad](https://pad.carpentries.org/community-discussions) to let us know you are planning to attend. On the day, join us in the [zoom meeting].
+To start answering these and other questions, we've scheduled an **Australia Community Discussion for 12pm AEDST on Tuesday 2 April**. Please sign up on the [etherpad](https://pad.carpentries.org/community-discussions) to let us know you are planning to attend. On the day, join us in the [Zoom meeting](https://carpentries.zoom.us/my/carpentriesroom2).
 
 Hope to see you there!
 
