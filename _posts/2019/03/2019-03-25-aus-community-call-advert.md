@@ -3,7 +3,7 @@ layout: page
 authors: ["Damien Irving"]
 teaser: "Join us for a discussion of past, present and future Carpentries activities in Australia"
 title: "The Carpentries Australia: Community Discussion"
-date: 2018-03-21
+date: 2018-03-25
 time: "09:00:00"
 tags: ["Community", "Discussion"]
 ---
