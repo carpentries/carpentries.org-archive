@@ -1,7 +1,7 @@
 ---
 layout: page
 authors: ["Kari Jordan", "Martin Dreyer"]
-teaser: "Looking to host a Carpentries Community Discussion? See Martin Dreyer's pointers"
+teaser: "Looking to host a Carpentries Community Discussion? See Martin Dreyer pointers"
 title: "Carpentries Community Discussion Sessions - A Primer for New Discussion Hosts "
 date: 2019-05-01
 time: "00:00:00"
