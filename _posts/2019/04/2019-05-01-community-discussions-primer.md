@@ -3,7 +3,7 @@ layout: page
 authors: ["Martin Dreyer"]
 teaser: "Looking to host a Carpentries Community Discussion? See Martin Dreyer's pointers"
 title: "Carpentries Community Discussion Sessions - A Primer for New Discussion Hosts"
-date: 2019-05-02
+date: 2019-05-03
 time: "00:00:00"
 tags: ["Community", "Communications", "Discussion Sessions"]
 ---
