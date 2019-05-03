@@ -3,22 +3,22 @@ layout: page
 authors: ["Martin Dreyer"]
 teaser: "Looking to host a Carpentries Community Discussion? See Martin Dreyer's pointers"
 title: "Carpentries Community Discussion Sessions - A Primer for New Discussion Hosts"
-date: 2019-05-03
+date: 2019-05-05
 time: "00:00:00"
 tags: ["Community", "Communications", "Discussion Sessions"]
 ---
 
-In the past, we had discussion sessions for Carpentries Instructors that took place twice a week and provided a platform where experienced and novice instructors could discuss previous and upcoming workshops, and share challenges as well as victories with the community as well as the Carpentries Instructor Checkouts.
+In the past, we had discussion sessions for Carpentries Instructors that took place twice a week and provided a platform where experienced and novice instructors could discuss previous and upcoming workshops, share challenges and victories with the community, and complete their [Carpentries Instructor checkouts](https://carpentries.github.io/instructor-training/checkout/).
 
-These sessions had a few challenges that included timezone differences, available slots for checkouts and debriefs to name but a few. We  found it difficult to meet all the demands for the discussion sessions, and felt the need to relax the discussion session requirement for checkouts. The community however, felt it necessary to keep the discussion sessions as a requirement, but in a different way with multiple pathways to participate.
+These sessions had a few challenges that included timezone differences, limited availability of time slots for checkouts and debriefs, to name but a few. We  found it difficult to meet all the demands for Carpentries discussion sessions, and felt the need to relax the discussion session requirement for checkouts. The community however, felt it necessary to keep the discussion sessions as a requirement, but in a different way with multiple pathways to participate.
 
-The Community Discussions were therefore introduced. In addition to Pre- and Post- Workshop discussions, Community Discussions contain a  themed discussion element that focusses on a specific topic, and encompasses Carpentries Conversations that provide the opportunity to discuss new developments and programs within the Carpentries.
+The Carpentries Community Discussions were therefore introduced. In addition to Pre- and Post- Workshop discussions, Community Discussions contain a  themed discussion element that focusses on a specific topic, and can include Carpentries Conversations which provide the opportunity to discuss new developments and programs within The Carpentries.
 
-This provides the opportunity for both new and experienced instructors to ask questions pertaining to specific topics and checkout procedures. The community discussions also made room for the involvement of more participants and this solved key issues previously experienced by our community in the discussion sessions.
+Carpentries Community Discussions provide the opportunity for both new and experienced instructors to ask questions pertaining to specific topics and checkout procedures while making room for the involvement of more participants and resolving key issues previously experienced by our community in the discussion sessions.
 
-One of the bigger challenges we face at the moment is getting Carpentries instructors to sign up as hosts for the discussion sessions. The biggest challenge is not the willingness of the community it is the fear of the unknown, the questions that we all have, the "What-ifs."
+One of the bigger challenges we face at the moment is getting Carpentries instructors to sign up as hosts for the discussion sessions. The biggest challenge is not the willingness of the community but the fear of the unknown, the questions that we all have- the "What-ifs."
 
-Lets have a look at some of these:
+In this post, I'll be providing answers to some of these questions:
 
 ##### What if I'm hosting a discussion and there are no pre/post workshop debriefs? 
 
