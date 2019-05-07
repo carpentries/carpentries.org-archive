@@ -1,7 +1,9 @@
-<style type="text/css">
-<!--
-//.display_archive {font-family: arial,verdana; font-size: 12px;}
-.campaign {line-height: 125%; margin: 5px;}
-//-->
-</style>
-<script language="javascript" src="//carpentries.us14.list-manage.com/generate-js/?u=46d7513c798c6bd41e5f58f4a&fid=5859&show=200" type="text/javascript"></script>
+{% assign newsletter_archives = site.data.newsletter | sort:"pub_date" | reverse %}
+
+{% for newsletter in newsletter_archives %}
+
+<a href="{{ newsletter.url }}">
+{{ newsletter.subject }}
+</a>
+<br>
+{% endfor %}
