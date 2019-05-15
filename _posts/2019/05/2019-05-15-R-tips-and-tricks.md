@@ -3,7 +3,7 @@ layout: page
 authors: ["Katrin Tirok","Bianca Peterson"]
 teaser: "Bianca Peterson & Katrin Tirok share their tried-and-tested tips and tricks for teaching R"
 title: "Tips and Tricks for Teaching R"
-date: 2019-05-15
+date: 2019-05-16
 time: "00:00:00"
 tags: ["R", "Workshops", "Discussion Sessions"]
 ---
