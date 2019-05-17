@@ -107,7 +107,7 @@ Separate the header block from the post proper by a new line.
   
 ## Other Resources
 
-General discussion of [Software Carpentry][swc-site], [Data Carpentry][dc-site], , and [Library Carpentry][lc-site] 
+General discussion of [Software Carpentry][swc-site], [Data Carpentry][dc-site], and [Library Carpentry][lc-site] 
 happens on the [discussion mailing list][discuss-list],
 which everyone is welcome to join.
 You can also [reach us by email][contact].
