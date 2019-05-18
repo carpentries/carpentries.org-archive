@@ -16,14 +16,13 @@ _Our vision is to form a community that provides public and free quality knowled
 * [Repositorio GitHub para lecciones y recursos](https://github.com/Carpentries-ES)
 * [El Handbook de Carpentries](https://docs.carpentries.org/topic_folders/regional_communities/carpentries_en_latinoamerica.html)
 * Canal de Slack [#carpentries_es](https://join.slack.com/t/swcarpentry/shared_invite/enQtMzkyMzE5MDMxNDkyLWViNzgwNzVlYmNkNTY1YThlOTUxZDc1OWQzYWI3YTViNzM2MTk1OGY4MmZmOTM1YjMxMDdlZTdmYmJjNjk3N2U)
-* [Minutos de las reuniónes](https://github.com/carpentries/latinoamerica/tree/master/traducciones/minutos). 
-* [lista de correo de América Latina 
-](https://carpentries.topicbox.com/groups/local-latinoamerica)
+* [Minutos de las reuniones](https://github.com/carpentries/latinoamerica/tree/master/traducciones/minutos). 
+* [Lista de correo de América Latina ](https://carpentries.topicbox.com/groups/local-latinoamerica)
 * [Lista de correo de traductores de español](https://groups.google.com/forum/#!forum/carpentries-traductores)
 
 ## Blogs
 
-* [Carpentries para Latinoamerica](https://software-carpentry.org/blog/2018/03/paralatinoamerica.html), 
+* [Carpentries para Latinoamérica](https://software-carpentry.org/blog/2018/03/paralatinoamerica.html), 
 [_Carpentries for Latin America_](https://software-carpentry.org/blog/2018/03/forlatinamerica.html) 
 * [Traducción al español de Ecología con Python, una lección de Data Carpentry (español)](https://carpentries.org/blog/2019/01/python-ecologia-es/), [_Data Carpentry Python Ecology Lesson Translated into Spanish_](https://carpentries.org/blog/2019/01/python-ecology-es/)
 
