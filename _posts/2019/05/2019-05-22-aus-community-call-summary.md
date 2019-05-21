@@ -2,7 +2,7 @@
 layout: page
 authors: ["Damien Irving"]
 teaser: "A summary of our community call on Carpentries activities in Australia"
-title: "The Carpentries Australia: Community Discussion Summary"
+title: "The Carpentries in Australia: Community Discussion Summary"
 date: 2019-05-21
 time: "09:00:00"
 tags: ["Community", "Discussion"]
