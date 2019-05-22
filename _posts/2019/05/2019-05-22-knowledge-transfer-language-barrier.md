@@ -5,7 +5,7 @@ teaser: "In this post, Abdullahi Bihi Hussein, a Carpentries Instructor based in
 title: "Language Barrier: An Impediment to Knowledge Transfer"
 date: 2019-05-27
 time: "00:00:00"
-tags: ["Workshops","Community" "Discussion Sessions"]
+tags: ["Workshops","Community", "Discussion Sessions"]
 ---
 
 In the technology and development circles, there is a lot of talk about the digital divide and how it negatively impacts economic development and the development gap that currently exists between the nations. In my opinion, the gap does not stop at the technology and digital economy levels, but also further exacerbates the knowledge gap between the communities which is driven by the fact that most of the potential scientists and students of Science who have the intelligence and the acumen to learn new skills and absorb new 'organized' knowledge do not speak English.
