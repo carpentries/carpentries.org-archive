@@ -1,6 +1,6 @@
 ---
 layout: page
-authors: ["Serah Rono", "Kari L. Jordan"]
+authors: ["Serah Njambi Rono", "Kari L. Jordan"]
 teaser: "Our Instructor Development Committee has a strong team of six to lead its activities over the next year"
 title: "Introducing the New Carpentries Instructor Development Committee"
 date: 2019-04-30

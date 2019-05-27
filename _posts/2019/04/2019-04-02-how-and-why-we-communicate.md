@@ -1,6 +1,6 @@
 ---
 layout: page
-authors: ["Serah Rono"]
+authors: ["Serah Njambi Rono"]
 teaser: "Boats, Bridges, Balloons - Here's why and how we communicate at The Carpentries"
 title: "Communications at The Carpentries"
 date: 2019-04-02
