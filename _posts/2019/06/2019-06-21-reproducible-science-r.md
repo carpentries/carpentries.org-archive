@@ -9,6 +9,7 @@ tags: ["Workshops", "Community", "R"]
 ---
 
 ![Carpentries Workshop attendees, Instituto Gulbenkian de Ciência, Portugal]({{ site.urlimg }}/blog/2019/06/igc-group.jpg)
+_Carpentries Workshop attendees, Instituto Gulbenkian de Ciência, Portugal in May 2019. Photo credit: IGC_
 
 My name is Phil Reed ([Twitter](https://twitter.com/philreeddata) and [GitHub](https://github.com/philreeddata)) and I am a relative new-comer to The Carpentries, having qualified as an instructor last autumn. I co-led a Library Carpentry event at The University of Manchester Library where I work as a Data Specialist. In May 2019, I travelled to the [Instituto Gulbenkian de Ciência](http://www.igc.gulbenkian.pt) (IGC) in Oeiras, Portugal to co-lead my first Software Carpentry workshop.  The title of this two-day session was "R for Reproducible Scientific Analysis", covering R and some version control with Git, for bioinformatics researchers and students. Below is a brief evaluation from me, the other co-lead Eric Persson and the head of training at IGC, [Pedro Fernandes](https://www.google.com/url?q=https://www.linkedin.com/in/pedrofernandesbioinformatics/&sa=D&ust=1561083644471000&usg=AFQjCNGgXfgqcKpfKEaLNUrAWrLOruvt5g).
 
