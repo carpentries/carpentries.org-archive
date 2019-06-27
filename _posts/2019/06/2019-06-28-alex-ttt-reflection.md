@@ -8,6 +8,7 @@ time: "09:00:00"
 tags: ["Workshop", "Trainers"]
 ---
 
+_This post was [originally published](http://www.arj.no/2019/06/21/carpentries/) on Alexander Refsum's personal blog._
 
 I have spent the two last days at a “Train the Trainers” workshop organised by The Carpentries project. Here I will summarise some thoughts on the workshop, and things that I will take with me for my own teaching practice.
 
