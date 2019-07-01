@@ -3,7 +3,7 @@ layout: page
 authors: ["Alexander Refsum Jensenius"]
 teaser: "In this post, Alexander Refsum Jensenius shares thoughts and takeaways from a recent Train the Trainer Workshop"
 title: "Reflections from a Carpentries Train the Trainer Workshop"
-date: 2019-06-28
+date: 2019-07-01
 time: "09:00:00"
 tags: ["Workshop", "Trainers"]
 ---
