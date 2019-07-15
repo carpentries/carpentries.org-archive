@@ -37,6 +37,5 @@ Please email your concerns to [coc@carpentries.org](mailto:coc@carpentries.org).
 [**Simon Waldman**](https://github.com/swaldman3) is a postdoc at the Pacific Northwest National Laboratory in the USA. He is a coastal modeller, working at the intersection of physical oceanography and renewable energy. Simon has been involved in a range of online communities since the 1990s, and feels strongly about encouraging inclusive behaviour. He has benefited from The Carpentries training, occasionally helps on workshops, and has recently qualified as an instructor.
 
 
-[**Elizabeth Wickes**](https://github.com/elliewix) is a Lecturer at the School of Information Sciences at the University of Illinois, where she teaches foundational programming and information technology courses. She was previously a Data Curation Specialist for the Research Data Service at the University Library of the University of Illinois, and the Curation Manager for Wolfram|Alpha. She currently co-organizes the Champaign-Urbana Python user group, has been a Carpentries instructor since 2015, trainer since 2017, and Executive Council member since 2018. She serves as the Executive Council representative
-on the committee.
+[**Karen Cranston**](https://github.com/kcranston) 
 
