@@ -9,7 +9,7 @@ tags: ["Sponsorship Programme", "Task Force"]
 ---
 
 In May, we shared our [2018 Finances](https://carpentries.org/blog/2019/05/carpentries-financial-updates/) with you.
-The Executive Council defined that one area that we can develop to increase our capacity by bringing more income is a Sponsorship Programme.
+The Executive Council determined that one way to increase our capacity by bringing more income is via a Sponsorship Programme.
 We are looking for four members of our community with previous experience regarding sponsorship to help develop The Carpentries 2020 Sponsorship Programme.
 To volunteer,
 fill the [Google Form](https://forms.gle/PscHdA1nyvKh33od6) before 9 August 2019 Anywhere on Earth.
