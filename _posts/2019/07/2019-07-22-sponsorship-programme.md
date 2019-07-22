@@ -1,8 +1,8 @@
 ---
 layout: page
 authors: ["Raniere Silva", "Tracy Teal"]
-teaser: "Help shaping the future Sponsorship Programme."
-title: "Invitation to the Sponsorship Programme Task Force"
+teaser: "Sign up and help shape our Sponsorship Programme."
+title: "Invitation to The Carpentries Sponsorship Programme Task Force"
 date: 2019-07-22
 time: "09:00:00"
 tags: ["Sponsorship Programme", "Task Force"]
