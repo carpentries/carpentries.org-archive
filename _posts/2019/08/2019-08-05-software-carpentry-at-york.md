@@ -3,7 +3,7 @@ layout: page
 authors: ["Juan Rodriguez Herrera"] 
 teaser: "Following a successful Software Carpentry workshop, Juan Rodriguez summarised the experience in this post."
 title: "Software Carpentry at York"
-date: 2019-08-06 
+date: 2019-08-07 
 time: "00:00:00" 
 tags: ["Events", "Workshops"]
 ---
