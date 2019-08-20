@@ -34,7 +34,7 @@ At the moment our focus is on translating a full archived version of the core so
 
 In the future, we would be delighted to train new local instructors or hold workshops. At the moment we're considering testing a one-day workshop in English to try the Software Carpentry workshop format in Japan. We hope that this will be less of a commitment on everyone's busy schedules to try it out and give out translators experience as "helpers".
 
-If you wish to support a workshop in Japan please contact us. We are particularly looking for support to run a workshop (venue, catering, ticketing, etc) and looking to grow the instructor pool in Japan. If you are a trained instructor based in Japan or visiting, please let us know! We also welcome any advice to train instructors in Japan online or with a train-the-trainer event.
+If you wish to support a workshop in Japan please contact us. We are particularly looking for support to run a workshop (venue, catering, ticketing, etc) and looking to grow the instructor pool in Japan. If you are a trained instructor based in Japan or visiting, please let us know! We also welcome any advice to train instructors in Japan online or with a train-the-trainer event. We have some contacts with Library Carpentry and the Tokyo.R community but we welcome further support and advice, particularly from organisations in Japan or in Japanese language abroad.
 
 ## Find out more
 
