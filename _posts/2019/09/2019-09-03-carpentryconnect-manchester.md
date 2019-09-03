@@ -1,8 +1,8 @@
 ---
 layout: page
 authors: ["Malvika Sharan"]
-teaser: "Personal notes by Malvika Sharan from the CarpentryConnect Manchester 2019"
-title: "Connecting with the community: personal notes from CarpentryConnect Manchester 2019"
+teaser: "In this post, Malvika Sharan shares her personal notes from June 2019's CarpentryConnect in sManchester"
+title: "Connecting with the Community at CarpentryConnect in Manchester"
 date: 2019-09-03
 time: "09:00:00"
 tags: ["Community", "CarpentryConnect"]
