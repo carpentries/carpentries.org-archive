@@ -10,13 +10,13 @@ tags: ["Community", "Curriculum", "Carpentries Membership", "Infrastructure", "I
 
 In May, we [shared our vision and goals](https://carpentries.org/blog/2019/05/q2-work-at-the-carpentries/) for our core team’s work in Q2. In this post, we lay out our accomplishments on that work, and also on our Q3 projects. There’s **a lot** that we’ve been working on! If you’re interested in a particular team’s work, you can navigate directly to their projects using the links below.
 
-[Business Team](#business-team)  
-[Community Development Team](#community-development-team)  
-[Curriculum Team](#curriculum-team)  
-[Instructor Training Team](#instructor-training-team)  
-[Infrastructure Team](#infrastructure-team)  
-[Membership Team](#membership-team)  
-[Workshop Administration Team](#workshop-administration-team)  
+* [Business Team](#business-team)  
+* [Community Development Team](#community-development-team)  
+* [Curriculum Team](#curriculum-team)  
+* [Instructor Training Team](#instructor-training-team)  
+* [Infrastructure Team](#infrastructure-team)  
+* [Membership Team](#membership-team)  
+* [Workshop Administration Team](#workshop-administration-team)  
 
 The projects we select for our quarterly cycles are 
 
