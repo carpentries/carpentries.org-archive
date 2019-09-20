@@ -30,5 +30,5 @@ The community is welcome to read the [full report with detailed recommendations]
 We want to sincerely thank everyone who has been involved in this discussion and process. 
 
 ## Future Work
-We recognise that the implementation of our recommendations will require community engagement on all levels (staff, partner, local leaders/champions) and pathways to develop local leadership. Our plan is to develop a roadmap for evaluating and implementing the recommendations from the task force. This roadmap will be spearheaded by Kari L. Jordan (Senior Director of Equity and Assessment for The Carpentries). Community members are welcome to [get in touch](mailto:kariljordan@carpentries.org) to share your thoughts on this work. 
+We recognise that the implementation of our recommendations will require community engagement on all levels (staff, partner, local leaders/champions) and pathways to develop local leadership. Our plan is to develop a roadmap for evaluating and implementing the recommendations from the task force. This roadmap will be spearheaded by Kari L. Jordan (Senior Director of Equity and Assessment for The Carpentries). Community members are welcome to [get in touch](https://github.com/carpentries/task-forces/issues/8) to share your thoughts on this work. 
 
