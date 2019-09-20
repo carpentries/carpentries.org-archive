@@ -18,13 +18,9 @@ In May, we [shared our vision and goals](https://carpentries.org/blog/2019/05/q2
 * [Membership Team](#membership-team)  
 * [Workshop Administration Team](#workshop-administration-team)  
 
-The projects we select for our quarterly cycles are 
+The projects we select for our quarterly cycles are designed to give us time to focus on our operational priorities (operational efficiency, accessibility, revenue generation, and compliance), while continuing to perform all of our ongoing work. Ongoing work includes supporting workshops, instructor training events, lesson development and maintenance, communications, and much more! Over the course of the quarter, we share our accomplishments and challenges with each other, stay in touch on how our individual work affects the whole team, and learn from each other. 
 
-In addition to our ongoing work in supporting workshops, instructor training events, lesson development and maintenance, communications, 
-
-Intro serves as a narrative, story, attention getter (talk about how we do lab meetings and this has let us stay more in touch with each other’s work, showcase our accomplishments, and learn from each other). Recognize ongoing work. 
-
-Every quarter, The Carpentries team prioritises a few projects to help us streamline or change the way our community-led organisation is run. This approach is still relatively new, with this being the third round of projects we are embarking on. You can read about the first two attempts here and here.
+Without further ado, here's what we've been working on in Q2 and Q3!
 
 <img src="{{ site.urlimg }}/blog/2019/09/ducks-in-row.png" alt="Four yellow rubber ducks with The Carpentries logo, in a row. Text underneath image says ‘And give me an emblem, a mascot of light heartedness, a symbol of the ritual of baptism by water, something that floats, moves with the tide, and cheers me when I become too serious, about all these other things.’">
 
@@ -142,7 +138,7 @@ This meant users had to answer a number of questions that weren’t relevant to 
 
 ## Wrap-up
 
-Together, our community and staff have accomplished so much over the past two quarters! As we enter the final quarter of 2019, we are excited to continue working with our Instructors, Maintainers, Mentors, Regional Coordinators, Trainers, and our committees and task forces to build and strengthen The Carpentries community and advance in our mission of building global capacity for conducting efficient, open, and reproducible research. 
+Together, our community and staff have accomplished so much over the past two quarters! As we enter the final quarter of 2019, we are excited to continue working with our Instructors, Maintainers, Mentors, Regional Coordinators, Trainers, and our committees and task forces to build and strengthen The Carpentries community and advance our mission of building global capacity for conducting efficient, open, and reproducible research. We welcome your suggestions, advice, and collaboration on how to best meet these goals!
 
 
 
