@@ -2,11 +2,11 @@
 ---
 layout: page
 authors: ["Megan Guidry", "Murray Cadzow", "Antje Lubcke"]
-teaser: "New Zealand holds its first 'Carpentries Chat' in Dunedin"
-title: "New Zealand holds its first 'Carpentries Chat' in Dunedin"
-date: 2019-09-20
+teaser: "New Zealand holds its first 'Carpentries Chat'"
+title: "Community members gather to discuss Carpentries successes and challenges in Dunedin"
+date: 2019-09-24
 time: "09:00:00"
-tags: ["Community", "Discussion", "Carpentries"]
+tags: ["Community", "Discussion", "Carpentries", "New Zealand", "Otago"]
 ---
 # Carpentries Chat Blog
 
