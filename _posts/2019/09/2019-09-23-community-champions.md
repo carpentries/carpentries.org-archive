@@ -5,7 +5,7 @@ teaser: "The Community Champions Call - September 2019"
 title: "The Community Champions discussed how they grow their local communities"
 date: 2019-09-23
 time: "09:00:00"
-tags: ["Champions"]
+tags: ["Carpentries Champions", "Community"]
 ---
 
 # Carpentry Champions - September 2019 
@@ -24,7 +24,7 @@ Attendees found that people draw from a friendly, inclusive and supportive commu
 As far as improvements, there were several challenges raised:
 
 - geographic spread, 
-- on-boarding new participants and helping them feel included, 
+- onboarding new participants and helping them feel included, 
 - siloing
 - difficulty including grad students at some institutions, 
 - focus on admin over community, 
