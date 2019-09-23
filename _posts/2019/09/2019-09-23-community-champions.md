@@ -48,7 +48,7 @@ Murray Cadzow of The University of Otago shared how a trip to Melbourne in 2015 
 
 We then heard from Angela Li of the University of Chicago about her work to establish a Carpentry community at her institution. She learned that she can't do all the teaching herself, and that she should work to build more instructor capacity around the university. She's starting to think about how to make the case for stable funding and community members gave her some strategies for approaching several administrators who can each pay some part of a budget. 
 
-Angela also mentioned how inspired she had been by Sarah Stevens et al.'s paper in [PLOS Biology](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.2005561) and Sarah, who was on the call, gave us a bit of history of how the paper came together.
+Joanna mentioned how inspired she had been by Sarah Stevens et al.'s paper in [PLOS Biology](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.2005561) and Sarah, who was on the call, gave us a bit of history of how the paper came together.
 
 We also collected a list of Carpentry local community websites. Is yours missing? Add it to [this GitHub Issue](https://github.com/carpentries/community-cookbook/issues/26) and we'll add it to the [Community Cookbook](https://cookbook.carpentries.org)
 
