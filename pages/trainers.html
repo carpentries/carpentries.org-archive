@@ -28,7 +28,7 @@ Trainers can expect to acquire this <a href="https://github.com/carpentries/comm
 <br><br><br>
 <div class="container">
 
-{% assign people_list = site.data.badged_members | where: "is_trainer", "true" %}
+{% assign people_list = site.data.all_badged_people | where: "is_trainer", "true" %}
 
 {% include community_profiles.md %}
 

@@ -17,7 +17,7 @@ permalink: /mentors/
   your record here. <a href="https://docs.carpentries.org/topic_folders/workshop_administration/amy_manual.html#instructor-login">Find more information on AMY</a>.</p>
 <br><br><br>
 
-{% assign people_list = site.data.badged_members | where: "is_mentor", "true" %}
+{% assign people_list = site.data.all_badged_people | where: "is_mentor", "true" %}
 
 {% include community_profiles.md %}
 

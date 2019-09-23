@@ -77,7 +77,7 @@ General questions about The Carpentries outside of New Zealand?  Contact <a href
 
 <h2>Our Instructor Community in New Zealand</h2>
 
-{% assign people_list = site.data.badged_members | where: "is_instructor","true" | where: "country", "NZ" %}
+{% assign people_list = site.data.all_badged_people | where: "is_instructor","true" | where: "country", "NZ" %}
 {% include community_profiles.md %}
 <!-- END Section: Instructors  -->
 

@@ -20,7 +20,7 @@ Maintainers can expect to acquire this <a href="https://github.com/carpentries/c
 <br><br><br>
 <div class="container">
 
-{% assign people_list = site.data.badged_members | where: "is_maintainer", "true" %}
+{% assign people_list = site.data.all_badged_people | where: "is_maintainer", "true" %}
 
 {% include community_profiles.md %}
 
