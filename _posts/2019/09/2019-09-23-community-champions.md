@@ -1,18 +1,18 @@
 ---
 layout: page
 authors: ["Jonah Duckles"]
-teaser: "The Community Champions Call - September 2019"
-title: "The Community Champions discussed how they grow their local communities"
+teaser: "The Community Champions discussed how they grow their local communities"
+title: "The Carpentries Community Champions Call - September 2019"
 date: 2019-09-23
 time: "09:00:00"
 tags: ["Carpentries Champions", "Community"]
 ---
 
-# Carpentry Champions - September 2019 
+## Carpentry Champions - September 2019 
 
 After a bit of a hiatus, we held the first Carpentry Champions call of the year. This sub-community of The Carpentries works to support new and experienced community champions at research organisations around the world. Some champions are their membership's coordinator, while others are community advocates and volunteers with no active Carpentries membership. They all share the goal of bringing more skills workshops to more people. 
 
-We started the call with a survey of people's favorite children's book to get the ball rolling. Books listed included some new ones to me like "Vegetables in Underwear", with lots of old favorites like Little Red Riding Hood, The Little Engine That Could, and Harold and the Purple Crayon. The last one is about an incident with the author, a purple marker and his sister's white shag carpet that did not go quite as he had planned. 
+We started the call with a survey of people's favourite children's book to get the ball rolling. Books listed included some new ones to me like "Vegetables in Underwear", with lots of old favourites like Little Red Riding Hood, The Little Engine That Could, and Harold and the Purple Crayon. The last one is about an incident with the author, a purple marker and his sister's white shag carpet that did not go quite as he had planned. 
 
 Then we had a series of two prompts to get people sharing about their communities:
 
