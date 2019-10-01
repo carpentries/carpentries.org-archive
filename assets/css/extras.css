@@ -132,3 +132,19 @@ padding: 20px;
     max-width: inherit;
     height: auto;
 }
+
+.pre-alpha {
+    background: #f04124;
+}
+
+.alpha {
+    background: #f08a24;
+}
+
+.beta {
+    background: #a0d3e8;
+}
+
+.stable {
+    background: #43ac6a;
+}

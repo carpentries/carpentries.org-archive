@@ -15,6 +15,7 @@ cd .. &&
     curl --remote-name-all https://feeds.carpentries.org/all_badged_people.json &&
     curl --remote-name-all https://feeds.carpentries.org/badges_stats.json && 
     curl --remote-name-all https://feeds.carpentries.org/newsletter.json &&
+    curl --remote-name-all https://feeds.carpentries.org/community_lessons.json &&
     find . -name '*.json' -exec cp {} ../"$REPO_NAME"/_data/ \; &&
     find . -name '*.geojson' -exec cp {} ../"$REPO_NAME"/_data/ \; &&
     cp ../"$REPO_NAME"/_data/all_instructors_by_airport.geojson ../"$REPO_NAME"/files/geojson/all_instructors_by_airport.geojson
@@ -25,7 +26,7 @@ git remote add deploy https://"$GITHUB_PAT_USER":"$GITHUB_PAT"@github.com/"$REPO
 
 git checkout gh-pages
 git add _data/*.json files/geojson/all_instructors_by_airport.geojson
-git commit -m "[ci skip] update workshop and instructor data"
+git commit -m "[ci skip] update feed data"
 git push deploy gh-pages
 
 rm -rf ../feed-data

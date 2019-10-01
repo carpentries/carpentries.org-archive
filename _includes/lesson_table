@@ -1,0 +1,11 @@
+{% for lesson in lesson_list %}
+
+### {{ lesson.description }}
+
+* Lesson URL: <{{ lesson.rendered_site }}>
+* GitHub Repo: <{{ lesson.repo_url }}>
+* Life Cycle Stage: <span class="{{ lesson.life_cycle_tag }} radius label">{{ lesson.life_cycle_tag }}</span>
+* Topic tags: {% for t in lesson.lesson_tags %} <span class="info radius label">{{ t }}</span> {% endfor %}
+
+
+{% endfor %}
