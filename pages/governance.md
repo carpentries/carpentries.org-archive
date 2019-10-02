@@ -29,7 +29,7 @@ The Carpentries Executive Council is the highest leadership body of The Carpentr
 
 - Mateusz Kuzak [Appointed 2018] 2018 Communications Officer
 - Sue McClatchy [Appointed 2018] 2018 Treasurer
-- Ethan White [Appointed 2018, Elected 2019-2020]
+- Ethan White [Appointed 2018]
 
 
 ### Carpentries Policies
