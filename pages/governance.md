@@ -4,8 +4,6 @@ title: "Carpentries Governance"
 permalink: /governance/
 ---
 
-<a href="{{site.url}}/team/">Tracy Teal</a> is the Executive Director of The Carpentries, <a href="{{site.url}}/team/">Erin Becker </a> is the Associate Director, and <a href="{{site.url}}/team/">Kari L. Jordan is the Senior Director of Equity and Assessment. 
-
 Governance of The Carpentries is undertaken by the **Executive Council**, to whom the Executive Director reports. The Executive Council replaces the former Steering Committees of Software Carpentry and Data Carpentry. The Council comprises nine members from the Software, Data, and Library Carpentry communities, four elected by the community, and five appointed from the Executive Council. 
 
 ## Roles and Responsibilities of the Executive Council
@@ -15,30 +13,25 @@ The Carpentries Executive Council is the highest leadership body of The Carpentr
 
 [Executive Council Meeting Minutes](https://github.com/carpentries/executive-council-info/tree/master/minutes)
  
-#### Executive Council Members
+#### Current Executive Council Members
 
 **2019**
 
-- Amy Hodge (elected in 2019, Chair)
-- Kate Hertweck (appointed in 2018, Vice Chair)
-- Mesfin Diro Chaka (appointed in 2019, Secretary)
-- Raniere Silva (elected for 2018-2019 term, Treasurer)
-- Elizabeth Wickes (elected in 2018, [Code of Conduct](https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html) committee liaison)
-- Karen Cranston (appointed in 2018)
-- Joslynn Lee (appointed in 2019) 
-- Lex Nederbragt (elected in 2018)
-- Juan Steyn (appointed in 2019)
+- Amy Hodge [Elected since 2019] Chair
+- Kate Hertweck [Appointed since 2018] Vice Chair
+- Mesfin Diro Chaka [Appointed since 2019] Secretary
+- Raniere Silva [Elected since 2018] Treasurer
+- Elizabeth Wickes [Elected since 2018]
+- Karen Cranston [Appointed since 2018] [Code of Conduct](https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html) committee liaison, 2018 Chair
+- Joslynn Lee [Appointed since 2019] 
+- Lex Nederbragt [Elected since 2018], 2018 Secretary
+- Juan Steyn [Appointed since 2019]
 
-**2018**
+**Past Executive Council Members**
 
-- Karen Cranston (appointed for 2018 term, Chair)
-- Kate Hertweck (appointed for 2018 term)
-- Amy Hodge (elected for 2018 term)
-- Mateusz Kuzak (appointed for 2018 term, Communication Officer)
-- Lex Nederbragt (elected for 2018-2019 term, Secretary)
-- Raniere Silva (elected for 2018-2019 term)
-- Ethan White (appointed for 2018 term)
-- Elizabeth Wickes (elected for 2018 term)
+- Mateusz Kuzak [Appointed 2018-2019] 2018 Communications Officer
+- Sue McClatch [Appointed 2018-2019] 2018 Treasurer
+- Ethan White [Appointed 2018-2019]
 
 
 ### Carpentries Policies
