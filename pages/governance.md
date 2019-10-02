@@ -15,8 +15,6 @@ The Carpentries Executive Council is the highest leadership body of The Carpentr
  
 #### Current Executive Council Members
 
-**2019**
-
 - Amy Hodge [Elected since 2019] Chair
 - Kate Hertweck [Appointed since 2018] Vice Chair
 - Mesfin Diro Chaka [Appointed since 2019] Secretary
@@ -27,7 +25,7 @@ The Carpentries Executive Council is the highest leadership body of The Carpentr
 - Lex Nederbragt [Elected since 2018], 2018 Secretary
 - Juan Steyn [Appointed since 2019]
 
-**Past Executive Council Members**
+#### Past Executive Council Members
 
 - Mateusz Kuzak [Appointed 2018-2019] 2018 Communications Officer
 - Sue McClatch [Appointed 2018-2019] 2018 Treasurer
