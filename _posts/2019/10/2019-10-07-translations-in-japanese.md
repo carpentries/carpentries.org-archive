@@ -3,7 +3,7 @@ layout: page
 authors: ["Tom Kelly", "Joel Nitta", "Maki Arakaki", "Riku Takei"] 
 teaser: "A collaborative translation of lessons into Japanese is underway, find out what we've learned and how to help."
 title: "Internationalisation of Software Carpentry: Translation into Japanese"
-date: 2019-08-20 
+date: 2019-10-07 
 time: "00:00:00" 
 tags: ["Community", "Internationalistion", "Curriculum", "Japan"]
 ---
