@@ -3,7 +3,7 @@ layout: page
 authors: ["Raniere Silva"]
 teaser: "In this post, Raniere Silva shares reflections from teaching a software carpentry workshop in Botswana"
 title: "Teaching Software Carpentry at the University of Botswana"
-date: 2019-10-09
+date: 2019-10-14
 time: "00:00:00"
 tags: ["Africa", "Software Carpentry"]
 ---
