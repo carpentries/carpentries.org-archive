@@ -26,7 +26,7 @@ description: "The Carpentries is a fiscally sponsored project of <a href='http:/
 
 # Main author of the website
 # See > authors.yml
-author: admin
+author: weaverbel
 
 # This URL is the main address for absolute links. Don't include a slash at the end.
 #
@@ -130,11 +130,11 @@ compress_html:
 defaults:
   -
     scope:
-      path: ""        # an empty string here means all files in the project
+      path: "" 				# an empty string here means all files in the project
       type: "pages"
     values:
-      show_meta: false  # Hide metadata for all pages
-      # sidebar:        # Possible values › left, right › by default there will be no sidebar
+      show_meta: false 	# Hide metadata for all pages
+      # sidebar:    		# Possible values › left, right › by default there will be no sidebar
       comments: false
       author: weaverbel     # Default author for pages
   -
