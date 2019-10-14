@@ -5,7 +5,7 @@ teaser: "In this post, Angela Li and Jessica Trelogan share tried and tested str
 title: "Tips for Organising Your First Carpentries Workshop"
 date: 2019-10-14
 time: "01:00:00"
-tags: ["Workshops"]
+tags: ["Workshops", "Discussion Sessions", "Carpentries Mentoring"]
 ---
 
 
