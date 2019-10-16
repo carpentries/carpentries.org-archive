@@ -23,6 +23,10 @@ Interested in hosting a Community Discussion? Complete our [call for community d
 Check out the [community discussions etherpad](https://pad.carpentries.org/community-discussions) to see all upcoming Carpentries Community Discussions.   
  
 ## Past Calls
+* New Zealand Carpentries Chat - Megan Guidry (2019-10-15)
+* The Carpentries Canadian Community Discussion - John Simpson (2019-10-07)
+* The Carpentries Community Champions Call - Jonah Duckles (2019-09-22): [Blog Post](https://carpentries.org/blog/2019/09/community-champions/)
+* Carpentries Community Discussion on PREreview.org - Daniela Saderi (2019-09-28): [Video](https://www.youtube.com/watch?v=IElxYAjg4ck)
 * Constructing The Carpentries Community in Canada - John Simpson and James Desjardins (2019-05-22): [Video](https://www.youtube.com/watch?v=CVzkwAFYTz8), [Slide Deck](https://docs.google.com/presentation/d/14r1f03UuK0KJTYmzMe7bwR_mc-4lHIfJgVNhb983B2k/edit?usp=sharing) 
 * Equity, Inclusion, and Accessibility Roadmap - Kari L. Jordan (2019-05-21): [Video](https://www.youtube.com/watch?v=npJcMKUKVwc), [Slide Deck](https://docs.google.com/presentation/d/1zzRVatAVhxJ4eVWqAezsUCVNbQHWGlBRzsPfCUM-pl8/edit?usp=sharing)
 * The Carpentries in Australia - Damien Irving (2019-04-01)
