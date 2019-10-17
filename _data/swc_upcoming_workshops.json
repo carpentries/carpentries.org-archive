@@ -1,35 +1,5 @@
 [
   {
-    "instructors": "Thor Wikfeldt,Martin Moche",
-    "end_date": "2019-10-15",
-    "url": "https://mochma.github.io/2019-10-14_KI/",
-    "country": "SE",
-    "curriculum": "swc-python",
-    "venue": "Karolinska Institutet",
-    "longitude": 18.02364,
-    "slug": "2019-10-14-KI",
-    "tag_name": "SWC",
-    "helpers": null,
-    "host_name": "KTH Royal Institute of Technology",
-    "latitude": 59.34617,
-    "start_date": "2019-10-14"
-  },
-  {
-    "instructors": "Joshua Stough,Rucheng Diao,Morgan Oneka",
-    "end_date": "2019-10-15",
-    "url": "https://umswc.github.io/2019-10-14-umich/",
-    "country": "US",
-    "curriculum": "swc-r",
-    "venue": "University of Michigan",
-    "longitude": -83.73823,
-    "slug": "2019-10-14-umich",
-    "tag_name": "SWC",
-    "helpers": "Sarah Tomkovich",
-    "host_name": "University of Michigan",
-    "latitude": 42.276616,
-    "start_date": "2019-10-14"
-  },
-  {
     "instructors": "Amanda Miotto",
     "end_date": "2019-10-17",
     "url": "https://bio-swc-bne.github.io/2019-10-16-GriffithUni-R/",

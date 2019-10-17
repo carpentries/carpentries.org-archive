@@ -1,50 +1,5 @@
 [
   {
-    "instructors": "Thor Wikfeldt,Martin Moche",
-    "end_date": "2019-10-15",
-    "url": "https://mochma.github.io/2019-10-14_KI/",
-    "country": "SE",
-    "curriculum": "swc-python",
-    "venue": "Karolinska Institutet",
-    "longitude": 18.02364,
-    "slug": "2019-10-14-KI",
-    "tag_name": "SWC",
-    "helpers": null,
-    "host_name": "KTH Royal Institute of Technology",
-    "latitude": 59.34617,
-    "start_date": "2019-10-14"
-  },
-  {
-    "instructors": "Krzysztof Poterlowicz",
-    "end_date": "2019-10-15",
-    "url": "https://kpoterlowicz.github.io/2019-10-14-bradford/",
-    "country": "",
-    "curriculum": "dc-ecology-r",
-    "venue": "University of Bradford",
-    "longitude": -1.765402,
-    "slug": "2019-10-14-bradford",
-    "tag_name": "DC",
-    "helpers": "Katarzyna Murat",
-    "host_name": "University of Bradford",
-    "latitude": 53.79044,
-    "start_date": "2019-10-14"
-  },
-  {
-    "instructors": "Joshua Stough,Rucheng Diao,Morgan Oneka",
-    "end_date": "2019-10-15",
-    "url": "https://umswc.github.io/2019-10-14-umich/",
-    "country": "US",
-    "curriculum": "swc-r",
-    "venue": "University of Michigan",
-    "longitude": -83.73823,
-    "slug": "2019-10-14-umich",
-    "tag_name": "SWC",
-    "helpers": "Sarah Tomkovich",
-    "host_name": "University of Michigan",
-    "latitude": 42.276616,
-    "start_date": "2019-10-14"
-  },
-  {
     "instructors": "Amanda Miotto",
     "end_date": "2019-10-17",
     "url": "https://bio-swc-bne.github.io/2019-10-16-GriffithUni-R/",
@@ -523,6 +478,21 @@
     "host_name": "University of Minnesota",
     "latitude": 44.97173,
     "start_date": "2019-11-07"
+  },
+  {
+    "instructors": "Darya Vanichkina,Paula Andrea Martinez",
+    "end_date": "2019-11-12",
+    "url": "https://nif-au.github.io/2019-11-11-ttt-monash/",
+    "country": "",
+    "curriculum": null,
+    "venue": "",
+    "longitude": null,
+    "slug": "2019-11-11-ttt-monash",
+    "tag_name": "TTT",
+    "helpers": null,
+    "host_name": "Software Carpentry",
+    "latitude": null,
+    "start_date": "2019-11-11"
   },
   {
     "instructors": "Nick Wong",

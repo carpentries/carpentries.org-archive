@@ -150,6 +150,21 @@
     "start_date": "2019-11-12"
   },
   {
+    "instructors": "Darya Vanichkina,Paula Andrea Martinez",
+    "end_date": "2019-11-12",
+    "url": "https://nif-au.github.io/2019-11-11-ttt-monash/",
+    "country": "",
+    "curriculum": null,
+    "venue": "",
+    "longitude": null,
+    "slug": "2019-11-11-ttt-monash",
+    "tag_name": "TTT",
+    "helpers": null,
+    "host_name": "Software Carpentry",
+    "latitude": null,
+    "start_date": "2019-11-11"
+  },
+  {
     "instructors": "Chaochih Liu,Cody Hennesy,Nicholas Dunn",
     "end_date": "2019-11-08",
     "url": "https://chaochihl.github.io/2019-11-07-umntc/",
@@ -2535,7 +2550,7 @@
     "start_date": "2019-07-16"
   },
   {
-    "instructors": "Roland Guichard",
+    "instructors": "Roland Guichard,Roman Klapaukh,Tim Spain,Mosè Giordano",
     "end_date": "2019-07-16",
     "url": "http://rits.github-pages.ucl.ac.uk/2019-07-15-UCL_software_carpentry/",
     "country": "GB",
@@ -2544,7 +2559,7 @@
     "longitude": -0.132574,
     "slug": "2019-07-15-UCL_software_carpentry",
     "tag_name": "SWC",
-    "helpers": null,
+    "helpers": "Kenan Direk,Tom Couch,Jeremy Stein,Mian Ahmad,Matthew Gillman",
     "host_name": "University College London",
     "latitude": 51.525256,
     "start_date": "2019-07-15"
@@ -6189,7 +6204,7 @@
     "longitude": 14.23563,
     "slug": "2019-02-06-SZN",
     "tag_name": "DC",
-    "helpers": null,
+    "helpers": "Mara Sangiovanni,Chiara Colantuono,Marco Miralto",
     "host_name": "King's College London",
     "latitude": 40.832726,
     "start_date": "2019-02-06"

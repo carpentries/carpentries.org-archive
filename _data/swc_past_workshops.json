@@ -1,5 +1,35 @@
 [
   {
+    "instructors": "Thor Wikfeldt,Martin Moche",
+    "end_date": "2019-10-15",
+    "url": "https://mochma.github.io/2019-10-14_KI/",
+    "country": "SE",
+    "curriculum": "swc-python",
+    "venue": "Karolinska Institutet",
+    "longitude": 18.02364,
+    "slug": "2019-10-14-KI",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "KTH Royal Institute of Technology",
+    "latitude": 59.34617,
+    "start_date": "2019-10-14"
+  },
+  {
+    "instructors": "Joshua Stough,Rucheng Diao,Morgan Oneka",
+    "end_date": "2019-10-15",
+    "url": "https://umswc.github.io/2019-10-14-umich/",
+    "country": "US",
+    "curriculum": "swc-r",
+    "venue": "University of Michigan",
+    "longitude": -83.73823,
+    "slug": "2019-10-14-umich",
+    "tag_name": "SWC",
+    "helpers": "Sarah Tomkovich",
+    "host_name": "University of Michigan",
+    "latitude": 42.276616,
+    "start_date": "2019-10-14"
+  },
+  {
     "instructors": "David Pugh",
     "end_date": "2019-10-13",
     "url": "https://kaust-vislab.github.io/2019-10-13-kaust-vislab/",
@@ -1020,7 +1050,7 @@
     "start_date": "2019-07-22"
   },
   {
-    "instructors": "Roland Guichard",
+    "instructors": "Roland Guichard,Roman Klapaukh,Tim Spain,Mosè Giordano",
     "end_date": "2019-07-16",
     "url": "http://rits.github-pages.ucl.ac.uk/2019-07-15-UCL_software_carpentry/",
     "country": "GB",
@@ -1029,7 +1059,7 @@
     "longitude": -0.132574,
     "slug": "2019-07-15-UCL_software_carpentry",
     "tag_name": "SWC",
-    "helpers": null,
+    "helpers": "Kenan Direk,Tom Couch,Jeremy Stein,Mian Ahmad,Matthew Gillman",
     "host_name": "University College London",
     "latitude": 51.525256,
     "start_date": "2019-07-15"
