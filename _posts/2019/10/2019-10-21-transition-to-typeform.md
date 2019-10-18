@@ -30,11 +30,11 @@ Before, the presentation of the survey results wasn't optimized for the specific
 
 Below are some screenshots (based on fake data) that show what instructors will be able to see:
 
-![screenshot 1]
+![screenshot showing frequency distribution of operating systems]({{ site.urlimg }}/blog/2019/10/typeform-transition-os.png)
 
-![screenshot 2]
+![screenshot showing the frequency of use of different tools]({{ site.urlimg }}/blog/2019/10/typeform-transition-frequency-use.png)
 
-![screenshot 3]
+![screenshot showing the change in confidence/skill scores]({{ site.urlimg }}/blog/2019/10/typeform-transition-change.png)
 
 ## Did You Test It?
 
