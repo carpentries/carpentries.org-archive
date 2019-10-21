@@ -36,6 +36,12 @@ before 23:59 29 November, 2019 ([Anywhere on Earth Time](https://en.wikipedia.or
 All nominations will be confidential
 and the nomination text will be available only to Executive Council members.
 
+## Opt-out phase
+
+At the begin of December,
+the Executive Council will contact all nominated individuals
+and give them the oportunity to opt-out of the award.
+
 ## When and where the award will be announced?
 
 The Executive Council is planning to make the announcement
