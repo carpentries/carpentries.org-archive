@@ -3,7 +3,7 @@ layout: page
 authors: ["Greg Wilson"]
 teaser: "A new book elabores on the Carpentries instructor training material and more."
 title: "Teaching Tech Together"
-date: 2019-10-23
+date: 2019-10-25
 time: "01:00:00"
 tags: ["Books", "Teaching"]
 ---
@@ -117,6 +117,8 @@ and I hope we can teach together some day.
     </em>
   </p>
 </div>
+
+> Greg Wilson: *Teaching Tech Together*. Taylor & Francis, 2019, 978-0-367-35328-5.
 
 <pre>
 @book{t3,
