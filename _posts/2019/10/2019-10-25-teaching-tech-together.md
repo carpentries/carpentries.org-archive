@@ -1,9 +1,9 @@
 ---
 layout: page
 authors: ["Greg Wilson"]
-teaser: "A new book elabores on the Carpentries instructor training material and more."
+teaser: "A new book elaborates on the Carpentries instructor training material and more."
 title: "Teaching Tech Together"
-date: 2019-10-25
+date: 2019-10-28
 time: "01:00:00"
 tags: ["Books", "Teaching"]
 ---
@@ -23,7 +23,7 @@ Wind forward a year and I had learned two things:
 You have probably experienced both of these yourself.
 I was lucky during my three years as a professor to meet a few members of the computing education research community,
 and through them,
-to discover that we know a lot more about how peopl learn than most of us realize.
+to discover that we know a lot more about how people learn than most of us realize.
 Books like [*How Learning Works*][hlw], [*Small Teaching*][small], and [*Teaching What You Don't Know*][twydk],
 and the work of [Sally Fincher][fincher] and [Mark Guzdial][guzdial],
 taught me that adopting a few evidence-based practices would produce more effective lessons with less effort.
@@ -77,7 +77,7 @@ The finished book has 15 chapters:
 1.  Outreach
 1.  Why I Teach
 
-Its appendices include an annotated bibiliography,
+Its appendices include an annotated bibliography,
 a glossary,
 a sample code of conduct,
 and a few other odds and ends.
@@ -116,9 +116,10 @@ and I hope we can teach together some day.
       Help who you can.
     </em>
   </p>
+  <em>Greg Wilson: *Teaching Tech Together*. Taylor & Francis, 2019, 978-0-367-35328-5.</em>
 </div>
 
-> Greg Wilson: *Teaching Tech Together*. Taylor & Francis, 2019, 978-0-367-35328-5.
+
 
 <pre>
 @book{t3,
@@ -127,7 +128,7 @@ and I hope we can teach together some day.
   publisher = {Taylor \& Francis},
   year = {2019},
   isbn = {978-0-367-35328-5},
-  link = {http://teachtogether.tech}
+  link = {<a href="http://teachtogether.tech">http://teachtogether.tech</a>}
 }
 </pre>
 
