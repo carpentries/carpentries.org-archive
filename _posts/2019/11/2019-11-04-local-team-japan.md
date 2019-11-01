@@ -54,7 +54,7 @@ people who reached out online. We've had several people join us from the existin
 twitter and the mailing lists but members at the moment are based in Japan and are more confident in R. We are grateful for the 
 support of the Tokyo R community for their support but for this reason, we have fewer active translators on other lessons at 
 this stage. We will discuss the technical details of how we manage translations and our current progress in a [separate 
-post](2019-10-07-translations-in-japanese).
+post](2019-11-04-translations-in-japanese).
 
 ## Getting Involved in the Japanese Community
 
