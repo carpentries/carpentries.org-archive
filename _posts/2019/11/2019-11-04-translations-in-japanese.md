@@ -116,7 +116,7 @@ technical challenges of merging updated English lessons into the PO files later 
 consideration). We are hoping that the team will continue to grow organically and that maintaining the Japanese lessons will be 
 a team effort.
 
-The R lessons are nearly completed. Progress on the other lessons has been slow but we are aiming to get the core Software 
+The R lessons are nearly completed thanks to teh "summer marathon". Progress on the other lessons has been slow but we are aiming to get the core Software 
 Carpentry lessons completed in order to support workshops in Japan (as well as online learners). Most of our translators are 
 from the Tokyo R community so we have strong R expertise and enthusiasm to support the Japanese R community. At this stage, 
 language skills are more important than understanding the lesson materials themselves but we are open to support from the 
