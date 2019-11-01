@@ -47,11 +47,14 @@ Carpentry workshops supported by the New Zealand eScience Infrastructure over th
 from Software Carpentry as an Instructor, showed my demo for a web page of a Japanese git lesson, and got a few laughs for 
 showing Doraemon and Nobita (popular adventuring anime characters) documenting their space travels.
 
-From there we've assembled a core team of translators and started translating lessons into Japanese. We've had several people 
-join us from the existing international Carpentries community through twitter and the mailing lists but members at the moment 
-are based in Japan and are more confident in R. We are grateful for the support of the Tokyo R community for their support but 
-for this reason, we have fewer active translators on other lessons at this stage. We will discuss the technical details of how 
-we manage translations and our current progress in a [separate post](2019-10-07-translations-in-japanese).
+From there we've assembled a core team of translators and started translating lessons into Japanese. I met several other 
+seasoned instructors in Yokohama through the Software Carpentry mailing list and pitched the idea to the Tokyo R community and 
+things grew from there. Our new members include from my previous labmate in New Zealand, new colleagues on another campus, and 
+people who reached out online. We've had several people join us from the existing international Carpentries community through 
+twitter and the mailing lists but members at the moment are based in Japan and are more confident in R. We are grateful for the 
+support of the Tokyo R community for their support but for this reason, we have fewer active translators on other lessons at 
+this stage. We will discuss the technical details of how we manage translations and our current progress in a [separate 
+post](2019-10-07-translations-in-japanese).
 
 ## Getting Involved in the Japanese Community
 
