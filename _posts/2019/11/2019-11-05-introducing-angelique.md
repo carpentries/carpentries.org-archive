@@ -8,7 +8,8 @@ time: "09:00:00"
 tags: ["Carpentries Team", "Africa", "Community"]
 ---
 
-We are delighted to welcome Dr. Angelique van Rensburg to [The Carpentries team](https://carpentries.org/team/)
+We are delighted to welcome Dr. Angelique van Rensburg to [The Carpentries team](https://carpentries.org/team/). Angelique will be developing strategies and workflows to adapt The Carpentries’ membership and workshop programs to function optimally in Southern Africa. She brings her experience and passion in data and software skills training to this role, and will advise The Carpentries on how to best adapt our programs to thrive in Southern Africa. Angelique will also assist and advise in
+developing a plan to create and support a strong team of volunteer instructors across the region. We are thrilled to have her on the team!
 
 
 ## Message from Dr. Angelique van Rensburg
