@@ -54,6 +54,16 @@ people:
     - icon: fa fa-envelope
       url: mailto:ewilliams@carpentries.org
 
+- name: Angelique van Rensburg
+  pic: angeliquevanrensburg
+  position: Regional Consultant for Southern Africa
+  social:
+    - icon: fab fa-twitter
+      url: https://twitter.com/AngvanRensburg
+    - icon: fa fa-envelope
+      url: mailto:angelique@carpentries.org 
+
+
 - name: François Michonneau, PhD
   pic: francoismichonneau
   position: Curriculum Development Lead
