@@ -6,7 +6,7 @@ permalink: "/supporters/"
 
 We are grateful to our supporters who help us reach the [mission and vision](../about/) of The Carpentries. These include our [Member Organisations](../members/) and those who sponsor [workshops](../workshops/) as well as grants and donations. We are in a position to create positive change in the data and software communities and our supporters help us in this endeavor.
 
-We aim to be transparent in our sources of revenue and how they align with our vision and values. Funding must support existing priorities. Towards this aim we share our sources of grants and donations and the work they are funding. 
+We aim to be transparent in our sources of revenue and how they align with our vision and values, and funding must support existing priorities. Towards this aim we share our sources of grants and donations and the work they are funding. 
 
 [CarpentryCon](https://carpentrycon.org/) and CarpentryConnect sponsors and donations are shared on their individual websites.
 
