@@ -20,6 +20,8 @@ We consistently work to keep this page up to date, but if you are aware of sourc
 
 - [California Digital Library (CDL)](https://cdlib.org/) Through a grant from the [Institute of Museum and Library Services](https://www.imls.gov/), [CDL is providing support](https://carpentries.org/blog/2019/09/LibraryCarpentry-IMLS-supplement/) to The Carpentries for workshops and instructor training, and a membership scholarship program to reach new library communities and consortiums in the United States.
 
+- [R Consortium](https://www.r-consortium.org/) A grant from the R Consortium awarded by their [Infrastructure Steering Committee](https://www.r-consortium.org/projects/awarded-projects) has supported work developing tools and templates for teaching materials. This has supported work on the lesson development template and related infrastructure. 
+
 - The Carpentries are included in many grants to support workshops, Memberships and lesson development that individual institutions or consortium apply for. We do not have, nor are likely to be able to maintain, a complete list of these grants. If you do want to share your funding sources for Carpentries work, please [get in touch](mailto:team@carpentries.org).
 
 
