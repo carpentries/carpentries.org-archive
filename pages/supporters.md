@@ -14,9 +14,13 @@ We consistently work to keep this page up to date, but if you are aware of sourc
 
 ### Grants
 
-- [Alfred P. Sloan Foundation](https://sloan.org/) A $50,000 grant from the Alfred P. Sloan Foundation is supporting in-person meetings of The Carpentries community to advance strategic planning, community building and leadership, skills sharing, and plans for reaching new communities. This includes the meeting of the Executive Council for strategic planning and support for the organization of CarpentryCon 2020.
+- [Alfred P. Sloan Foundation](https://sloan.org/) for [scaling collaborative curriculum development for data skills training] (https://datacarpentry.org/blog/2018/02/curriculum-dev-scaling. A grant from the Sloan Foundation was awarded in February, 2018 has allowed us to create general infrastructure, guidelines and pathways for community engagement to establish open source lesson development as a practice and enable scalable, collaborative data training. Curriculum developed through this grant will include economics, image analysis and chemistry.
+
+- [Alfred P. Sloan Foundation](https://sloan.org/) for events for community development and leadership. A grant from the Sloan Foundation was awarded in August, 2019 and is supporting in-person meetings of The Carpentries community to advance strategic planning, community building and leadership, skills sharing, and plans for reaching new communities. This includes the meeting of the Executive Council for strategic planning and support for the organization of CarpentryCon 2020.
 
 - [California Digital Library (CDL)](https://cdlib.org/) Through a grant from the [Institute of Museum and Library Services](https://www.imls.gov/), [CDL is providing support](https://carpentries.org/blog/2019/09/LibraryCarpentry-IMLS-supplement/) to The Carpentries for workshops and instructor training, and a membership scholarship program to reach new library communities and consortiums in the United States.
+
+- The Carpentries are included in many grants to support workshops, Memberships and lesson development that individual institutions or consortium apply for. We do not have, nor are likely to be able to maintain, a complete list of these grants. If you do want to share your funding sources for Carpentries work, please [get in touch](mailto:team@carpentries.org).
 
 
 ### Donations
@@ -29,7 +33,6 @@ We consistently work to keep this page up to date, but if you are aware of sourc
 
 - [Amazon AWS](https://aws.amazon.com/) Amazon AWS provides educational credits that we can use to run workshops on cloud computing services, particularly the Data Carpentry Genomics workshop.
 - [DigitalOcean](https://www.digitalocean.com/) DigitalOcean is providing credits for two servers that we use to generate our workshop reports and learner certificates.
-- [GitHub](https://github.com/) As a part of its [open source program](https://github.com/open-source), GitHub provides free public and private repositories for our GitHub organisations.
 - [Rackspace](https://www.rackspace.com/) Rackspace has provided server and cloud credits to support our web architecture.
 
 
