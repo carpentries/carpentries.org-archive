@@ -14,7 +14,7 @@ We consistently work to keep this page up to date, but if you are aware of sourc
 
 ### Grants
 
-- [Alfred P. Sloan Foundation](https://sloan.org/) for [scaling collaborative curriculum development for data skills training] (https://datacarpentry.org/blog/2018/02/curriculum-dev-scaling. A grant from the Sloan Foundation was awarded in February, 2018 has allowed us to create general infrastructure, guidelines and pathways for community engagement to establish open source lesson development as a practice and enable scalable, collaborative data training. Curriculum developed through this grant will include economics, image analysis and chemistry.
+- [Alfred P. Sloan Foundation](https://sloan.org/) for [scaling collaborative curriculum development for data skills training] (https://datacarpentry.org/blog/2018/02/curriculum-dev-scaling). A grant from the Sloan Foundation was awarded in February, 2018 has allowed us to create general infrastructure, guidelines and pathways for community engagement to establish open source lesson development as a practice and enable scalable, collaborative data training. Curriculum developed through this grant will include economics, image analysis and chemistry.
 
 - [Alfred P. Sloan Foundation](https://sloan.org/) for events for community development and leadership. A grant from the Sloan Foundation was awarded in August, 2019 and is supporting in-person meetings of The Carpentries community to advance strategic planning, community building and leadership, skills sharing, and plans for reaching new communities. This includes the meeting of the Executive Council for strategic planning and support for the organization of CarpentryCon 2020.
 
