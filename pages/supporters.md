@@ -22,6 +22,7 @@ We consistently work to keep this page up to date, but if you are aware of sourc
 ### Donations
 
 - [RStudio](https://rstudio.com/) RStudio donated $10,000 in August, 2019 to The Carpentries organisation general fund to support our shared mission of bringing more people to coding communities.
+
 - Several individuals donate to The Carpentries general fund. We did not initially ask for permission to publish their names here, so are in the process of creating this list.
 
 ### In Kind Support
