@@ -20,7 +20,9 @@ Attend any Community Discussion by signing-up on the [community-discussions Ethe
 Interested in hosting a Community Discussion? Complete our [call for community discussion facilitators form](https://goo.gl/forms/STUEN15QWrlPlhm92)!
 
 ## Next Call
-Check out the [community discussions etherpad](https://pad.carpentries.org/community-discussions) to see all upcoming Carpentries Community Discussions.   
+__Themed Discussion Session:__ Undergraduate Data Science Curriculum at UC Berkeley  
+4-December at [1800 UTC](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20191203T1800)   
+Check out the [community discussions etherpad](https://pad.carpentries.org/community-discussions) to sign up.   
  
 ## Past Calls
 * New Zealand Carpentries Chat - Megan Guidry (2019-10-15)
