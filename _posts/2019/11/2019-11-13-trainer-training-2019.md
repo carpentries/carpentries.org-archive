@@ -20,7 +20,9 @@ Want to support The Carpentries by training new Instructors? Read on!
 
 This Trainer Training event is open to everyone! We do have a few priorities that might be helpful in guiding your choice to apply. These are:
 
-1. **Supporting current Instructor Trainers.** We will reserve several seats in this training for applicants who are geographically near Instructor Trainers who are currently lacking local support. If you fit this category, your application will be compared only with others in this situation until those seats are filled. Don’t worry if you aren’t sure — we will double check our records against any information you provide in your application.
+1. **Supporting current Instructor Trainers.** 
+
+    We will reserve several seats in this training for applicants who are geographically near Instructor Trainers who are currently lacking local support. If you fit this category, your application will be compared only with others in this situation until those seats are filled. Don’t worry if you aren’t sure — we will double check our records against any information you provide in your application.
 
 1. **Recruiting regional or institutional pioneers.** 
 
