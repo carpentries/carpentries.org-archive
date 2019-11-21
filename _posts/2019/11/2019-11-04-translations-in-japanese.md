@@ -1,11 +1,11 @@
 ---
 layout: page
 authors: ["Tom Kelly", "Joel Nitta", "Maki Arakaki", "Riku Takei"] 
-teaser: "A collaborative translation of lessons into Japanese is underway, find out what we've learned and how to help."
+teaser: "A collaborative translation of lessons into Japanese is underway, find out what we have learned and how to help"
 title: "Internationalisation of Software Carpentry: System for Translation into Japanese"
 date: 2019-11-21 
 time: "00:00:00" 
-tags: ["Community", "Internationalistion", "Curriculum", "Japan"]
+tags: ["Community", "Internationalisation", "Curriculum", "Japan"]
 ---
 
 
@@ -28,7 +28,7 @@ communicate online, and updates to the guides to make it easier for new translat
 
 As Japanese is very different to English, the translations themselves have proven to be challenging and time consuming. We did 
 not expect it to be easy. In particular, we are mindful to not have more than one translator working on the same section. We 
-provide feedback by reviewing each translated lesson in the form of a Pull Request to [our GitHub repository](https://github.com/swcarpentry-ja)- we discuss how in more detail below. We hope that this format will be compatible with a larger community maintaining and updating lessons in the future and that it could be useful for anyone considering translating the lessons into another language. We are still sorting out the details on how to merge these lessons with the Spanish and English versions and how to keep them up-to-date or versioned as a release.
+provide feedback by reviewing each translated lesson in the form of a Pull Request to relevant repositories in [our GitHub organisation](https://github.com/swcarpentry-ja)- we discuss how in more detail below. We hope that this format will be compatible with a larger community maintaining and updating lessons in the future and that it could be useful for anyone considering translating the lessons into another language. We are still sorting out the details on how to merge these lessons with the Spanish and English versions and how to keep them up-to-date or versioned as a release.
 
 Recently, we met to discuss our progress and we now have many translated lessons to review, especially for the 
 R-novice-gapminder course. We ran a “marathon” over weekends in summer where several of the core translators were active at the 
@@ -48,7 +48,7 @@ secure a venue. We are considering trying a small workshop taught in English fir
 
 ## Adapting Translation Tools for Japanese
 
-We have a working fork of the swcarpentry-i18n repositories and demonstrated that the tools support CJK 
+We have [a working fork of the swcarpentry-i18n repository](https://github.com/swcarpentry-ja/i18n) and demonstrated that the tools support CJK 
 (Chinese-Japanese-Korean) fonts. We also have a working rendered webpage for multilingual lessons which supports English, Spanish, and Japanese. Together, this framework should allow lessons in multiple languages to be updated, maintained, and merged as releases. We are tracking translations using portable object (PO) files in a git repository which manages each translated lesson as a submodule. 
 This is in large part thanks to efforts by David Pérez-Suárez to develop tools for collaboratively translating and 
 updating lessons. This means that once PO files are completed with correct translations, we can automatically generate 
@@ -76,7 +76,7 @@ the “Summer Marathon” format.
 ### Contributions and Review
 
 The core team has divided the lesson up among ourselves but we welcome any new contributors. We ask that anyone taking on the 
-effort for a full lesson file an Issue on [our GitHub repository](https://github.com/swcarpentry-ja). Minor changes by Pull Request are okay. This is mainly to avoid repeating each other. We are able to explain specific terminology but we ask that contributors have strong Japanese and English language skills.
+effort for a full lesson file an Issue in the relevant repository on [our GitHub organisation](https://github.com/swcarpentry-ja). Minor changes by Pull Request are okay. This is mainly to avoid repeating each other. We are able to explain specific terminology but we ask that contributors have strong Japanese and English language skills.
 
 Where possible we will use the terminology used by programmers in Japanese, including English loanwords, even if these may be 
 unfamiliar to Japanese learners. This will equip them to search for help with the correct terminology afterwards. We have a 
@@ -110,11 +110,11 @@ The R lessons are nearly completed thanks to the "summer marathon". Progress on 
 Carpentry lessons completed in order to support workshops in Japan (as well as online learners). Most of our translators are 
 from the Tokyo R community so we have strong R expertise and enthusiasm to support the Japanese R community. At this stage, 
 language skills are more important than understanding the lesson materials themselves but we are open to support from the 
-Python community to translate the Python lessons as well. However, our main goal after finishing the R lessons is to do Shell 
-and Git so than an R Software Carpentry lesson in Japanese (or in English with bilingual reference material) is possible.
+Python community to translate the Python lessons as well. However, our main goal after finishing the R lessons is to work on Shell 
+and Git so that an R Software Carpentry lesson in Japanese (or in English with bilingual reference material) is possible.
 
-We are hoping to try a “sprint” format for the Shell or Git lessons by breaking the lessons into small chunks and dividing 
-them up among many people. We hope that this concerted effort would get more people involved and complete the lessons faster.
+We are hoping to try a “sprint” format for the Shell or Git lessons by breaking the lessons into small chunks and assigning 
+the translation tasks to different people. We hope that this concerted effort would get more people involved and complete the lessons faster.
 
 ## Challenges with Internationalisation
 
@@ -142,7 +142,3 @@ Anyone is welcome to contribute to Japanese lessons or join the core team. You d
 
 ---
 <a name="i18n">1</a>: Repository for translations: <[https://github.com/swcarpentry_ja/i18n](https://github.com/swcarpentry-ja/i18n)><br>
-
-
-
-
