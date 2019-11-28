@@ -1,6 +1,6 @@
 ---
 layout: page
-authors: ["Serah Rono"]
+authors: ["Serah Njambi Rono"]
 teaser: "Thanks to our community's input, we are excited to share The Carpentries' nine core values"
 title: "Introducing The Carpentries Core Values"
 date: 2019-11-18
