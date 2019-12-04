@@ -15,11 +15,11 @@ Additionally, the committee contributed to recommendations for incidents that fa
 
 We cannot thank these individuals enough for the countless emails and GitHub issue responses, swift and fair decision making, thoughtfulness, and collaborative approach to the work you do. The Code of Conduct committee faced several challenges this year, and as staff liaison working closely with the committee, I am proud of the work we did.
 
-Samantha Ahern, we thank you.
-Karen Cranston (EC Liaison), we thank you.
-Karin Lagesen, we thank you.
-Malvika Sharan, we thank you.
-Simon Waldman, we thank you.
-Karen Cranston, we thank you.
-Ivo Arrey, we thank you.
-Benjamin Schwessinger, we thank you.
+Samantha Ahern, we thank you.<br/>
+Karen Cranston (Executive Council Liaison), we thank you.<br/>
+Karin Lagesen, we thank you.<br/>
+Malvika Sharan, we thank you.<br/>
+Simon Waldman, we thank you.<br/>
+Karen Cranston, we thank you.<br/>
+Ivo Arrey, we thank you.<br/>
+Benjamin Schwessinger, we thank you.<br/>
