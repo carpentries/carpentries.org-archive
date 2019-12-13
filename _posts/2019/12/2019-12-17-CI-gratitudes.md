@@ -1,6 +1,6 @@
 ---
 layout: page
-authors: ["Elizabeth Williams"]
+authors: ["Talisha Sutton-Kennedy", "Elizabeth Williams"]
 title: "We Appreciate Community Initiatives, our Fiscal Sponsor!"
 teaser: "Partnering for global good"
 date: 2019-12-17
