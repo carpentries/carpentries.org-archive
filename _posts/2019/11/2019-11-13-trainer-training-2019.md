@@ -5,7 +5,7 @@ teaser: "Apply to become an Instructor Trainer and shape the next generation of 
 title: "Trainer Training 2020"
 date: 2019-11-13
 time: "00:00:00"
-tags: ["Instructor Development", "Trainers"]
+tags: ["Instructor Development", "Carpentries Trainers"]
 ---
 
 We are pleased to announce that applications are now open for anyone wishing to become a [Carpentries Instructor Trainer](https://carpentries.org/trainers/)! 

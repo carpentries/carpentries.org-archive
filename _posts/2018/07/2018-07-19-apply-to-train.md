@@ -5,7 +5,7 @@ teaser: "Help us grow and diversify our pool of Carpentries instructors"
 title: "Apply to become a Carpentries Instructor Trainer!"
 date: 2018-07-19
 time: "09:00:00"
-tags: [ "Instructor Development", "Trainers"]
+tags: [ "Instructor Development", "Carpentries Trainers"]
 ---
 
 Are you an active Instructor looking to take your involvement with The Carpentries to the next level? Or perhaps you are 

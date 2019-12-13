@@ -5,7 +5,7 @@ teaser: "Helping us grow our pool of Carpentries instructors"
 title: "Announcing our new Instructor Trainers-in-training"
 date: 2018-09-03
 time: "09:00:00"
-tags: [ "Instructor Development", "Trainers"]
+tags: [ "Instructor Development", "Carpentries Trainers"]
 ---
 
 We recently put out [a call for applications](http://static.carpentries.org/blog/2018/07/apply-to-train/) from members of our community

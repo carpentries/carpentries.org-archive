@@ -5,7 +5,7 @@ teaser: "Trainer Training Postponed"
 title: "Instructor Trainer Training: Knowing When to Hold ‘Em"
 date: 2019-09-09
 time: "09:00:00"
-tags: ["Trainers"]
+tags: ["Carpentries Trainers"]
 ---
 
 The purpose of this blog post is, first and foremost, to let those who are eagerly awaiting our next [Instructor Trainer](https://carpentries.org/trainers/) Training know that we will **not** be running one in October-December 2019 as we had previously planned. Our next Trainer onboarding opportunity will most likely come in January 2020, with applications in November 2019.

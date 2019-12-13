@@ -5,7 +5,7 @@ teaser: "Welcome to our new Trainer trainees!"
 title: "Announcing our January 2019 Instructor Trainer Cohort"
 date: 2019-01-14
 time: "09:00:00"
-tags: ["Trainers", "Instructor Development"]
+tags: ["Carpentries Trainers", "Instructor Development"]
 ---
 
 We recently put out a call for applications from members of the community who want to become Carpentries Instructor Trainers. This round 

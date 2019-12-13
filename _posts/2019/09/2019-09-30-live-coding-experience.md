@@ -5,7 +5,7 @@ teaser: "Matt Dray shares lessons from the trainer workshop about audience needs
 title: "Livening Up Live Coding"
 date: 2019-09-30
 time: "09:00:00"
-tags: ["Instructor Development", "Trainers"]
+tags: ["Instructor Development", "Carpentries Trainers"]
 ---
 
 ![]({{ site.urlimg }}/blog/2019/09/apple1.jpg)

@@ -5,7 +5,7 @@ teaser: "California Digital Library receives supplemental grant from IMLS for Li
 title: "Continued support from IMLS for Library Carpentry"
 date: 2019-09-16
 time: "09:00:00"
-tags: ["Library Carpentry", "Instructor Development", "Trainers", "Curriculum"]
+tags: ["Library Carpentry", "Instructor Development", "Carpentries Trainers", "Curriculum"]
 ---
 
 In November 2017, the California Digital Library (CDL) announced a [two-year Institute of Museum and Library Services (IMLS) grant funded project](https://www.imls.gov/grants/awarded/re-85-17-0121-17) to further advance the scope, adoption, and impact of Library Carpentry across the US. The grant enables CDL and the University of California Curation Center (UC3) to host [Chris Erdmann, the Library Carpentry Community and Development Director](https://cdlib.org/welcome-chris-erdmann-library-carpentry-community-and-development-director/), and his work with community members, Carpentries staff, and governance groups to integrate Library Carpentry as a lesson program, further develop the curriculum and lessons, grow the community of Carpentries instructors with library and information backgrounds, and continue outreach to raise awareness about Library Carpentry and The Carpentries in the broader library community.  

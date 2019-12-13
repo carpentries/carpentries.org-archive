@@ -5,7 +5,7 @@ teaser: "In this post, Alexander Refsum Jensenius shares thoughts and takeaways 
 title: "Reflections from a Carpentries Train the Trainer Workshop"
 date: 2019-07-01
 time: "09:00:00"
-tags: ["Workshops", "Trainers"]
+tags: ["Workshops", "Carpentries Trainers"]
 ---
 
 _This post was [originally published](http://www.arj.no/2019/06/21/carpentries/) on Alexander Refsum's personal blog._

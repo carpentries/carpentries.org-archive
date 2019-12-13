@@ -5,7 +5,7 @@ teaser: "Experienced instructors & trained educators wanted!"
 title: "Apply to Become a Carpentries Instructor Trainer!"
 date: 2018-11-27
 time: "09:00:00"
-tags: [ "Instructor Development", "Trainers"]
+tags: [ "Instructor Development", "Carpentries Trainers"]
 ---
 
 Are you an active Instructor looking to take your involvement with The Carpentries to the next level? 
