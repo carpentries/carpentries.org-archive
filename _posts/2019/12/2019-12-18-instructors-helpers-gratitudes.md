@@ -1,7 +1,7 @@
 ---
 layout: page
 authors: ["Talisha Sutton-Kennedy", "SherAaron Hurt", "Maneesha Sane"]
-title: "We Appreciate our Instructors and Helpers!"
+title: "We Appreciate Instructors and Helpers!"
 teaser: "As at December 2019, Carpentries Instructors and Helpers have made over 2,440 workshops possible!"
 date: 2019-12-18
 time: "00:00:00"
