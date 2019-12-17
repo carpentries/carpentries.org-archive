@@ -5,7 +5,7 @@ title: "We Appreciate our Instructors and Helpers!"
 teaser: "As at December 2019, Carpentries Instructors and Helpers have made over 2,440 workshops possible!"
 date: 2019-12-18
 time: "00:00:00"
-tags: ["Instructor Development", "Carpentries Helpers, ""Green Stickies"]
+tags: ["Instructor Development", "Carpentries Helpers", Green Stickies"]
 ---
 
 We would like to express our deepest appreciation to instructors and helpers in The Carpentries community. [Instructors](https://carpentries.org/instructors-map/) and helpers all over the world include researchers, librarians, scientists, students, and many others from a wide range of backgrounds, disciplines, career stages and counties. Instructors and helpers not only teach workshops but also inspire others to share their knowledge, skills, and even to become a part of The Carpentries community or to become an instructor or helper themselves. 
