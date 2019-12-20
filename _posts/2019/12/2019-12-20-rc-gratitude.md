@@ -2,7 +2,7 @@
 layout: page
 authors: ["SherAaron Hurt"]
 teaser: "RC’s keep the workshops going!"
-title: "We Appreciate the Regional Coordinators"
+title: "We Appreciate the Regional Coordinators!"
 date: 2019-12-20
 time: "09:00:00"
 tags: ["Green Stickies", "Regional Coordinators", "Workshops"]
