@@ -8,14 +8,17 @@ time: "00:00:00"
 tags: ["Governance", "The Carpentries Team"]
 ---
 
-In 2018, the first community conference designed for the global Carpentries community, [CarpentryCon 2018](https://2018.carpentrycon.org/),  was held in Dublin, Ireland. 
+The first community conference designed for the global Carpentries community, [CarpentryCon 2018](https://2018.carpentrycon.org/),  was held in Dublin, Ireland between May 30 and June 1 of that year.
 
-Since then, community members have expressed great interest in convening more frequently to exchange ideas and knowledge, collaborate and network, and have found the opportunity to do so in smaller events in their regions and cities. To create a distinction between the global Carpentries community conference and regional community convenings, The Carpentries dubbed the latter - CarpentryConnects. 
+Since then, community members have expressed great interest in coming together more frequently to exchange ideas and knowledge, collaborate and network, and have found the opportunity to do so in smaller events in their regions and cities. To create a distinction between the global Carpentries community conferences - CarpentryCon, and regional community convenings, The Carpentries dubbed the latter **CarpentryConnects**. 
 
 Three CarpentryConnect events have taken place to date and they are:
-[CarpentryConnect Davis](http://ivory.idyll.org/dibsi/CarpentryConWest.html) in May 2018 that was also known as CarpentryCon West, [CarpentryConnect Johannesburg](https://carpentryconnectza.org/) in September 2018 and [CarpentryConnect Manchester](https://www.software.ac.uk/ccmcr19) in June 2019. The success of these events is as a result of the collaborative effort, dedication, rigorous planning and execution by community members in the respective regions.
+- [CarpentryConnect Davis](http://ivory.idyll.org/dibsi/CarpentryConWest.html) in May 2018 that was also known as CarpentryCon West, 
+- [CarpentryConnect Johannesburg](https://carpentryconnectza.org/) in September 2018 and 
+- [CarpentryConnect Manchester](https://www.software.ac.uk/ccmcr19) in June 2019. 
+The success of these events is as a result of the collaborative effort, dedication, rigorous planning and execution by community members in the respective regions.
 
-In addition to our **global** community conference, [CarpentryCon 2020](https://2020.carpentrycon.org/), which is scheduled for June 2020 in Madison,  three more **regional** Carpentries events are set to take place in New Zealand, Germany, and the East Coast, US this year. Carpentries community members that are involved in planning for these events share in more detail below:
+In addition to our **global** community conference, [CarpentryCon 2020](https://2020.carpentrycon.org/), which is scheduled for June 2020 in Madison,  three more **regional** Carpentries events are set to take place in New Zealand, Germany, and the East Coast, US in 2020. Carpentries community members that are involved in planning for these events are keen to get as many people from their respective regions involved in activities around these events, and have provided more detail about their CarpentryConnects below:
 
 
 ### CarpentryConnect DunedIn, February 11 2020
@@ -28,9 +31,9 @@ On the 11th February 2020, the day before the [eResearchNZ 2020](https://www.ere
 
 By: Daniel Kerchner
 
-In the Western Hemisphere, CarpentryConnect DC will be held in Washington, DC, USA on 12 May 2020.  You'll be able to experience a bit of West Coast on the East Coast, as CarpentryConnect DC will be held a day before [csv,conf,v5](https://csvconf.com/) (previously organised in Portland, Oregon). The exact location for CarpentryConnect DC will be announced soon.
+In the Western Hemisphere, CarpentryConnect DC will be held in Washington, DC, USA on 12 May 2020.  You will be able to experience a bit of West Coast on the East Coast, as CarpentryConnect DC will be held a day before [csv,conf,v5](https://csvconf.com/) (previously organised in Portland, Oregon). The exact location for CarpentryConnect DC will be announced soon.
 
-CarpentryConnect DC is still in the planning stages and if you would like to join in the planning, [please fill this form](https://forms.gle/xNGTSjZ2BdQfpVrp9) and we will be in touch. We are also keen to hear your ideas for topics and sessions: What would you like to learn? What would you like to discuss? Let us know in the same form.
+CarpentryConnect DC is still in the planning stages and if you would like to join in the planning, [please fill this form](https://forms.gle/xNGTSjZ2BdQfpVrp9) and we will be in touch. We are also keen to hear your ideas for topics and sessions you would like covered on the day. What would you like to learn? What would you like to discuss? Let us know in the same form.
 
 We will continue to share details about CarpentryConnect DC on this blog in the coming weeks.
 
