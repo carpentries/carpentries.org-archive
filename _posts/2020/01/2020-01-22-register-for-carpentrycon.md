@@ -22,4 +22,4 @@ This is the event you do not want to miss. Go ahead and mark your calendars and 
 
 CarpentryCon is a non-profit, community-run conference. Ticket sales will help offset costs for catering as well as venue costs and travel support for speakers/attendees. While CarpentryCon prides itself on hosting all that are interested, we trust and appreciate that conference registrants will choose the highest ticket tier that they or their institution can afford. 
 
-*If you plan to apply for [financial support](https://docs.google.com/forms/d/e/1FAIpQLSf3vWlTy79TXAboT6VPElllq6ggYsSEb5QairmhU01kOHD_Dg/viewform) through a Participant Stipend, please do not register yet. You will be given further instructions during the [financial aid process](https://2020.carpentrycon.org/blog/carpentrycon-financial-aid/)*
+*If you plan to apply for [financial support](https://docs.google.com/forms/d/e/1FAIpQLSf3vWlTy79TXAboT6VPElllq6ggYsSEb5QairmhU01kOHD_Dg/viewform) through a Participant Stipend, please do not register yet. You will be given further instructions as part of the [financial aid applicants process](https://2020.carpentrycon.org/blog/carpentrycon-financial-aid/)*.
