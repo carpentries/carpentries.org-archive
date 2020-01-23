@@ -1,14 +1,14 @@
 ---
 layout: page
 authors: ["Ariel Deardorff"]
-teaser: "We Appreciate Library Carpentry"
-title: "Library CarpentryGratitudes Post"
+teaser: "A message of gratitude from Ariel Deardorff, co-Chair of the Library Carpentry Advisory Council"
+title: "We Appreciate Library Carpentry"
 date: 2020-01-24
 time: "00:00:00"
 tags: ["Library Carpentry", "Green Stickies"]
 ---
 
-A message of gratitude from Ariel Deardorff, co-Chair of the Library Carpentry Advisory Council:
+:
 
 I am incredibly grateful for the [Library Carpentry Advisory Committee](https://librarycarpentry.org/advisory/) (Birgit, Yared, Liz, David, Julie, Tim, Konrad, Jeff, John, Tim, Chris, Mark, Phil, and Carmi) for taking on the work of guiding Library Carpentry into the next chapter. Specific shoutouts to Chris Erdmann for his work making Library Carpentry [a fully-fledged part of The Carpentries](https://carpentries.org/blog/2018/11/welcoming-library-carpentry/), Liz Stokes for taking on the role of co-chair with me, and Carmi Cronje for her leadership on the Curriculum Committee. We have an ambitious set of goals for the next couple of years and I look forward to growing this community together.
  
