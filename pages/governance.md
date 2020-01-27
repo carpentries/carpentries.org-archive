@@ -17,14 +17,14 @@ The Carpentries Executive Council is the highest leadership body of The Carpentr
 #### Current Executive Council Members
 
 - Cedric Chambers [Appointed since 2020]
-- Mesfin Diro Chaka [Appointed since 2019] Secretary
-- Konrad Förstner [Elected since 2020]
-- Amy Hodge [Elected since 2018] Chair
-- Joslynn Lee [Appointed since 2019] 
+- Mesfin Diro Chaka [Appointed since 2019], 2019 Secretary
+- Konrad Förstner [Elected since 2020], 2020 [Code of Conduct](https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html) committee liaison
+- Amy Hodge [Elected since 2018], 2019 Chair
+- Joslynn Lee [Appointed since 2019], 2020 Secretary
 - Paula Andrea Martinez [Elected since 2020]
-- Lex Nederbragt [Elected since 2018], 2018 Secretary
-- Juan Steyn [Appointed since 2019]
-- Elizabeth Wickes [Elected since 2018]
+- Lex Nederbragt [Elected since 2018], 2020 Vice Chair, 2018 Secretary
+- Juan Steyn [Appointed since 2019], 2020 Treasurer
+- Elizabeth Wickes [Elected since 2018], 2020 Chair, 2019 [Code of Conduct](https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html) committee liaison
 
 #### Past Executive Council Members
 
