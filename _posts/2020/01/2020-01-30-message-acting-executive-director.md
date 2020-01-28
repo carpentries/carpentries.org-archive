@@ -5,7 +5,7 @@ teaser: "We will continue building capacity - together."
 title: "New Year Message from The Carpentries Acting Executive Director"
 date: 2020-01-30
 time: "09:00:00"
-tags: ["Values"]
+tags: ["Community"]
 ---
 
 Not too long ago, a few members of our team participated in a ‘mini book club’. We read [Culturally Responsive Teaching and the Brain](https://www.worldcat.org/title/culturally-responsive-teaching-and-the-brain-promoting-authentic-engagement-and-rigor-among-culturally-and-linguistically-diverse-students/oclc/889185083). In this book, author Zaretta Hammond recommends that we find real and virtual mentors who have walked the path of committing to be effective educators of culturally diverse learners. Reflecting on that recommendation, I realised that it describes The Carpentries community.
