@@ -1,6 +1,6 @@
 ---
 layout: page-fullwidth
-title: "Our Strategic Plan"
+title: "Our Strategic Plan for 2020-2025"
 permalink: "/strategic-plan/"
 ---
 
