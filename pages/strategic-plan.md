@@ -136,3 +136,6 @@ To become the leading inclusive community teaching computing and data skills, we
 - Encourage Core Team and Community members to
   - serve on advisory boards of other organisations to provide guidance and advocacy in areas key to The Carpentries mission and vision and 
   - respond to requests for comments in these areas.
+
+<br>
+For all communications around The Carpentries Strategic Plan, [please contact The Carpentries Executive Council](mailto:carpentries-executive-council@carpentries.org).
