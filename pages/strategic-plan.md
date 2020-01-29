@@ -53,7 +53,7 @@ As an international community, we value inclusivity and want to continue to find
 
 - Create an Equity Council to work with the community and Core Team members on establishing and implementing equity, inclusion, and accessibility metrics for all of our programs and our administrative processes, including employment and contracting. 
 - Develop a program for supporting community growth and training in under-resourced institutions and communities and in new geographical regions.
-- Improve mechanisms for participation and contribution to our community by investigating ways to support more languages, better understanding the needs of signing and non-signing members of the deaf and hard of hearing community, and enabling more ways to participate that are not dependent on stable internet access.
+- Improve mechanisms for participation and contribution to our community by investigating ways to support more languages, better understanding the needs of signing and non-signing members of the Deaf and hard of hearing community, and enabling more ways to participate that are not dependent on stable internet access.
 - Create a roadmap for improving the accessibility of our lessons, lesson infrastructure, online resources, and sign-up workflows for teaching workshops. 
 - Enhance our Instructor Training materials through the inclusion of information about Culturally Responsive Teaching and the development of an instructor resource guide about equity, inclusion, and accessibility.
 - Develop a workflow for responding to accessibility information and feedback to improve accommodations for Instructors and Learners. 
