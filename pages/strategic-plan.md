@@ -37,23 +37,23 @@ The Carpentries is a growing organisation that continually strives to reach new,
 
 - Create and implement a program for developing Local Leadership, including mentorship for new Leaders, communication channels for connecting Local Leaders, and explicit training in our values, Code of Conduct, and Equity, Inclusion, and Accessibility. 
 - Develop a kit of resources, templates, and documentation to help build local communities and enable them to run their own CarpentryConnect events so that they can share experiences and learn from one another locally, regionally, and globally.
-- Develop a plan to work with local and regional communities to ensure they are supported appropriately by Regional Coordinators, Trainers, and other Community roles that work in a location-specific manner. 
-- Develop an Onboarding for Member Organisations that empowers them to build community locally and connect globally, including reports and recommendations for building local capacity for training and community; guidance for establishing an equitable, inclusive, and accessible culture of learning; and information on getting involved in the global Carpentries Community.
-- Develop a plan for strategically engaging libraries and research computing centers as Carpentries hubs for their institutions. 
+- Develop a plan to work with local and regional communities to ensure they are supported appropriately by Regional Coordinators, Trainers, and other community roles that work in a location-specific manner. 
+- Develop an Onboarding for Member Organisations that empowers them to build community locally and connect globally, including reports and recommendations for building local capacity for training and community; guidance for establishing an equitable, inclusive, and accessible culture of learning; and information on getting involved in the global Carpentries community.
+- Develop a plan for strategically engaging libraries and research computing centres as Carpentries hubs for their institutions. 
 
 ### GOAL 2: 
 
-#### Intentionally incorporate equity, inclusion, and accessibility to support a diverse Community.
+#### Intentionally incorporate equity, inclusion, and accessibility to support a diverse community.
 <br>
 **Rationale:**
 
-As an international community, we value inclusivity and want to continue to find our strength through diversity. We therefore want to lower barriers to participation by ensuring that our materials are accessible, that our Instructors are culturally responsive, and that our Community continually strives to follow The Carpentries Code of Conduct in all organisational activities.
+As an international community, we value inclusivity and want to continue to find our strength through diversity. We therefore want to lower barriers to participation by ensuring that our materials are accessible, that our Instructors are culturally responsive, and that our community continually strives to follow The Carpentries Code of Conduct in all organisational activities.
 
 **Objectives:**
 
-- Create an Equity Council to work with the Community and Core Team members on establishing and implementing equity, inclusion, and accessibility metrics for all of our programs and our administrative processes, including employment and contracting. 
-- Develop a program for supporting Community growth and training in under-resourced institutions and communities and in new geographical regions.
-- Improve mechanisms for participation and contribution to our Community by investigating ways to support more languages, better understanding the needs of signing and non-signing members of the Deaf and hard of hearing community, and enabling more ways to participate that are not dependent on stable internet access.
+- Create an Equity Council to work with the community and Core Team members on establishing and implementing equity, inclusion, and accessibility metrics for all of our programs and our administrative processes, including employment and contracting. 
+- Develop a program for supporting community growth and training in under-resourced institutions and communities and in new geographical regions.
+- Improve mechanisms for participation and contribution to our community by investigating ways to support more languages, better understanding the needs of signing and non-signing members of the deaf and hard of hearing community, and enabling more ways to participate that are not dependent on stable internet access.
 - Create a roadmap for improving the accessibility of our lessons, lesson infrastructure, online resources, and sign-up workflows for teaching workshops. 
 - Enhance our Instructor Training materials through the inclusion of information about Culturally Responsive Teaching and the development of an instructor resource guide about equity, inclusion, and accessibility.
 - Develop a workflow for responding to accessibility information and feedback to improve accommodations for Instructors and Learners. 
@@ -64,13 +64,13 @@ As an international community, we value inclusivity and want to continue to find
 <br>
 **Rationale:**
 
-As an organisation that values a growth mindset and believes that our Community is our strongest resource, we want to ensure our Core Team and our volunteers are afforded opportunities to grow professionally and personally in clear, structured ways. In this way, we will strengthen our Community as a whole.
+As an organisation that values a growth mindset and believes that our community is our strongest resource, we want to ensure our Core Team and our volunteers are afforded opportunities to grow professionally and personally in clear, structured ways. In this way, we will strengthen our community as a whole.
 
 **Objectives:**
 
-- Develop an externally-valid, Community-led badging and recognition program for both online and in-person roles. 
+- Develop an externally-valid, community-led badging and recognition program for both online and in-person roles. 
 - Solidify current committee leadership roles, responsibilities, and governing documents.
-- Form and support a Communications Committee to broaden opportunities for Community members to engage in our communications to a broad audience.
+- Form and support a Communications Committee to broaden opportunities for community members to engage in our communications to a broad audience.
 - Develop Instructor Training refresher modules to keep Trainers current in educational and Carpentries-specific practices, and provide opportunities for continued learning. 
 - Create structures and pathways for identifying and utilising training opportunities for Core Team members to develop professional skills in management and/or independent contributor roles.
 
