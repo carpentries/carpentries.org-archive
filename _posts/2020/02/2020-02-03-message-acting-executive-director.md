@@ -3,7 +3,7 @@ layout: page
 authors: ["Kari L. Jordan"]
 teaser: "We will continue building capacity - together."
 title: "New Year Message from The Carpentries Acting Executive Director"
-date: 2020-01-30
+date: 2020-02-03
 time: "09:00:00"
 tags: ["Community"]
 ---
