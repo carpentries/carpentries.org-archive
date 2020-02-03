@@ -12,9 +12,9 @@ You can read more about the thought process and rollout behind this current stra
 
 
 ## Business Team
-<br/>Elizabeth Williams · Talisha Sutton-Kennedy 
+<br/>Elizabeth Williams · Kari L. Jordan · Talisha Sutton-Kennedy 
 
-Led by the Acting Executive Director, the Business Team works on the legal and financial aspects of our project and coordinates with our fiscal sponsor, Community Initiatives. Kari Jordan and the team members, Talisha Sutton-Kennedy and Elizabeth Williams, consistently evaluate and plan for our financial sustainability. Tracy Teal previously led this team. Some of the projects the Business Team has embarked on since January 2019 include updating our grants collaboration workflow and producing a 2018 Annual Financial Report to support the Executive Council in strategic planning. More details about their quarterly projects is available below.
+Led by Elizabeth Williams, the Business Team works on the legal and financial aspects of our project and coordinates with our fiscal sponsor, Community Initiatives. Elizabeth Williams and the team members, Talisha Sutton-Kennedy and Kari Jordan consistently evaluate and plan for our financial sustainability. Tracy Teal previously led this team. Some of the projects the Business Team has embarked on since January 2019 include updating our grants collaboration workflow and producing a 2018 Annual Financial Report to support the Executive Council in strategic planning. More details about their quarterly projects is available below.
 
 <details>
 <summary> 
