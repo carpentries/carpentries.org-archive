@@ -3,7 +3,7 @@ layout: page
 authors: ["Amy Hodge", "Executive Council"]
 teaser: "Announcing officers elected to The Carpentries Executive Council for 2020"
 title: "Executive Council Officer Elections for 2020"
-date: 2020-02-01
+date: 2020-02-03
 time: "09:00:00"
 tags: ["Governance", "Executive Council" ]
 ---
