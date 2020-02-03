@@ -64,6 +64,13 @@ In Q2, we assembled a [Sponsorship Model Task Force](https://carpentries.org/blo
   
 </details>
 
+<details>
+<summary> 
+<strong>January - March (Q1) 2019</strong>
+</summary>
+In Q1 2019, the business Team worked on updating our grants collaboration workflow and producing a 2018 Annual Financial Report to support the [Executive Council](http://static.carpentries.org/governance/) in strategic planning.
+</details>
+
 
 ## Community Development Team
 <br>Kari L. Jordan · Serah Rono
@@ -141,7 +148,12 @@ In Q3 2019, we [assembled a task force](https://carpentries.org/blog/2019/07/inc
   </ol>
 </details>
 
-
+<details>
+<summary> 
+<strong>January - March (Q1) 2019</strong>
+</summary>
+In Q1 2019,  the Community Development Team worked on developing a communications strategy and [updating our Code of Conduct documentation](https://github.com/carpentries/coc-guidelines-taskforce/issues) with [the Code of Conduct Committee](https://carpentries.org/coc-ctte/).  
+</details>
 
 ## Curriculum Team
 <br/>Erin Becker · François Michonneau
@@ -201,7 +213,12 @@ In addition to the Image Analysis curriculum work discussed above, our grant fro
   In late May, The Carpentries will begin spreading the word about our updated Genomics curriculum to member institutions and other groups. We are excited to offer more opportunities for Instructors to teach these lessons and will be offering a one-hour webinar starting in June, which will be recorded and offered through [our YouTube channel](https://www.youtube.com/channel/UCBOUNBBZxc4DML3F89cEvGA). If you’d like to be notified when the webinar is available, please [add your email address here](https://forms.gle/ubxK9bApRub62vUE8). We will be announcing opportunities to teach these lessons through the [Instructors TopicBox list](https://carpentries.topicbox.com/groups/instructors), so make sure you’re signed up to receive these messages! If you’re excited and want to start exploring the curriculum now, you can access all the lessons from the [Genomics workshop homepage](https://datacarpentry.org/lessons/#genomics-workshop) and can get information on how to launch your own [AWS EC2 instance](https://datacarpentry.org/genomics-workshop/AMI-setup/index.html) to explore the materials. 
 </details>
 
-
+<details>
+<summary> 
+<strong>January - March (Q1) 2019</strong>
+</summary>
+In Q1 2019, the Curriculum Team worked on updating the format of [Maintainer meetings](https://docs.google.com/document/d/12OvistgHUxpLg7w2p9COCopf4jRzlUZ5LLXNiOZws4Y/edit), producing a first draft of a [Curriculum Development Handbook](https://docs.google.com/document/d/19xnq3XiTwlUa5gA8YQhwgb-1_hL6jdBK18HC7Ngmh1k/edit), working with the Genomics R Maintainers to make progress towards publishing a lesson for working with [Genomics data in R](https://docs.google.com/document/d/1JU849yX1Noj0Z7pwJYBkande1DG506h-3SC06lm10LE/edit), working with the Maintainers group to develop a prototype for our [new lesson template](https://docs.google.com/document/d/1bkgXq4yHb7iq9m-FuOsMKHHJERpx6XS1wsAbpN5qEwA/edit), and working with the Library Carpentry Maintainers and Curriculum Advisors to continue to develop Library Carpentry’s curricula. Whew! 
+</details>
 
 ## Infrastructure Team
 <br>François Michonneau · Maneesha Sane 
@@ -213,7 +230,7 @@ Led by François Michonneau, the Infrastructure Team is behind all of the system
 <strong>October - December (Q4) 2019</strong>
 </summary>
 
-### Workshop Surveys
+#### Workshop Surveys
 
 In October, we [rolled out an update](https://carpentries.org/blog/2019/10/transition-to-typeform/) to our pre- and post-workshop surveys that provides a more intuitive and (hopefully) a better overall experience for both learners and Instructors. Learners can now complete the surveys more quickly, and Instructors now receive a clearer and more actionable overview of their learners’ survey responses. With this new system, we can customise the way results are presented to ensure they are maximally useful for Instructors. If you check your survey results and find yourself thinking “I would really like to see things visualised this way instead” please [get in touch](mailto:francois@carpentries.org)! We’re also seeking a community member to review the code used to generate these reports, as we prepare to open-source this code as a Shiny app. Please [contact François](mailto:francois@carpentries.org) if you’re interested. For any other questions about this new system, please contact [team@carpentries.org](mailto:team@carpentries.org).
 
@@ -256,6 +273,13 @@ As each our our lesson programs (Data Carpentry, Library Carpentry, and Software
   Each quarter, we will also be supporting all the other teams in their infrastructure, technology, and documentation  needs.  This includes ensuring documentation for new projects is up to date, and new projects are supported in evaluating and implementing new tools (web services, databases, etc.)
 </details>
 
+<details>
+<summary> 
+<strong>January - March (Q1) 2019</strong>
+</summary>
+In Q1 2019, the Infrastructure Team worked on organising and documenting our infrastructure systems and on migrating our surveys from SurveyMonkey to Typeform.
+</details>
+
 ## Instructor Training Team
 <br>Erin Becker · Karen Word
 
@@ -266,7 +290,7 @@ Led by Karen Word, the Instructor Training Team manages our Instructor Training 
 <strong>October - December (Q4) 2019</strong>
 </summary>
 
-### Training New Instructor Trainers
+#### Training New Instructor Trainers
 
 In November, we [opened applications](https://carpentries.org/blog/2019/11/trainer-training-2019/) for our next round of Instructor Trainer Training. We focused on supporting current Instructor Trainers (by reserving seats for applicants where we currently have a single Trainer) and recruiting regional or institutional pioneers (by reserving seats for pairs of applicants in regions or at institutions with no existing Trainers). We also considered applications from individuals who didn’t fall into these two groups, to onboard amazing new Trainers regardless of their location. We received 43 applications, and unfortunately were only able to accept 14 applicants into this cohort. These Trainer trainees will go through a 3-month onboarding and join our existing 75 member-strong Trainer team in mid-Q2 2020. As we hire our new [Deputy Director of Instructor Training](https://carpentries.org/blog/2019/11/job-opportunities-with-the-carpentries/), we look forward to expanding our capacity for training new Trainers and bringing more of our amazing applicants onto the team! To receive notifications about future Trainer Training opportunities, contact Karen Word at [krword@carpentries.org](mailto:krword@carpentries.org).
 
@@ -300,6 +324,12 @@ In January, we increased the number of teaching demonstration sessions we ran to
   For Q2, we will be reviewing and recommending improvements to our procedures for recruiting and selecting Instructor Trainers. Our Trainer community is a powerful force in setting the tone and direction of The Carpentries as a whole -- they train our Instructors! In the past, our process for recruitment and selection has been successful in recruiting amazing and dedicated Trainers, but in the absence of explicit structure it has also been confusing and opaque. This is an entirely new project, which will take the long view on strategic planning for The Carpentries, with the aim of creating a process that is transparent, fair, equitable, and effective in recruiting trainees who are enthusiastic about our mission and empowered to carry it forward. We anticipate rolling out our next call for Instructor Trainer recruitment in September-November of 2019, so the broader community and interested applicants can look forward to learning more about our new and improved processes at that time!
 </details>
 
+<details>
+<summary> 
+<strong>January - March (Q1) 2019</strong>
+</summary>
+In Q1 2019, the Instructor Training Team worked on producing a workflow for offering [a-la carte Instructor Trainings](https://docs.google.com/document/d/1MNkMllc22IFlc2Pau-x88azfi1sxSham9dl4XS3JNPQ/edit) outside of our membership program.  
+</details>
 
 ## Membership Team
 <br/>Elizabeth Williams · Talisha Sutton-Kennedy 
@@ -311,7 +341,7 @@ Led by Elizabeth Williams, the Membership Team coordinates the growing number of
 <strong>October - December (Q4) 2019</strong>
 </summary>
 
-### Member Survey and Member Organisation Council
+#### Member Survey and Member Organisation Council
 
 In October and November, [we shared our 2019 Membership Survey data](https://carpentries.org/blog/2019/10/membership-survey/) and held Member Organisation Council discussions around these survey responses. Our primary goal for this survey was to identify what could be added to and improved about Carpentries Membership to better align with the growing and diversifying needs and goals of local communities everywhere. Members identified as priorities: support in building and sustaining their local communities, increased support for Instructors and learners, pathways for curriculum development, and a more varied membership model. Our [grant funding from Gordon and Betty Moore Foundation and Chan Zuckerberg Initiative] directly supports the first three of these goals, and indirectly provides more Core Team time for expanding our membership model. We are excited to continue working with our Member Organisation Council, and community leaders, in building a robust and varied membership program to support our diverse communities. 
   
@@ -334,6 +364,13 @@ We held another set of Member Organisation Council Meetings the week of June 17t
   This quarter, the Membership Team is working to organise and hold our Q2 Member Organisation Council Meeting and to create and send out a Member Organisation Survey. The Member Organisation Council Meetings have been a place for representatives from Member Organisations to network, share challenges and solutions, receive updates about Carpentries activities, and voice ideas about the Membership program. In our last Council meeting at the end of 2018, members expressed interest in quarterly meetings, and we are excited to kick them off in this quarter. In the Member Organisation Survey, we will be seeking feedback on Member Organisations’ goals for membership and additions and improvements we could make to help the Membership Program better align with these goals. 
 </details>
 
+<details>
+<summary> 
+<strong>January - March (Q1) 2019</strong>
+</summary>
+In Q1 2019, the Membership Team worked on [creating and deploying a membership survey](https://docs.google.com/document/d/1sbuHbQi9wrnJSY8Nur4sAT6d9GL_MK1Z2_yNf4EjSK0/edit). 
+</details>
+
 ## Workshop Administration Team
 <br/>Kari Jordan · Maneesha Sane · SherAaron Hurt · Talisha Sutton-Kennedy
 
@@ -344,7 +381,7 @@ Led by SherAaron Hurt, the Workshop Team develops and implements workflows to ke
 <strong>October - December (Q4) 2019</strong>
 </summary>
 
-### Automating Routine Emails for Workshops
+###$ Automating Routine Emails for Workshops
 
 If you have organised a Carpentries workshop, you know that there are a *lot* of emails sent as part of this process! Until now, all of those emails have needed to be sent manually, either by the lead instructor, host, or a workshop administrator. This quarter, we have been working on adding functionality to our workshop infrastructure to make it possible to send out these emails automatically. This will reduce administrative burden, enabling us to organise more workshops, and leaving more time for answering your questions about workshops and supporting you with your individual needs. We are planning on piloting email automation with a small group of workshops in early 2020. Please get in touch if you are interested in having your workshop be a part of the pilot!
 
@@ -382,6 +419,13 @@ This meant users had to answer a number of questions that weren’t relevant to 
   This project will impact and help our community and Member organisations as well as others interested in running Carpentries workshops. 
 
   The Workshop Administration Team is working on updating the process for how workshops are requested and reported. We want to make communicating with us about upcoming workshops (planned or desired) easier and efficient. Please stay tuned for more information about the progress of this update! 
+</details>
+
+<details>
+<summary> 
+<strong>January - March (Q1) 2019</strong>
+</summary>
+In Q1 2019, working with the workshop administrators, the Workshop Administration team worked on developing a [workshop workflow automation priority list](https://docs.google.com/document/d/1Q-7y7X28U16JBoBPMnJtU271poK0s0n5Pz0tcV2v5Qc/edit)
 </details>
 
 
