@@ -12,8 +12,33 @@ You can read more about the thought process and rollout behind this current stra
 
 
 ## Leadership Team
+<br/> 
 
+Led by the Executive Director, the Leadership Team oversees strategic planning, staff supervision and management, and financial performance and viability. The members of the Leadership Team are Erin Becker, Kari L. Jordan and Elizabeth Williams, with Kari L. Jordan leading the team in her capacity as Acting Executive Director. Tracy Teal, our former Executive Director, previously led this team. 
+<details>
+<summary> 
+<strong>October - December (Q4) 2019</strong>
+</summary>
+</details>
 
+<details>
+<summary> 
+<strong>July - September (Q3) 2019</strong>
+</summary>
+</details>
+
+<details>
+<summary> 
+<strong>April - June (Q2) 2019</strong>
+</summary>
+</details>
+
+<details>
+<summary> 
+<strong>January - March (Q1) 2019</strong>
+</summary>
+In Q1 2019, the Leadership Team will be working with the Executive Council on defining The Carpentries values and measuring project outcomes for assessment and equity and inclusion.
+</details>
 
 ## Business Team
 <br/>Elizabeth Williams · Kari L. Jordan · Talisha Sutton-Kennedy 
