@@ -4,11 +4,21 @@ title: "Publications about and by The Carpentries"
 permalink: /citations/
 ---
 
-Software Carpentry, Data Carpentry, and Library Carpentry have been featured in many publications, and some members of The Carpentries community have written materials about our workshops, our history, and our impact. Comprehensive reports about our impact can be found in our <a href="{{site.url}}/assessment/">assessment</a> section. 
+Data Carpentry, Library Carpentry and Software Carpentry have been featured in many publications, and some members of The Carpentries community have written materials about our workshops, our history, and our impact. Comprehensive reports about our impact can be found in our <a href="{{site.url}}/assessment/">assessment</a> section. 
 
 Do you know about other works that should be listed here? If so, please email <a href="mailto:{{site.contact}}">{{site.contact}}</a> to let us know.
 
 <ul>
+  
+  <li>
+    <p>
+      Sarah L. R. Stevens, Mateusz Kuzak, Carlos Martinez, Aurelia Moser, Petra Bleeker, Marc Galland: "<a href="https://journals.plos.org/plosbiology/article/authors?id=10.1371/journal.pbio.2005561">Building a local community of practice in scientific programming for life scientists</a>",
+      November 2018
+    </p>
+  </li>
+    
+ 
+
 
   <li>
     <p>

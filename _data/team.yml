@@ -1,18 +1,20 @@
 # Social icon names are the fully qualified
 #   Font-Awesome Icon names as found here: https://fontawesome.com/v4.7.0/icons/
 people:
-- name: Tracy K. Teal, PhD
-  pic: tracyteal
-  position: Executive Director
-  lead: Leadership Team and Business Team Lead
-  jobplan: https://docs.google.com/document/d/1a_s1A0Gj5R93re8oQtI3nvLgC-4YuIwrifE8H-Nx0VM/edit
+
+- name: Kari L. Jordan, PhD
+  pic: karijordan
+  position: Acting Executive Director
+  jobplan: https://docs.google.com/document/d/14wwmQyOKHNivu2xTGbfHCXUtXrVzM_lhRPtfpKfGytQ/edit
   social:
     - icon: fab fa-twitter
-      url: https://twitter.com/tracykteal
+      url: https://twitter.com/drkariljordan
     - icon: fab fa-github
-      url: https://github.com/tracykteal
+      url: https://github.com/kariljordan
+    - icon: fab fa-linkedin
+      url: https://www.linkedin.com/in/kariljordan/
     - icon: fa fa-envelope
-      url: mailto:tkteal@carpentries.org
+      url: mailto:kariljordan@carpentries.org
 
 - name: Erin Becker, PhD
   pic: erinbecker
@@ -27,24 +29,10 @@ people:
     - icon: fa fa-envelope
       url: mailto:ebecker@carpentries.org
 
-- name: Kari L. Jordan, PhD
-  pic: karijordan
-  position: Senior Director of Equity and Assessment
-  jobplan: https://docs.google.com/document/d/14wwmQyOKHNivu2xTGbfHCXUtXrVzM_lhRPtfpKfGytQ/edit
-  social:
-    - icon: fab fa-twitter
-      url: https://twitter.com/drkariljordan
-    - icon: fab fa-github
-      url: https://github.com/kariljordan
-    - icon: fab fa-linkedin
-      url: https://www.linkedin.com/in/kariljordan/
-    - icon: fa fa-envelope
-      url: mailto:kariljordan@carpentries.org
-
 - name: Elizabeth Williams
   pic: elizabethwilliams
-  position: Director of Membership
-  lead: Membership Team Lead
+  position: Senior Director of Membership
+  lead: Membership Team and Business Team Lead
   jobplan: https://docs.google.com/document/d/16sfFs-PUFyyrKmOvt7Mop0sdCC1Rbvhc7y6lQkY8FVk/edit
   social:
     - icon: fab fa-twitter
@@ -54,71 +42,19 @@ people:
     - icon: fa fa-envelope
       url: mailto:ewilliams@carpentries.org
 
-- name: Angelique van Rensburg
-  pic: angeliquevanrensburg
-  position: Regional Consultant for Southern Africa
+- name: Talisha Sutton-Kennedy
+  pic: talishasuttonkennedy
+  position: Administrative Specialist
+  jobplan: https://docs.google.com/document/d/1Hza2oLS8iC-8k8niwpNVOcbxHsrwZOrYSDak2hmIQfw/edit
   social:
-    - icon: fab fa-twitter
-      url: https://twitter.com/AngvanRensburg
-    - icon: fa fa-envelope
-      url: mailto:angelique@carpentries.org 
-
-
-- name: François Michonneau, PhD
-  pic: francoismichonneau
-  position: Curriculum Development Lead
-  lead: Infrastructure Team Lead
-  jobplan: https://docs.google.com/document/d/1Y66RlED6a9TN1XxHZF-htJVMZ0dfmqtysFLyXSP8sk4/edit
-  social:
-    - icon: fab fa-twitter
-      url: https://twitter.com/fmic_
     - icon: fab fa-github
-      url: https://github.com/fmichonneau
+      url: https://github.com/talishask
     - icon: fa fa-envelope
-      url: mailto:francois@carpentries.org
-
-- name: Karen Word, PhD
-  pic: karenword
-  position: Deputy Director of Instructor Training
-  lead: Instructor Training Team Lead
-  jobplan: https://docs.google.com/document/d/1l-5DV7-NvJLg60lCjNVabXmRGXFJ-oll3x1IbdZvK0c/edit
-  social:
-    - icon: fab fa-twitter
-      url: https://twitter.com/karen_word
-    - icon: fab fa-github
-      url: https://github.com/karenword
-    - icon: fa fa-envelope
-      url: mailto:krword@carpentries.org
-
-- name: Maneesha Sane
-  pic: maneeshasane
-  position: Program Manager
-  jobplan: https://docs.google.com/document/d/1vzvRaH-ilaAdkzk3LZCMvBsBYlokX_5mU5aA7Wvo9PQ/edit
-  social:
-    - icon: fab fa-twitter
-      url: https://twitter.com/maneeshasane
-    - icon: fab fa-github
-      url: https://github.com/maneesha
-    - icon: fa fa-envelope
-      url: mailto:maneesha@carpentries.org
-
-
-- name: Serah Njambi Rono
-  pic: serahnjambirono
-  position: Community Engagement Lead
-  lead: Community Development Team Lead
-  jobplan: https://docs.google.com/document/d/12EpzCMdKrh9o7WyJR5Xl4u7Hi7PMUc2t5qvvGMhxbBs/edit
-  social:
-    - icon: fab fa-twitter
-      url: https://twitter.com/serahrono
-    - icon: fab fa-github
-      url: https://github.com/serahrono
-    - icon: fa fa-envelope
-      url: mailto:serah@carpentries.org
+      url: mailto:talishask@carpentries.org
 
 - name: SherAaron Hurt
   pic: sheraaronhurt
-  position: Workshop and Logistics Manager
+  position: Deputy Director of Workshops and Meetings
   lead: Workshops Team Lead
   jobplan: https://docs.google.com/document/d/1Rrnzs-fPlvL0Tuw0stWg8DVgJa8SEKJM7b-Kb_6F6m4/edit
   social:
@@ -129,15 +65,77 @@ people:
     - icon: fa fa-envelope
       url: mailto:sheraaron@carpentries.org
 
-- name: Talisha Sutton-Kennedy
-  pic: talishasuttonkennedy
-  position: Administrative Support Specialist
-  jobplan: https://docs.google.com/document/d/1Hza2oLS8iC-8k8niwpNVOcbxHsrwZOrYSDak2hmIQfw/edit
+- name: Serah Njambi Rono
+  pic: serahnjambirono
+  position: Director of Community Development and Engagement
+  lead: Community Development Team Lead
+  jobplan: https://docs.google.com/document/d/12EpzCMdKrh9o7WyJR5Xl4u7Hi7PMUc2t5qvvGMhxbBs/edit
   social:
+    - icon: fab fa-twitter
+      url: https://twitter.com/serahrono
     - icon: fab fa-github
-      url: https://github.com/talishask
+      url: https://github.com/serahrono
     - icon: fa fa-envelope
-      url: mailto:talishask@carpentries.org
+      url: mailto:serah@carpentries.org
+
+- name: Maneesha Sane
+  pic: maneeshasane
+  position: Quality Assurance Manager
+  jobplan: https://docs.google.com/document/d/1vzvRaH-ilaAdkzk3LZCMvBsBYlokX_5mU5aA7Wvo9PQ/edit
+  social:
+    - icon: fab fa-twitter
+      url: https://twitter.com/maneeshasane
+    - icon: fab fa-github
+      url: https://github.com/maneesha
+    - icon: fa fa-envelope
+      url: mailto:maneesha@carpentries.org
+
+- name: Karen Word, PhD
+  pic: karenword
+  position: Director of Instructor Training
+  lead: Instructor Training Team Lead
+  jobplan: https://docs.google.com/document/d/1l-5DV7-NvJLg60lCjNVabXmRGXFJ-oll3x1IbdZvK0c/edit
+  social:
+    - icon: fab fa-twitter
+      url: https://twitter.com/karen_word
+    - icon: fab fa-github
+      url: https://github.com/karenword
+    - icon: fa fa-envelope
+      url: mailto:krword@carpentries.org
+
+- name: François Michonneau, PhD
+  pic: francoismichonneau
+  position: Director of Technology
+  lead: Infrastructure Team Lead
+  jobplan: https://docs.google.com/document/d/1Y66RlED6a9TN1XxHZF-htJVMZ0dfmqtysFLyXSP8sk4/edit
+  social:
+    - icon: fab fa-twitter
+      url: https://twitter.com/fmic_
+    - icon: fab fa-github
+      url: https://github.com/fmichonneau
+    - icon: fa fa-envelope
+      url: mailto:francois@carpentries.org
+
+- name: Angelique van Rensburg, PhD
+  pic: angeliquevanrensburg
+  position: Regional Consultant for Southern Africa
+  social:
+    - icon: fab fa-twitter
+      url: https://twitter.com/AngvanRensburg
+    - icon: fa fa-envelope
+      url: mailto:angelique@carpentries.org 
+
+
+
+
+
+
+
+
+
+
+
+
 
 
       

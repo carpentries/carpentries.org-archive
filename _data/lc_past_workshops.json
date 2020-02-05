@@ -1,6 +1,36 @@
 [
   {
-    "instructors": "Scott Peterson,Zac Painter",
+    "instructors": "Chuck McAndrew,Jacqueline Frisina",
+    "end_date": "2020-02-04",
+    "url": "https://leblibrary.github.io/2020-02-03-lebanon/",
+    "country": "US",
+    "curriculum": "lc",
+    "venue": "Kilton Public Library",
+    "longitude": -72.310029,
+    "slug": "2020-02-03-lebanon",
+    "tag_name": "LC",
+    "helpers": "Adam Shlager,Kevin French",
+    "host_name": "Lebanon Public Libraries",
+    "latitude": 43.647792,
+    "start_date": "2020-02-03"
+  },
+  {
+    "instructors": "Jordan Pedersen,Lise Doucette,Mariana Jardim",
+    "end_date": "2020-01-09",
+    "url": "https://JordanPedersen.github.io/2020-01-08-utsc",
+    "country": "CA",
+    "curriculum": "lc",
+    "venue": "University of Toronto",
+    "longitude": -79.19056,
+    "slug": "2020-01-08-utsc",
+    "tag_name": "LC",
+    "helpers": "May Chan,Deena Yanofsky,Sarah Forbes",
+    "host_name": "University of Toronto (Scarborough)",
+    "latitude": 43.78725,
+    "start_date": "2020-01-08"
+  },
+  {
+    "instructors": "Scott Peterson,Celia Emmelhainz,Zac Painter",
     "end_date": "2019-12-17",
     "url": "https://scottcpeterson.github.io/2019-12-16-UCBerkeley/",
     "country": "US",
@@ -9,7 +39,7 @@
     "longitude": -122.257873,
     "slug": "2019-12-16-UCBerkeley",
     "tag_name": "LC",
-    "helpers": "Ariel Deardorff,Anna Sackmann,Celia Emmelhainz,Rick Jaffe,Eric Lopatin",
+    "helpers": "Ariel Deardorff,Anna Sackmann,Rick Jaffe,Eric Lopatin,Ann Glusker",
     "host_name": "University of California Berkeley",
     "latitude": 37.870055,
     "start_date": "2019-12-16"
@@ -24,7 +54,7 @@
     "longitude": -85.760722,
     "slug": "2019-12-12-louisville",
     "tag_name": "LC",
-    "helpers": null,
+    "helpers": "Rebecca Morgan,Andrew Huff,David King,Carrie Daniels,Sarah Drerup,Terri Holtze,Sue Finley,Randy Kuehn,Rebecca Pattillo",
     "host_name": "University of Louisville",
     "latitude": 38.216906,
     "start_date": "2019-12-13"

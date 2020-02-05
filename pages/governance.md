@@ -16,20 +16,23 @@ The Carpentries Executive Council is the highest leadership body of The Carpentr
 
 #### Current Executive Council Members
 
-- Amy Hodge [Elected since 2019] Chair
-- Kate Hertweck [Appointed since 2018] Vice Chair
-- Mesfin Diro Chaka [Appointed since 2019] Secretary
-- Raniere Silva [Elected since 2018] Treasurer
-- Elizabeth Wickes [Elected since 2018]
-- Karen Cranston [Appointed since 2018] [Code of Conduct](https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html) committee liaison, 2018 Chair
-- Joslynn Lee [Appointed since 2019] 
-- Lex Nederbragt [Elected since 2018], 2018 Secretary
-- Juan Steyn [Appointed since 2019]
+- Cedric Chambers [Appointed since 2020]
+- Mesfin Diro Chaka [Appointed since 2019], 2019 Secretary
+- Konrad Förstner [Elected since 2020], 2020 [Code of Conduct](https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html) committee liaison
+- Amy Hodge [Elected since 2018], 2019 Chair
+- Joslynn Lee [Appointed since 2019], 2020 Secretary
+- Paula Andrea Martinez [Elected since 2020]
+- Lex Nederbragt [Elected since 2018], 2020 Vice Chair, 2018 Secretary
+- Juan Steyn [Appointed since 2019], 2020 Treasurer
+- Elizabeth Wickes [Elected since 2018], 2020 Chair, 2019 [Code of Conduct](https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html) committee liaison
 
 #### Past Executive Council Members
 
+- Karen Cranston [Appointed 2018-2019] 2019 [Code of Conduct](https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html) committee liaison, 2018 Chair
+- Kate Hertweck [Appointed 2018-2019] 2018-2019 Vice Chair
 - Mateusz Kuzak [Appointed 2018] 2018 Communications Officer
 - Sue McClatchy [Appointed 2018] 2018 Treasurer
+- Raniere Silva [Elected 2018-2019] 2019 Treasurer
 - Ethan White [Appointed 2018]
 
 

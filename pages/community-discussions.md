@@ -17,14 +17,11 @@ Community Discussions are free and open to anyone. They provide opportunities to
 
 Attend any Community Discussion by signing-up on the [community-discussions Etherpad](https://pad.carpentries.org/community-discussions).
 
-Interested in hosting a Community Discussion? Complete our [call for community discussion facilitators form](https://goo.gl/forms/STUEN15QWrlPlhm92)!
-
-## Next Call
-__Themed Discussion Session:__ Undergraduate Data Science Curriculum at UC Berkeley  
-4-December at [1800 UTC](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20191203T1800)   
-Check out the [community discussions etherpad](https://pad.carpentries.org/community-discussions) to sign up.   
+Interested in hosting a Community Discussion? Complete our [call for community discussion facilitators form](https://goo.gl/forms/STUEN15QWrlPlhm92)! 
  
 ## Past Calls
+* The Carpentries Teaching of GitHub - Curriculum Advisory Group (2019-12-16 and 2019-12-23)
+* Undergraduate Data Science Curriculum at UC Berkeley - Eric Van Dusen (2019-12-04)
 * New Zealand Carpentries Chat - Megan Guidry (2019-10-15)
 * The Carpentries Canadian Community Discussion - John Simpson (2019-10-07)
 * The Carpentries Community Champions Call - Jonah Duckles (2019-09-22): [Blog Post](https://carpentries.org/blog/2019/09/community-champions/)

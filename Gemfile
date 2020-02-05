@@ -2,7 +2,9 @@ source 'https://rubygems.org'
 
 source 'https://rubygems.org'
 gem 'github-pages', group: :jekyll_plugins
+gem 'faraday', '0.17.3'
 
+# Updated faraday gem per https://stackoverflow.com/questions/59558141/jekyll-minimal-mistakes-theme-throwing-uninitialized-constant-faradayerrorc
 
 # gem 'jekyll'
 

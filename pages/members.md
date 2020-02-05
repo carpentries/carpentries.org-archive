@@ -39,6 +39,7 @@ the growth and sustainability of The Carpentries and is building local capacity 
 - New Zealand eScience Infrastructure
 - Pacific Northwest National Lab
 - Princeton University
+- Smithsonian Institution
 - The University of Michigan
 - University of Arizona
 - University of California Santa Barbara
@@ -78,7 +79,6 @@ the growth and sustainability of The Carpentries and is building local capacity 
 - Queensland Cyber Infrastructure Foundation
 - Rice University
 - Rutgers University - Camden
-- Smithsonian Institution
 - South Big Data Hub
 - Space Telescope Science Institute
 - STROBE

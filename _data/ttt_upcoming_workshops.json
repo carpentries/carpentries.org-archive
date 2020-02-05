@@ -1,1 +1,47 @@
-[]
+[
+  {
+    "instructors": "Sarah Stevens,Jason Williams",
+    "end_date": "2020-02-14",
+    "url": "http://sarahlrstevens.info/2020-02-13-ttt-online-EST/",
+    "country": "W3",
+    "curriculum": null,
+    "venue": "Internet",
+    "longitude": -123.393333,
+    "slug": "2020-02-13-ttt-online-EST",
+    "tag_name": "TTT",
+    "helpers": null,
+    "host_name": "Software Carpentry",
+    "latitude": -48.876667,
+    "start_date": "2020-02-13"
+  },
+  {
+    "instructors": "Eric Jankowski,John Simpson",
+    "end_date": "2020-02-20",
+    "url": "https://erjank.github.io/2020-02-19-ttt-online-PST/",
+    "country": "W3",
+    "curriculum": null,
+    "venue": "Internet",
+    "longitude": -123.393333,
+    "slug": "2020-02-19-ttt-online-PST",
+    "tag_name": "TTT",
+    "helpers": null,
+    "host_name": "Software Carpentry",
+    "latitude": -48.876667,
+    "start_date": "2020-02-19"
+  },
+  {
+    "instructors": "Karen Word,SherAaron Hurt",
+    "end_date": "2020-03-10",
+    "url": "https://uf-carpentry.github.io/2020-03-09-UFII_InstructorTraining/",
+    "country": "US",
+    "curriculum": null,
+    "venue": "University of Florida Informatics Institute",
+    "longitude": null,
+    "slug": "2020-03-09-UFII_InstructorTraining",
+    "tag_name": "TTT",
+    "helpers": null,
+    "host_name": "Software Carpentry",
+    "latitude": null,
+    "start_date": "2020-03-09"
+  }
+]

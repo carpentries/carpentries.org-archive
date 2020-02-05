@@ -1,35 +1,5 @@
 [
   {
-    "instructors": "Jordan Pedersen,Lise Doucette,Mariana Jardim",
-    "end_date": "2020-01-09",
-    "url": "https://JordanPedersen.github.io/2020-01-08-utsc",
-    "country": "CA",
-    "curriculum": "lc",
-    "venue": "University of Toronto",
-    "longitude": -79.19056,
-    "slug": "2020-01-08-utsc",
-    "tag_name": "LC",
-    "helpers": "May Chan,Deena Yanofsky,Sarah Forbes",
-    "host_name": "University of Toronto (Scarborough)",
-    "latitude": 43.78725,
-    "start_date": "2020-01-08"
-  },
-  {
-    "instructors": "Chuck McAndrew,Jacqueline Frisina",
-    "end_date": "2020-02-04",
-    "url": "https://leblibrary.github.io/2020-02-03-lebanon/",
-    "country": "US",
-    "curriculum": "lc",
-    "venue": "Kilton Public Library",
-    "longitude": -72.310029,
-    "slug": "2020-02-03-lebanon",
-    "tag_name": "LC",
-    "helpers": "Adam Shlager,Kevin French",
-    "host_name": "Lebanon Public Libraries",
-    "latitude": 43.647792,
-    "start_date": "2020-02-03"
-  },
-  {
     "instructors": null,
     "end_date": "2020-03-16",
     "url": "https://labs.timtom.ch/2020-03-16-purdue/",
@@ -45,6 +15,36 @@
     "start_date": "2020-03-16"
   },
   {
+    "instructors": "Cody Hennesy,Caitlin Bakker,David Naughton",
+    "end_date": "2020-03-17",
+    "url": "https://chennesy.github.io/2020-03-16-stpaul/",
+    "country": "US",
+    "curriculum": "lc",
+    "venue": "Macalester College",
+    "longitude": -93,
+    "slug": "2020-03-16-stpaul",
+    "tag_name": "LC",
+    "helpers": "Katie Wilson",
+    "host_name": "University of Minnesota",
+    "latitude": 45,
+    "start_date": "2020-03-16"
+  },
+  {
+    "instructors": "Kaitlin Newson",
+    "end_date": "2020-04-30",
+    "url": "https://brockdsl.github.io/2020-04-29-Ryerson/",
+    "country": "CA",
+    "curriculum": "lc",
+    "venue": "Ryerson University",
+    "longitude": -79.38048,
+    "slug": "2020-04-29-Ryerson",
+    "tag_name": "LC",
+    "helpers": "John Fink",
+    "host_name": "Ryerson University",
+    "latitude": 43.65778,
+    "start_date": "2020-04-29"
+  },
+  {
     "instructors": null,
     "end_date": "2020-05-20",
     "url": "https://unt-carpentries.github.io/2020-05-19-unt-swc/",
@@ -58,5 +58,20 @@
     "host_name": "University of North Texas",
     "latitude": 33.210068,
     "start_date": "2020-05-19"
+  },
+  {
+    "instructors": "Alexandra Provo",
+    "end_date": "2020-07-10",
+    "url": "https://nyu-dataservices.github.io/2020-07-09-nyu/",
+    "country": "US",
+    "curriculum": "lc",
+    "venue": "New York University Bobst Library",
+    "longitude": null,
+    "slug": "2020-07-09-nyu",
+    "tag_name": "LC",
+    "helpers": null,
+    "host_name": "New York University",
+    "latitude": null,
+    "start_date": "2020-07-09"
   }
 ]

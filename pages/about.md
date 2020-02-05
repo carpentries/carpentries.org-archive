@@ -25,6 +25,8 @@ The Carpentries project comprises the <a href="https://software-carpentry.org/">
 
 The Carpentries subscribes to a shared <a href="http://docs.carpentries.org/topic_folders/policies/code-of-conduct.html">Code of Conduct</a>. In January, 2018, Software Carpentry and Data Carpentry merged their projects to form <strong>The Carpentries</strong>. On November 1, 2018, The Carpentries Executive Council approved Library Carpentry as the third official Lesson Program of The Carpentries. The following two blog posts provide further background:  <i><a href="https://software-carpentry.org/blog/2017/09/merger.html">Joint future for Software Carpentry and Data Carpentry</a></i> and <i><a href="https://carpentries.org/blog/2018/11/welcoming-library-carpentry/">Library Carpentry is now officially a Lesson Program!</a></i>. Visit the individual <a href="https://software-carpentry.org/">Software Carpentry</a>, <a href="http://www.datacarpentry.org/">Data Carpentry</a>, and <a href="https://librarycarpentry.org/">Library Carpentry</a> web sites for more detailed project histories.
 
+[The Carpentries Strategic Plan](https://carpentries.org/strategic-plan) was developed by the Executive Council together with the Core Team and approved by the Executive Council in January 2020.
+
 #### How is The Carpentries Managed?
 
 The Carpentries is a fiscally sponsored project of <a href="http://communityin.org/">Community Initiatives</a>, 
