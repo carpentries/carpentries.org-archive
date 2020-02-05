@@ -1,8 +1,8 @@
 ---
 layout: page
 authors: ["CarpentryCon Task Force"]
-teaser: "Help us solicit sponsors..."
-title: "CarpentryCon 2020 Sponsorship Kit!"
+teaser: "CarpentryCon 2020's Budget subcommittee has prepared a Sponsorship Kit to guide you in reaching out to potential sponsors"
+title: "Help Us Find Sponsors for CarpentryCon 2020"
 Date: 2020-02-06
 time: "09:00:00"
 tags: ["CarpentryCon"]
