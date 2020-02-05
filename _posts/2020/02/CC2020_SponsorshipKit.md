@@ -3,7 +3,7 @@ layout: page
 authors: ["Budget Subcommittee of CarpentryCon 2020 Task Force",]
 teaser: "Help us solicit sponsors..."
 title: "CarpentryCon 2020 Sponsorship Kit!"
-Date: 2020-01-21
+Date: 2020-02-05
 time: "09:00:00"
 tags: ["CarpentryCon 2020"]
 ---
