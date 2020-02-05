@@ -12,7 +12,7 @@ Mozilla’s Open Source Support (MOSS) program is a $2M annual fund that support
 
 Each year, the [Mozilla Open Source Support (MOSS) program](https://www.mozilla.org/en-US/moss/) makes awards to open source sustainers which help them advance their work in ambitious ways. At the end of 2019, the MOSS committees elected to make four end-of-year core support grants to a selected number of allied organisations.
 
-The Carpentries is honoured to have been selected as a recipient of this funding from Mozilla under the [Mission Partners](https://www.mozilla.org/en-US/moss/mission-partners/) track. The MOSS committee considers The Carpentries a mission-aligned organisation, and we could not agree more. Here’s why.
+The Carpentries is honoured to have received $30,316 from Mozilla under the [Mission Partners](https://www.mozilla.org/en-US/moss/mission-partners/) track. The MOSS committee considers The Carpentries a mission-aligned organisation, and we could not agree more. Here’s why.
 
 The [Mission Partners](https://www.mozilla.org/en-US/about/manifesto/) track identifies several commitments, two of which directly align with The Carpentries mission and [values](https://carpentries.org/values/): 
 
