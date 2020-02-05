@@ -19,7 +19,7 @@ One of the incredible strengths of this community is our diversity; there are or
 The Budget Subcommittee has created a conference [Sponsorship Kit](https://drive.google.com/drive/folders/1u-CXe50hYcDPCd90Ubr8d7S3sQYoDK5Y) that contains all the information you need to help us encourage potential sponsors to complete the  [sponsorship application](https://carpentries.typeform.com/to/hqoY3I). The kit contains the following:
 
 **Becoming a Sponsor letter**: use this templated email as the initial contact to the potential donor. There are areas for you to add your personal touch. You are welcome to adjust this letter to your needs
-**The Carpentries Annual Report**: this provides additional information about [The Carpentries](carpentries.org/)
+**The Carpentries Annual Report from 2018**: this provides additional information about [The Carpentries](carpentries.org/)
 **Conference Sponsorship Tiers**: this outlines all of the available ways to be a sponsor and list the benefits. 
 
 *We do not expect you to cold call people and request that you only reach out to people you already have connections with.* 
