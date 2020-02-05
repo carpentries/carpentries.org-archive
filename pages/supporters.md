@@ -4,7 +4,7 @@ title: "Our Supporters"
 permalink: "/supporters/"
 ---
 
-We are grateful to our supporters who help us reach the [mission and vision](../about/) of The Carpentries. These include our [Member Organisations](../members/) and those who sponsor [workshops](../workshops/) as well as grants and donations. We are in a position to create positive change in the data and software communities and our supporters help us in this endeavor.
+We are grateful to our supporters who help us reach the [mission and vision](../about/) of The Carpentries. These include our [Member Organisations](../members/) and those who sponsor [workshops](../workshops/) as well as grants and donations. We are in a position to create positive change in the data and software communities and our supporters help us in this endeavour.
 
 We aim to be transparent in our sources of revenue and how they align with our vision and values, and funding must support existing priorities. Towards this aim we share our sources of grants and donations and the work they are funding. 
 
@@ -23,6 +23,8 @@ We consistently work to keep this page up to date, but if you are aware of sourc
 - [Chan Zuckerberg Initiative (CZI)](https://chanzuckerberg.com/) Grants from CZI, [awarded in partnership with the Moore Foundation](https://carpentries.org/blog/2019/11/czi-moore-grant/) in November 2019, are supporting two sets of activities - "Scaling and sustaining The Carpentries Trainer Development program" and "CarpentriesLabs: A platform for community creation, sharing and dissemination of open source curriculum". This is a part of their [commitment to open science](https://chanzuckerberg.com/science/). We share a commitment to people, technology, collaboration and open science in our values.
 
 - [Gordon and Betty Moore Foundation](https://www.moore.org/) A grant from the Moore Foundation, [awarded in partnership with CZI](https://carpentries.org/blog/2019/11/czi-moore-grant/) in November 2019, are supporting "Building and supporting community to develop capacity for data and software skills training". This is a part of their [Data Driven Discovery program](https://www.moore.org/initiative-strategy-detail?initiativeId=data-driven-discovery) supporting the people and programs who innovate around data-driven discovery.
+
+- [Mozilla Open Source Support (MOSS) program](https://www.mozilla.org/en-US/moss/). Each year, MOSS gives out about $2M USD in funding to open source projects that help broaden access, increase security and empower users. In December 2019, The Carpentries was awarded $30,316 USD in the form of a core support grant by MOSS program. This grant [will help advance our Equity, Inclusion, and Accessibility work](https://carpentries.org/blog/2020/02/mozilla-grant-announcement) in The Carpentries.
 
 - [R Consortium](https://www.r-consortium.org/) A grant from the R Consortium awarded by their [Infrastructure Steering Committee](https://www.r-consortium.org/projects/awarded-projects) has supported work developing tools and templates for teaching materials. This has supported work on the lesson development template and related infrastructure. 
 
