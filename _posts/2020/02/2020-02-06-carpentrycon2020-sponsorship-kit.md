@@ -1,9 +1,9 @@
 ---
 layout: page
-authors: ["Budget Subcommittee of CarpentryCon 2020 Task Force",]
+authors: ["CarpentryCon Task Force"]
 teaser: "Help us solicit sponsors..."
 title: "CarpentryCon 2020 Sponsorship Kit!"
-Date: 2020-02-05
+Date: 2020-02-06
 time: "09:00:00"
 tags: ["CarpentryCon 2020"]
 ---
@@ -34,3 +34,4 @@ We [value](https://carpentries.org/values/) *Community Collaboration* and *All C
 
 Please be sure to continue to check the [Carpentry Con2020 website](https://2020.carpentrycon.org/) for more updates. 
 
+_Budget Subcommittee,<br/> CarpentryCon 2020 Task Force_
