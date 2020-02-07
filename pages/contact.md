@@ -23,6 +23,8 @@ Code of Conduct Committee: <br>
 To contact individual staff, see our <a href="{{site.url}}/team/">team page</a>.<br>
 
 To contact specific committees or task forces, see the <a href="{{site.url}}/committees/">committees and task forces page</a>.
+
+To contact the Executive Council, see the <a href="{{site.url}}//governance/">Executive Council page</a>. 
   </div> 
   
 <div class="medium-4 columns">  <strong>by mail:</strong> 
