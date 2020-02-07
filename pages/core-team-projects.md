@@ -151,7 +151,7 @@ In Q1 2019, the business Team worked on updating our grants collaboration workfl
 
 
 ## Community Development Team
-<br>Kari L. Jordan · Serah Rono
+<br>Angelique van Rensburg · Kari L. Jordan · Serah Rono
 
 Led by Serah Njambi Rono, the Community Development Team works to develop and maintain an open and welcoming community culture by supporting our various committees and task forces, and by introducing and running various initiatives that result in increased pathways for collaboration in our community, as well as equitable  distribution of resources, opportunities and access to inclusive spaces for our community members globally. Kari L. Jordan is a member of the Community Development Team, and we are currently recruiting for a Communications Manager. Chris Erdmann and Tracy Teal also served in this team. Some of the projects the Community Development Team has embarked on since January 2019 include:
 developing and implementing a communications strategy for The Carpentries, updating our Code of Conduct documentation with the Code of Conduct Committee, The Carpentries Values Project, The Carpentries Tagathon, The Carpentries Gratitudes project among others. You can find more details about their quarterly project work below.
