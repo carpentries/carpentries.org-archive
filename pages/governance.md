@@ -39,3 +39,10 @@ The Carpentries Executive Council is the highest leadership body of The Carpentr
 ### Carpentries Policies
 
 As well as our Code of Conduct, we have a number of [policies that govern how we operate, including our Privacy Policy, our instructor 'no-show' policy and others](https://docs.carpentries.org/topic_folders/policies/index.html). 
+
+### Contacting the Executive Council
+
+The Executive Council can be contacted submitting an issue to their GitHub repository; sending them an email; or submitting a form.  [Read more about how to contact the Executive Council](https://github.com/carpentries/executive-council-info).
+
+
+
