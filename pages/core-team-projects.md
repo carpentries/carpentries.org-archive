@@ -10,7 +10,6 @@ To make sure work that is important, but not urgent, is prioritised and gets don
 
 You can read more about the thought process and rollout behind this current strategy [in this 2019 blog post](https://carpentries.org/blog/2019/02/projects-teams-job-plans/).
 
-
 ## Executive Team 
 <br/> 
 
@@ -19,25 +18,52 @@ Led by Kari L. Jordan, the Executive Team proactively brings together perspectiv
 <summary> 
 <strong>October - December (Q4) 2019</strong>
 </summary>
+
+#### Learner Survey Infographics
+
+We collect information from our learners via the pre and post workshop survey. Additionally, we collected long-term impact survey responses in Q4 of 2020. We’ve released several reports using this data, however this year we will only create infographics with the data. This is because the results of our reports often say the same thing. In the future we may write a more comprehensive impact paper, but infographics that our team and community can use will be sufficient for this quarter.
+
+#### Planning for Implementing CoCc Task Force Recommendations 
+
+A task force met four times during August and September 2019 to make recommendations to help respond to incidents that happen outside the existing mandate of the Carpentries Code of Conduct Committee. [These recommendations were released on 2019-09](https://carpentries.org/blog/2019/09/cocc-taskforce-summary-recommendations/). This quarter we will develop a roadmap that can be used to implement the task force’s recommendations. 
 </details>
 
 <details>
 <summary> 
 <strong>July - September (Q3) 2019</strong>
 </summary>
+
+#### Recommendations for incidents outside the mandate of The Carpentries Code of Conduct committee 
+
+With a growing community and an increasing number of Carpentries spaces (online and in-person), The Carpentries is encountering cases where a response to incidents either in or outside of Carpentries spaces may be appropriate, but are outside our formal guidelines and processes. Our Code of Conduct (CoC) and Code of Conduct Committee are now quite mature and in operation for incidents that fall within its mandate. There is less clarity when there are incidents outside the Code of Conduct committee’s current purview, including incidents that may have occurred outside of Carpentries spaces, incidents that happen within Carpentries spaces that are either not reported or are not yet incidents, or where people would like to share information or get feedback, rather than formally report an incident. These incidents may impact the ability of members to feel safe working in our community. We want to respond to these events in a timely manner and in a consistent way that balances transparency, confidentiality and legal considerations. 
 </details>
 
 <details>
 <summary> 
 <strong>April - June (Q2) 2019</strong>
 </summary>
+
+#### Equity, Inclusion, and Accessibility Roadmap 
+
+We currently employ a reactive approach to issues around equity, inclusion, and accessibility. Each process and program we as a team own - from how we collect information to how we support micro-communities - should include elements of a strategic plan that ensures we are advocating for community:
+
+**Equity**: The creation of opportunities for equal access to and participation in programs that are capable of closing participation gaps in our community. <br/>
+**Inclusion**: The active, intentional, and ongoing engagement of diverse people and communities that increases awareness, content knowledge, and empathic understanding of the ways we interact within (and change) our community.<br/>
+**Accessibility**: Program/process design and implementation that offers multiple avenues for access and participation.
+
+This project is being scoped to develop a strategic plan that will include our:
+- **Strategy**: Scoping the larger vision for why we are doing this work.
+- **Plan**: List of steps to accomplish the goals of our strategy.
 </details>
 
 <details>
 <summary> 
 <strong>January - March (Q1) 2019</strong>
 </summary>
-In Q1 2019, the Leadership Team will be working with the Executive Council on defining The Carpentries values and measuring project outcomes for assessment and equity and inclusion.
+
+#### Develop a system to evaluate and measure project/program outcomes
+
+Each staff team project will need sign-off from the Assessment and Equity and Inclusion Lead (Kari). We currently do not have a system to define what assessment/E&I looks like across projects and programmatic outcomes. The purpose of this project is to develop such a system in the form of a rubric and/or checklist.
 </details>
 
 ## Business Team
@@ -115,10 +141,6 @@ developing and implementing a communications strategy for The Carpentries, updat
 
 In July, we systematised [our tagging system on The Carpentries blog](https://carpentries.org/posts-by-tags/) to improve the discoverability of our nearly 200 blog posts. Based on feedback from community members, in October, we extended this tagging system to the [Data Carpentry](https://datacarpentry.org/blog/), [Library Carpentry](https://librarycarpentry.org/blog/), and [Software Carpentry](https://software-carpentry.org/blog/) blogs through a [Hacktoberfest Tagathon](https://carpentries.org/blog/2019/10/carpentries-tagathon/). With fourteen years of posts on the [Software Carpentry blog](https://software-carpentry.org/blog/dates/), updating tags is a work-in-progress. We welcome your contributions to re-tagging our old posts at any time!
 
-#### Planning for Implementation of CoC Task Force Recommendations
-
-In Q3, the Task Force for incidents outside the mandate of The Carpentries Code of Conduct Committee released [a set of recommendations](https://carpentries.org/blog/2019/09/cocc-taskforce-summary-recommendations/).  This quarter, five Carpentries core team members met to do some initial planning to implement the task force’s recommendations. This planning included identifying tasks and projects for the core team and Executive Council, and recommendations on how to move forward on this work. Much of the work the team completed involved brainstorming; roadmaps will be developed in Q1 and Q2 of 2020 to plan and pilot this work using our [‘Plan. Pilot. Pursue.’](https://github.com/carpentries/task-forces/blob/master/guide-to-piloting-taskforce-recommendations.md) framework. For example, we discussed the overall goal of supporting and maintaining community, and in collaboration with Malvika Sharan, decided to expand her proposed Code of Conduct Facilitator program such that we onboard Community Facilitators. Planning this type of initiative will be a priority for the Community Development Team in the first quarter of 2020. 
-
 #### Expressing Gratitude To and From Our Community
 
 Throughout the month of December, we are practicing [our community values](https://carpentries.org/blog/2019/11/carpentries-values/) of “Valuing All Contributions” and “Community Collaboration” through our [Gratitudes Series](https://carpentries.org/blog/2019/11/carpentries-gratitudes-series/). We extend heartfelt thanks to all of the individuals, committee and task force members, and all others who support The Carpentries mission. Read all of the messages of gratitude so far and watch the [green-stickies tag on our blog](https://carpentries.org/posts-by-tags/#blog-tag-green-stickies) for upcoming posts. If your task force or committee isn’t listed yet, and would like to add your message of gratitude, get in touch with us at [team@carpentries.org](mailto:team@carpentries.org).
@@ -139,12 +161,7 @@ Shared values and goals have long been the starting point of communities of prac
 </summary>
 
 #### Communications Strategy and Implementation Plan
-As you may remember, [we developed our community communications strategy in Q1](https://carpentries.org/blog/2019/04/how-and-why-we-communicate/), an exercise that allowed us to define our goals around use of our communications platforms, outline the audiences we communicate to, and integrate inclusivity practices for all communications on The Carpentries channels. [We then started implementing it across our platforms and resources in Q2](https://carpentries.org/blog/2019/07/carpentries-comms-strategy/) and have continued with this implementation work in Q3. One of our primary goals for this year is to empower our community members to document and share their knowledge and experiences on our community blog, YouTube channel](https://www.youtube.com/thecarpentries) and other community spaces. Our [communications “how-to” guides](https://docs.carpentries.org/topic_folders/communications/guides/index.html) in our handbook are one primary tool we are currently using to achieve this, so have a read and let us know what other guides you would like The Carpentries team to make available for you. 
-
-#### Equity, Inclusion, and Accessibility Roadmap
-In Q2, we collaborated with our community, staff team, and leaders in the open science/open data community, to develop an [Equity, Inclusion, and Accessibility Roadmap](https://carpentries.org/files/assessment/equity_inclusion_accessibility_roadmap.pdf). This roadmap appreciates where we are, plans where we want to go, and maps out how we can get there. It is our overarching plan that outlines objectives for each [staff team](https://carpentries.org/blog/2019/02/projects-teams-job-plans/) and program, and performance goals to help us meet our objectives. We shared our process for developing this roadmap in [two previous](https://carpentries.org/blog/2019/05/equity-inclusion-accessibility-roadmap/) [blog posts](https://carpentries.org/blog/2019/06/eia-roadmap-release/). In Q3, we identified the need to develop metrics for all of our performance goals, and started researching metrics and performance indicators.
-
-Many people contributed to the thinking and strategy to develop this roadmap, including The Carpentries Staff Team, Instructor Development Committee, Code of Conduct Committee, Dr. Hadley Wickam, Dr. Heather Turner, Dr. Joslynn Lee, and Dr. Mel Chua. Thanks to you all for helping advance our equity, inclusion, and accessibility goals. We invite everyone to continue contributing to the ideas in our roadmap by filing an issue on the [equity-and-inclusion GitHub repository](https://github.com/carpentries/equity-and-inclusion/issues).  
+As you may remember, [we developed our community communications strategy in Q1](https://carpentries.org/blog/2019/04/how-and-why-we-communicate/), an exercise that allowed us to define our goals around use of our communications platforms, outline the audiences we communicate to, and integrate inclusivity practices for all communications on The Carpentries channels. [We then started implementing it across our platforms and resources in Q2](https://carpentries.org/blog/2019/07/carpentries-comms-strategy/) and have continued with this implementation work in Q3. One of our primary goals for this year is to empower our community members to document and share their knowledge and experiences on our community blog, YouTube channel](https://www.youtube.com/thecarpentries) and other community spaces. Our [communications “how-to” guides](https://docs.carpentries.org/topic_folders/communications/guides/index.html) in our handbook are one primary tool we are currently using to achieve this, so have a read and let us know what other guides you would like The Carpentries team to make available for you.  
 
 #### The Carpentries Values
 As our community coalesces into a shared identity as “The Carpentries”, defining our core values is a priority. Our community values shape everything from the ways that we communicate, to the work that we take on, to the funding opportunities we pursue. [Feedback from our community members](https://carpentries.org/blog/2019/09/carpentries-values-update-and-question-three/) has been, and will continue to be, vital in articulating these values. We are looking forward to continuing these conversations and formulating these values with our community in Q4 and beyond. For everyone who has interacted / collaborated with members of The Carpentries community in workshops, conferences or across different initiatives, take a few minutes to answer three questions via [GitHub](https://github.com/carpentries/conversations/issues/21), [our community Discussion channel](https://carpentries.topicbox.com/groups/discuss/T9029fc4692993ab1/input-needed-help-us-articulate-the-carpentries-values) or anonymously via [this Google Form](https://forms.gle/gZmafyLVKAHBqfgc6).
