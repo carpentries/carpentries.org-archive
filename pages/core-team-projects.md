@@ -249,7 +249,7 @@ Led by Erin Becker, the Curriculum Team guides and oversees curriculum developme
 
 #### Image Analysis Curriculum Beta Release
 
-Data Carpentry’s Image Analysis curriculum has started going through beta piloting with Instructors who are not the original lesson authors. In Q1 2020, we hope to publish it on Zenodo, add it to our lesson page, and announce it to the community as a “BETA” lesson. Beta lessons are NOT available upon request (i.e. through the workshop request form), but are considered stable enough for experienced Instructors to teach in self-organised workshops.
+Data Carpentry’s Image Analysis curriculum has started piloting with Instructors who are not the original lesson authors. In Q1 2020, we hope to publish it on Zenodo, add it to our lesson page, and announce it to the community as a “BETA” lesson. Beta lessons are NOT available upon request (i.e. through the workshop request form), but are considered stable enough for experienced Instructors to teach in self-organised workshops.
 
 </details>
 
