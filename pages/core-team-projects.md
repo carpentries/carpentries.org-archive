@@ -81,7 +81,7 @@ Each staff team project will need sign-off from the Assessment and Equity and In
 ## Business Team
 <br/>Elizabeth Williams · Kari L. Jordan · Talisha Sutton-Kennedy 
 
-Led by Elizabeth Williams, the Business Team works on the legal and financial aspects of our project and coordinates with our fiscal sponsor, Community Initiatives. Elizabeth Williams and the team members, Talisha Sutton-Kennedy and Kari Jordan consistently evaluate and plan for our financial sustainability. Tracy Teal previously led this team. Some of the projects the Business Team has embarked on since January 2019 include updating our grants collaboration workflow and producing a 2018 Annual Financial Report to support the Executive Council in strategic planning. More details about their quarterly projects is available below.
+Led by Elizabeth Williams, the Business Team works on the legal and financial aspects of our project and coordinates with our fiscal sponsor, Community Initiatives. Elizabeth Williams and her team members, Talisha Sutton-Kennedy and Kari L. Jordan, consistently evaluate and plan for our financial sustainability. Tracy Teal previously served on this team. Some of the projects the Business Team has embarked on since January 2019 include updating our grants collaboration workflow and producing a 2018 Annual Financial Report to support the Executive Council in strategic planning. More details about their quarterly projects is available below.
 
 <details>
 <summary> 
@@ -173,6 +173,7 @@ We hope to lower the barrier to entry in putting together these events, so commu
 <summary> 
 <strong>October - December (Q4) 2019</strong>
 </summary>
+
 #### The Carpentries Tagathon
 
 In July, we systematised [our tagging system on The Carpentries blog](https://carpentries.org/posts-by-tags/) to improve the discoverability of our nearly 200 blog posts. Based on feedback from community members, in October, we extended this tagging system to the [Data Carpentry](https://datacarpentry.org/blog/), [Library Carpentry](https://librarycarpentry.org/blog/), and [Software Carpentry](https://software-carpentry.org/blog/) blogs through a [Hacktoberfest Tagathon](https://carpentries.org/blog/2019/10/carpentries-tagathon/). With fourteen years of posts on the [Software Carpentry blog](https://software-carpentry.org/blog/dates/), updating tags is a work-in-progress. We welcome your contributions to re-tagging our old posts at any time!
@@ -277,6 +278,7 @@ With so many members of our community excited about creating and sharing Carpent
 </summary>
   
 ### Curriculum Development Handbook
+
 At the end of Q1, [we announced](https://carpentries.org/blog/2019/04/curriculum-development-handbook/) the creation of our [Curriculum Development Handbook (CDH)](https://cdh.carpentries.org). The CDH serves as a stand-alone reference manual for folks developing lessons using our [lesson template](https://github.com/carpentries/lesson-example) in line with The Carpentries community values and educational philosophy. We’ve now advanced work on this handbook to include information on [community development roles](https://cdh.carpentries.org/community-development-roles.html) and the [lesson life cycle](https://cdh.carpentries.org/the-lesson-life-cycle.html). This continues to be a work in progress and contributions as issues or pull requests on [this project’s GitHub repository](https://github.com/carpentries/curriculum-development) are very welcome! This quarter has also seen the launch of [The Carpentries Incubator](https://github.com/carpentries-incubator/proposals) as a central location for sharing open-source lesson materials and collaborating on new curricular development. 
 
 #### Genomics Curriculum Relaunch
@@ -284,12 +286,15 @@ At the end of Q1, [we announced](https://carpentries.org/blog/2019/04/curriculum
 Data Carpentry’s [Genomics workshop](https://datacarpentry.org/genomics-workshop/) teaches researchers how to manage their data, access data from popular sequencing databases, automate their analysis pipelines by writing custom Bash scripts, and compute in the cloud. Genomics is a fast-moving field, and starting in August 2017, Instructors began to advocate for updating both the data set and software used, to modernise this workshop and keep it relevant. Over a 22 month period, hundreds of Instructors, helpers, learners, Maintainers, Curriculum Advisors, and others contributed to this major curriculum update and [publication](https://carpentries.org/blog/2019/07/lesson-release/). Read our [blog post](https://carpentries.org/blog/2019/07/genomics-relaunch/) for more details and to get involved in teaching or hosting this workshop!
 
 #### Lesson Release
+
 Thanks to the more than 1100 of you who contributed, twenty-seven Data Carpentry, Library Carpentry and Software Carpentry lessons were [successfully released](https://carpentries.org/blog/2019/07/lesson-release/) on Zenodo this June. Publication provides contributors with a citable work product, and helps us recognise the work our community members do to keep our lessons healthy. If you don’t see yourself listed as an author for a lesson you contributed to, please let us know by contacting [team@carpentries.org](mailto: team@carpentries.org) so we can give you credit for your work. 
 
 #### Image Analysis Curriculum
+
 With [funding from the Alfred P. Sloan Foundation](https://datacarpentry.org/blog/2018/02/curriculum-dev-scaling) and the NSF, Data Carpentry has been collaborating with Dr. Tessa Durham Brooks and Dr. Mark Meysenburg at Doane College, Nebraska, USA to develop new lessons in image processing. Drs. Durham Brooks and Meysenburg have piloted this workshop at Doane and are now working with Constantin Pape and Dominik Kutra at EMBL, Germany, to translate the materials to a different Python library, based on pilot feedback. This lesson is considered to be in alpha stage and is cannot be requested as a centrally-organised Data Carpentry workshop, but community members are encouraged to work through the material and provide [feedback on its GitHub repository](https://datacarpentry.org/image-processing/). We anticipate a beta-release and pilot workshops at multiple institutions in early 2020.
 
 #### Economics Curriculum
+
 In addition to the Image Analysis curriculum work discussed above, our grant from The Alfred P. Sloane foundation also focused on development of a new Data Carpentry curriculum for Economics. We have been working with Dr. Miklos Koren at Central European University to draft these lessons, and have piloted one lesson at the European Economics Association Congress in Manchester in August. If you are interested in following or being involved in development of this curriculum, please visit the associated GitHub repositories for the [Stata](https://github.com/datacarpentry/stata-economics) and [bash shell](https://github.com/datacarpentry/shell-economics) lessons. 
 </details>
 
@@ -456,9 +461,9 @@ In Q1 2019, the Instructor Training Team worked on producing a workflow for offe
 </details>
 
 ## Membership Team
-<br/>Elizabeth Williams · Talisha Sutton-Kennedy 
+<br/>Elizabeth Williams · Kari L. Jordan
 
-Led by Elizabeth Williams, the Membership Team coordinates the growing number of Carpentries Member Organisations, which build local communities and bring together all The Carpentries programs at organisations across the globe. Working with Elizabeth on the Membership Team is Talisha Sutton-Kennedy and Kari L. Jordan. Tracy Teal previously served in this team. Some of the projects the Membership Team has embarked on since January 2019 include: creating and deploying a membership survey. You can find more details about their quarterly projects work below.
+Led by Elizabeth Williams, the Membership Team coordinates the growing number of Carpentries Member Organisations, which build local communities and bring together all The Carpentries programs at organisations across the globe. Working with Elizabeth on the Membership Team is Kari L. Jordan. Tracy Teal previously served in this team. Some of the projects the Membership Team has embarked on since January 2019 include: creating and deploying a membership survey. You can find more details about their quarterly projects work below.
 
 <details>
 <summary> 
