@@ -470,6 +470,10 @@ Led by Elizabeth Williams, the Membership Team coordinates the growing number of
 <strong>January - March (Q1) 2020</strong>
 </summary>
 
+#### Developing Data Savvy Librarians in California
+
+We have identified a need for  data and computational training among academic librarians throughout California. While the goal of Library Carpentry is to provide this training, outside of a few Carpentries-heavy institutions, there is currently little awareness of The Carpentries or the training the organisation provides. Led by Ariel Deardorff, we hope to pilot new consortial models of Carpentries Membership to develop sustainable Carpentries communities throughout California that increase the state’s capacity to offer training in data and software skills to librarians through this project from Q1 2020. If successful, these models will be expanded to other kinds of library communities in a variety of institutional environments as well as to other regions outside of California. More details about this can be found [in Ariel's January 2020 blog post](https://carpentries.org/blog/2020/01/library-carpentry-announcement/). 
+
 </details>
 
 <details>
