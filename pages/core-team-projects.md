@@ -14,14 +14,26 @@ You can read more about the thought process and rollout behind this current stra
 <br/> 
 
 Led by Kari L. Jordan, the Executive Team proactively brings together perspectives from all individual programmatic teams and established community segments. They discuss and resolve ongoing challenges, develop and implement a shared approach to management and leadership, review and make decisions on budget, oversee and make decisions on Core Team roles and responsibilities, establish and support how the Core Team works together, oversee project work, support the development of revenue opportunities including grants, and support the Executive Director in their work with the Executive Council. 
+
 <details>
 <summary> 
-<strong>October - December (Q4) 2019</strong>
+<strong>January - March (Q1) 2020</strong>
 </summary>
 
 #### Learner Survey Infographics
 
 We collect information from our learners via the pre and post workshop survey. Additionally, we collected long-term impact survey responses in Q4 of 2020. We’ve released several reports using this data, however this year we will only create infographics with the data. This is because the results of our reports often say the same thing. In the future we may write a more comprehensive impact paper, but infographics that our team and community can use will be sufficient for this quarter.
+
+#### The Carpentries Annual Report, 2019
+
+In late 2018, [we released our first Annual Report (for 2018)](https://carpentries.org/blog/2018/10/annual-report/). This report has served as a valuable resource for communicating with both existing community members, as well as potential funders, Members, and others who we want to establish a relationship with. In Q1 2020, will develop 2019's annual report that both communicates updated metrics for our programs and financials, and also showcases the strengths of our organisation and how it has grown over the past year. 
+
+</details>
+
+<details>
+<summary> 
+<strong>October - December (Q4) 2019</strong>
+</summary>
 
 #### Planning for Implementing CoCc Task Force Recommendations 
 
@@ -61,7 +73,7 @@ This project is being scoped to develop a strategic plan that will include our:
 <strong>January - March (Q1) 2019</strong>
 </summary>
 
-#### Develop a system to evaluate and measure project/program outcomes
+#### Develop a System to Evaluate and Measure Project/Program Outcomes
 
 Each staff team project will need sign-off from the Assessment and Equity and Inclusion Lead (Kari). We currently do not have a system to define what assessment/E&I looks like across projects and programmatic outcomes. The purpose of this project is to develop such a system in the form of a rubric and/or checklist.
 </details>
@@ -70,6 +82,13 @@ Each staff team project will need sign-off from the Assessment and Equity and In
 <br/>Elizabeth Williams · Kari L. Jordan · Talisha Sutton-Kennedy 
 
 Led by Elizabeth Williams, the Business Team works on the legal and financial aspects of our project and coordinates with our fiscal sponsor, Community Initiatives. Elizabeth Williams and the team members, Talisha Sutton-Kennedy and Kari Jordan consistently evaluate and plan for our financial sustainability. Tracy Teal previously led this team. Some of the projects the Business Team has embarked on since January 2019 include updating our grants collaboration workflow and producing a 2018 Annual Financial Report to support the Executive Council in strategic planning. More details about their quarterly projects is available below.
+
+<details>
+<summary> 
+<strong>January - March (Q1) 2020</strong>
+</summary>
+
+</details>
 
 <details>
 <summary> 
@@ -135,6 +154,19 @@ developing and implementing a communications strategy for The Carpentries, updat
 
 <details>
 <summary> 
+<strong>January - March (Q1) 2020</strong>
+</summary>
+
+#### Developing a CarpentryConnect Planning Kit
+
+CarpentryConnects are community convenings, organised to bring together community members of The Carpentries that are in close proximity geographically for knowledge exchange, collaboration and networking. As our community has grown in leaps and bounds over time, and these local and regional Carpentries events have become more popular in the last year, and because community members are solely responsible for the planning and execution of the events with minimal input from the Core Carpentries team, this project seeks to provide templates and resources that will serve as guides in planning and carrying out CarpentryConnect events. 
+We hope to lower the barrier to entry in putting together these events, so community members feel empowered to organise for plenty of meetups that add value to their work, and want to uphold the quality of events that are run, given that they have The Carpentries name stamped on them.
+
+
+</details>
+
+<details>
+<summary> 
 <strong>October - December (Q4) 2019</strong>
 </summary>
 #### The Carpentries Tagathon
@@ -161,13 +193,12 @@ Shared values and goals have long been the starting point of communities of prac
 </summary>
 
 #### Communications Strategy and Implementation Plan
+
 As you may remember, [we developed our community communications strategy in Q1](https://carpentries.org/blog/2019/04/how-and-why-we-communicate/), an exercise that allowed us to define our goals around use of our communications platforms, outline the audiences we communicate to, and integrate inclusivity practices for all communications on The Carpentries channels. [We then started implementing it across our platforms and resources in Q2](https://carpentries.org/blog/2019/07/carpentries-comms-strategy/) and have continued with this implementation work in Q3. One of our primary goals for this year is to empower our community members to document and share their knowledge and experiences on our community blog, YouTube channel](https://www.youtube.com/thecarpentries) and other community spaces. Our [communications “how-to” guides](https://docs.carpentries.org/topic_folders/communications/guides/index.html) in our handbook are one primary tool we are currently using to achieve this, so have a read and let us know what other guides you would like The Carpentries team to make available for you.  
 
 #### The Carpentries Values
-As our community coalesces into a shared identity as “The Carpentries”, defining our core values is a priority. Our community values shape everything from the ways that we communicate, to the work that we take on, to the funding opportunities we pursue. [Feedback from our community members](https://carpentries.org/blog/2019/09/carpentries-values-update-and-question-three/) has been, and will continue to be, vital in articulating these values. We are looking forward to continuing these conversations and formulating these values with our community in Q4 and beyond. For everyone who has interacted / collaborated with members of The Carpentries community in workshops, conferences or across different initiatives, take a few minutes to answer three questions via [GitHub](https://github.com/carpentries/conversations/issues/21), [our community Discussion channel](https://carpentries.topicbox.com/groups/discuss/T9029fc4692993ab1/input-needed-help-us-articulate-the-carpentries-values) or anonymously via [this Google Form](https://forms.gle/gZmafyLVKAHBqfgc6).
 
-#### Work outside the CoCc Mandate
-In Q3 2019, we [assembled a task force](https://carpentries.org/blog/2019/07/incidents-outside-cocc-mandate/) to develop recommendations to the Executive Council for developing support structures and guidelines for incidents that happen outside the mandate of The Carpentries Code of Conduct committee. The task force [gathered feedback from our community](https://carpentries.org/blog/2019/08/collecting-incidents-community/) and released a [public report of their discussions and recommendations](https://carpentries.org/blog/2019/09/cocc-taskforce-summary-recommendations/). In Q4, staff and the Executive Council will work together in deciding follow-up actions on these recommendations. 
+As our community coalesces into a shared identity as “The Carpentries”, defining our core values is a priority. Our community values shape everything from the ways that we communicate, to the work that we take on, to the funding opportunities we pursue. [Feedback from our community members](https://carpentries.org/blog/2019/09/carpentries-values-update-and-question-three/) has been, and will continue to be, vital in articulating these values. We are looking forward to continuing these conversations and formulating these values with our community in Q4 and beyond. For everyone who has interacted / collaborated with members of The Carpentries community in workshops, conferences or across different initiatives, take a few minutes to answer three questions via [GitHub](https://github.com/carpentries/conversations/issues/21), [our community Discussion channel](https://carpentries.topicbox.com/groups/discuss/T9029fc4692993ab1/input-needed-help-us-articulate-the-carpentries-values) or anonymously via [this Google Form](https://forms.gle/gZmafyLVKAHBqfgc6).
   
 </details>
 
@@ -208,8 +239,20 @@ Led by Erin Becker, the Curriculum Team guides and oversees curriculum developme
 
 <details>
 <summary> 
+<strong>January - March (Q1) 2020</strong>
+</summary>
+
+#### Image Analysis Curriculum Beta Release
+
+Data Carpentry’s Image Analysis curriculum has started going through beta piloting with Instructors who are not the original lesson authors. In Q1 2020, we hope to publish it on Zenodo, add it to our lesson page, and announce it to the community as a “BETA” lesson. Beta lessons are NOT available upon request (i.e. through the workshop request form), but are considered stable enough for experienced Instructors to teach in self-organised workshops.
+
+</details>
+
+<details>
+<summary> 
 <strong>October - December (Q4) 2019</strong>
 </summary>
+
 #### New Data Carpentry Lessons Being Piloted
 
 With [funding from the Alfred P. Sloan Foundation](https://datacarpentry.org/blog/2018/02/curriculum-dev-scaling), The Carpentries Curriculum Team has been working with community collaborators to develop curricula for Economics and Image Analysis. This quarter, Constantin Pape and Dominik Kutra at EMBL, Germany have updated the [Image Analysis lesson](https://datacarpentry.org/image-processing/), authored by Dr. Tessa Durham Brooks and Dr. Mark Meysenburg at Doane College, Nebraska, USA. This update was focused on converting the lesson from one Python library to another that is easier to install and has better documentation - reducing cognitive load for learners. The updated materials are being piloted at EMBL and the University of Arizona in early 2020 and are scheduled for a beta release in Q1 2020. A new curriculum for Economics, teaching [Stata](https://github.com/datacarpentry/stata-economics) and the [bash shell](https://github.com/datacarpentry/shell-economics) is currently in alpha and is targeted for a beta release in mid 2020.  
@@ -273,13 +316,27 @@ Led by François Michonneau, the Infrastructure Team is behind all of the system
 
 <details>
 <summary> 
+<strong>January - March (Q1) 2020</strong>
+</summary>
+
+#### Automating Routine Emails for Workshops
+
+In Q1 2020, we will work closely with the Workshops Administration team to actualise a priority they identified as part of their Q3 2019 work - email automation for routine emails at predicted times or triggers related to workshop coordination.
+
+#### Scaling Up Instructor Training
+
+Our Instructor Training program is growing rapidly and continued growth is expected in the coming months. To be ready for this growth, in Q1 2020, the infrastructure team will work closely with the Instructor Training team to analyse our existing systems, identify areas where processes could be streamlined or automated, and implement these new procedures. 
+
+</details>
+
+<details>
+<summary> 
 <strong>October - December (Q4) 2019</strong>
 </summary>
 
 #### Workshop Surveys
 
 In October, we [rolled out an update](https://carpentries.org/blog/2019/10/transition-to-typeform/) to our pre- and post-workshop surveys that provides a more intuitive and (hopefully) a better overall experience for both learners and Instructors. Learners can now complete the surveys more quickly, and Instructors now receive a clearer and more actionable overview of their learners’ survey responses. With this new system, we can customise the way results are presented to ensure they are maximally useful for Instructors. If you check your survey results and find yourself thinking “I would really like to see things visualised this way instead” please [get in touch](mailto:francois@carpentries.org)! We’re also seeking a community member to review the code used to generate these reports, as we prepare to open-source this code as a Shiny app. Please [contact François](mailto:francois@carpentries.org) if you’re interested. For any other questions about this new system, please contact [team@carpentries.org](mailto:team@carpentries.org).
-
 
 </details>
 
@@ -304,6 +361,7 @@ Until recently, all of our pre- and post-workshop surveys have been hosted on Su
 A core value of our community is continued improvement through feedback. Learners at our workshops complete pre- and post-workshop surveys. That data is used to inform [our overall assessment](https://zenodo.org/record/1325464#.XXmD4ZNKiv6) and is also made available to individual Instructors for their workshops. The format of the survey results output from SurveyMonkey, however, is not easy to interpret and act upon. Our goal is to make it easier for Instructors to review feedback from their learners and make actionable changes in their teaching (and also to know what worked well!). We’ve been working to create an Instructor-focused survey results format, which will present this information to Instructors in a clear way.  In Q3, we have developed the infrastructure needed to provide a website that will present the results of the surveys to the instructors. We plan to roll out this new system to all our workshops in Q4, and extend it to instructor training events in early 2020.
 
 #### Lesson Program Website Template
+
 As each our our lesson programs (Data Carpentry, Library Carpentry, and Software Carpentry) have grown, so have their websites, driven by a team of dedicated community. This growth has meant that the websites have developed inconsistent structures, often making it difficult for new and veteran community members alike to find the information they are looking for. In Q3, we began developing a standard template for all three lesson program websites, to ensure they all have the same navigation and site map, and only contain lesson program specific content.  All other content will be directed to The Carpentries website and handbook. A small group of community members has provided feedback on the redesign. In future quarters, we will be developing a remote theme based on this design. The three lesson program sites (and any new lesson program site) will connect to this theme, ensuring we maintain a consistent structure as we continue to grow.
 </details>
   
@@ -330,6 +388,22 @@ In Q1 2019, the Infrastructure Team worked on organising and documenting our inf
 <br>Erin Becker · Karen Word
 
 Led by Karen Word, the Instructor Training Team manages our Instructor Training and Trainer Training programs and curricula and works closely with our Trainer community. The members of the Instructor Training Team are SherAaron Hurt and Erin Becker. Some of the projects the Instructor Training Team has embarked on since January 2019 include: a workflow for offering a-la carte Instructor Trainings outside of our membership program. You can find more details about their quarterly projects work below.
+
+<details>
+<summary> 
+<strong>January - March (Q1) 2020</strong>
+</summary>
+
+#### Instructor Training Report
+
+We are going to be scaling up our Instructor Training program by 30-50% in the next three years. We need to figure out what that entails, in terms of resource allocation and which parts in our process are inefficient. In Q1 2020, we will be looking into trends in Instructor, trainee, and applicant diversity based on past program decisions, and develop clear preliminary benchmark(s) of quality that we can track as we make changes, among other things. Our findings will be shared in our Instructor Training report.
+
+
+#### Scaling Up Instructor Training
+
+Our Instructor Training program is growing rapidly and continued growth is expected in the coming months. To be ready for this growth, in Q1 2020, we will analyse our existing systems, identify areas where processes could be streamlined or automated, and implement these new procedures.
+
+</details>
 
 <details>
 <summary> 
@@ -384,6 +458,13 @@ Led by Elizabeth Williams, the Membership Team coordinates the growing number of
 
 <details>
 <summary> 
+<strong>January - March (Q1) 2020</strong>
+</summary>
+
+</details>
+
+<details>
+<summary> 
 <strong>October - December (Q4) 2019</strong>
 </summary>
 
@@ -399,6 +480,7 @@ In October and November, [we shared our 2019 Membership Survey data](https://car
 </summary>
 
 #### Member Organisation Council Meeting and Survey
+
 We held another set of Member Organisation Council Meetings the week of June 17th. There were five meetings that brought together folks building Carpentries communities at their organisations through memberships. The meeting included general discussion on the topic of ‘Managing the Overhead of Membership, Capacity and Community Building’ to share tips, solutions and challenges around building and sustaining local communities. We remain excited about the ability of these meetings to bring member organisation representatives from around the world together to share ideas. We were also able to share some preliminary results from our [2019 Member Organisation Survey](https://carpentries.typeform.com/to/hjtqBI) at the meetings. This survey focused on the goals different organisations have for membership and the areas of membership we could develop to help attain those goals. So far, we can see that there is enthusiasm for exploring the addition of curriculum development, community building resources, and learner support to our membership program. We would like to gather more input from member organisation representatives [through this survey](https://carpentries.typeform.com/to/hjtqBI) and are excited to discuss the results in the next Member Organisation Council meeting. With community and staff input, we can determine the additions and improvements that should be prioritised for maximum impact across Member Organisations.
 
 </details>
@@ -424,10 +506,25 @@ Led by SherAaron Hurt, the Workshop Team develops and implements workflows to ke
 
 <details>
 <summary> 
+<strong>January - March (Q1) 2020</strong>
+</summary>
+
+#### Automating Routine Emails for Workshops
+
+There are several tasks to be completed to successfully plan one workshop. In Q3 2019, we identified a variety of different things we can automate or streamline within AMY to improve the workshop/instructor training coordinator experience, reduce the time it takes to coordinate a workshop or instructor training event, increase reliability of information going to instructors and better collect and track data. In Q1 2020, we will work on a priority we identified in Q3 2019 - email automation for routine emails at predicted times or triggers related to workshop coordination.
+
+#### CarpentryCon2020 Sponsorship Program Pilot
+
+The Sponsorship Exploration Task Force (SEFT) ([link to charter](https://github.com/carpentries/task-forces/blob/master/2019/sponsorship-exploration/sponsorship-exploration-project-charter.md)) has been evaluating The Carpentries approach to Sponsorship and the CarpentryCon 2020 Budget Subcommittee has been developing a model for sponsorship for CarpentryCon 2020. While, overall the Task Force is thinking about Sponsorship for The Carpentries organisation, the Task Force has agreed that rather than starting with organisational sponsorship, we should pilot a sponsorship approach for CarpentryCon 2020. In Q1 2020, we will develop a model to be used for future CarpentryCon events.
+
+</details>
+
+<details>
+<summary> 
 <strong>October - December (Q4) 2019</strong>
 </summary>
 
-###$ Automating Routine Emails for Workshops
+#### Automating Routine Emails for Workshops
 
 If you have organised a Carpentries workshop, you know that there are a *lot* of emails sent as part of this process! Until now, all of those emails have needed to be sent manually, either by the lead instructor, host, or a workshop administrator. This quarter, we have been working on adding functionality to our workshop infrastructure to make it possible to send out these emails automatically. This will reduce administrative burden, enabling us to organise more workshops, and leaving more time for answering your questions about workshops and supporting you with your individual needs. We are planning on piloting email automation with a small group of workshops in early 2020. Please get in touch if you are interested in having your workshop be a part of the pilot!
 
@@ -445,7 +542,7 @@ In Q2 and Q3, we have [redesigned our workshop request form!](https://carpentrie
 * reporting self-organised workshop
 * request for workshop consult and info 
 
-This meant users had to answer a number of questions that weren’t relevant to them, and also made form responses more difficult to process on the back-end. We’ve separated out these three use cases, reducing the number of questions users will see, while keeping everything centralized with [a single landing page](http://carpentries.org/request-workshop). As part of this project, we’ve also updated our [workshops page](https://carpentries.org/workshops/) and begun a pilot to track (and give our Instructors credit for!) non-standard workshops. We are very excited to have these changes go live, and are now moving on to other projects focused on improving our community’s experience around workshops.  Read more in this [blog post](https://carpentries.org/blog/2019/09/Workshop-request-forms-and-more/).
+This meant users had to answer a number of questions that weren’t relevant to them, and also made form responses more difficult to process on the back-end. We’ve separated out these three use cases, reducing the number of questions users will see, while keeping everything centralised with [a single landing page](http://carpentries.org/request-workshop). As part of this project, we’ve also updated our [workshops page](https://carpentries.org/workshops/) and begun a pilot to track (and give our Instructors credit for!) non-standard workshops. We are very excited to have these changes go live, and are now moving on to other projects focused on improving our community’s experience around workshops.  Read more in this [blog post](https://carpentries.org/blog/2019/09/Workshop-request-forms-and-more/).
 
 </details>
 
@@ -457,11 +554,11 @@ This meant users had to answer a number of questions that weren’t relevant to 
   In the first quarter of 2019, the Workshop Administration team, including the [Regional Coordinators](https://carpentries.org/regionalcoordinators/), developed a [list](https://docs.google.com/spreadsheets/d/1e62jof6IgIu6Y-2sz2jZmb_ayLJVOU_UxihEiKZOnSs/edit#gid=0) of all of the tasks that they would like to have automated. We feel strongly about the need for continued human interaction with the community, so our list also includes tasks that should not be automated. In addition to creating the list, we ranked our ideas in order of priority. We then worked with the Infrastructure team to review these two lists and decided on items to be automated in Q2. 
 
   In Q2, the Workshop Administration team will work with the Infrastructure, Membership and Community Development teams to update the Workshop Request Form. Currently, the [single form](https://amy.carpentries.org/forms/workshop/) is used to notify us of centrally-organised workshops, self-organised workshops and inquiries. To ensure that The Carpentries Staff captures the information needed and the Requester/Informer fills out only the necessary fields, we will recreate the one form and divide it into 3 forms: 
-  <ol style="list-style-type: lower-alpha;">
-    <li>Workshop Request Form, </li>
-    <li>Workshop Inquiry Form and </li>
-    <li>Self-Organised Workshops Registration Form. </li>
-  </ol>
+      <ol style="list-style-type: lower-alpha;">
+        <li>Workshop Request Form, </li>
+        <li>Workshop Inquiry Form and </li>
+        <li>Self-Organised Workshops Registration Form. </li>
+      </ol>
   This project will impact and help our community and Member organisations as well as others interested in running Carpentries workshops. 
 
   The Workshop Administration Team is working on updating the process for how workshops are requested and reported. We want to make communicating with us about upcoming workshops (planned or desired) easier and efficient. Please stay tuned for more information about the progress of this update! 
