@@ -8,7 +8,7 @@ Governance of The Carpentries is undertaken by the **Executive Council**, to who
 
 ## Roles and Responsibilities of the Executive Council
 
-The Carpentries Executive Council is the highest leadership body of The Carpentries project. It is responsible for strategic and organizational planning, selecting the Executive Director and evaluating their performance, financial oversight, identifying revenue streams and resource development, approving and monitoring The Carpentries programs and services, and enhancing The Carpentries public image. Members of the council also serve as advocates and ambassadors for the organization, leveraging their networks to benefit the project’s reputation and fundraising. The Executive Council executes these responsibilities through a combination of monthly Executive Council meetings and regular correspondence and collaboration via email and online platforms.
+The Carpentries Executive Council is the highest leadership body of The Carpentries project. It is responsible for strategic and organisational planning, selecting the Executive Director and evaluating their performance, financial oversight, identifying revenue streams and resource development, approving and monitoring The Carpentries programs and services, and enhancing The Carpentries public image. Members of the council also serve as advocates and ambassadors for the organisation, leveraging their networks to benefit the project’s reputation and fundraising. The Executive Council executes these responsibilities through a combination of monthly Executive Council meetings and regular correspondence and collaboration via email and online platforms.
 
 
 [Executive Council Meeting Minutes](https://github.com/carpentries/executive-council-info/tree/master/minutes)
@@ -42,7 +42,7 @@ As well as our Code of Conduct, we have a number of [policies that govern how we
 
 ### Contacting the Executive Council
 
-The Executive Council can be contacted submitting an issue to their GitHub repository; sending them an email; or submitting a form.  [Read more about how to contact the Executive Council](https://github.com/carpentries/executive-council-info).
+The Executive Council can be contacted submitting [an issue to their GitHub repository](https://github.com/carpentries/executive-council-info/issues); sending them [an email](mailto:carpentries-executive-council@carpentries.org); or by [filling this form](https://docs.google.com/forms/d/e/1FAIpQLScdo7AlYfeQN-z5dnO-p8KVI8t17kQUc1VH-Cvrlga5txIwCA/viewform?usp=sf_link).  [Read more about how to contact the Executive Council](https://github.com/carpentries/executive-council-info).
 
 
 
