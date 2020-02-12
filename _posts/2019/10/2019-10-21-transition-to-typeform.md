@@ -56,6 +56,6 @@ We are planning on open-sourcing the code behind this before the end of the year
 
 ## Acknowledgments 
 
-The presentation of the survey results was developped using feedback and ideas from members of The Carpentries community including Ben Marwick, Katrin Leinweber, and Katrin Tirok.
+The presentation of the survey results was developed using feedback and ideas from members of The Carpentries community including Ben Marwick, Katrin Leinweber, and Katrin Tirok.
 
 For any other questions about this new system, please reach out to [team@carpentries.org](mailto:team@carpentries.org).
