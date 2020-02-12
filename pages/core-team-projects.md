@@ -515,7 +515,7 @@ In Q1 2019, the Membership Team worked on [creating and deploying a membership s
 ## Workshop Administration Team
 <br/>Maneesha Sane · SherAaron Hurt · Talisha Sutton-Kennedy
 
-Led by SherAaron Hurt, the Workshop Team develops and implements workflows to keep our workshops running smoothly. This team also supports the work of regional workshop administrators. The members of the Workshop Team are Talisha Sutton-Kennedy and Kari L. Jordan.  Some of the projects the Workshop Team has embarked on since January 2019 include: working with the workshop administrators, they will be developing a workshop workflow automation priority list. You can find more details about their quarterly projects work below.
+Led by SherAaron Hurt, the Workshop Team develops and implements workflows to keep our workshops running smoothly. This team also supports the work of regional workshop administrators. The members of the Workshop Team are Talisha Sutton-Kennedy, and Angelique van Rensburg.  Some of the projects the Workshop Team has embarked on since January 2019 include: working with the Regional Coordinators to implement workshop workflow automation priority list and updating forms and communications regarding workshop coordiantion. You can find more details about their quarterly projects work below.
 
 <details>
 <summary> 
@@ -524,7 +524,7 @@ Led by SherAaron Hurt, the Workshop Team develops and implements workflows to ke
 
 #### Automating Routine Emails for Workshops
 
-There are several tasks to be completed to successfully plan one workshop. In Q3 2019, we identified a variety of different things we can automate or streamline within AMY to improve the workshop/instructor training coordinator experience, reduce the time it takes to coordinate a workshop or instructor training event, increase reliability of information going to instructors and better collect and track data. In Q1 2020, we will work on a priority we identified in Q3 2019 - email automation for routine emails at predicted times or triggers related to workshop coordination.
+There are several tasks to be completed to successfully plan one workshop. In Q1 2019, we identified a variety of different things we can automate or streamline within AMY to improve the workshop/instructor training coordinator experience, reduce the time it takes to coordinate a workshop or instructor training event, increase reliability of information going to instructors and better collect and track data. In Q1 2020, we will work on a priority we identified in Q1 2019 - email automation for routine emails at predicted times or triggers related to workshop coordination.
 
 #### CarpentryCon2020 Sponsorship Program Pilot
 
