@@ -28,7 +28,7 @@ The Budget Subcommittee has created a conference [Sponsorship Kit](https://drive
  
 If you are uncomfortable emailing people but interested in lending a hand, there are other ways you can help. If you would prefer us to contact them and share the benefits of becoming a sponsor, please complete [this form](https://docs.google.com/forms/d/1ftw8g-f2A8Oaxpeaz_0uOisP8Mn0lDpMpvI1TKTDOLw/edit). 
 
-Lastly, we have compiled a [list of potential sponsors](https://docs.google.com/spreadsheets/d/1yWARRlcBX7Q05uIG_Mtx_MHRBLcSfCHH-YLVgdOkMPU/edit#gid=0) we will be contacting. If you have any additional companies you would like to add, please email <carpentrycon-budget@lists.carpentries.org>. 
+Lastly, we are compiling a list of potential sponsors we will be contacting. If you have any suggestions or have companies you would like to add, please email <carpentrycon-budget@lists.carpentries.org>. 
 
  [The Carpentries values](https://carpentries.org/values/) *Community Collaboration* and *All Contributions*, and we hope to execute another great CarpentryCon with your support. 
 
