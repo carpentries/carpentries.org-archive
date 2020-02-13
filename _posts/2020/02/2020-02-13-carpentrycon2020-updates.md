@@ -30,7 +30,7 @@ Proposals for sessions (breakouts, workshops and skill-ups) are still open until
 
 Proposals for poster presentations and lightning talks are now open! You can submit your proposal [here](https://forms.gle/UU8M9k14bbDqam1r9).
 
-The Budget Subcommittee is working diligently to secure funding to be able to plan a conference that is unforgettable. If you would like to assist, please review [this blog post]9https://carpentries.org/blog/2020/02/carpentrycon2020-sponsorship-kit/) on how you can help us! 
+The Budget Subcommittee is working diligently to secure funding to be able to plan a conference that is unforgettable. If you would like to assist, please review [this blog post](https://carpentries.org/blog/2020/02/carpentrycon2020-sponsorship-kit/) on how you can help us! 
 
 ### Stay Connected to CarpentryCon!
 
