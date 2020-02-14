@@ -17,6 +17,10 @@ Led by Kari L. Jordan, the Executive Team proactively brings together perspectiv
 
 <details>
 <summary> 
+<strong>Executive Team's Quarterly Projects</strong>
+</summary>
+<details>
+<summary> 
 <strong>January - March (Q1) 2020</strong>
 </summary>
 
@@ -78,6 +82,8 @@ This project is being scoped to develop a strategic plan that will include our:
 Each staff team project will need sign-off from the Assessment and Equity and Inclusion Lead (Kari). We currently do not have a system to define what assessment/E&I looks like across projects and programmatic outcomes. The purpose of this project is to develop such a system in the form of a rubric and/or checklist.
 </details>
 
+</details>
+
 ## Business Team
 <br/>Elizabeth Williams · Kari L. Jordan · Talisha Sutton-Kennedy 
 
@@ -85,12 +91,17 @@ Led by Elizabeth Williams, the Business Team works on the legal and financial as
 
 <details>
 <summary> 
+<strong>Business Team's Quarterly Projects</strong>
+</summary>
+
+<details>
+<summary> 
 <strong>January - March (Q1) 2020</strong>
+</summary>
 
 #### 2019 Financial Report
 
 The conclusion of 2019, marked the end of our 2019 fiscal year, a new strategic plan and transitions within both our Executive Council and Executive Team. This annual report will outline the financial trends over the last year, our financial status at the end of the year, and provide an outlook going into 2020. Through this report, we hope to provide The Carpentries leadership (EC & Executive Team) the resources to make informed strategic financial decisions to support The Carpentries’ programs and to allow the broader community easy access to more detailed financial information
-</summary>
 
 </details>
 
@@ -149,6 +160,7 @@ In Q2, we assembled a [Sponsorship Model Task Force](https://carpentries.org/blo
 In Q1 2019, the business Team worked on updating our grants collaboration workflow and producing a 2018 Annual Financial Report to support the [Executive Council](http://static.carpentries.org/governance/) in strategic planning.
 </details>
 
+</details>
 
 ## Community Development Team
 <br>Angelique van Rensburg · Kari L. Jordan · Serah Rono
@@ -156,6 +168,10 @@ In Q1 2019, the business Team worked on updating our grants collaboration workfl
 Led by Serah Njambi Rono, the Community Development Team works to develop and maintain an open and welcoming community culture by supporting our various committees and task forces, and by introducing and running various initiatives that result in increased pathways for collaboration in our community, as well as equitable  distribution of resources, opportunities and access to inclusive spaces for our community members globally. Kari L. Jordan is a member of the Community Development Team, and we are currently recruiting for a Communications Manager. Chris Erdmann and Tracy Teal also served in this team. Some of the projects the Community Development Team has embarked on since January 2019 include:
 developing and implementing a communications strategy for The Carpentries, updating our Code of Conduct documentation with the Code of Conduct Committee, The Carpentries Values Project, The Carpentries Tagathon, The Carpentries Gratitudes project among others. You can find more details about their quarterly project work below.
 
+<details>
+<summary> 
+<strong>Community Development Team's Quarterly Projects</strong>
+</summary>
 <details>
 <summary> 
 <strong>January - March (Q1) 2020</strong>
@@ -237,11 +253,17 @@ As our community coalesces into a shared identity as “The Carpentries”, defi
 In Q1 2019,  the Community Development Team worked on developing a communications strategy and [updating our Code of Conduct documentation](https://github.com/carpentries/coc-guidelines-taskforce/issues) with [the Code of Conduct Committee](https://carpentries.org/coc-ctte/).  
 </details>
 
+</details>
+
 ## Curriculum Team
 <br/>Erin Becker · François Michonneau
 
 Led by Erin Becker, the Curriculum Team guides and oversees curriculum development and maintenance and works closely with our Maintainer community and Curriculum Advisor committees. François Michonneau is a member of the Curriculum Team. Some of the projects the Curriculum Team has embarked on since January 2019 include: updating the format of Maintainer meetings, producing a first draft of a Curriculum Development Handbook, working with the Genomics R Maintainers to make progress towards publishing a lesson for working with Genomics data in R, working with the Maintainers group to develop a prototype for our new lesson template, and working with the Library Carpentry Maintainers and Curriculum Advisors to continue to develop Library Carpentry’s curricula. You can find more details about their quarterly projects work below.
 
+<details>
+<summary> 
+<strong>Curriculum Team's Quarterly Projects</strong>
+</summary>
 <details>
 <summary> 
 <strong>January - March (Q1) 2020</strong>
@@ -318,10 +340,17 @@ In addition to the Image Analysis curriculum work discussed above, our grant fro
 In Q1 2019, the Curriculum Team worked on updating the format of [Maintainer meetings](https://docs.google.com/document/d/12OvistgHUxpLg7w2p9COCopf4jRzlUZ5LLXNiOZws4Y/edit), producing a first draft of a [Curriculum Development Handbook](https://docs.google.com/document/d/19xnq3XiTwlUa5gA8YQhwgb-1_hL6jdBK18HC7Ngmh1k/edit), working with the Genomics R Maintainers to make progress towards publishing a lesson for working with [Genomics data in R](https://docs.google.com/document/d/1JU849yX1Noj0Z7pwJYBkande1DG506h-3SC06lm10LE/edit), working with the Maintainers group to develop a prototype for our [new lesson template](https://docs.google.com/document/d/1bkgXq4yHb7iq9m-FuOsMKHHJERpx6XS1wsAbpN5qEwA/edit), and working with the Library Carpentry Maintainers and Curriculum Advisors to continue to develop Library Carpentry’s curricula. Whew! 
 </details>
 
+</details>
+
 ## Infrastructure Team
 <br>François Michonneau · Maneesha Sane 
 
 Led by François Michonneau, the Infrastructure Team is behind all of the systems that keep our organisation running (including Etherpads, lesson templates, database management and more!). Maneesha Sane is a member of the Infrastructure Team. Tracy Teal previously served in this team. Some of the projects the Infrastructure Team has embarked on since January 2019 include: organising and documenting our infrastructure systems, and migrating our surveys from SurveyMonkey to Typeform. You can find more details about their quarterly projects work below.
+
+<details>
+<summary> 
+<strong>Infrastructure Team's Quarterly Projects</strong>
+</summary>
 
 <details>
 <summary> 
@@ -393,10 +422,17 @@ As each our our lesson programs (Data Carpentry, Library Carpentry, and Software
 In Q1 2019, the Infrastructure Team worked on organising and documenting our infrastructure systems and on migrating our surveys from SurveyMonkey to Typeform.
 </details>
 
+</details>
+
 ## Instructor Training Team
 <br>Erin Becker · Karen Word
 
 Led by Karen Word, the Instructor Training Team manages our Instructor Training and Trainer Training programs and curricula and works closely with our Trainer community. The members of the Instructor Training Team are SherAaron Hurt and Erin Becker. Some of the projects the Instructor Training Team has embarked on since January 2019 include: a workflow for offering a-la carte Instructor Trainings outside of our membership program. You can find more details about their quarterly projects work below.
+
+<details>
+<summary> 
+<strong>Instructor Training Team's Quarterly Projects</strong>
+</summary>
 
 <details>
 <summary> 
@@ -460,10 +496,17 @@ In January, we increased the number of teaching demonstration sessions we ran to
 In Q1 2019, the Instructor Training Team worked on producing a workflow for offering [a-la carte Instructor Trainings](https://docs.google.com/document/d/1MNkMllc22IFlc2Pau-x88azfi1sxSham9dl4XS3JNPQ/edit) outside of our membership program.  
 </details>
 
+</details>
+
 ## Membership Team
 <br/>Elizabeth Williams · Kari L. Jordan
 
 Led by Elizabeth Williams, the Membership Team coordinates the growing number of Carpentries Member Organisations, which build local communities and bring together all The Carpentries programs at organisations across the globe. Working with Elizabeth on the Membership Team is Kari L. Jordan. Tracy Teal previously served in this team. Some of the projects the Membership Team has embarked on since January 2019 include: creating and deploying a membership survey. You can find more details about their quarterly projects work below.
+
+<details>
+<summary> 
+<strong>Membership Team's Quarterly Projects</strong>
+</summary>
 
 <details>
 <summary> 
@@ -512,10 +555,17 @@ We held another set of Member Organisation Council Meetings the week of June 17t
 In Q1 2019, the Membership Team worked on [creating and deploying a membership survey](https://docs.google.com/document/d/1sbuHbQi9wrnJSY8Nur4sAT6d9GL_MK1Z2_yNf4EjSK0/edit). 
 </details>
 
-## Workshop Administration Team
-<br/> Angelique van Rensburg · Maneesha Sane · SherAaron Hurt · Talisha Sutton-Kennedy
+</details>
 
-Led by SherAaron Hurt, the Workshop Team develops and implements workflows to keep our workshops running smoothly. This team also supports the work of regional workshop administrators. The members of the Workshop Team are Talisha Sutton-Kennedy, and Angelique van Rensburg.  Some of the projects the Workshop Team has embarked on since January 2019 include: working with the Regional Coordinators to implement workshop workflow automation priority list and updating forms and communications regarding workshop coordiantion. You can find more details about their quarterly projects work below.
+## Workshop Administration Team
+<br/>Maneesha Sane · SherAaron Hurt · Talisha Sutton-Kennedy
+
+Led by SherAaron Hurt, the Workshop Team develops and implements workflows to keep our workshops running smoothly. This team also supports the work of regional workshop administrators. The members of the Workshop Team are Talisha Sutton-Kennedy and Kari L. Jordan.  Some of the projects the Workshop Team has embarked on since January 2019 include: working with the workshop administrators, they will be developing a workshop workflow automation priority list. You can find more details about their quarterly projects work below.
+
+<details>
+<summary> 
+<strong>Workshop Administration Team's Quarterly Projects</strong>
+</summary>
 
 <details>
 <summary> 
@@ -524,7 +574,7 @@ Led by SherAaron Hurt, the Workshop Team develops and implements workflows to ke
 
 #### Automating Routine Emails for Workshops
 
-There are several tasks to be completed to successfully plan one workshop. In Q1 2019, we identified a variety of different things we can automate or streamline within AMY to improve the workshop/instructor training coordinator experience, reduce the time it takes to coordinate a workshop or instructor training event, increase reliability of information going to instructors and better collect and track data. In Q1 2020, we will work on a priority we identified in Q1 2019 - email automation for routine emails at predicted times or triggers related to workshop coordination.
+There are several tasks to be completed to successfully plan one workshop. In Q3 2019, we identified a variety of different things we can automate or streamline within AMY to improve the workshop/instructor training coordinator experience, reduce the time it takes to coordinate a workshop or instructor training event, increase reliability of information going to instructors and better collect and track data. In Q1 2020, we will work on a priority we identified in Q3 2019 - email automation for routine emails at predicted times or triggers related to workshop coordination.
 
 #### CarpentryCon2020 Sponsorship Program Pilot
 
@@ -582,6 +632,8 @@ This meant users had to answer a number of questions that weren’t relevant to 
 <strong>January - March (Q1) 2019</strong>
 </summary>
 In Q1 2019, working with the workshop administrators, the Workshop Administration team worked on developing a [workshop workflow automation priority list](https://docs.google.com/document/d/1Q-7y7X28U16JBoBPMnJtU271poK0s0n5Pz0tcV2v5Qc/edit)
+</details>
+
 </details>
 
 
