@@ -11,7 +11,7 @@ To make sure work that is important, but not urgent, is prioritised and gets don
 You can read more about the thought process and rollout behind this current strategy [in this 2019 blog post](https://carpentries.org/blog/2019/02/projects-teams-job-plans/).
 
 ## Executive Team 
-<br/> 
+<br/> Erin Becker · Elizabeth Williams · Kari L. Jordan
 
 Led by Kari L. Jordan, the Executive Team proactively brings together perspectives from all individual programmatic teams and established community segments. They discuss and resolve ongoing challenges, develop and implement a shared approach to management and leadership, review and make decisions on budget, oversee and make decisions on Core Team roles and responsibilities, establish and support how the Core Team works together, oversee project work, support the development of revenue opportunities including grants, and support the Executive Director in their work with the Executive Council. 
 
