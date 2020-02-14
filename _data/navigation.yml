@@ -80,6 +80,8 @@
   dropdown:
   - title: "Our Team"
     url: "/team/"
+  - title: "Core Team Projects"
+    url: "/core-team-projects/"
   - title: "Our Instructors"
     url: "/instructors/"
   - title: "Our Maintainers"
