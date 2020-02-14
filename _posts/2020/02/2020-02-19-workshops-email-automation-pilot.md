@@ -5,7 +5,7 @@ teaser: "The Workshop Administration Team at The Carpentries  will be testing a 
 title: "Piloting Automated Emails for Carpentries Workshops"
 date: 2020-02-19
 time: "09:00:00"
-tags: ["Carpentries Workshops”]
+tags: ["Carpentries Workshops"]
 ---
 
 [Organising a Carpentries Workshop](https://carpentries.org/workshops/#workshop-organising) requires many steps. Not only for the workshop organiser and instructor, but also for the [Regional Coordinators](https://carpentries.org/regionalcoordinators/). 
