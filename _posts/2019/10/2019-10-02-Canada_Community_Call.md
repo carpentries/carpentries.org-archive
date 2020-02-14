@@ -1,6 +1,6 @@
 ---
 layout: page
-authors: ["John Simpson", "SherAaron Hurt"]
+authors: ["John Simpson", "Sher! Hurt"]
 teaser: "Chat with Canadian Regional Coordinators"
 title: "The Carpentries Canadian Community Discussion"
 date: 2019-10-02

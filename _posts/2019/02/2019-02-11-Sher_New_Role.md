@@ -1,6 +1,6 @@
 ---
 layout: page
-authors: ["SherAaron Hurt"]
+authors: ["Sher! Hurt"]
 teaser: "Sher! Shares the News"
 title: "Sher! Transitions into new role: Workshop & Logistics Manager"
 date: 2019-02-11

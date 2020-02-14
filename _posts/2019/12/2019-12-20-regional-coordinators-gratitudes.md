@@ -1,6 +1,6 @@
 ---
 layout: page
-authors: ["SherAaron Hurt"]
+authors: ["Sher! Hurt"]
 teaser: "Regional Coordinators keep our workshops going!"
 title: "We Appreciate the Regional Coordinators!"
 date: 2019-12-20

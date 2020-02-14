@@ -1,6 +1,6 @@
 ---
 layout: page
-authors: ["SherAaron Hurt"]
+authors: ["Sher! Hurt"]
 teaser: "Workshops...Request? Notify? Inquire? What Do I Do?"
 title: "Upcoming Updated Forms for Workshops & Workshop Section of The Carpentries Website"
 date: 2019-08-20
