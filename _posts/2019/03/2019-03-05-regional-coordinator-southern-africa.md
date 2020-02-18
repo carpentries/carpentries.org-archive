@@ -3,7 +3,7 @@ layout: page
 authors: ["Serah Njambi Rono", "Sher! Hurt", "Anelda van der Walt", "Juan Steyn", "Tracy Teal", "Erin Becker"]
 teaser: "We're hiring a Regional Coordinator for Southern Africa!"
 title: "Growing The Carpentries Community in Africa: Hiring a Regional Coordinator"
-tags: ["Regional Coordinators", "Africa"]
+tags: ["Carpentries Regional Coordinators", "Africa"]
 date: 2019-03-05
 time: "09:00:00"
 ---

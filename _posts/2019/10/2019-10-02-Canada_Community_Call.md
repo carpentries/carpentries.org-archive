@@ -5,7 +5,7 @@ teaser: "Chat with Canadian Regional Coordinators"
 title: "The Carpentries Canadian Community Discussion"
 date: 2019-10-02
 time: "17:00:00"
-tags: ["Regional Coordinators", "Discussion Sessions", "North America"]
+tags: ["Carpentries Regional Coordinators", "Discussion Sessions", "North America"]
 ---
 
 [The Carpentries Canadian Regional Coordinators](https://carpentries.org/regionalcoordinators/) will be hosting a Community Discussion on [Monday, October 7th at 18:00 UTC](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Carpentries+Discussion+Session&iso=20191007T18&p1=1440) as a follow-up to our last call about [constructing The Carpentries in Canada](https://carpentries.org/blog/2019/05/Canada-Community-Call/).

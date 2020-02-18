@@ -5,7 +5,7 @@ teaser: "How to connect with your Regional Coordinator"
 title: "Introducing The Carpentries' Regional Coordinators"
 date: 2019-03-05
 time: "06:00:00"
-tags: ["Regional Coordinators", "Community", "Workshops"]
+tags: ["Carpentries Regional Coordinators", "Community", "Workshops"]
 ---
 
 

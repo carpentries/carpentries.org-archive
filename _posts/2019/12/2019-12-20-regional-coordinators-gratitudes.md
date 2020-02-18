@@ -5,7 +5,7 @@ teaser: "Regional Coordinators keep our workshops going!"
 title: "We Appreciate the Regional Coordinators!"
 date: 2019-12-20
 time: "00:00:00"
-tags: ["Green Stickies", "Regional Coordinators", "Workshops"]
+tags: ["Green Stickies", "Carpentries Regional Coordinators", "Workshops"]
 ---
 
 How did [The Carpentries](https://carpentries.org) oversee 543 workshops globally this year?! Two words…. [Regional Coordinators](https://carpentries.org/regionalcoordinators/)! Around the world, Carpentries workshops are organised by a team of eight Regional Coordinators. 
