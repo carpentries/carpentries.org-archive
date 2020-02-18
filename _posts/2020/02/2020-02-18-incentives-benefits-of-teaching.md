@@ -10,7 +10,7 @@ tags: ["Teaching", "Carpentries Regional Coordinators"]
 
 The Software Sustainability Institute believes in the benefits of open development, sharing and collaborating with a community as well as best practices in openness, crediting, citing and developing research software. What are the benefits for instructors of getting involved in teaching computational research skills and these best practices? And why should institutions allow staff to use some of their time to teach their colleagues and get involved in communities such as The Carpentries?
 
-## Networking improves Research
+## Networking Improves Research
 
 Getting involved in big, international teaching communities of practice, such as The Carpentries, brings real personal and institutional benefits. Institutionally, it helps create a skilled research force and increases capability and capacity. Personally, it opens the door to a diverse, vibrant and active community with vast experience and willingness to help and collaborate. It offers increased social connections, gives instructors the chance to learn skills such as teaching or coding, creates stronger cross-disciplinary networks and improves  the instructor’s own research. These are just some of the important reasons why instructors stay involved in such communities, according to [Value of Software Carpentry to Instructors Report](https://software-carpentry.org/files/bib/duckles-instructor-engagement-2016.pdf) by [Beth Duckles](https://twitter.com/bduckles), and bring significant advantages to research institutions and funders.
 
