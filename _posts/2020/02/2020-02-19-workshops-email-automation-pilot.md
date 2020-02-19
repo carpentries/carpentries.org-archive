@@ -10,7 +10,7 @@ tags: ["Carpentries Workshops"]
 
 [Organising a Carpentries Workshop](https://carpentries.org/workshops/#workshop-organising) requires many steps - not only for the workshop organiser and instructor, but also for the [Regional Coordinators](https://carpentries.org/regionalcoordinators/). 
 
-So far this year, The Carpentries has held 114 workshops. On average, Regional Coordinators must complete 17 steps when organising a self-organised workshop and 31 steps for centrally-organised workshops. The [Workshop Administration Team (WAT)]({{ site.url }}{{ site.baseurl }}/core-team-projects/#workshop-administration-team) recognises this can be overwhelming and have been working to make the workflow more efficient. 
+So far this year, The Carpentries has scheduled 59 workshops. On average, Regional Coordinators must complete 17 steps when organising a self-organised workshop and 31 steps for centrally-organised workshops. The [Workshop Administration Team (WAT)]({{ site.url }}{{ site.baseurl }}/core-team-projects/#workshop-administration-team) recognises this can be overwhelming and have been working to make the workflow more efficient. 
 
 One of the ways to reduce the amount of time and tasks will be to automate the emails that are sent routinely. WAT has taken time to identify which emails would be useful to automate and which emails should still come directly from the Regional Coordinator. 
 
