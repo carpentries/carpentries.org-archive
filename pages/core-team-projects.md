@@ -537,9 +537,9 @@ In Q1 2019, the Instructor Training Team worked on producing a workflow for offe
 </details>
 
 ## Membership Team
-<br/>Elizabeth Williams · Kari L. Jordan
+<br/>Elizabeth Williams
 
-Led by Elizabeth Williams, the Membership Team coordinates the growing number of Carpentries Member Organisations, which build local communities and bring together all The Carpentries programs at organisations across the globe. Working with Elizabeth on the Membership Team is Kari L. Jordan. Tracy Teal previously served in this team. Some of the projects the Membership Team has embarked on since January 2019 include: creating and deploying a membership survey. You can find more details about their quarterly projects work below.
+Led by Elizabeth Williams, the Membership Team coordinates the growing number of Carpentries Member Organisations, which build local communities and bring together all The Carpentries programs at organisations across the globe. Some of the projects the Membership Team has embarked on since January 2019 include: creating and deploying a membership survey. You can find more details about their quarterly projects work below.
 
 <details>
 <summary> 
@@ -550,7 +550,7 @@ Led by Elizabeth Williams, the Membership Team coordinates the growing number of
 <summary> 
 <strong>January - March (Q1) 2020</strong>
 </summary>
-Ariel Deardorff · Elizabeth Williams · Kari L. Jordan
+Ariel Deardorff · Elizabeth Williams
 
 #### Developing Data Savvy Librarians in California
 
