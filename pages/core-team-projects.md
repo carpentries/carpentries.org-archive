@@ -11,7 +11,7 @@ To make sure work that is important, but not urgent, is prioritised and gets don
 You can read more about the thought process and rollout behind this current strategy [in this 2019 blog post](https://carpentries.org/blog/2019/02/projects-teams-job-plans/).
 
 ## Executive Team 
-<br/> Erin Becker · Elizabeth Williams · Kari L. Jordan
+<br/> Erin Becker · François Michonneau · Kari L. Jordan
 
 Led by Kari L. Jordan, the Executive Team proactively brings together perspectives from all individual programmatic teams and established community segments. They discuss and resolve ongoing challenges, develop and implement a shared approach to management and leadership, review and make decisions on budget, oversee and make decisions on Core Team roles and responsibilities, establish and support how the Core Team works together, oversee project work, support the development of revenue opportunities including grants, and support the Executive Director in their work with the Executive Council. 
 
@@ -23,6 +23,7 @@ Led by Kari L. Jordan, the Executive Team proactively brings together perspectiv
 <summary> 
 <strong>January - March (Q1) 2020</strong>
 </summary>
+Erin Becker · François Michonneau · Kari L. Jordan
 
 #### Learner Survey Infographics
 
@@ -38,6 +39,7 @@ In late 2018, [we released our first Annual Report (for 2018)](https://carpentri
 <summary> 
 <strong>October - December (Q4) 2019</strong>
 </summary>
+Erin Becker · Elizabeth Williams · Kari L. Jordan · Tracy Teal
 
 #### Planning for Implementing CoCc Task Force Recommendations 
 
@@ -48,6 +50,7 @@ A task force met four times during August and September 2019 to make recommendat
 <summary> 
 <strong>July - September (Q3) 2019</strong>
 </summary>
+Erin Becker · Elizabeth Williams · Kari L. Jordan · Tracy Teal
 
 #### Recommendations for incidents outside the mandate of The Carpentries Code of Conduct committee 
 
@@ -58,6 +61,7 @@ With a growing community and an increasing number of Carpentries spaces (online 
 <summary> 
 <strong>April - June (Q2) 2019</strong>
 </summary>
+Erin Becker · Elizabeth Williams · Kari L. Jordan · Tracy Teal
 
 #### Equity, Inclusion, and Accessibility Roadmap 
 
@@ -76,6 +80,7 @@ This project is being scoped to develop a strategic plan that will include our:
 <summary> 
 <strong>January - March (Q1) 2019</strong>
 </summary>
+Erin Becker · Elizabeth Williams · Kari L. Jordan · Tracy Teal
 
 #### Develop a System to Evaluate and Measure Project/Program Outcomes
 
@@ -85,9 +90,9 @@ Each staff team project will need sign-off from the Assessment and Equity and In
 </details>
 
 ## Business Team
-<br/>Elizabeth Williams · Kari L. Jordan · Talisha Sutton-Kennedy 
+<br/> Kari L. Jordan · Talisha Sutton-Kennedy 
 
-Led by Elizabeth Williams, the Business Team works on the legal and financial aspects of our project and coordinates with our fiscal sponsor, Community Initiatives. Elizabeth Williams and her team members, Talisha Sutton-Kennedy and Kari L. Jordan, consistently evaluate and plan for our financial sustainability. Tracy Teal previously served on this team. Some of the projects the Business Team has embarked on since January 2019 include updating our grants collaboration workflow and producing a 2018 Annual Financial Report to support the Executive Council in strategic planning. More details about their quarterly projects is available below.
+Led by Kari Jordan, the Business Team works on the legal and financial aspects of our project and coordinates with our fiscal sponsor, Community Initiatives. Together with her team member, Talisha Sutton-Kennedy, Kari consistently evaluates and plans for our financial sustainability. Elizabeth Williams and Tracy Teal previously served on this team. Some of the projects the Business Team has embarked on since January 2019 include updating our grants collaboration workflow and producing a 2018 Annual Financial Report to support the Executive Council in strategic planning. More details about their quarterly projects is available below.
 
 <details>
 <summary> 
@@ -98,6 +103,7 @@ Led by Elizabeth Williams, the Business Team works on the legal and financial as
 <summary> 
 <strong>January - March (Q1) 2020</strong>
 </summary>
+Kari L. Jordan · Talisha Sutton-Kennedy
 
 #### 2019 Financial Report
 
@@ -109,6 +115,8 @@ The conclusion of 2019, marked the end of our 2019 fiscal year, a new strategic 
 <summary> 
 <strong>October - December (Q4) 2019</strong>
 </summary>
+Elizabeth Williams · Tracy Teal
+
 #### Grants to Support Program Development and Scaling
 
 In November 2019, [we announced](https://carpentries.org/blog/2019/11/czi-moore-grant/) that we have been awarded USD $2.65 million from Gordon and Betty Moore Foundation and Chan Zuckerberg Initiative to support our work over the next three years. This funding will support the growth of our Instructor Training program and Trainer Training programs, enable the creation of a platform for community members to share high-quality, peer-reviewed lesson materials (Carpentries Lab), move forward on our [Equity, Inclusion, and Accessibility Roadmap](https://carpentries.org/files/assessment/equity_inclusion_accessibility_roadmap.pdf), more systematically support local community growth and leadership, and much more! For more information about the work these grants are supporting, see [our announcement](https://carpentries.org/blog/2019/11/czi-moore-grant/). Also check out our [Supporters page](https://carpentries.org/supporters/) for more details on funding sources.
@@ -127,6 +135,7 @@ In 2018, [we released our first annual report](https://carpentries.org/blog/2018
 <summary> 
 <strong>July - September (Q3) 2019</strong>
 </summary>
+Elizabeth Williams · Tracy Teal
 
 #### Financial Report, Budget Development and Tracking
 
@@ -139,6 +148,8 @@ In Q3 the Business Team has continued this work in cooperation with the Carpentr
 <summary> 
 <strong>April - June (Q2) 2019</strong>
 </summary>
+Elizabeth Williams · Tracy Teal
+
   This quarter (Q2 2019), the Business team focused on tracking and reporting our financial status and diversifying our income sources. In Q1 2019, we started organising and analysing the financial data we have for the year 2018, and we have now presented it as a report to the Executive Council, to give them a clear idea of our current financial trends and help them to make informed strategic decisions. Similarly, we will be developing a workflow to generate and track quarterly and yearly budgets. As our community grows and diversifies, so must our business practices, and developing a system for monitoring income and expenses will help us sustain financial health. 
 
   Based on information from 2018 on the growth of our activities, we will also be exploring individual donations and sponsorships as additional models for financial support. We currently have a donation button on our website, leading to a donation page that has been out of date and lacking in engagement. This page will be updated, so that donors have a clear understanding of the impact their donation will have. A Sponsorship Model Task Force will be assembled to explore a model for sponsorship with the community. We see a sponsorship model that invites sponsors to share the vision of our organisation as having potential for stable funding and partnerships.
@@ -157,15 +168,17 @@ In Q2, we assembled a [Sponsorship Model Task Force](https://carpentries.org/blo
 <summary> 
 <strong>January - March (Q1) 2019</strong>
 </summary>
+Elizabeth Williams · Tracy Teal
+
 In Q1 2019, the business Team worked on updating our grants collaboration workflow and producing a 2018 Annual Financial Report to support the [Executive Council](http://static.carpentries.org/governance/) in strategic planning.
 </details>
 
 </details>
 
 ## Community Development Team
-<br>Angelique van Rensburg · Kari L. Jordan · Serah Rono
+<br>Angelique van Rensburg · Kari L. Jordan · Omar Khan · Serah Rono
 
-Led by Serah Njambi Rono, the Community Development Team works to develop and maintain an open and welcoming community culture by supporting our various committees and task forces, and by introducing and running various initiatives that result in increased pathways for collaboration in our community, as well as equitable  distribution of resources, opportunities and access to inclusive spaces for our community members globally. Kari L. Jordan is a member of the Community Development Team, and we are currently recruiting for a Communications Manager. Chris Erdmann and Tracy Teal also served in this team. Some of the projects the Community Development Team has embarked on since January 2019 include:
+Led by Serah Njambi Rono, the Community Development Team works to develop and maintain an open and welcoming community culture by developing, testing and implementing various communication strategies, supporting our various committees and task forces, and by introducing and running various initiatives that result in increased pathways for collaboration in our community, as well as equitable  distribution of resources, opportunities and access to inclusive spaces for our community members globally. The Carpentries Equity and Inclusion Lead - Kari Jordan, Communications Manager - Omar Khan, Regional Coordinator for Southern Africa - Angelique van Rensburg, and our incoming Curriculum Community Developer all sit on this team. Chris Erdmann and Tracy Teal also served in this team in 2019. Some of the projects the Community Development Team has embarked on since January 2019 include:
 developing and implementing a communications strategy for The Carpentries, updating our Code of Conduct documentation with the Code of Conduct Committee, The Carpentries Values Project, The Carpentries Tagathon, The Carpentries Gratitudes project among others. You can find more details about their quarterly project work below.
 
 <details>
@@ -176,12 +189,12 @@ developing and implementing a communications strategy for The Carpentries, updat
 <summary> 
 <strong>January - March (Q1) 2020</strong>
 </summary>
+Serah Rono
 
 #### Developing a CarpentryConnect Planning Kit
 
 CarpentryConnects are community convenings, organised to bring together community members of The Carpentries that are in close proximity geographically for knowledge exchange, collaboration and networking. As our community has grown in leaps and bounds over time, and these local and regional Carpentries events have become more popular in the last year, and because community members are solely responsible for the planning and execution of the events with minimal input from the Core Carpentries team, this project seeks to provide templates and resources that will serve as guides in planning and carrying out CarpentryConnect events. 
 We hope to lower the barrier to entry in putting together these events, so community members feel empowered to organise for plenty of meetups that add value to their work, and want to uphold the quality of events that are run, given that they have The Carpentries name stamped on them.
-
 
 </details>
 
@@ -189,6 +202,7 @@ We hope to lower the barrier to entry in putting together these events, so commu
 <summary> 
 <strong>October - December (Q4) 2019</strong>
 </summary>
+Serah Rono · Kari L. Jordan · Tracy Teal
 
 #### The Carpentries Tagathon
 
@@ -212,6 +226,7 @@ Shared values and goals have long been the starting point of communities of prac
 <summary> 
 <strong>July - September (Q3) 2019</strong>
 </summary>
+Serah Rono · Kari L. Jordan · Tracy Teal
 
 #### Communications Strategy and Implementation Plan
 
@@ -227,6 +242,8 @@ As our community coalesces into a shared identity as “The Carpentries”, defi
 <summary> 
 <strong>April - June (Q2) 2019</strong>
 </summary>
+Serah Rono · Kari L. Jordan · Tracy Teal
+
   In the first quarter of 2019, we assessed all of The Carpentries communications channels, requested for input from the broader Carpentries community,  and developed a communications strategy to help define [how and why we communicate as a team at The Carpentries](https://carpentries.org/blog/2019/04/how-and-why-we-communicate/). The strategy includes measures to create awareness about the work that we do, encourage participation and collaboration, and empower and edify our community. But we are also convinced that a strategy is not sufficient in and of itself. Implementation is an important subsequent step. 
 
   While implementing the strategy is a continuous task that we hope to carve out into all aspects of our communication over time, in Q2 2019, the Community Development team is test driving the new strategy by:
@@ -250,15 +267,17 @@ As our community coalesces into a shared identity as “The Carpentries”, defi
 <summary> 
 <strong>January - March (Q1) 2019</strong>
 </summary>
+Serah Rono · Kari L. Jordan · Tracy Teal
+
 In Q1 2019,  the Community Development Team worked on developing a communications strategy and [updating our Code of Conduct documentation](https://github.com/carpentries/coc-guidelines-taskforce/issues) with [the Code of Conduct Committee](https://carpentries.org/coc-ctte/).  
 </details>
 
 </details>
 
 ## Curriculum Team
-<br/>Erin Becker · François Michonneau
+<br/>Erin Becker · François Michonneau · Zhian Kamvar
 
-Led by Erin Becker, the Curriculum Team guides and oversees curriculum development and maintenance and works closely with our Maintainer community and Curriculum Advisor committees. François Michonneau is a member of the Curriculum Team. Some of the projects the Curriculum Team has embarked on since January 2019 include: updating the format of Maintainer meetings, producing a first draft of a Curriculum Development Handbook, working with the Genomics R Maintainers to make progress towards publishing a lesson for working with Genomics data in R, working with the Maintainers group to develop a prototype for our new lesson template, and working with the Library Carpentry Maintainers and Curriculum Advisors to continue to develop Library Carpentry’s curricula. You can find more details about their quarterly projects work below.
+Led by Erin Becker, the Curriculum Team guides and oversees curriculum development and maintenance and works closely with our Maintainer community and Curriculum Advisor committees. François Michonneau iand Zhian Kamvar are members of the Curriculum Team. Some of the projects the Curriculum Team has embarked on since January 2019 include: updating the format of Maintainer meetings, producing a first draft of a Curriculum Development Handbook, working with the Genomics R Maintainers to make progress towards publishing a lesson for working with Genomics data in R, working with the Maintainers group to develop a prototype for our new lesson template, and working with the Library Carpentry Maintainers and Curriculum Advisors to continue to develop Library Carpentry’s curricula. You can find more details about their quarterly projects work below.
 
 <details>
 <summary> 
@@ -268,6 +287,7 @@ Led by Erin Becker, the Curriculum Team guides and oversees curriculum developme
 <summary> 
 <strong>January - March (Q1) 2020</strong>
 </summary>
+Erin Becker · François Michonneau
 
 #### Image Analysis Curriculum Beta Release
 
@@ -279,6 +299,7 @@ Data Carpentry’s Image Analysis curriculum has started piloting with Instructo
 <summary> 
 <strong>October - December (Q4) 2019</strong>
 </summary>
+Erin Becker · François Michonneau
 
 #### New Data Carpentry Lessons Being Piloted
 
@@ -298,6 +319,7 @@ With so many members of our community excited about creating and sharing Carpent
 <summary> 
 <strong>July - September (Q3) 2019</strong>
 </summary>
+Erin Becker · François Michonneau
   
 ### Curriculum Development Handbook
 
@@ -325,6 +347,7 @@ In addition to the Image Analysis curriculum work discussed above, our grant fro
 <summary>
 <strong>April - June (Q2) 2019</strong>
 </summary>
+Erin Becker · François Michonneau
 
   In the first quarter of 2019, the Curriculum Team worked with Maintainers of the [Data Analysis and Visualisation in R for Genomics lesson](https://datacarpentry.org/genomics-r-intro/) to complete an alpha version of that lesson. Jason Williams and Uwe Hillgert are hosting a pilot workshop using this lesson at the University of Arizona, along with a [BugBBQ hacky day](https://datacarpentry.org/blog/2019/05/genomics-pilot) to catalyse community work on the Genomics lessons and prepare for publication in June. Thirty-six of The Carpentries lessons are planning to be involved in the June release. Maintainers for those lessons welcome community contributions. [Read the blog post](https://carpentries.org/blog/2019/05/lesson-release/) to see how you can get involved! 
 
@@ -337,15 +360,17 @@ In addition to the Image Analysis curriculum work discussed above, our grant fro
 <summary> 
 <strong>January - March (Q1) 2019</strong>
 </summary>
+Erin Becker · François Michonneau
+
 In Q1 2019, the Curriculum Team worked on updating the format of [Maintainer meetings](https://docs.google.com/document/d/12OvistgHUxpLg7w2p9COCopf4jRzlUZ5LLXNiOZws4Y/edit), producing a first draft of a [Curriculum Development Handbook](https://docs.google.com/document/d/19xnq3XiTwlUa5gA8YQhwgb-1_hL6jdBK18HC7Ngmh1k/edit), working with the Genomics R Maintainers to make progress towards publishing a lesson for working with [Genomics data in R](https://docs.google.com/document/d/1JU849yX1Noj0Z7pwJYBkande1DG506h-3SC06lm10LE/edit), working with the Maintainers group to develop a prototype for our [new lesson template](https://docs.google.com/document/d/1bkgXq4yHb7iq9m-FuOsMKHHJERpx6XS1wsAbpN5qEwA/edit), and working with the Library Carpentry Maintainers and Curriculum Advisors to continue to develop Library Carpentry’s curricula. Whew! 
 </details>
 
 </details>
 
 ## Infrastructure Team
-<br>François Michonneau · Maneesha Sane 
+<br>François Michonneau · Maneesha Sane · Zhian Kamvar
 
-Led by François Michonneau, the Infrastructure Team is behind all of the systems that keep our organisation running (including Etherpads, lesson templates, database management and more!). Maneesha Sane is a member of the Infrastructure Team. Tracy Teal previously served in this team. Some of the projects the Infrastructure Team has embarked on since January 2019 include: organising and documenting our infrastructure systems, and migrating our surveys from SurveyMonkey to Typeform. You can find more details about their quarterly projects work below.
+Led by François Michonneau, the Infrastructure Team is behind all of the systems that keep our organisation running (including Etherpads, lesson templates, database management and more!). Maneesha Sane and Zhian Kamvar are members of the Infrastructure Team. Tracy Teal previously served in this team. Some of the projects the Infrastructure Team has embarked on since January 2019 include: organising and documenting our infrastructure systems, and migrating our surveys from SurveyMonkey to Typeform. You can find more details about their quarterly projects work below.
 
 <details>
 <summary> 
@@ -356,6 +381,7 @@ Led by François Michonneau, the Infrastructure Team is behind all of the system
 <summary> 
 <strong>January - March (Q1) 2020</strong>
 </summary>
+François Michonneau · Maneesha Sane 
 
 #### Automating Routine Emails for Workshops
 
@@ -371,6 +397,7 @@ Our Instructor Training program is growing rapidly and continued growth is expec
 <summary> 
 <strong>October - December (Q4) 2019</strong>
 </summary>
+François Michonneau · Maneesha Sane
 
 #### Workshop Surveys
 
@@ -383,6 +410,7 @@ In October, we [rolled out an update](https://carpentries.org/blog/2019/10/trans
 <summary> 
 <strong>July - September (Q3) 2019</strong>
 </summary>
+François Michonneau · Maneesha Sane
 
 #### Infrastructure Documentation and Systems
 
@@ -407,6 +435,7 @@ As each our our lesson programs (Data Carpentry, Library Carpentry, and Software
 <summary>
 <strong>April - June (Q2) 2019</strong>
 </summary>
+François Michonneau · Maneesha Sane
 
   2018 was spent transitioning from the separate identities of Software Carpentry and Data Carpentry to a unified identity of “The Carpentries”, welcoming in Library Carpentry as an official lesson program, and transitioning to Community Initiatives as our fiscal sponsor.  We spent the early part of 2019 ensuring this new identity is reflected across all our platforms (front facing and back end).  This included things like updating documentation across all four websites, The Carpentries Handbook, lesson templates and other materials, and we’re continuing this work in the second quarter of 2019.  
 
@@ -419,15 +448,17 @@ As each our our lesson programs (Data Carpentry, Library Carpentry, and Software
 <summary> 
 <strong>January - March (Q1) 2019</strong>
 </summary>
+François Michonneau · Maneesha Sane
+
 In Q1 2019, the Infrastructure Team worked on organising and documenting our infrastructure systems and on migrating our surveys from SurveyMonkey to Typeform.
 </details>
 
 </details>
 
 ## Instructor Training Team
-<br>Erin Becker · Karen Word
+<br>Erin Becker · Karen Word · Sher! Hurt
 
-Led by Karen Word, the Instructor Training Team manages our Instructor Training and Trainer Training programs and curricula and works closely with our Trainer community. The members of the Instructor Training Team are SherAaron Hurt and Erin Becker. Some of the projects the Instructor Training Team has embarked on since January 2019 include: a workflow for offering a-la carte Instructor Trainings outside of our membership program. You can find more details about their quarterly projects work below.
+Led by Karen Word, the Instructor Training Team manages our Instructor Training and Trainer Training programs and curricula and works closely with our Trainer community. The members of the Instructor Training Team are Sher! Hurt, Erin Becker and the incoming Deputy Director of Instructor Training. Some of the projects the Instructor Training Team has embarked on since January 2019 include: a workflow for offering a-la carte Instructor Trainings outside of our membership program. You can find more details about their quarterly projects work below.
 
 <details>
 <summary> 
@@ -438,6 +469,7 @@ Led by Karen Word, the Instructor Training Team manages our Instructor Training 
 <summary> 
 <strong>January - March (Q1) 2020</strong>
 </summary>
+Erin Becker · Karen Word · Sher! Hurt
 
 #### Instructor Training Report
 
@@ -454,6 +486,7 @@ Our Instructor Training program is growing rapidly and continued growth is expec
 <summary> 
 <strong>October - December (Q4) 2019</strong>
 </summary>
+Erin Becker · Karen Word · Sher! Hurt
 
 #### Training New Instructor Trainers
 
@@ -466,6 +499,7 @@ In November 2019, we [opened applications](https://carpentries.org/blog/2019/11/
 <summary> 
 <strong>July - September (Q3) 2019</strong>
 </summary>
+Erin Becker · Karen Word · Sher! Hurt
 
 #### Instructor Trainer Recruitment and Alumni Program
 
@@ -484,6 +518,8 @@ In January, we increased the number of teaching demonstration sessions we ran to
 <summary>
 <strong>April - June (Q2) 2019</strong>
 </summary>
+Erin Becker · Karen Word · Sher! Hurt
+
   In the first quarter of 2019, we addressed the fact that we had no existing workflow to handle “odd cases” of instructor training requests. While these are largely run in the context of membership, there are occasional events where our membership model does not fit well. There are also sometimes questions about whether additional seats can be added to existing in-person instructor training events. We now have a workflow to handle these occasional requests and assign charges or scholarships in each case. We still expect most events to be arranged through membership, but anyone with a request that doesn’t fit can now contact Karen to get the ball rolling. We learned a lot about the needs of our community in developing this process, and have been gratified to learn that people are pleased to have a pathway to accomplish their training goals.
 
   For Q2, we will be reviewing and recommending improvements to our procedures for recruiting and selecting Instructor Trainers. Our Trainer community is a powerful force in setting the tone and direction of The Carpentries as a whole -- they train our Instructors! In the past, our process for recruitment and selection has been successful in recruiting amazing and dedicated Trainers, but in the absence of explicit structure it has also been confusing and opaque. This is an entirely new project, which will take the long view on strategic planning for The Carpentries, with the aim of creating a process that is transparent, fair, equitable, and effective in recruiting trainees who are enthusiastic about our mission and empowered to carry it forward. We anticipate rolling out our next call for Instructor Trainer recruitment in September-November of 2019, so the broader community and interested applicants can look forward to learning more about our new and improved processes at that time!
@@ -493,6 +529,8 @@ In January, we increased the number of teaching demonstration sessions we ran to
 <summary> 
 <strong>January - March (Q1) 2019</strong>
 </summary>
+Erin Becker · Karen Word · Sher! Hurt
+
 In Q1 2019, the Instructor Training Team worked on producing a workflow for offering [a-la carte Instructor Trainings](https://docs.google.com/document/d/1MNkMllc22IFlc2Pau-x88azfi1sxSham9dl4XS3JNPQ/edit) outside of our membership program.  
 </details>
 
@@ -512,6 +550,7 @@ Led by Elizabeth Williams, the Membership Team coordinates the growing number of
 <summary> 
 <strong>January - March (Q1) 2020</strong>
 </summary>
+Ariel Deardorff · Elizabeth Williams · Kari L. Jordan
 
 #### Developing Data Savvy Librarians in California
 
@@ -523,6 +562,7 @@ We have identified a need for  data and computational training among academic li
 <summary> 
 <strong>October - December (Q4) 2019</strong>
 </summary>
+Elizabeth Williams · Tracy Teal
 
 #### Member Survey and Member Organisation Council
 
@@ -534,6 +574,7 @@ In October and November, [we shared our 2019 Membership Survey data](https://car
 <summary> 
 <strong>July - September (Q3) 2019</strong>
 </summary>
+Elizabeth Williams · Tracy Teal
 
 #### Member Organisation Council Meeting and Survey
 
@@ -545,6 +586,8 @@ We held another set of Member Organisation Council Meetings the week of June 17t
 <summary>
 <strong>April - June (Q2) 2019</strong>
 </summary>
+Elizabeth Williams · Tracy Teal
+
   This quarter, the Membership Team is working to organise and hold our Q2 Member Organisation Council Meeting and to create and send out a Member Organisation Survey. The Member Organisation Council Meetings have been a place for representatives from Member Organisations to network, share challenges and solutions, receive updates about Carpentries activities, and voice ideas about the Membership program. In our last Council meeting at the end of 2018, members expressed interest in quarterly meetings, and we are excited to kick them off in this quarter. In the Member Organisation Survey, we will be seeking feedback on Member Organisations’ goals for membership and additions and improvements we could make to help the Membership Program better align with these goals. 
 </details>
 
@@ -552,15 +595,17 @@ We held another set of Member Organisation Council Meetings the week of June 17t
 <summary> 
 <strong>January - March (Q1) 2019</strong>
 </summary>
+Elizabeth Williams · Tracy Teal
+
 In Q1 2019, the Membership Team worked on [creating and deploying a membership survey](https://docs.google.com/document/d/1sbuHbQi9wrnJSY8Nur4sAT6d9GL_MK1Z2_yNf4EjSK0/edit). 
 </details>
 
 </details>
 
 ## Workshop Administration Team
-<br/>Maneesha Sane · SherAaron Hurt · Talisha Sutton-Kennedy
+<br/>Angelique van Rensburg · Maneesha Sane · SherAaron Hurt · Talisha Sutton-Kennedy
 
-Led by SherAaron Hurt, the Workshop Team develops and implements workflows to keep our workshops running smoothly. This team also supports the work of regional workshop administrators. The members of the Workshop Team are Talisha Sutton-Kennedy and Kari L. Jordan.  Some of the projects the Workshop Team has embarked on since January 2019 include: working with the workshop administrators, they will be developing a workshop workflow automation priority list. You can find more details about their quarterly projects work below.
+Led by SherAaron Hurt, the Workshop Team develops and implements workflows to keep our workshops running smoothly. This team also supports the work of regional workshop administrators. Angelique van Rensburg, Maneesha Sane and Talisha Sutton-Kennedy are members of the Workshop Administration Team.  Some of the projects the Workshop Team has embarked on since January 2019 include: working with the workshop administrators, they will be developing a workshop workflow automation priority list. You can find more details about their quarterly projects work below.
 
 <details>
 <summary> 
@@ -571,6 +616,7 @@ Led by SherAaron Hurt, the Workshop Team develops and implements workflows to ke
 <summary> 
 <strong>January - March (Q1) 2020</strong>
 </summary>
+Angelique van Rensburg · Maneesha Sane · SherAaron Hurt · Talisha Sutton-Kennedy
 
 #### Automating Routine Emails for Workshops
 
@@ -586,6 +632,7 @@ The Sponsorship Exploration Task Force (SEFT) ([link to charter](https://github.
 <summary> 
 <strong>October - December (Q4) 2019</strong>
 </summary>
+Maneesha Sane · SherAaron Hurt · Talisha Sutton-Kennedy
 
 #### Automating Routine Emails for Workshops
 
@@ -598,6 +645,7 @@ If you have organised a Carpentries workshop, you know that there are a *lot* of
 <summary> 
 <strong>July - September (Q3) 2019</strong>
 </summary>
+Maneesha Sane · SherAaron Hurt · Talisha Sutton-Kennedy
 
 In Q2 and Q3, we have [redesigned our workshop request form!](https://carpentries.org/blog/2019/08/workshop-request-form-updates-teaser/). Our old form was unwieldy, providing a single point of input to serve at least three distinct needs:
 
@@ -613,6 +661,7 @@ This meant users had to answer a number of questions that weren’t relevant to 
 <summary>
 <strong>April - June (Q2) 2019</strong>
 </summary>
+Maneesha Sane · SherAaron Hurt · Talisha Sutton-Kennedy
 
   In the first quarter of 2019, the Workshop Administration team, including the [Regional Coordinators](https://carpentries.org/regionalcoordinators/), developed a [list](https://docs.google.com/spreadsheets/d/1e62jof6IgIu6Y-2sz2jZmb_ayLJVOU_UxihEiKZOnSs/edit#gid=0) of all of the tasks that they would like to have automated. We feel strongly about the need for continued human interaction with the community, so our list also includes tasks that should not be automated. In addition to creating the list, we ranked our ideas in order of priority. We then worked with the Infrastructure team to review these two lists and decided on items to be automated in Q2. 
 
@@ -631,6 +680,8 @@ This meant users had to answer a number of questions that weren’t relevant to 
 <summary> 
 <strong>January - March (Q1) 2019</strong>
 </summary>
+Maneesha Sane · SherAaron Hurt · Talisha Sutton-Kennedy
+
 In Q1 2019, working with the workshop administrators, the Workshop Administration team worked on developing a [workshop workflow automation priority list](https://docs.google.com/document/d/1Q-7y7X28U16JBoBPMnJtU271poK0s0n5Pz0tcV2v5Qc/edit)
 </details>
 
