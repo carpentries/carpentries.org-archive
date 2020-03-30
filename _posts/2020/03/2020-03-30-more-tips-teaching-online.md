@@ -7,7 +7,9 @@ date: 2020-03-30
 time: "00:00:00"
 tags: ["Community", "Teaching"]
 ---
-[We recently published](https://carpentries.org/blog/2020/03/tips-for-teaching-online/) a first round on community-contributed tips for teaching online. Today, we are publishing the second and final round of tips from our community members. [As communicated by Omar Khan on TopicBox](https://carpentries.topicbox.com/groups/discuss/Tbefe934513043c1d-M2f0d4aa4186d370fc67d0b27) on 26 March, The Carpentries has now set up a COVID-19 Response Task Force, and a more elaborate set of recommendations will be shared by its members in the coming weeks.
+[We recently published](https://carpentries.org/blog/2020/03/tips-for-teaching-online/) a first round on community-contributed tips for teaching online. Today, we are publishing the second and final round of tips from our community members. 
+
+As communicated by Omar Khan on TopicBox on 26 March, [The Carpentries has now set up a COVID-19 Response Task Force]((https://carpentries.topicbox.com/groups/discuss/Tbefe934513043c1d-M2f0d4aa4186d370fc67d0b27)), and a more elaborate set of recommendations will be shared by its members in the coming weeks.
 
 This post has been made possible by contributions from Julie Vecchio, Hanna Varachkina, Darya Vanichkina, Angelique van Rensburg and two anonymous contributors. Thank you!
 
@@ -54,4 +56,4 @@ Zoom has come highly recommended in the last few weeks as a reliable tool to use
 
 Note: not all of the features are available under the free subscription, which also limits calls  to 40 minutes, so Zoom think about ways to manage your online workshop if you're on the free tier.
 
-All unedited notes and input on online teaching from community members developed in March 2020 [can be found in this document](https://docs.google.com/document/d/1MdmrNn5g2oa2AA6EGYZhyDx-O_YOoH_HqNGsmP6LKIo/edit?usp=sharing).
+_All unedited notes and input on online teaching from community members developed in March 2020 [can be found in this document](https://docs.google.com/document/d/1MdmrNn5g2oa2AA6EGYZhyDx-O_YOoH_HqNGsmP6LKIo/edit?usp=sharing)._
