@@ -120,7 +120,7 @@ network with other domain experts in The Carpentries community. We are not curre
 
 ##### Software Carpentry CAC
 * [Current Software Carpentry CAC members](https://software-carpentry.org/blog/2018/05/swc-cac.html)
-* [Software Carpentry CAC contact](mailto:jduckles@carpentries.org)
+* [Software Carpentry CAC contact](mailto:team@carpentries.org)
 
 ##### Library Carpentry CAC
 * [Library Carpentry CAC members](https://librarycarpentry.org/cac/)
@@ -156,7 +156,7 @@ Carpentry Champions meet quarterly to discuss ways in which they can help suppor
 * [Mailing list](https://carpentries.topicbox.com/groups/champions)
 * [Meeting minutes](https://github.com/carpentries/champions/tree/master/meeting-minutes)
 * [Carpentries Community Cookbook](https://github.com/carpentries/community-cookbook)
-* To get involved, contact [Jonah Duckles](mailto:jduckles@carpentries.org).
+* To get involved, contact our [Team](mailto:team@carpentries.org).
 
 ### Regional Coordinators
 
