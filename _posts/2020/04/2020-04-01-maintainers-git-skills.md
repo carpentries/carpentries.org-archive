@@ -3,10 +3,11 @@ layout: page
 authors: ["Daniel Chen"]
 teaser: "Maintaining Carpentries lessons is a great way to learn Git."
 title: "Being a Carpentries Maintainer and the Skills You Can Learn"
-date: 2020-04-02
+date: 2020-04-01
 time: "09:00:00"
 tags: ["Carpentries Maintainers", "Carpentries Lessons"]
 ---
+
 
 Back in 2016, I wrote a blog post about
 ["What the Carpentries Mean To Me"](https://software-carpentry.org/blog/2016/10/what_swc_means_to_me.html)
@@ -20,7 +21,8 @@ But, maintainers *do* need to be somewhat comfortable with Git.
 
 ## You can be a Carpentries Maintainer!
 
-You do not need to be a Git-mastics guru to be a Carpentries maintainer. If you finished instructor onboarding, then you have already gone through most of the components of being a maintainer. The rest is practice, and what better way to practice than to do the actual task? There will always be someone to help you if you get lost.
+You do not need to be a Git-mastics guru to be a Carpentries maintainer. If you finished instructor onboarding, then you have already gone through most of the components of being a maintainer. The rest is practice, and what better way to practice than to do the actual task? There will always be someone to help you if you get lost. The Carpentries is now accepting applications for Maintainer Onboarding, [read Angela Li's post and apply](https://carpentries.org/blog/2020/03/maintainer-onboarding-2020/)!
+
 The great thing about Git, is that it's pretty difficult to lose work, so there's room for making mistakes.
 Also, GitHub as made it [way easier](https://github.blog/2016-09-07-improving-collaboration-with-forks/) to edit incoming PRs.
 
