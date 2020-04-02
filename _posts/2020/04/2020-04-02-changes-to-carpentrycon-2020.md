@@ -20,6 +20,6 @@ We gave thought to a virtual conference as an alternative, but that too was not 
 
 We received many great breakout and discussion proposals for Carpentry Con 2020 that we still want to share with the community. We are investigating the best way to share some of this content virtually in June and July  instead of in person. Once we have been able to contact presenters and agree on a plan, we will communicate any virtual opportunities to The Carpentries community. 
 
-### Carpentry Con in the future
+### CarpentryCon in the future
 
 We still want to produce an in-person conference for members of The Carpentries community to meet, exchange ideas, and grow. Stay tuned for information from The Carpentries about the proposed schedule for Carpentry Con in 2021 and beyond. 
