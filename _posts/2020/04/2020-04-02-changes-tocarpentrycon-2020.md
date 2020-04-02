@@ -1,7 +1,7 @@
 ---
 layout: page
 authors: ["Christina Koch", "CarpentryCon Task Force"]
-teaser: "This post  is the second in our round of invaluable community-contributed tips for teaching online."
+teaser: "There will be no in-person or virtual CarpentryCon in 2020."
 title: "Changes to CarpentryCon 2020"
 date: 2020-04-02
 time: "00:00:00"
@@ -12,7 +12,7 @@ We are very disappointed to announce that Carpentry Con 2020 will not be occurri
 
 ### No in-person (or virtual) conference this year
 
-Due to the worldwide spread of COVID-19, it is not possible or safe to hold an in-person conference in Madison this year. If you have already registered for Carpentry Con, your registration fee will be refunded. 
+Due to the worldwide spread of COVID-19, it is not possible or safe to hold an in-person conference in Madison this year. If you have already registered for Carpentry Con, **your registration fee will be refunded**. 
 
 We gave thought to a virtual conference as an alternative, but that too was not feasible due to a number of constraints. As the Carpentries team, the Carpentry Con task force, and the Carpentries community are all juggling new challenges and responsibilities in the face of the pandemic, we know that people’s capacity to organise and attend an event like Carpentry Con is far more limited, which informed our decision, especially as we would like Carpentry Con to be an inclusive, accessible event. 
 
