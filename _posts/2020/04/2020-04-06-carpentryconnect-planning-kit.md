@@ -53,7 +53,7 @@ Now that you know whether the event you are planning is a CarpentryConnect or no
 
 ![interacting with the carpentryconnect planning kit]({{ site.urlimg }}/blog/2020/04/interacting-with-this-resource.png)
 
-Sections of the Planning Kit can also be treated as standalone references for areas you are struggling with in your event planning. If anything is missing that you would like to see in this resource, please email [community@carpentries.org](mailto:community@carpentries.org) or open an issue to discuss your question, request or suggestion in [the Planning Kit’s repository](https://github.com/CarpentryConnect/carpentryconnect.org). We value all contributions and are keen to draw from your experiences, as these stand to benefit our community extensively. You can find sections to contribute to, and information on how to start contributing in the [contributing section](/contributing/) of the CarpentryConnect Planning Kit.
+Sections of the Planning Kit can also be treated as standalone references for areas you are struggling with in your event planning. If anything is missing that you would like to see in this resource, please email [community@carpentries.org](mailto:community@carpentries.org) or open an issue to discuss your question, request or suggestion in [the Planning Kit’s repository](https://github.com/CarpentryConnect/carpentryconnect.org). We value all contributions and are keen to draw from your experiences, as these stand to benefit our community extensively. You can find sections to contribute to, and information on how to start contributing in the [contributing section](https://carpentryconnect.org/contributing/) of the CarpentryConnect Planning Kit.
 
 
 
