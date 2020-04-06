@@ -5,7 +5,7 @@ teaser: "Three regional Carpentries community events will take place this year. 
 title: "CarpentryConnect Events in 2020"
 date: 2020-01-09
 time: "00:00:00"
-tags: ["Governance", "The Carpentries Team"]
+tags: ["CarpentryConnect", "Community"]
 ---
 
 The first community conference designed for the global Carpentries community, [CarpentryCon 2018](https://2018.carpentrycon.org/),  was held in Dublin, Ireland between May 30 and June 1 of that year.
