@@ -386,14 +386,7 @@ Led by François Michonneau, the Infrastructure Team is behind all of the system
 </summary>
 François Michonneau · Maneesha Sane 
 
-#### Automating Routine Emails for Workshops
-
-In Q1 2020, we will work closely with the Workshops Administration team to actualise a priority they identified as part of their Q3 2019 work - email automation for routine emails at predicted times or triggers related to workshop coordination.
-
-#### Scaling Up Instructor Training
-
-Our Instructor Training program is growing rapidly and continued growth is expected in the coming months. To be ready for this growth, in Q1 2020, the infrastructure team will work closely with the Instructor Training team to analyse our existing systems, identify areas where processes could be streamlined or automated, and implement these new procedures. 
-
+In Q1 2020, we continued its work in ensuring the robustness and improving the documentation of our Infrastructure System. We welcomed Zhian as a new team member. We provided support to all the other teams for their infrastructure needs. We are putting place systems to automate emails within AMY for workshop-related tasks, and in other parts of our workflows, for instance, to automatically remind instructors to sign up for pre- and post-workshop discussions. We integrated Calendly in the scheduling of pre- and post-workshop discussions. We set up a test instance of CodiMD (the open-source version of the popular collaborative Markdown editor) at <https://codimd.carpentries.org> We also started to make changes to our infrastructure to respond to the COVID-19 pandemic, including setting up an instance of Discourse at <https://forum.carpentries.org> to provide a space for community members to exchange tips and experience for teaching our workshops online. 
 </details>
 
 <details>
