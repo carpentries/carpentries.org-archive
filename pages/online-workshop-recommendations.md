@@ -15,7 +15,7 @@ permalink: "/online-workshop-recommendations/"
   - [Recommended features (any of these can improve a workshop experience):](#recommended-features-any-of-these-can-improve-a-workshop-experience)
   - [Screen ‘real estate’](#screen-‘real-estate’)
   - [Breakout rooms](#breakout-rooms)
-- [Chat & Forum Platforms](chat-amp-forum-platforms)
+- [Chat and Forum Platforms](chat-and-forum-platforms)
   - [Learner communication during instruction](#learner-communication-during-instruction)
   - [Instructional team communication](#Instructional-team-communication)
 - [Progress Indicators](#progress-Indicators)
@@ -45,7 +45,7 @@ _________
 Use this list to be sure you've given time and thought to each item. Not all items on this checklist are required, but all should be considered during planning. Details on specific recommendations are below.
 
 #### Technology choices
-- [ ] Video conferencing platform & procedures
+- [ ] Video conferencing platform and procedures
     - [ ] Monitoring communications
     - [ ] Managing breakouts (if applicable)
     - [ ] Muting
@@ -59,10 +59,10 @@ Use this list to be sure you've given time and thought to each item. Not all ite
     - [ ] Formative assessment
     - [ ] Feedback
     - [ ] Social connection
-- [ ] Instructor/helper communication platform & procedures
+- [ ] Instructor/helper communication platform and procedures
     - [ ] Triaging help requests
     - [ ] Stepping in if Instructor loses connection
-    - [ ] Discussing timing & instructional choices
+    - [ ] Discussing timing and instructional choices
 - [ ] Cloud options for unresolvable software problems 
 #### Instructional planning
 - [ ] Software installation
@@ -84,7 +84,7 @@ __________
 
 The Carpentries recommends, in order:
 
-1. Any service that your institution recommends and provides support for and has the minimum & recommended features needed.
+1. Any service that your institution recommends and provides support for and has the minimum and recommended features needed.
 1. Zoom. This is the platform used by The Carpentries. For centrally organized workshops, a Zoom room can be scheduled with The Carpentries. Depending on demand, schedules may be constrained to 2 consecutive days. Self-organized workshops without institutional access would need to purchase a pro account to run a workshop. We are looking into scholarship options and will update if these become available.
 1. Google Hangouts or Skype, depending on local access, permissions, and expertise.
 
@@ -130,7 +130,7 @@ This may be a bit trickier. Participants in breakout rooms are removed from the 
 
 For more Zoom tips, see [The Carpentries Handbook](https://docs.carpentries.org/topic_folders/communications/tools/zoom_rooms.html#zoom-manual).
 
-## Chat & Forum Platforms
+## Chat and Forum Platforms
 Live and synchronous chat can be used in many ways. When choosing a platform separate from that used for video conferencing, pick one that’s normally used by people in your area. Consider when and how it will be used, and how it will work for participants with limited screen space.
 
 
@@ -202,7 +202,7 @@ Having clear, visible, and documented roles for the instructors and helpers with
 
 * Instructor (cannot be shared with any other role): actively sharing their screen and presenting the lesson content.
 * Helper-Technical: responsible for watching for students reporting problems in the chat and providing assistance.
-* Helper-Facilitator: responsible for monitoring the room for muting students (requires host or co-host status on Zoom), watching for student questions across platforms. Optionally, depending on instructor preference, they may facilitate Q&A sections if the instructor needs a moment to step away, loses connection, or needs a moment to review their notes.  
+* Helper-Facilitator: responsible for monitoring the room for muting students (requires host or co-host status on Zoom), watching for student questions across platforms. Optionally, depending on instructor preference, they may facilitate QandA sections if the instructor needs a moment to step away, loses connection, or needs a moment to review their notes.  
 * Helper - Breakout manager: uses host status on Zoom to create and assign breakout rooms as needed
 
 
