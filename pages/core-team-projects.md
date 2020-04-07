@@ -178,7 +178,7 @@ In Q1 2019, the business Team worked on updating our grants collaboration workfl
 ## Community Development Team
 <br>Angelique van Rensburg · Kari L. Jordan · Omar Khan · Serah Rono
 
-Led by Serah Njambi Rono, the Community Development Team works to develop and maintain an open and welcoming community culture by developing, testing and implementing various communication strategies, supporting our various committees and task forces, and by introducing and running various initiatives that result in increased pathways for collaboration in our community, as well as equitable  distribution of resources, opportunities and access to inclusive spaces for our community members globally. The Carpentries Equity and Inclusion Lead - Kari Jordan, Communications Manager - Omar Khan, Regional Coordinator for Southern Africa - Angelique van Rensburg, and our incoming Curriculum Community Developer all sit on this team. Chris Erdmann and Tracy Teal also served in this team in 2019. Some of the projects the Community Development Team has embarked on since January 2019 include:
+Led by Serah Njambi Rono, the Community Development Team works to develop and maintain an open and welcoming community culture by developing, testing and implementing various communication strategies, supporting our various committees and task forces, and by introducing and running various initiatives that result in increased pathways for collaboration in our community, as well as equitable  distribution of resources, opportunities and access to inclusive spaces for our community members globally. The Carpentries Equity and Inclusion Lead - Kari Jordan, Communications Manager - Omar Khan, Regional Consultant for Southern Africa - Angelique van Rensburg, and our incoming Curriculum Community Developer all sit on this team. Chris Erdmann and Tracy Teal also served in this team in 2019. Some of the projects the Community Development Team has embarked on since January 2019 include:
 developing and implementing a communications strategy for The Carpentries, updating our Code of Conduct documentation with the Code of Conduct Committee, The Carpentries Values Project, The Carpentries Tagathon, The Carpentries Gratitudes project among others. You can find more details about their quarterly project work below.
 
 <details>
@@ -195,6 +195,12 @@ developing and implementing a communications strategy for The Carpentries, updat
 Serah Rono
 
 CarpentryConnects are community convenings, organised to bring together community members of The Carpentries that are in close proximity geographically for knowledge exchange, collaboration and networking. In Q1 2020, we prioritised the development of the [CarpentryConnect Planning Kit](http://carpentryconnect.org), a resource designed to guide community members as they organise local and regional Carpentries events, whether online or in-person. [This blog post](https://carpentries.org/blog/2020/04/carpentryconnect-planning-kit/) provides context for the work we did, and summarises ways community members can contribute to the resource.
+
+#### Carpentries in Africa Community
+
+Angelique van Rensburg
+
+In Q1 2020, we assessed the communications platforms that were available to the [Carpentries Community in Africa](https://docs.carpentries.org/topic_folders/regional_communities/african_task_force.html#what-we-do). Two additional platforms (i.e. African Carpentries Calendar and Slack Channel) were added to align with that of the rest of Global Carpentries Community. These platforms were updated with among others, general Carpentries announcements (i.e. uniquely African topics, Carpentries Blog posts), funding and scholarship and upcoming Carpentries teaching opportunities. Three successful African Carpentry meet-up sessions were hosted in Q1, attended by Carpentry Community members, Instructors and Trainers from South Africa, Zimbabwe, Ethiopia, Kenya and Nigeria (with the odd audience from Europe and the United States).  We are currently gathering information from the African Carpentries Community on what they want an [African Carpentries Meetup 2020](https://forms.gle/qCaVejLdXiZjdxYN8) to look like.
 
 #### Hiring and Onboarding New Communications Manager
 
