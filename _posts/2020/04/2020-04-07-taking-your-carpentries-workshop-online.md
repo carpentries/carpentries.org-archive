@@ -11,7 +11,7 @@ tags: ["Instructor Development", "Workshops", "Teaching"]
 On March 17, The Carpentries convened a [Task Force](https://github.com/carpentries/task-forces/blob/master/2020/COVID-19/COVID-19-charter.md) to address the urgent demand for remote Carpentries workshops as communities have shifted to distance work across the globe. The Task Force concluded on April 1, with an initial set of guidelines for teaching, supporting, and communicating about fully remote versions of all Data Carpentry, Library Carpentry, and Software Carpentry workshops. 
 
 Task force members: 
-* Angelique Van Rensberg (Task Force Lead)
+* Angelique Van Rensburg (Task Force Lead)
 * SherAaron Hurt (Workshop Administration Team Lead)
 * Serah Njambi Rono (Community Development Team Lead)
 * Karen Word (Instructor Training Team Lead)
