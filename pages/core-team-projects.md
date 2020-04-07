@@ -189,14 +189,16 @@ developing and implementing a communications strategy for The Carpentries, updat
 <summary> 
 <strong>January - March (Q1) 2020</strong>
 </summary>
-Serah Rono
 
 #### Developing a CarpentryConnect Planning Kit
 
-CarpentryConnects are community convenings, organised to bring together community members of The Carpentries that are in close proximity geographically for knowledge exchange, collaboration and networking. As our community has grown in leaps and bounds over time, and these local and regional Carpentries events have become more popular in the last year, and because community members are solely responsible for the planning and execution of the events with minimal input from the Core Carpentries team, this project seeks to provide templates and resources that will serve as guides in planning and carrying out CarpentryConnect events. 
-We hope to lower the barrier to entry in putting together these events, so community members feel empowered to organise for plenty of meetups that add value to their work, and want to uphold the quality of events that are run, given that they have The Carpentries name stamped on them.
+Serah Rono
+
+CarpentryConnects are community convenings, organised to bring together community members of The Carpentries that are in close proximity geographically for knowledge exchange, collaboration and networking. In Q1 2020, we prioritised the development of the [CarpentryConnect Planning Kit](http://carpentryconnect.org), a resource designed to guide community members as they organise local and regional Carpentries events, whether online or in-person. [This blog post](https://carpentries.org/blog/2020/04/carpentryconnect-planning-kit/) provides context for the work we did, and summarises ways community members can contribute to the resource.
 
 #### Hiring and Onboarding New Communications Manager
+
+Kari L. Jordan · Omar Khan · Serah Rono
 
 In mid-March 2020, Omar Khan joined The Carpentries as communications manager. Read more about him and what his role in The Carpentries will entail [here](https://carpentries.org/blog/2020/03/carpentries-communications-manager/).
 
@@ -389,12 +391,7 @@ François Michonneau · Maneesha Sane
 
 #### Automating Routine Emails for Workshops
 
-In Q1 2020, we will work closely with the Workshops Administration team to actualise a priority they identified as part of their Q3 2019 work - email automation for routine emails at predicted times or triggers related to workshop coordination.
-
-#### Scaling Up Instructor Training
-
-Our Instructor Training program is growing rapidly and continued growth is expected in the coming months. To be ready for this growth, in Q1 2020, the infrastructure team will work closely with the Instructor Training team to analyse our existing systems, identify areas where processes could be streamlined or automated, and implement these new procedures. 
-
+In Q1 2020, we continued our work to ensure the robustness of our Infrastructure system, and on improving documentation around it. [We welcomed Zhian](https://carpentries.org/blog/2020/03/lesson-infrastructure-technology-developer/) as a new team member. We provided support to all the other teams for their infrastructure needs. We are putting place systems to automate emails within AMY for workshop-related tasks, and in other parts of our workflows, for instance, to automatically remind instructors to sign up for pre- and post-workshop discussions. We integrated Calendly in the scheduling of pre- and post-workshop discussions. We set up a test instance of CodiMD (the open-source version of the popular collaborative Markdown editor) at https://codimd.carpentries.org We also started to make changes to our infrastructure to respond to the COVID-19 pandemic, including setting up an instance of Discourse at https://forum.carpentries.org to provide a space for community members to exchange tips and experience for teaching our workshops online. 
 </details>
 
 <details>
