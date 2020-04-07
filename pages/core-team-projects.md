@@ -196,6 +196,10 @@ Serah Rono
 CarpentryConnects are community convenings, organised to bring together community members of The Carpentries that are in close proximity geographically for knowledge exchange, collaboration and networking. As our community has grown in leaps and bounds over time, and these local and regional Carpentries events have become more popular in the last year, and because community members are solely responsible for the planning and execution of the events with minimal input from the Core Carpentries team, this project seeks to provide templates and resources that will serve as guides in planning and carrying out CarpentryConnect events. 
 We hope to lower the barrier to entry in putting together these events, so community members feel empowered to organise for plenty of meetups that add value to their work, and want to uphold the quality of events that are run, given that they have The Carpentries name stamped on them.
 
+#### Hiring and Onboarding New Communications Manager
+
+In mid-March 2020, Omar Khan joined The Carpentries as communications manager. Read more about him and what his role in The Carpentries will entail [here](https://carpentries.org/blog/2020/03/carpentries-communications-manager/).
+
 </details>
 
 <details>
