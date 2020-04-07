@@ -48,7 +48,7 @@ the growth and sustainability of The Carpentries and is building local capacity 
 
 ### Silver Member Organisations
 
--Alan Turing Institute
+- Alan Turing Institute
 - American University
 - California Institute of Technology
 - Carnegie Mellon University

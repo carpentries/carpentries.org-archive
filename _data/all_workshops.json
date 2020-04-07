@@ -375,6 +375,21 @@
     "start_date": "2020-04-16"
   },
   {
+    "instructors": "Johan Hidding,Faruk Diblen",
+    "end_date": "2020-04-17",
+    "url": "https://escience-academy.github.io/2020-04-14-SWC-online/",
+    "country": "NE",
+    "curriculum": "swc-python",
+    "venue": "the Netherlands eScience Center",
+    "longitude": null,
+    "slug": "2020-04-14-SWC-online",
+    "tag_name": "SWC",
+    "helpers": "Heather Andrews,Nicolas Dintzner",
+    "host_name": "Netherlands eScience Center",
+    "latitude": null,
+    "start_date": "2020-04-14"
+  },
+  {
     "instructors": "Nelly Sélem",
     "end_date": "2020-05-14",
     "url": "https://nselem.github.io/2020-04-14-posgraduados-campeche/",
@@ -435,6 +450,21 @@
     "start_date": "2020-04-09"
   },
   {
+    "instructors": "Mike Trizna,Vanessa Gonzalez",
+    "end_date": "2020-04-08",
+    "url": "https://smithsonianworkshops.github.io/2020-04-07-ttt-smithsonian/",
+    "country": "",
+    "curriculum": null,
+    "venue": "",
+    "longitude": null,
+    "slug": "2020-04-07-smithsonian",
+    "tag_name": "TTT",
+    "helpers": null,
+    "host_name": "Instructor Training",
+    "latitude": null,
+    "start_date": "2020-04-07"
+  },
+  {
     "instructors": "Anita Schürch",
     "end_date": "2020-04-07",
     "url": "https://aschuerch.github.io/2020-04-06-Utrecht/",
@@ -474,7 +504,7 @@
     "longitude": 13.949722,
     "slug": "2020-03-31-hzdr",
     "tag_name": "automated-email,SWC",
-    "helpers": null,
+    "helpers": "Christian Hüser",
     "host_name": "Helmholtz-Zentrum Dresden-Rossendorf",
     "latitude": 51.063611,
     "start_date": "2020-03-31"
@@ -684,7 +714,7 @@
     "longitude": -73.96333,
     "slug": "2020-03-16-columbia-remote",
     "tag_name": "automated-email,SWC",
-    "helpers": "Cesar Arias,Shanice Bailey,Sydney Bolim Son",
+    "helpers": "Cesar Arias,Shanice Bailey,Sydney Bolim Son,Hima Bindu Bhardwaj",
     "host_name": "Columbia University",
     "latitude": 40.80618,
     "start_date": "2020-03-16"
@@ -699,7 +729,7 @@
     "longitude": -85.506699,
     "slug": "2020-03-16-tntech",
     "tag_name": "automated-email,SWC",
-    "helpers": "Travis Lee",
+    "helpers": "Travis Lee,Travis Brummett",
     "host_name": "Tennessee Tech University",
     "latitude": 36.17514,
     "start_date": "2020-03-16"
@@ -729,7 +759,7 @@
     "longitude": -1,
     "slug": "2020-03-13-Rutgers-SWC",
     "tag_name": "SWC",
-    "helpers": null,
+    "helpers": "Jesse Sandberg,Eliza Yost",
     "host_name": "Rutgers University - Camden",
     "latitude": 45,
     "start_date": "2020-03-13"
@@ -864,7 +894,7 @@
     "longitude": -105.22,
     "slug": "2020-03-06-nmhu",
     "tag_name": "DC",
-    "helpers": null,
+    "helpers": "Sarah Corey-Rivas,Kyle Rose",
     "host_name": "University of New Mexico",
     "latitude": 35.596306,
     "start_date": "2020-03-06"

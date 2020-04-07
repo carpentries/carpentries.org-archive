@@ -15,6 +15,21 @@
     "start_date": "2020-04-13"
   },
   {
+    "instructors": "Johan Hidding,Faruk Diblen",
+    "end_date": "2020-04-17",
+    "url": "https://escience-academy.github.io/2020-04-14-SWC-online/",
+    "country": "NE",
+    "curriculum": "swc-python",
+    "venue": "the Netherlands eScience Center",
+    "longitude": null,
+    "slug": "2020-04-14-SWC-online",
+    "tag_name": "SWC",
+    "helpers": "Heather Andrews,Nicolas Dintzner",
+    "host_name": "Netherlands eScience Center",
+    "latitude": null,
+    "start_date": "2020-04-14"
+  },
+  {
     "instructors": "Nelly Sélem",
     "end_date": "2020-05-14",
     "url": "https://nselem.github.io/2020-04-14-posgraduados-campeche/",

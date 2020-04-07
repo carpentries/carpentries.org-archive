@@ -15,19 +15,19 @@
     "start_date": "2020-01-29"
   },
   {
-    "instructors": "Anita Schürch",
-    "end_date": "2020-04-07",
-    "url": "https://aschuerch.github.io/2020-04-06-Utrecht/",
-    "country": "NL",
-    "curriculum": "dc-genomics",
-    "venue": "Utrecht University",
-    "longitude": 5.169072,
-    "slug": "2020-04-06-Utrecht",
-    "tag_name": "automated-email,DC",
+    "instructors": "Mike Trizna,Vanessa Gonzalez",
+    "end_date": "2020-04-08",
+    "url": "https://smithsonianworkshops.github.io/2020-04-07-ttt-smithsonian/",
+    "country": "",
+    "curriculum": null,
+    "venue": "",
+    "longitude": null,
+    "slug": "2020-04-07-smithsonian",
+    "tag_name": "TTT",
     "helpers": null,
-    "host_name": "UMC Utrecht, The Netherlands, Medical Microbiology",
-    "latitude": 52.085393,
-    "start_date": "2020-04-06"
+    "host_name": "Instructor Training",
+    "latitude": null,
+    "start_date": "2020-04-07"
   },
   {
     "instructors": "Samniqueka Halsey,Steven Pryor",
@@ -73,6 +73,21 @@
     "host_name": "Washington State University",
     "latitude": 46.72944,
     "start_date": "2020-04-13"
+  },
+  {
+    "instructors": "Johan Hidding,Faruk Diblen",
+    "end_date": "2020-04-17",
+    "url": "https://escience-academy.github.io/2020-04-14-SWC-online/",
+    "country": "NE",
+    "curriculum": "swc-python",
+    "venue": "the Netherlands eScience Center",
+    "longitude": null,
+    "slug": "2020-04-14-SWC-online",
+    "tag_name": "SWC",
+    "helpers": "Heather Andrews,Nicolas Dintzner",
+    "host_name": "Netherlands eScience Center",
+    "latitude": null,
+    "start_date": "2020-04-14"
   },
   {
     "instructors": "Nelly Sélem",

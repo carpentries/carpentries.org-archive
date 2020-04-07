@@ -9,7 +9,7 @@
     "longitude": 13.949722,
     "slug": "2020-03-31-hzdr",
     "tag_name": "SWC",
-    "helpers": null,
+    "helpers": "Christian Hüser",
     "host_name": "Helmholtz-Zentrum Dresden-Rossendorf",
     "latitude": 51.063611,
     "start_date": "2020-03-31"
@@ -84,7 +84,7 @@
     "longitude": -73.96333,
     "slug": "2020-03-16-columbia-remote",
     "tag_name": "SWC",
-    "helpers": "Cesar Arias,Shanice Bailey,Sydney Bolim Son",
+    "helpers": "Cesar Arias,Shanice Bailey,Sydney Bolim Son,Hima Bindu Bhardwaj",
     "host_name": "Columbia University",
     "latitude": 40.80618,
     "start_date": "2020-03-16"
@@ -99,7 +99,7 @@
     "longitude": -85.506699,
     "slug": "2020-03-16-tntech",
     "tag_name": "SWC",
-    "helpers": "Travis Lee",
+    "helpers": "Travis Lee,Travis Brummett",
     "host_name": "Tennessee Tech University",
     "latitude": 36.17514,
     "start_date": "2020-03-16"
@@ -114,7 +114,7 @@
     "longitude": -1,
     "slug": "2020-03-13-Rutgers-SWC",
     "tag_name": "SWC",
-    "helpers": null,
+    "helpers": "Jesse Sandberg,Eliza Yost",
     "host_name": "Rutgers University - Camden",
     "latitude": 45,
     "start_date": "2020-03-13"
