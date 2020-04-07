@@ -41,6 +41,8 @@
     url: "/become-instructor/"
   - title: "For Instructors"
     url: "https://docs.carpentries.org/topic_folders/for_instructors/index.html"
+  - title: "Online Workshop Recommendations"
+    url: "/online-workshop-recommendations/"
 
 - title: Learn
   url: "/learn/"
