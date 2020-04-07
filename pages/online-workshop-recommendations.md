@@ -21,7 +21,7 @@ permalink: "/online-workshop-recommendations/"
 - [Progress Indicators](#progress-Indicators)
 - [Formative assessment](#formative-assessment)
 - [Gathering feedback](#gathering-feedback)
-- [Instructional Roles](/#instructional-roles)
+- [Instructional Roles](#instructional-roles)
 - [Collaborative Notes](#collaborative-notes)
 - [Feedback on your experience](#feedback-on-your-experience)
 - [What if I want to do it differently?](#what-if-i-want-to-do-it-differently)
