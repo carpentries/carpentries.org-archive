@@ -19,24 +19,20 @@ Led by Kari L. Jordan, the Executive Team proactively brings together perspectiv
 <summary> 
 <strong>Executive Team's Quarterly Projects</strong>
 </summary>
-
 <details>
 <summary> 
 <strong>January - March (Q1) 2020</strong>
 </summary>
 Erin Becker · François Michonneau · Kari L. Jordan
 
-#### Learner Survey Report
+#### Learner Survey Infographics
 
-On April 1, 2020, we released the results of our long-term survey. We asked individuals who attended a Carpentries workshop within six months to share their perspectives about the tools and skills that were taught. You can find the results of this survey on [GitHub](https://carpentries.github.io/assessment/learner-assessment/reports/2020-01-long-term-report.html) and [Zenodo](https://zenodo.org/record/3728205#.XoTG6G4pBhF).
+We collect information from our learners via the pre and post workshop survey. Additionally, we collected long-term impact survey responses in Q4 of 2020. We’ve released several reports using this data, however this year we will only create infographics with the data. This is because the results of our reports often say the same thing. In the future we may write a more comprehensive impact paper, but infographics that our team and community can use will be sufficient for this quarter.
 
-#### 2019 Annual Report
+#### The Carpentries Annual Report, 2019
 
-This quarter The Carpentries released its 2019 Annual Report. Highlights include $2.65 million in funding from the Gordon and Betty Moore Foundation and Chan Zuckerberg Initiative for scaling our instructor training and curriculum development programs. We also highlight several community Core Team and community-led initiatives including our Gratitudes Series, Vision Statement, Strategic Plan, and 9 Core Values.
+In late 2018, [we released our first Annual Report (for 2018)](https://carpentries.org/blog/2018/10/annual-report/). This report has served as a valuable resource for communicating with both existing community members, as well as potential funders, Members, and others who we want to establish a relationship with. In Q1 2020, will develop 2019's annual report that both communicates updated metrics for our programs and financials, and also showcases the strengths of our organisation and how it has grown over the past year. 
 
-#### Planning GDPR Compliance
-
-This quarter we made progress on our GDPR compliance efforts by contracting Metaverse Law to help us draft and update several data policies. This work will continue in Q2.
 </details>
 
 <details>
@@ -111,7 +107,7 @@ Kari L. Jordan · Talisha Sutton-Kennedy
 
 #### 2019 Financial Report
 
-Our 2019 Annual Report includes an overview of our financials, and this quarter we made progress on a more comprehensive financial report as well. Our financial report outlines the trends over the last year, our financial status at the end of the year, and the outlook going into 2020. Through this report, we hope to give the leadership of The Carpentries the resources to make informed strategic financial decisions to support The Carpentries’ programs.
+The conclusion of 2019, marked the end of our 2019 fiscal year, a new strategic plan and transitions within both our Executive Council and Executive Team. This annual report will outline the financial trends over the last year, our financial status at the end of the year, and provide an outlook going into 2020. Through this report, we hope to provide The Carpentries leadership (EC & Executive Team) the resources to make informed strategic financial decisions to support The Carpentries’ programs and to allow the broader community easy access to more detailed financial information
 
 </details>
 
@@ -195,9 +191,10 @@ developing and implementing a communications strategy for The Carpentries, updat
 </summary>
 Serah Rono
 
-#### CarpentryConnect Planning Kit
+#### Developing a CarpentryConnect Planning Kit
 
-In Q1 2020, we prioritised the development of [the CarpentryConnect Planning Kit](https://carpentryconnect.org/), a resource designed to guide community members as they organise local and regional Carpentries events, whether online or in-person. CarpentryConnects are community convenings, organised to bring together community members of The Carpentries that are in close proximity geographically for knowledge exchange, collaboration, and networking. [CarpentryConnect Planning Kit](https://carpentryconnect.org/) provides checklists, templates, recommendations for best practices and resources to serve as guides in planning and carrying out CarpentryConnect events.
+CarpentryConnects are community convenings, organised to bring together community members of The Carpentries that are in close proximity geographically for knowledge exchange, collaboration and networking. As our community has grown in leaps and bounds over time, and these local and regional Carpentries events have become more popular in the last year, and because community members are solely responsible for the planning and execution of the events with minimal input from the Core Carpentries team, this project seeks to provide templates and resources that will serve as guides in planning and carrying out CarpentryConnect events. 
+We hope to lower the barrier to entry in putting together these events, so community members feel empowered to organise for plenty of meetups that add value to their work, and want to uphold the quality of events that are run, given that they have The Carpentries name stamped on them.
 
 </details>
 
@@ -294,7 +291,7 @@ Erin Becker · François Michonneau
 
 #### Image Analysis Curriculum Beta Release
 
-Data Carpentry’s Image Analysis curriculum has started piloting with Instructors who are not the original lesson authors. Due to changes in priorities with the COVID-19 pandemic, the Curriculum Team was not able to complete publication of a Beta version of the Image Processing curriculum. The team is currently working on updating our processes and workflows to support a shift to online delivery of workshops.
+Data Carpentry’s Image Analysis curriculum has started piloting with Instructors who are not the original lesson authors. In Q1 2020, we hope to publish it on Zenodo, add it to our lesson page, and announce it to the community as a “BETA” lesson. Beta lessons are NOT available upon request (i.e. through the workshop request form), but are considered stable enough for experienced Instructors to teach in self-organised workshops.
 
 </details>
 
@@ -386,7 +383,14 @@ Led by François Michonneau, the Infrastructure Team is behind all of the system
 </summary>
 François Michonneau · Maneesha Sane 
 
-In Q1 2020, we continued its work in ensuring the robustness and improving the documentation of our Infrastructure System. We welcomed Zhian as a new team member. We provided support to all the other teams for their infrastructure needs. We are putting place systems to automate emails within AMY for workshop-related tasks, and in other parts of our workflows, for instance, to automatically remind instructors to sign up for pre- and post-workshop discussions. We integrated Calendly in the scheduling of pre- and post-workshop discussions. We set up a test instance of CodiMD (the open-source version of the popular collaborative Markdown editor) at <https://codimd.carpentries.org> We also started to make changes to our infrastructure to respond to the COVID-19 pandemic, including setting up an instance of Discourse at <https://forum.carpentries.org> to provide a space for community members to exchange tips and experience for teaching our workshops online. 
+#### Automating Routine Emails for Workshops
+
+In Q1 2020, we will work closely with the Workshops Administration team to actualise a priority they identified as part of their Q3 2019 work - email automation for routine emails at predicted times or triggers related to workshop coordination.
+
+#### Scaling Up Instructor Training
+
+Our Instructor Training program is growing rapidly and continued growth is expected in the coming months. To be ready for this growth, in Q1 2020, the infrastructure team will work closely with the Instructor Training team to analyse our existing systems, identify areas where processes could be streamlined or automated, and implement these new procedures. 
+
 </details>
 
 <details>
@@ -469,12 +473,12 @@ Erin Becker · Karen Word · Sher! Hurt
 
 #### Instructor Training Report
 
-We are going to be scaling up our Instructor Training program by 30-50% in the next three years. We need to figure out what that entails, in terms of resource allocation and which parts in our process are inefficient. In Q1 2020, we will be looking into trends in Instructor, trainee, and applicant diversity based on past program decisions, and develop clear preliminary benchmark(s) of quality that we can track as we make changes, among other things. Our findings will be shared in our Instructor Training report.
+We are going to be scaling up our Instructor Training program by 30-50% in the next three years. We need to figure out what that entails, in terms of resource allocation and which parts in our process are inefficient. In Q1 2020, we started looking into trends in Instructor, trainee, and applicant diversity based on past program decisions, with a goal to develop clear preliminary benchmark(s) of quality that we can track as we make changes, among other things. Our findings will be shared in our Instructor Training report. This work is still in progress, albeit breifly halted to prioritise the piloting of online training in The Carpentries in Q2 and Q3 2020.
 
 
 #### Scaling Up Instructor Training
 
-Our Instructor Training program is growing rapidly and continued growth is expected in the coming months. To be ready for this growth, in Q1 2020, we will analyse our existing systems, identify areas where processes could be streamlined or automated, and implement these new procedures.
+Our Instructor Training program is growing rapidly and continued growth is expected in the coming months. To be ready for this growth, in Q1 2020, we started analysing our existing systems, identified areas where processes could be streamlined or automated, and implement these new procedures. While this work is ongoing, we managed to onboard 14 new Instructor Trainers in Q1 2020.
 
 </details>
 
@@ -550,7 +554,7 @@ Ariel Deardorff · Elizabeth Williams
 
 #### Developing Data Savvy Librarians in California
 
-In addition to ongoing work, the Membership Team has identified a need for  data and computational training among academic librarians throughout California. While the goal of Library Carpentry is to provide this training, outside of a few Carpentries-heavy institutions, there is currently little awareness of The Carpentries or the training the organisation provides. We have collaborated with Ariel Deardorff, of UCSF, Catherine Nancarrow, of CDL, and Donna Okubo, independent contractor, to gather information to inform the creation of official consortial membership models. These models will be presented and piloted as part of the project to (expand the Carpentries into California academic libraries)[https://carpentries.org/blog/2020/01/library-carpentry-announcement/] before being integrated into The Carpentries Membership Program. 
+We have identified a need for  data and computational training among academic librarians throughout California. While the goal of Library Carpentry is to provide this training, outside of a few Carpentries-heavy institutions, there is currently little awareness of The Carpentries or the training the organisation provides. Led by Ariel Deardorff, we hope to pilot new consortial models of Carpentries Membership to develop sustainable Carpentries communities throughout California that increase the state’s capacity to offer training in data and software skills to librarians through this project from Q1 2020. If successful, these models will be expanded to other kinds of library communities in a variety of institutional environments as well as to other regions outside of California. More details about this can be found [in Ariel's January 2020 blog post](https://carpentries.org/blog/2020/01/library-carpentry-announcement/). 
 
 </details>
 
@@ -616,13 +620,11 @@ Angelique van Rensburg · Maneesha Sane · SherAaron Hurt · Talisha Sutton-Kenn
 
 #### Automating Routine Emails for Workshops
 
-The Workshop Administration Team and the Infrastructure Team worked closely to begin the implementation of piloting automated emails for coordinating workshop. The team successfully launched 3 types of emails. These emails were piloted on US and South African workshops. The emails that we piloted were: 
+There are several tasks to be completed to successfully plan one workshop. In Q3 2019, we identified a variety of different things we can automate or streamline within AMY to improve the workshop/instructor training coordinator experience, reduce the time it takes to coordinate a workshop or instructor training event, increase reliability of information going to instructors and better collect and track data. In Q1 2020, we will work on a priority we identified in Q3 2019 - email automation for routine emails at predicted times or triggers related to workshop coordination.
 
-- Confirming Instructors Availability for Centrally-Organised Workshops
-- Confirming self-organised workshop has been accepted
-- Follow-up for hosting/teaching a workshop
+#### CarpentryCon2020 Sponsorship Program Pilot
 
-The next phase (post COVID-19) will be to incorporate additional emails to the cue and to onboard all of the Regional Coordinators.
+The Sponsorship Exploration Task Force (SEFT) ([link to charter](https://github.com/carpentries/task-forces/blob/master/2019/sponsorship-exploration/sponsorship-exploration-project-charter.md)) has been evaluating The Carpentries approach to Sponsorship and the CarpentryCon 2020 Budget Subcommittee has been developing a model for sponsorship for CarpentryCon 2020. While, overall the Task Force is thinking about Sponsorship for The Carpentries organisation, the Task Force has agreed that rather than starting with organisational sponsorship, we should pilot a sponsorship approach for CarpentryCon 2020. In Q1 2020, we will develop a model to be used for future CarpentryCon events.
 
 </details>
 
