@@ -25,7 +25,7 @@ To learn about Maintainer responsibilities, please take a look at the [Maintaine
 There are many reasons to become a lesson Maintainer, but here are a few reasons we think you may be interested:
 
 1. **Contribute back to the Carpentries community in a sustainable way.** Because Lesson Maintenance can be done on your own timeline, being a Lesson Maintainer can be a flexible way to incorporate contributing to the Carpentries into your schedule.
-2. **Learn new skills.** Being a Lesson Maintainer is a great way to enhance your Git skills and learn how to manage an open source project. These skills are transferable to your research and work outside of The Carpentries.
+2. [**Learn new skills.**](https://carpentries.org/blog/2020/04/maintainers-git-skills/) Being a Lesson Maintainer is a great way to enhance your Git skills and learn how to manage an open source project. These skills are transferable to your research and work outside of The Carpentries.
 3. **Welcome others to the community.** You and your co-Maintainers will interact with new contributors and can make lesson contribution a positive process for others. 
 4. **Get credit for your work on our lessons.** As a Lesson Maintainer, you will be listed as an editor on the published lesson and can include the citation on your personal CV. 
 
