@@ -49,3 +49,4 @@ flycheck_*.el
 .dir-locals.el
 Gemfile.lock
 /.jekyll-metadata
+.jekyll-cache/
