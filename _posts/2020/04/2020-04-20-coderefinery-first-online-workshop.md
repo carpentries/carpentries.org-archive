@@ -2,10 +2,10 @@
 layout: page
 authors: ["Radovan Bast", "Flavio Calvo", "Richard Darst", "Anne Fouilloux", "Pavlin Mitev", "Hasti Narimanzadeh", "Pedro Ojeda May", "João M. da Silva", "Thor Wikfeldt"]
 teaser: "Sharing with the community what worked well in our first online CodeRefinery workshop and what we need and plan to improve."
-title: "Lessons Learned from Running Our First Online Workshop"
-date: 2020-04-17
+title: "Lessons Learned from Running Code Refinery's First Online Workshop"
+date: 2020-04-20
 time: "09:00:00"
-tags: ["Online", "Workshops", "Teaching"]
+tags: ["Carpentries Workshops", "Teaching"]
 ---
 
 *This blog post was originally posted on the
