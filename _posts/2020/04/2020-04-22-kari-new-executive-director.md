@@ -19,6 +19,7 @@ In addition to her work as the Acting Executive Director, Kari held the role of 
 “During her time at The Carpentries, Kari has demonstrated a strong commitment to equity, diversity, and inclusion, and has earnestly embodied the values of our community,” said Dr. Amy Hodge, a member of The Carpentries Executive Council and search committee. “We are confident that Kari has the vision and the integrity to guide this community thoughtfully and inventively toward achieving our mission and vision.”
 
 **Below is a message from Kari:**
+
 Serving The Carpentries has been my honor for nearly four years. As Executive Director, I will continue to work alongside our Core Team and community to advance our mission. I am committed to our core values, and will continue to put the interests of this incredible community above my own. My goal is to empower our Core Team and community members to reach their full potential, and further position The Carpentries as **the leading inclusive community teaching computing and data skills**. Thank you for trusting me in this capacity. We have work to do!
 
 
