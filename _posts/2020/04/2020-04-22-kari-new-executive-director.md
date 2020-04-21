@@ -10,7 +10,7 @@ tags: ["Carpentries Team", "Executive Director"]
 
 We are thrilled to announce that Dr. Kari L. Jordan is the new Executive Director of The Carpentries, effective 16 April, 2020. This announcement comes after a rigorous international search conducted by [Marcum LLP](https://www.marcumllp.com/careers/core-values) and members of the search committee (Karen Cranston, Amy Hodge and Elizabeth Wickes) appointed by the [Executive Council](https://carpentries.org/governance/) of The Carpentries. 
 
-Kari has been on staff with The Carpentries since 2016 and succeeds the former Executive Director, Dr. Tracy Teal, who moved on from the role in January of 2020 to pursue other opportunities. Before becoming Executive Director, Kari served as the Acting Executive Director following Dr. Tracy Teal’s departure. 
+Kari has been on the Core Team of The Carpentries since 2016 and succeeds the former Executive Director, Dr. Tracy Teal, who moved on from the role in January of 2020 to pursue other opportunities. Before becoming Executive Director, Kari served as the Acting Executive Director following Dr. Tracy Teal’s departure. 
 
 “Kari’s role as Executive Director for The Carpentries is exciting for all of us,” said Elizabeth Wickes, Chair of the Executive Council, “Her expertise in engineering education, diversity & inclusion, and leadership means that The Carpentries will continue to be one of the best sources for open science and data skills training in the world.”
 
