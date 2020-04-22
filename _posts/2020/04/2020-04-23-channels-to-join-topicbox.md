@@ -36,6 +36,6 @@ local-* - A list for discussing The Carpentries in our local and regional commun
   - [Vancouver, Canada](https://carpentries.topicbox.com/groups/local-vancouver)
   - [Washington, DC](https://carpentries.topicbox.com/groups/local-dc)
 
-For more information about the various sub-communities and the vocabulary we use to describe them, check out the [Join our Community](https://carpentries.org/community) page.
+For more information about the various sub-communities and the vocabulary we use to describe them, check out the [Join our Community](https://carpentries.org/community) page. Suggestions and requests for new channels to be created  can be sent to [team@carpentries.org](mailto:team@carpentries.org) and one of the team will be in touch.
 
 Have you signed-up yet? 
