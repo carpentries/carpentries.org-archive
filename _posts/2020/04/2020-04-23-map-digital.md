@@ -2,9 +2,9 @@
 layout: page
 authors: ["Darya Vanichkina"]
 teaser: "A bit of a plan for teaching online"
-title: "Mapping & planning a live coding workshop for digital delivery"
+title: "Mapping & Planning a Live Coding Workshop for Digital Delivery"
 date: 2020-04-23
-time: "10:00:00"
+time: "00:00:00"
 tags: ["Instructor Development", "Carpentries Workshops", "Teaching"]
 ---
 
