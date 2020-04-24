@@ -2,6 +2,7 @@ var _paq = window._paq || [];
 
 /* tracker methods like "setCustomDimension" should be called before "trackPageView" */
 _paq.push(['requireConsent']);
+_paq.push(["setDoNotTrack", true]);
 _paq.push(["setDocumentTitle", document.domain + "/" + document.title]);
 _paq.push(["setCookieDomain", "*.carpentries.org"]);
 _paq.push(["setDomains", ["*.carpentries.org","*.static.carpentries.org"]]);
