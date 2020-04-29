@@ -5,7 +5,7 @@ teaser: "Sharing with the community what worked well in our first online CodeRef
 title: "Lessons Learned from Running Code Refinery's First Online Workshop"
 date: 2020-04-20
 time: "09:00:00"
-tags: ["Carpentries Workshops", "Teaching"]
+tags: ["Carpentries Workshops", "Teaching", "Online Workshops"]
 ---
 
 *This blog post was originally posted on the

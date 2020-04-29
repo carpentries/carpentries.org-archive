@@ -21,7 +21,7 @@ With the advent of COVID-19 we’re all having to do the unthinkable, which for 
 First and foremost, triple-check that you have installed *everything* your instructor has suggested, and tested - as much as you know how to - that it works. There are a plethora of online learning tools and platforms out there, and chances are that your instructor would have told you to install a whole bunch of stuff. For example, we use Zoom, Google Docs, and Microsoft Teams in addition to the "normal" R + packages/python + libraries in our classes! - that's a lot of stuff to install and set up!
 
 #### Versions matter!
-Make sure you check which versions of particular tools or software packages your instructors need you to have. Note: it's almost always prudent to update to the *latest* ones, since this is often what your instructors will test with (unless they have *explicitly* specified not to!). 
+Make sure you check which versions of particular tools or software packages your instructors need you to have. Note: it's almost always prudent to update to the *latest* ones, since this is often what your instructors will test with (unless they have *explicitly* specified not to!).
 
 #### Don't panic - let your instructor know ASAP
 If you have an older machine, can't update some packages OR are getting errors:
@@ -30,7 +30,7 @@ If you have an older machine, can't update some packages OR are getting errors:
 2. Google the error: solve it if you can, or copy the links to the top hits if the proposed solutions make no sense to you.
 3. Let your instructors/TAs know as soon as possible, for example via email. Attach a screenshot of the error, and a link to any Google stuff you found - this will help them solve the problem faster.
 4. If you're working on an older machine and can't get the things you need working: if you email them your instructors will know in advance. This means they may be able to provide you with access to Google Colab or RStudio Cloud or another platform, where you are likely to be able to do most if not all of the things - but these require advanced setup, so it's very helpful to give your instructor a heads up!
-  
+
 
 ![setup](https://images.unsplash.com/photo-1428223501723-d821c5d00ca3?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=100)
 
@@ -58,9 +58,9 @@ If you don't have a secondary monitor, there are a few things you can still do. 
 This prevents you from accidentally interrupting your instructor - or having your co-learners listen in on a personal conversation!
 
 
-3. Use a [virtual background](https://support.zoom.us/hc/en-us/articles/210707503-Virtual-Background) 
+3. Use a [virtual background](https://support.zoom.us/hc/en-us/articles/210707503-Virtual-Background)
 
-If you'd like (and can - this feature requires some processing power), zoom can hide the room behind you with a virtual background. This can conceal partners, kids, pets and piles of laundry - although it's not magic, so you will have to fold it eventually. 
+If you'd like (and can - this feature requires some processing power), zoom can hide the room behind you with a virtual background. This can conceal partners, kids, pets and piles of laundry - although it's not magic, so you will have to fold it eventually.
 
 
 ![testing](https://images.unsplash.com/photo-1516534775068-ba3e7458af70?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=80)
@@ -69,12 +69,12 @@ If you'd like (and can - this feature requires some processing power), zoom can 
 
 1. Most online meeting tools will allow you to have a meeting with yourself, or to join a test meeting. It's great to try this the night before the workshop, at the latest, as you set up your workspace. [Here](https://support.zoom.us/hc/en-us/articles/201362283-Testing-computer-or-device-audio) is a link for how to do this in zoom.
 
-2. For the programming tools, try opening them and seeing what start-up messages are printed. If there's a warning or something doesn't look right or hangs it might be helpful to reach out to your instructor. 
+2. For the programming tools, try opening them and seeing what start-up messages are printed. If there's a warning or something doesn't look right or hangs it might be helpful to reach out to your instructor.
 
 
 ![notes](https://images.unsplash.com/photo-1517842645767-c639042777db?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=80)
 
-### 4. Set up for notes 
+### 4. Set up for notes
 
 Think about how you plan to take notes. In a face to face class, it's usually easy to have a note-taking app open on your computer, but with the extra windows that you'll have open with digital teaching, it might be a bit much to try to switch windows all the time. Consider whether you'd prefer to take paper notes, or use a tablet or other secondary device for note-taking instead.
 
@@ -83,14 +83,14 @@ Think about how you plan to take notes. In a face to face class, it's usually ea
 
 ### 5. Make sure to note the norms
 
-At the beginning of class your instructor will most likely introduce the norms of behaviour: 
+At the beginning of class your instructor will most likely introduce the norms of behaviour:
 
-- How do you ask questions? 
-- Raise your hand to volunteer to answer? 
-- Ask for and get help? 
+- How do you ask questions?
+- Raise your hand to volunteer to answer?
+- Ask for and get help?
 - Communicate with other learners?
 
-Make sure to pay attention to this bit, since - just like an airplane - different instructors will use the same tools differently sometimes, and you don't want to use the "Hand up" feature for 2 hours waiting for someone to help you if you were supposed to paste into the chat instead. 
+Make sure to pay attention to this bit, since - just like an airplane - different instructors will use the same tools differently sometimes, and you don't want to use the "Hand up" feature for 2 hours waiting for someone to help you if you were supposed to paste into the chat instead.
 
 
 ***
