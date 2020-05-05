@@ -26,7 +26,7 @@ _The Carpentry Instructors Training, Ethiopia 2018_
 
 Throughout the training the support of the following institutions was so huge and impactful. And the contribution of the Carpentries training in our higher education institutions stands tall among other similar training for many reasons. 
 
-![Ambo University Carpentry Workshop Supporters]({{ site.urlimg }}/blog/2020/05/2018ambo-workshop-supporters.png)
+![Ambo University Carpentry Workshop Supporters]({{ site.urlimg }}/blog/2020/05/ambo-workshop-supporters.png)
 
 ### Lessons from the Workshop
 
