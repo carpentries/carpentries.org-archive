@@ -82,9 +82,8 @@ Use this list to be sure you've given time and thought to each item. Not all ite
 ### After the workshop (consider any or all!)
 <br>
 <input type="checkbox" >  Take notes immediately for your own use<br>
-<input type="checkbox" >  Carpentries surveys<br>
+<input type="checkbox" >  Carpentries surveys (Coming soon -- temporary form [here](https://forms.gle/FEN47MJzLwTSWKr19))<br>
 <input type="checkbox" >  Attend a Community Discussion to debrief<br>
-<input type="checkbox" >  Contribute questions or suggestions to [Discourse](https://forum.carpentries.org/)<br>
 
 __________
 
