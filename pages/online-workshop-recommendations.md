@@ -4,6 +4,12 @@ title: "Recommendations for Teaching Carpentries Workshops Online"
 permalink: "/online-workshop-recommendations/"
 ---
 
+
+{% include alert text='This page is also available as a [PDF file](https://carpentries.org/files/pdf/online-workshop-recommendations.pdf).' %}
+
+
+Last updated: 2020-05-18
+
 An evolving list of all community-created resources and conversations on the subject can be found [in our Handbook](https://docs.carpentries.org/topic_folders/hosts_instructors/resources_for_online_workshops.html).
 
 **Note: This official set of recommendations will be updated as we receive feedback from the community.**
@@ -45,45 +51,58 @@ Finally, it is worth noting that most video conferencing platforms have the capa
 _________
 
 ## Planning Checklist
+
 Use this list to be sure you've given time and thought to each item. Not all items on this checklist are required, but all should be considered during planning. Details on specific recommendations are below.
 
 ### Technology choices
-<br>
-<input type="checkbox" >  Video conferencing platform and procedures<br>
-&emsp;&emsp;<input type="checkbox" >  Monitoring communications<br>
-&emsp;&emsp;<input type="checkbox" >  Managing breakouts (if applicable)<br>
-&emsp;&emsp;<input type="checkbox" >  Muting<br>
-&emsp;&emsp;<input type="checkbox" >  Plan if video platform fails<br>
-&emsp;&emsp;<input type="checkbox" >  Recommendations for small screen arrangement<br>
-<input type="checkbox" >  Learner communication platform(s) and procedures<br>
-&emsp;&emsp;<input type="checkbox" >  Raising hands<br>
-&emsp;&emsp;<input type="checkbox" >  Indicating progress<br>
-&emsp;&emsp;<input type="checkbox" >  Communicating with Instructor<br>
-&emsp;&emsp;<input type="checkbox" >  Communicating with Helpers<br>
-&emsp;&emsp;<input type="checkbox" >  Formative assessment<br>
-&emsp;&emsp;<input type="checkbox" >  Feedback<br>
-&emsp;&emsp;<input type="checkbox" >  Social connection<br>
-<input type="checkbox" >  Instructor/helper communication platform and procedures<br>
-&emsp;&emsp;<input type="checkbox" >  Triaging help requests<br>
-&emsp;&emsp;<input type="checkbox" >  Stepping in if Instructor loses connection<br>
-&emsp;&emsp;<input type="checkbox" >  Discussing timing and instructional choices<br>
-<input type="checkbox" >  Cloud options for unresolvable software problems<br>
+
+<div class="checklist">
+
+* Video conferencing platform and procedures
+  - Monitoring communications
+  - Managing breakouts (if applicable)
+  - Muting
+  - Plan if video platform fails
+  - Recommendations for small screen arrangement
+  - Learner communication platform(s) and procedures
+  - Raising hands
+  - Indicating progress
+  - Communicating with Instructor
+  - Communicating with Helpers
+  - Formative assessment
+  - Feedback
+  - Social connection
+* Instructor/helper communication platform and procedures
+  - Triaging help requests
+  - Stepping in if Instructor loses connection
+* Discussing timing and instructional choices
+* Cloud options for unresolvable software problems
+
+</div>
 
 ### Instructional planning
-<br>
-<input type="checkbox" >  Software installation<br>
-<input type="checkbox" >  Introduction to conferencing platform<br>
-<input type="checkbox" >  Introduction to communications channels<br>
-<input type="checkbox" >  Introduction to instructional team<br>
-<input type="checkbox" >  Timing for check-ins and breaks<br>
-<input type="checkbox" >  Timing for social/collaborative opportunities<br>
-<input type="checkbox" >  Contingency planning<br>
+
+<div class="checklist">
+
+* Software installation
+* Introduction to conferencing platform
+* Introduction to communications channels
+* Introduction to instructional team
+* Timing for check-ins and breaks
+* Timing for social/collaborative opportunities
+* Contingency planning
+
+</div>
 
 ### After the workshop (consider any or all!)
-<br>
-<input type="checkbox" >  Take notes immediately for your own use<br>
-<input type="checkbox" >  Carpentries surveys (Coming soon -- temporary form [here](https://forms.gle/FEN47MJzLwTSWKr19))<br>
-<input type="checkbox" >  Attend a Community Discussion to debrief<br>
+
+<div class="checklist">
+
+* Take notes immediately for your own use
+* Carpentries surveys (Coming soon -- temporary form [here](https://forms.gle/FEN47MJzLwTSWKr19))
+* Attend a Community Discussion to debrief
+
+</div>
 
 __________
 

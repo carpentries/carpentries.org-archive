@@ -63,9 +63,9 @@
     margin-bottom: 0;
   }
   .alert-box a {
-    text-shadow: 1px 1px 0px rgba(0, 0, 0, 1);
-    color: #fff;
-    border-bottom: 1px dotted #fff;
+      //text-shadow: 1px 1px 0px rgba(0, 0, 0, 1);
+      color: $primary-color;
+      border-bottom: 1px dotted $primary-color;
   }
   .alert-box a:hover {
     border-bottom: 1px solid #fff;
