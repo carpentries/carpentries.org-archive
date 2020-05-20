@@ -7,6 +7,8 @@ addons:
     packages:
       - python3-requests
       - python3-yaml
+      - pandoc
+      - xelatex
 
 cache: bundler
 
