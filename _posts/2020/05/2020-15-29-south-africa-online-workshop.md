@@ -10,7 +10,7 @@ tags: ["Online Workshops", "South Africa", "Africa"]
 
 The global COVID-19 pandemic did not leave South Africa Carpentry workshops unscathed. Under an ongoing national lockdown, tertiary institutions have moved all forms of teaching approaches online.
 The silverlining is that various universities have stepped up to bridge the digital divide and are offering access to laptops and mobile data for students to continue the academic year online.
-SADiLaR used this 'choppertunity' to host its’ first 3-day [Online Data Carpentry Workshop](https://sadilar.github.io/2020-05-05-SA-ONLINE/) from May 5-7. Six learners from South Africa and the United Kingdom attended the
+SADiLaR used this 'chopportunity' to host its’ first 3-day [Online Data Carpentry Workshop](https://sadilar.github.io/2020-05-05-SA-ONLINE/) from May 5-7. Six learners from South Africa and the United Kingdom attended the
 online workshop. The workshop covered the [R for Social Scientists](https://datacarpentry.org/r-socialsci/) curriculum.
 
 The workshop was run by 3 experienced instructors who taught the lesson content (Spreadsheets, OpenRefine and R) and 1 instructor as technical coordinator (in charge of the Zoom room, keeping an eye on questions and sticky feedback after each session).
