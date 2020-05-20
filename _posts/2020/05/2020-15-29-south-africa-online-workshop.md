@@ -1,23 +1,23 @@
 ---
 layout: page
 authors: ["Samar Elsheikh","Caroline Fadeke Ajilogba","Martin Dreyern","Angelique van Rensburg"]
-teaser: "SADiLaR hosted its’ first 3-day Online Data Carpentry Workshop"
+teaser: "SADiLaR hosted its first three day Online Data Carpentry Workshop"
 title: "South African Learner Experiences of Online Workshop"
 date: 2020-05-29
 time: "09:00:00"
-tags: ["Online Workshops", "South Africa", "Africa"]
+tags: ["Online Workshops", "Africa"]
 ---
 
 The global COVID-19 pandemic did not leave South Africa Carpentry workshops unscathed. Under an ongoing national lockdown, tertiary institutions have moved all forms of teaching approaches online.
 The silverlining is that various universities have stepped up to bridge the digital divide and are offering access to laptops and mobile data for students to continue the academic year online.
-SADiLaR used this 'chopportunity' to host its’ first 3-day [Online Data Carpentry Workshop](https://sadilar.github.io/2020-05-05-SA-ONLINE/) from May 5-7. Six learners from South Africa and the United Kingdom attended the
+SADiLaR used this 'chopportunity' to host its’ first three day [Online Data Carpentry Workshop](https://sadilar.github.io/2020-05-05-SA-ONLINE/) from May 5-7. Six learners from South Africa and the United Kingdom attended the
 online workshop. The workshop covered the [R for Social Scientists](https://datacarpentry.org/r-socialsci/) curriculum.
 
-The workshop was run by 3 experienced instructors who taught the lesson content (Spreadsheets, OpenRefine and R) and 1 instructor as technical coordinator (in charge of the Zoom room, keeping an eye on questions and sticky feedback after each session).
+The workshop was run by three experienced instructors who taught the lesson content (Spreadsheets, OpenRefine and R) and one instructor as technical coordinator (in charge of the Zoom room, keeping an eye on questions and sticky feedback after each session).
 In total 7 supporting instructors assisted during breakout sessions and tasks/challenges over the 3 days. Instructors consulted the [online workshop recommendations](https://carpentries.org/online-workshop-recommendations/),
 and the [guideline for cloud instances](https://carpentries.org/blog/2020/04/scaffolds/) of RStudio and OpenRefine in preparation of the workshop.
 
-#### What did we do:
+**What did we do**:
 
 - kept video off to save bandwith (resulted in 100-200mb data usage per hour)
 - [Online stickies](https://pinup.com/) for feedback after each session
