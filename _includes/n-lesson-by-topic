@@ -1,0 +1,26 @@
+{% comment %}
+*
+*   Possible parameter for this loop:
+*
+*    › topic
+*    › data
+*
+*   Example for Topic: {% include n-lesson-by-topic data=data topic='shell' %}
+*
+*   Note that the topic should be passed as it appears in the data feed
+*   (lower case, hyphen-separated)
+*
+{% endcomment %}
+
+
+{% assign topic = include.topic %}
+{% assign data = include.data %}
+{% assign n = 0 %}
+
+{% assign sub_data = data | where_exp: "item", "item.lesson_tags contains topic" %}
+
+{% if sub_data.size > 0 %}
+{% assign n = sub_data.size %}
+{% endif %}
+
+({{ n }})
