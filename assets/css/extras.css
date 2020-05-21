@@ -153,9 +153,27 @@ padding: 20px;
     color: #7E7E7E;
 }
 
-.checklist ul {
-    list-style-type: "\2610";
+.icon::before {
+    display: inline-block;
+    font-style: normal;
+    font-variant: normal;
+    text-rendering: auto;
+    -webkit-font-smoothing: antialiased;
 }
+
+div.checklist  {
+    margin-left: -1em;
+}
+
+.checklist li::before {
+    font-family: "Font Awesome 5 Free"; font-weight: 400; content: "\f0c8";
+    padding-right: .5em;
+}
+
+.checklist ul {
+    list-style-type: none;
+}
+
 .checklist li {
-    padding-left: 5px;
+
 }
