@@ -2,11 +2,15 @@
 layout: page-fullwidth
 title: "Recommendations for Teaching Carpentries Workshops Online"
 permalink: "/online-workshop-recommendations/"
+header-includes: |
+    \usepackage{fancyhdr}
+    \pagestyle{fancy}
+    \fancyhead[RO,RE]{The Carpentries, https://carpentries.org}
+    \fancyfoot[LO,LE]{CC-BY 2020}
 ---
 
 
 {% include alert text='This page is also available as a [PDF file](https://carpentries.org/files/pdf/online-workshop-recommendations.pdf).' %}
-
 
 Last updated: 2020-05-18
 

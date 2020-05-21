@@ -38,7 +38,7 @@ pwd
 ls -la
 head "$MD_DIR"/"$MD_FILE"
 
-pandoc "$MD_DIR"/"$MD_FILE" -o "$PDF_OUT_DIR"/"$PDF_FILE" --latex-engine=xelatex
+pandoc "$MD_DIR"/"$MD_FILE" -o "$PDF_OUT_DIR"/"$PDF_FILE" --latex-engine=xelatex -V geometry:margin=1in
 
 cd ../"$REPO_NAME"  || exit
 
