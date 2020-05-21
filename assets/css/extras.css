@@ -149,6 +149,14 @@ padding: 20px;
     background: #43ac6a;
 }
 
+.carpentries-incubator {
+    background: #5B2A86;
+}
+
+.carpentrieslab {
+    background: #9AC6C5;
+}
+
 .edit-on-github {
     color: #7E7E7E;
 }
