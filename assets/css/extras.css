@@ -125,7 +125,14 @@ border-radius: 9px;
 background: #e3e6fd;
 margin: 10px;
 padding: 20px;
+}
 
+.values {
+  padding-bottom:20%;
+}
+.values img {
+  float: right;
+  width:30%;
 }
 
 .flags {
