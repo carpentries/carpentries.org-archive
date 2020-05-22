@@ -38,4 +38,4 @@ To submit proposals, go to the [CarpentryCon @ Home Proposal repository](https:/
 To view and comment on submitted proposals, go to the [Issues tab of the CarpentryCon @ Home Proposal repository](https://github.com/carpentrycon/carpentryconhome-proposals/issues) and take a look!
 
 ### Important Dates
-The deadline for the first round of CarpentryCon @ Home scheduling will be **Monday, June 1st.** The CarpentryCon @ Home task force will be monitoring submissions throughout the submission period and doing a group review every Monday morning.
+The deadline for the first round of CarpentryCon @ Home scheduling will be **Monday, June 8th.** The CarpentryCon @ Home task force will be monitoring submissions throughout the submission period and doing a group review every Monday morning.
