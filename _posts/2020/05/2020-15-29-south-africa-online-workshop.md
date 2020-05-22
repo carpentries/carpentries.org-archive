@@ -33,27 +33,28 @@ and the [guideline for cloud instances](https://carpentries.org/blog/2020/04/sca
 
 In what follows we summarise the learners' experiences from the [Data Carpentry Online Workshop](https://sadilar.github.io/2020-05-05-SA-ONLINE/)
 
-   ### What worked
-- **Technical instructor/coordinator**\
-    "*Intructor and coordinator ensure that we were all in the same page and before moving on to the next step or concept*"
--**Having patience** - We need to remember that online teaching is new to both the instructor and the learners.\
+### What worked
+
+- **Technical instructor/coordinator**<br>
+  <p style="text-align:center"><i>  "Intructor and coordinator ensure that we were all in the same page and before moving on to the next step or concept"</i></p>
+-**Having patience** - We need to remember that online teaching is new to both the instructor and the learners.<br>
 "*Thank you for your patience*
-- **Online format can work**\
+- **Online format can work**<br>
 "*I was worried about about how a online workshop will work but with the syllabus and google doc it works so well!!*" & "*The digital format is working much better that I had thougt it would*"
-- **Make time to excerise newly learned skills**\
+- **Make time to excerise newly learned skills**<br>
 "*The exercise on data validation gave me lots of ideas about how to get better data input that will require less tidying up.*"
-- **Live coding online**\
+- **Live coding online**<br>
 "*Watching her live coding gave me ideas for how I should be using RStudio*" & "*It is easy to see the code on the screen, much better than Skype*"
-- **Copying code in chat *AFTER* live coding**\
+- **Copying code in chat *AFTER* live coding**<br>
 "*Thanks for all the code in the chat. It was so helpful.*"
-- **Green sticky check-in/questions** continuous check-ins with learners after new skills were taught\
+- **Green sticky check-in/questions** continuous check-ins with learners after new skills were taught<br>
 "*Thanks for stopping to take questions, it really helped with my understanding*", "*One on one focus when the particpant is having problems*" & "*And I liked the one on one sessions when someone is having problems*"
-- **Learners sharing their screens in main room in stead of breakout room** since breakout rooms resulted in many dropped calls\
+- **Learners sharing their screens in main room in stead of breakout room** since breakout rooms resulted in many dropped calls<br>
  "*....where i was struggling, I shared my screen so that everyone can see what I was experience and because they are so experienced they could easily pick
 up mistake*"
-- **Teaching moments when making mistakes**\
+- **Teaching moments when making mistakes**<br>
 "*The way you help each other as well, it shows that instructors are people and they can mistakes as well.*"
-- **Zoom chat as mode of communication**\
+- **Zoom chat as mode of communication**<br>
 "*Wow, so helpful and efficient!*"
 
 
