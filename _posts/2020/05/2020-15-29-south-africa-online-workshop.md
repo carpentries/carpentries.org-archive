@@ -8,7 +8,7 @@ time: "09:00:00"
 tags: ["Online Workshops", "Africa"]
 ---
 
-The global COVID-19 pandemic did not leave South African Carpentry workshops unscathed. Under an ongoing national lockdown, tertiary institutions have are closed which leaves students without internet and access to computer laboratories. Past studies have indicated that only 10% of South African households have access to internet at home. Mobile internet prices in South Africa has been quoted as one of the most expensive globally.
+The global COVID-19 pandemic did not leave South African Carpentry workshops unscathed. Under an ongoing national lockdown, tertiary institutions have are closed leaving students without access to internet and computer laboratories. The [General Household Survey](http://www.statssa.gov.za/publications/P0318/P03182018.pdf) of South Africa (2018) have indicated that only 10% of South African households have access to internet at home. Mobile internet prices in South Africa has been quoted as one of the most expensive globally.
 
  There is a silver lining, various universities have stepped up to bridge the digital divide and are offering access to laptops and mobile data for students to continue the academic year online (on loan or reduced prices). SADiLaR used this 'chopportunity' to host its’ first three day [Online Data Carpentry Workshop](https://sadilar.github.io/2020-05-05-SA-ONLINE/) from May 5-7. Six learners from South Africa and the United Kingdom attended the online workshop. The workshop covered the [R for Social Scientists](https://datacarpentry.org/r-socialsci/) curriculum.
 
@@ -29,7 +29,7 @@ and the [guideline for cloud instances](https://carpentries.org/blog/2020/04/sca
 - A lot of interrupting - Since the instructor was not able to see the chat, hands raised or red/green stickies most of the time.
 - Technical instructor (certified Carpentries Instructor) running the Zoom room. See below for screen setup, tablet allowed learner views to ensure all was running smoothly.
 
-![]({{ site.urlimg }}/images/blog/2020/05/south-african-online-workshop.jpeg)<br/>
+![]({{ site.urlimg }}/blog/2020/05/south-african-online-workshop.png)
 
 ## Sticky feedback
 
@@ -89,7 +89,6 @@ In what follows we summarise the learners' experiences from the [Data Carpentry 
 - Always have a **"back-up" instructor** just incase something goes wrong (Murphy!)<br><br>
 - SADiLaR are looking into ways how we can **support learners within South Africa with limited access** to internet attend online Carpentry workshops!<br><br>
 
-> *"Really like the digital format and hope it can be expanded on in future!"*
 
 >"*Overall this is the best workshop I have been to in a long time and 100% the best online workshop ever*."
 
