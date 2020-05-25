@@ -27,6 +27,7 @@ and the [guideline for cloud instances](https://carpentries.org/blog/2020/04/sca
 - Breakout rooms for support
 - Screen setup: if the learner did not have access to a second screen, to arrange your screen to see Zoom and application together
 - A lot of interrupting - Since the instructor was not able to see the chat, hands raised or red/green stickies most of the time.
+- Technical instructor (certified Carpentries Instructor) running the Zoom room. See below for screen setup, tablet allowed learner views to ensure all was running smoothly.
 
 
 ## Sticky feedback
@@ -36,7 +37,7 @@ In what follows we summarise the learners' experiences from the [Data Carpentry 
 #### What worked
 
 - **Technical instructor/coordinator**<br>
-<p><i>"Instructor and coordinator ensure that we were all in the same page and before moving on to the next step or concept"</i></p>
+ <p style="padding-left: 10px"><i>"Instructor and coordinator ensure that we were all in the same page and before moving on to the next step or concept"</i></p>
 - **Having patience** - We need to remember that online teaching is new to both the instructor and the learners <br>
 <p><i>"Thank you for your patience"</i></p>
 - **Online format can work**<br>
@@ -45,7 +46,7 @@ In what follows we summarise the learners' experiences from the [Data Carpentry 
 <p><i>"The exercise on data validation gave me lots of ideas about how to get better data input that will require less tidying up."</i></p>
 - **Live coding online**<br>
 <p><i>"Watching her live coding gave me ideas for how I should be using RStudio*"<br> "It is easy to see the code on the screen, much better than Skype" </i></p>
-- **Copying code in chat *AFTER* live coding**<br>
+- **Copying code in Zoom chat *AFTER* live coding**<br>
 <p><i>"Thanks for all the code in the chat. It was so helpful."</i></p>
 - **Green sticky check-in/questions** continuous check-ins with learners after new skills were taught<br>
 <p><i>"Thanks for stopping to take questions, it really helped with my understanding*"<br> "One on one focus when the participant is having problems" <br> "And I liked the one on one sessions when someone is having problems"</i></p>
