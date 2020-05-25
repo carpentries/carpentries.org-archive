@@ -29,6 +29,7 @@ and the [guideline for cloud instances](https://carpentries.org/blog/2020/04/sca
 - A lot of interrupting - Since the instructor was not able to see the chat, hands raised or red/green stickies most of the time.
 - Technical instructor (certified Carpentries Instructor) running the Zoom room. See below for screen setup, tablet allowed learner views to ensure all was running smoothly.
 
+![]({{ site.urlimg }}/images/blog/2020/05/south-african-online-workshop.jpeg)<br/>
 
 ## Sticky feedback
 
@@ -72,7 +73,7 @@ In what follows we summarise the learners' experiences from the [Data Carpentry 
 
 <p style="padding-left: 50px"><i>"I'm enjoying doing the intensive three days" <br> "Learned a lot, and looking forward to using the new skills in my next projects"</i></p>
 
-- **Slow down the pace**<br> - learning online is very new to most of us.
+- **Slow down the pace** - learning online is very new to most of us <br>
 <p style="padding-left: 50px"><i>"We did go through everything very fast"</i></p>
 
 
@@ -93,4 +94,4 @@ In what follows we summarise the learners' experiences from the [Data Carpentry 
 >"*Overall this is the best workshop I have been to in a long time and 100% the best online workshop ever*."
 
 
-Overall the feedback was generally really positive and we are looking forward to implementing our findings in the next online workshop! Do you want to host a workshop or learn more about teaching Carpentries workshops online? Contact [Angelique van Rensburg](mailto:admin-afr@carpentries.org).
+Overall the feedback was generally really positive and we are looking forward to implementing our findings in the next online workshop! Do you want to host a online workshop in South Africa or learn more about teaching Carpentries workshops online? Contact [Angelique van Rensburg](mailto:admin-afr@carpentries.org).
