@@ -10,8 +10,6 @@ header-includes: |
 ---
 
 
-{% include alert text='This page is also available as a [PDF file](https://carpentries.org/files/pdf/online-workshop-recommendations.pdf).' %}
-
 Last updated: 2020-05-18
 
 An evolving list of all community-created resources and conversations on the subject can be found [in our Handbook](https://docs.carpentries.org/topic_folders/hosts_instructors/resources_for_online_workshops.html).
@@ -277,3 +275,12 @@ If you decide to experiment *within* the general parameters of these guidelines 
 
 ## These recommendations will change!
 As time passes, don't forget to check back here each time you teach! We won't be updating minor points continuously, but where adjustments really seem to have an impact we will update our recommendations ASAP. We will also consider expanding the constraints of the pilot if other experimental formats report solid outcomes with reproducible methods. 
+
+<div class="row text-right">
+  <p>
+  <a href="https://carpentries.org/files/pdf/online-workshop-recommendations.pdf" class="edit-on-github">
+    <i class="far fa-file-pdf fa-lg"></i>
+    This page also available as a PDF file.
+  </a>
+  </p>
+</div>
