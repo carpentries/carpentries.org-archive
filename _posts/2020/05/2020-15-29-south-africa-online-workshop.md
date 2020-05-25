@@ -35,60 +35,60 @@ In what follows we summarise the learners' experiences from the [Data Carpentry 
 
 #### What worked
 
-**Technical instructor/coordinator**<br>
-<p><i>  "Instructor and coordinator ensure that we were all in the same page and before moving on to the next step or concept"</i></p>
-**Having patience** - We need to remember that online teaching is new to both the instructor and the learners <br>
+- **Technical instructor/coordinator**<br>
+<p><i>"Instructor and coordinator ensure that we were all in the same page and before moving on to the next step or concept"</i></p>
+- **Having patience** - We need to remember that online teaching is new to both the instructor and the learners <br>
 <p><i>"Thank you for your patience"</i></p>
-**Online format can work**<br>
+- **Online format can work**<br>
 <p><i>"I was worried about how a online workshop will work but with the syllabus and google doc it works so well!!" <br> "The digital format is working much better that I had thought it would"</i></p>
-**Make time to excerise newly learned skills**<br>
+- **Make time to excerise newly learned skills**<br>
 <p><i>"The exercise on data validation gave me lots of ideas about how to get better data input that will require less tidying up."</i></p>
-**Live coding online**<br>
+- **Live coding online**<br>
 <p><i>"Watching her live coding gave me ideas for how I should be using RStudio*"<br> "It is easy to see the code on the screen, much better than Skype" </i></p>
-**Copying code in chat *AFTER* live coding**<br>
+- **Copying code in chat *AFTER* live coding**<br>
 <p><i>"Thanks for all the code in the chat. It was so helpful."</i></p>
-**Green sticky check-in/questions** continuous check-ins with learners after new skills were taught<br>
+- **Green sticky check-in/questions** continuous check-ins with learners after new skills were taught<br>
 <p><i>"Thanks for stopping to take questions, it really helped with my understanding*"<br> "One on one focus when the participant is having problems" <br> "And I liked the one on one sessions when someone is having problems"</i></p>
-**Learners sharing their screens in main room in stead of breakout room** since breakout rooms resulted in many dropped calls<br>
-<p><i>"....where I was struggling, I shared my screen so that everyone can see what I was experience and because they are so experienced they could easily pick up mistake"</i></p>
-**Teaching moments when making mistakes**<br>
+- **Learners sharing their screens in main room in stead of breakout room** since breakout rooms resulted in many dropped calls<br>
+<p><i>"...where I was struggling, I shared my screen so that everyone can see what I was experience and because they are so experienced they could easily pick up mistake"</i></p>
+- **Teaching moments when making mistakes**<br>
 <p><i>"The way you help each other as well, it shows that instructors are people and they can mistakes as well."</i></p>
-**Zoom chat as mode of communication**<br>
+- **Zoom chat as mode of communication**<br>
 <p><i>"Wow, so helpful and efficient!"</i></p>
 
 
 
 #### What did not work
 
-**Technical difficulties** - installation issues still present<br>
+- **Technical difficulties** - installation issues still present<br>
 <p><i>"Some minor technical hassles, but I think that's more a case of teething pains with the new format, rather than any inherent faults"<br>
 "There was a bit of fumbling getting screens to share right, getting the right stuff installed at the right time" <br>
 "It was slow to get started because of problems getting tidyverse installed"</i></p>
-**Long days online** - 6 hour Zoom days<br>
+- **Long days online** - 6 hour Zoom days<br>
 <p><i>"It was a bit of cognitive overload toward the end of the day. Not so much because it was too much info, but because fatigue had been setting in after a long day"<br>
-"Lots of information to absorb, but I also think it is up to the individual to practice this""<br> "Lots of information to take in very quickly"
-<br> "this is really a lot of work and new knowledge to fit into a very short amount of time..."</i></p>
+"Lots of information to absorb, but I also think it is up to the individual to practice this"<br> "Lots of information to take in very quickly"
+<br>"this is really a lot of work and new knowledge to fit into a very short amount of time..."</i></p>
 
-<u>  However, some felt differently</u>:
+<u>However, some felt differently</u>:
 
 <p><i>"I'm enjoying doing the intensive three days" <br> "Learned a lot , and looking forward to using the new skills in my next projects"</i></p>
 
-**Speed at what the lessons took place**<br>
+- **Speed at what the lessons took place**<br>
 <p><i>"We did go through everything very fast" & "Super fast tour of loads of different features"</i></p>
 
 
 
 #### The way forward
 
-**Shorter days** host the workshop over more days but shorter sessions to avoid fatigue<br>
+- **Shorter days** host the workshop over more days but shorter sessions to avoid fatigue<br>
 <p><i>"When it's a traditional/physical workshop, it makes sense for logistical and practical reasons to have everything over three (or however many) days on end. In this digital/remote format, it might make sense to lay some groundwork in the first day or two, let that sink in a little bit, and then continue with the final sessions
 a few days or even a week later. Overall, I think it would be good to look at ways of mitigating learner fatigue"</i></p>
-Encourage the use of **mobile devices**  (i.e tablets or mobile phones) if second screen is not available <br><br>
-Make **more time** to practice newly gained skills<br>
+- Encourage the use of **mobile devices**  (i.e tablets or mobile phones) if second screen is not available <br><br>
+- Make **more time** to practice newly gained skills<br>
 <p><i>"It would be great to have time to try some of the techniques in exercises as we went along" <br> "I would have liked a few 1 minute pauses to try and test out ideas"</i></p>
-**Make use of [cloud instances](https://carpentries.org/blog/2020/04/scaffolds/) for installation issues**<br><br>
-Always have a **"back-up" instructor** just incase something goes wrong (Murphy!)<br><br>
-SADiLaR are looking into ways how we can **support learners within South Africa with limited access** to internet attend online Carpentry workshops!<br><br>
+- **Make use of [cloud instances](https://carpentries.org/blog/2020/04/scaffolds/) for installation issues**<br><br>
+- Always have a **"back-up" instructor** just incase something goes wrong (Murphy!)<br><br>
+- SADiLaR are looking into ways how we can **support learners within South Africa with limited access** to internet attend online Carpentry workshops!<br><br>
 
 > *"Really like the digital format and hope it can be expanded on in future!"*
 
