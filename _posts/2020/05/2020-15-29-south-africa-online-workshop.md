@@ -8,9 +8,9 @@ time: "09:00:00"
 tags: ["Online Workshops", "Africa"]
 ---
 
-The global COVID-19 pandemic did not leave South African Carpentry workshops unscathed. Under an ongoing national lockdown, tertiary institutions have are closed leaving students without access to internet and computer laboratories. The [General Household Survey](http://www.statssa.gov.za/publications/P0318/P03182018.pdf) of South Africa (2018) have indicated that only 10% of South African households have access to internet at home. Mobile internet prices in South Africa has been quoted as one of the most expensive globally.
+The global COVID-19 pandemic did not leave South African Carpentry workshops unscathed. Under an ongoing national lockdown, tertiary institutions have are closed leaving students without access to internet and computer laboratories. The [General Household Survey](http://www.statssa.gov.za/publications/P0318/P03182018.pdf) of South Africa (2018) indicated that only 10.14% of South African households have access to internet at home.
 
- There is a silver lining, various universities have stepped up to bridge the digital divide and are offering access to laptops and mobile data for students to continue the academic year online (on loan or reduced prices). SADiLaR used this 'chopportunity' to host its’ first three day [Online Data Carpentry Workshop](https://sadilar.github.io/2020-05-05-SA-ONLINE/) from May 5-7. Six learners from South Africa and the United Kingdom attended the online workshop. The workshop covered the [R for Social Scientists](https://datacarpentry.org/r-socialsci/) curriculum.
+ There is a silver lining, some universities have stepped up to bridge the digital divide and are offering access to laptops and mobile data for students to continue the academic year online (on loan or reduced prices). SADiLaR used this 'chopportunity' to host its’ first three day [Online Data Carpentry Workshop](https://sadilar.github.io/2020-05-05-SA-ONLINE/) from May 5-7. Six learners from South Africa and the United Kingdom attended the online workshop. The workshop covered the [R for Social Scientists](https://datacarpentry.org/r-socialsci/) curriculum.
 
 The workshop was run by three experienced instructors who taught the lesson content (Spreadsheets, OpenRefine and R) and one instructor as technical coordinator (in charge of the Zoom room, keeping an eye on questions and sticky feedback after each session).
 In total seven supporting instructors assisted during breakout sessions and tasks/challenges over the three days. Instructors consulted the [online workshop recommendations](https://carpentries.org/online-workshop-recommendations/),
@@ -18,7 +18,7 @@ and the [guideline for cloud instances](https://carpentries.org/blog/2020/04/sca
 
 **What did we do**:
 
-- kept video off to save bandwidth (resulted in 100-200mb data usage per hour)
+- kept video off to save bandwidth (resulted in 100-200MB of data usage per hour)
 - [Online stickies](https://pinup.com/) for feedback after each session
 - 10 minute break for every 50 minutes taught
 - used [Zooms' non-verbal feedback functions](https://support.zoom.us/hc/en-us/articles/115001286183-Nonverbal-Feedback-During-Meetings) for red and green stickies
@@ -27,7 +27,7 @@ and the [guideline for cloud instances](https://carpentries.org/blog/2020/04/sca
 - Breakout rooms for support
 - Screen setup: if the learner did not have access to a second screen, to arrange your screen to see Zoom and application together
 - A lot of interrupting - Since the instructor was not able to see the chat, hands raised or red/green stickies most of the time.
-- Technical instructor (certified Carpentries Instructor) running the Zoom room. See below for screen setup, tablet allowed learner views to ensure all was running smoothly.
+- Technical instructor (certified Carpentries Instructor) running the Zoom room. A tablet allowed the technical instructor to have a 'learner' view.
 
 ![]({{ site.urlimg }}/blog/2020/05/south-african-online-workshop.png)
 
@@ -43,7 +43,7 @@ In what follows we summarise the learners' experiences from the [Data Carpentry 
 <p style="padding-left: 50px"><i>"Thank you for your patience"</i></p>
 - **Online format can work**<br>
 <p style="padding-left: 50px"><i>"I was worried about how a online workshop will work but with the syllabus and google doc it works so well!!" <br> "The digital format is working much better that I had thought it would"</i></p>
-- **Make time to excerise newly learned skills**<br>
+- **Make time to exercise newly learned skills**<br>
 <p style="padding-left: 50px"><i>"The exercise on data validation gave me lots of ideas about how to get better data input that will require less tidying up."</i></p>
 - **Live coding online**<br>
 <p style="padding-left: 50px"><i>"Watching her live coding gave me ideas for how I should be using RStudio*"<br> "It is easy to see the code on the screen, much better than Skype" </i></p>
