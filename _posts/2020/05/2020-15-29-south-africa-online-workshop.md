@@ -37,7 +37,7 @@ In what follows we summarise the learners' experiences from the [Data Carpentry 
 #### What worked
 
 - **Technical instructor/coordinator**<br>
- <p style="padding-left: 10px"><i>"Instructor and coordinator ensure that we were all in the same page and before moving on to the next step or concept"</i></p>
+ <p style="padding-left: 50px"><i>"Instructor and coordinator ensure that we were all in the same page and before moving on to the next step or concept"</i></p>
 - **Having patience** - We need to remember that online teaching is new to both the instructor and the learners <br>
 <p><i>"Thank you for your patience"</i></p>
 - **Online format can work**<br>
@@ -61,14 +61,12 @@ In what follows we summarise the learners' experiences from the [Data Carpentry 
 
 #### What did not work
 
-- **Technical difficulties** - installation issues still present<br>
+- **Technical difficulties** - installation issues were still present and setting up screen sharing for effective live coding (i.e the lesson page and application) took a couple of minutes <br>
 <p><i>"Some minor technical hassles, but I think that's more a case of teething pains with the new format, rather than any inherent faults"<br>
-"There was a bit of fumbling getting screens to share right, getting the right stuff installed at the right time" <br>
 "It was slow to get started because of problems getting tidyverse installed"</i></p>
 - **Long days online** - 6 hour Zoom days<br>
-<p><i>"It was a bit of cognitive overload toward the end of the day. Not so much because it was too much info, but because fatigue had been setting in after a long day"<br>
-"Lots of information to absorb, but I also think it is up to the individual to practice this"<br> "Lots of information to take in very quickly"
-<br>"this is really a lot of work and new knowledge to fit into a very short amount of time..."</i></p>
+<p><i>"It was a bit of cognitive overload toward the end of the day..""<br>
+"Lots of information to absorb, but I also think it is up to the individual to practice this"<br> "Lots of information to take in very quickly"</i></p>
 
 <u>However, some felt differently</u>:
 
