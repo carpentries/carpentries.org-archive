@@ -2,7 +2,7 @@
 layout: page
 authors: ["Samar Elsheikh","Caroline Fadeke Ajilogba","Martin Dreyer","Angelique van Rensburg"]
 teaser: "SADiLaR hosted its first three-day online data carpentry workshop"
-title: "South African Learner Experiences of Online Workshop"
+title: "South African Learner Experiences of an Online Workshop"
 date: 2020-05-29
 time: "09:00:00"
 tags: ["Online Workshops", "Africa"]
