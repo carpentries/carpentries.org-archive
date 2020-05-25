@@ -8,7 +8,7 @@ time: "09:00:00"
 tags: ["Online Workshops", "Africa"]
 ---
 
-The global COVID-19 pandemic did not leave South African Carpentry workshops unscathed. Under an ongoing national lockdown, tertiary institutions are closed leaving students without access to internet and computer laboratories. The [General Household Survey](http://www.statssa.gov.za/publications/P0318/P03182018.pdf) of South Africa (2018) indicated that only 10.14% of South African households have access to internet at home.
+The global COVID-19 pandemic did not leave South African Carpentry workshops unscathed. Under an ongoing national lockdown, tertiary institutions are closed leaving students without access to internet and computer laboratories. The [General Household Survey](http://www.statssa.gov.za/publications/P0318/P03182018.pdf) of South Africa (2018) indicated that only 10.14% of households have access to internet at home.
 
  There is a silver lining, some universities have stepped up to bridge the digital divide and are offering access to laptops and mobile data for students to continue the academic year online (on loan or reduced prices). SADiLaR used this 'chopportunity' to host its’ first three day [Online Data Carpentry Workshop](https://sadilar.github.io/2020-05-05-SA-ONLINE/) from May 5-7. Six learners from South Africa and the United Kingdom attended the online workshop, which covered the [R for Social Scientists](https://datacarpentry.org/r-socialsci/) curriculum.
 
@@ -18,14 +18,14 @@ and the [guideline for cloud instances](https://carpentries.org/blog/2020/04/sca
 
 **What did we do**:
 
-- kept video off to save bandwidth (resulted in 100-200MB of data usage per hour)
+- Kept video off to save bandwidth (resulted in 100-200MB of data usage per hour)
 - [Online stickies](https://pinup.com/) for feedback after each session
 - 10 minute break for every 50 minutes taught
-- used [Zooms' non-verbal feedback functions](https://support.zoom.us/hc/en-us/articles/115001286183-Nonverbal-Feedback-During-Meetings) for red and green stickies
+- Used [Zooms' non-verbal feedback functions](https://support.zoom.us/hc/en-us/articles/115001286183-Nonverbal-Feedback-During-Meetings) for red and green stickies
 - Zoom chat and a collaborative document (Google Documents since the Etherpad was down) to ask questions and communicate with
 - Small number of learners
 - Breakout rooms for support
-- Arranging a screen to view both Zoom and the application together, if a second screen was not accessible
+- Arranged learner screens to view both Zoom and the application together, if a second screen was not accessible
 - A lot of interrupting - since the instructor was not able to see the chat, hands raised or red/green stickies most of the time
 - Technical instructor (certified Carpentries Instructor) running the Zoom room. A tablet allowed the technical instructor to have a 'learner' view
 
