@@ -39,52 +39,51 @@ In what follows we summarise the learners' experiences from the [Data Carpentry 
 - **Technical instructor/coordinator**<br>
  <p style="padding-left: 50px"><i>"Instructor and coordinator ensure that we were all in the same page and before moving on to the next step or concept"</i></p>
 - **Having patience** - We need to remember that online teaching is new to both the instructor and the learners <br>
-<p><i>"Thank you for your patience"</i></p>
+<p style="padding-left: 50px"><i>"Thank you for your patience"</i></p>
 - **Online format can work**<br>
-<p><i>"I was worried about how a online workshop will work but with the syllabus and google doc it works so well!!" <br> "The digital format is working much better that I had thought it would"</i></p>
+<p style="padding-left: 50px"><i>"I was worried about how a online workshop will work but with the syllabus and google doc it works so well!!" <br> "The digital format is working much better that I had thought it would"</i></p>
 - **Make time to excerise newly learned skills**<br>
-<p><i>"The exercise on data validation gave me lots of ideas about how to get better data input that will require less tidying up."</i></p>
+<p style="padding-left: 50px"><i>"The exercise on data validation gave me lots of ideas about how to get better data input that will require less tidying up."</i></p>
 - **Live coding online**<br>
-<p><i>"Watching her live coding gave me ideas for how I should be using RStudio*"<br> "It is easy to see the code on the screen, much better than Skype" </i></p>
+<p style="padding-left: 50px"><i>"Watching her live coding gave me ideas for how I should be using RStudio*"<br> "It is easy to see the code on the screen, much better than Skype" </i></p>
 - **Copying code in Zoom chat *AFTER* live coding**<br>
-<p><i>"Thanks for all the code in the chat. It was so helpful."</i></p>
+<p style="padding-left: 50px"><i>"Thanks for all the code in the chat. It was so helpful."</i></p>
 - **Green sticky check-in/questions** continuous check-ins with learners after new skills were taught<br>
-<p><i>"Thanks for stopping to take questions, it really helped with my understanding*"<br> "One on one focus when the participant is having problems" <br> "And I liked the one on one sessions when someone is having problems"</i></p>
+<p style="padding-left: 50px"><i>"Thanks for stopping to take questions, it really helped with my understanding*"<br> "One on one focus when the participant is having problems" <br> "And I liked the one on one sessions when someone is having problems"</i></p>
 - **Learners sharing their screens in main room in stead of breakout room** since breakout rooms resulted in many dropped calls<br>
-<p><i>"...where I was struggling, I shared my screen so that everyone can see what I was experience and because they are so experienced they could easily pick up mistake"</i></p>
+<p style="padding-left: 50px"><i>"...where I was struggling, I shared my screen so that everyone can see what I was experience and because they are so experienced they could easily pick up mistake"</i></p>
 - **Teaching moments when making mistakes**<br>
-<p><i>"The way you help each other as well, it shows that instructors are people and they can mistakes as well."</i></p>
+<p style="padding-left: 50px"><i>"The way you help each other as well, it shows that instructors are people and they can mistakes as well."</i></p>
 - **Zoom chat as mode of communication**<br>
-<p><i>"Wow, so helpful and efficient!"</i></p>
+<p style="padding-left: 50px"><i>"Wow, so helpful and efficient!"</i></p>
 
 
 
 #### What did not work
 
 - **Technical difficulties** - installation issues were still present and setting up screen sharing for effective live coding (i.e the lesson page and application) took a couple of minutes <br>
-<p><i>"Some minor technical hassles, but I think that's more a case of teething pains with the new format, rather than any inherent faults"<br>
+<p style="padding-left: 50px"><i>"Some minor technical hassles, but I think that's more a case of teething pains with the new format, rather than any inherent faults"<br>
 "It was slow to get started because of problems getting tidyverse installed"</i></p>
 - **Long days online** - 6 hour Zoom days<br>
-<p><i>"It was a bit of cognitive overload toward the end of the day..""<br>
+<p style="padding-left: 50px"><i>"It was a bit of cognitive overload toward the end of the day..""<br>
 "Lots of information to absorb, but I also think it is up to the individual to practice this"<br> "Lots of information to take in very quickly"</i></p>
 
 <u>However, some felt differently</u>:
 
-<p><i>"I'm enjoying doing the intensive three days" <br> "Learned a lot , and looking forward to using the new skills in my next projects"</i></p>
+<p style="padding-left: 50px"><i>"I'm enjoying doing the intensive three days" <br> "Learned a lot, and looking forward to using the new skills in my next projects"</i></p>
 
-- **Speed at what the lessons took place**<br>
-<p><i>"We did go through everything very fast" & "Super fast tour of loads of different features"</i></p>
+- **Slow down the pace**<br> - learning online is very new to most of us.
+<p style="padding-left: 50px"><i>"We did go through everything very fast"</i></p>
 
 
 
 #### The way forward
 
 - **Shorter days** host the workshop over more days but shorter sessions to avoid fatigue<br>
-<p><i>"When it's a traditional/physical workshop, it makes sense for logistical and practical reasons to have everything over three (or however many) days on end. In this digital/remote format, it might make sense to lay some groundwork in the first day or two, let that sink in a little bit, and then continue with the final sessions
-a few days or even a week later. Overall, I think it would be good to look at ways of mitigating learner fatigue"</i></p>
+<p style="padding-left: 50px"><i>"When it's a traditional/physical workshop, it makes sense for logistical and practical reasons to have everything over three (or however many) days on end. In this digital/remote format, it might make sense to lay some groundwork in the first day or two"</i></p>
 - Encourage the use of **mobile devices**  (i.e tablets or mobile phones) if second screen is not available <br><br>
 - Make **more time** to practice newly gained skills<br>
-<p><i>"It would be great to have time to try some of the techniques in exercises as we went along" <br> "I would have liked a few 1 minute pauses to try and test out ideas"</i></p>
+<p style="padding-left: 50px"><i>"It would be great to have time to try some of the techniques in exercises as we went along" <br> "I would have liked a few 1 minute pauses to try and test out ideas"</i></p>
 - **Make use of [cloud instances](https://carpentries.org/blog/2020/04/scaffolds/) for installation issues**<br><br>
 - Always have a **"back-up" instructor** just incase something goes wrong (Murphy!)<br><br>
 - SADiLaR are looking into ways how we can **support learners within South Africa with limited access** to internet attend online Carpentry workshops!<br><br>
