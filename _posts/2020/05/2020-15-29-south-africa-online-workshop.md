@@ -8,9 +8,9 @@ time: "09:00:00"
 tags: ["Online Workshops", "Africa"]
 ---
 
-The global COVID-19 pandemic did not leave South African Carpentry workshops unscathed. Under an ongoing national lockdown, tertiary institutions have are closed leaving students without access to internet and computer laboratories. The [General Household Survey](http://www.statssa.gov.za/publications/P0318/P03182018.pdf) of South Africa (2018) indicated that only 10.14% of South African households have access to internet at home.
+The global COVID-19 pandemic did not leave South African Carpentry workshops unscathed. Under an ongoing national lockdown, tertiary institutions are closed leaving students without access to internet and computer laboratories. The [General Household Survey](http://www.statssa.gov.za/publications/P0318/P03182018.pdf) of South Africa (2018) indicated that only 10.14% of South African households have access to internet at home.
 
- There is a silver lining, some universities have stepped up to bridge the digital divide and are offering access to laptops and mobile data for students to continue the academic year online (on loan or reduced prices). SADiLaR used this 'chopportunity' to host its’ first three day [Online Data Carpentry Workshop](https://sadilar.github.io/2020-05-05-SA-ONLINE/) from May 5-7. Six learners from South Africa and the United Kingdom attended the online workshop. The workshop covered the [R for Social Scientists](https://datacarpentry.org/r-socialsci/) curriculum.
+ There is a silver lining, some universities have stepped up to bridge the digital divide and are offering access to laptops and mobile data for students to continue the academic year online (on loan or reduced prices). SADiLaR used this 'chopportunity' to host its’ first three day [Online Data Carpentry Workshop](https://sadilar.github.io/2020-05-05-SA-ONLINE/) from May 5-7. Six learners from South Africa and the United Kingdom attended the online workshop, which covered the [R for Social Scientists](https://datacarpentry.org/r-socialsci/) curriculum.
 
 The workshop was run by three experienced instructors who taught the lesson content (Spreadsheets, OpenRefine and R) and one instructor as technical coordinator (in charge of the Zoom room, keeping an eye on questions and sticky feedback after each session).
 In total seven supporting instructors assisted during breakout sessions and tasks/challenges over the three days. Instructors consulted the [online workshop recommendations](https://carpentries.org/online-workshop-recommendations/),
@@ -25,15 +25,15 @@ and the [guideline for cloud instances](https://carpentries.org/blog/2020/04/sca
 - Zoom chat and a collaborative document (Google Documents since the Etherpad was down) to ask questions and communicate with
 - Small number of learners
 - Breakout rooms for support
-- Screen setup: if the learner did not have access to a second screen, to arrange your screen to see Zoom and application together
-- A lot of interrupting - Since the instructor was not able to see the chat, hands raised or red/green stickies most of the time.
-- Technical instructor (certified Carpentries Instructor) running the Zoom room. A tablet allowed the technical instructor to have a 'learner' view.
+- Arranging a screen to view both Zoom and the application together, if a second screen was not accessible
+- A lot of interrupting - since the instructor was not able to see the chat, hands raised or red/green stickies most of the time
+- Technical instructor (certified Carpentries Instructor) running the Zoom room. A tablet allowed the technical instructor to have a 'learner' view
 
 ![]({{ site.urlimg }}/blog/2020/05/south-african-online-workshop.png)
 
 ## Sticky feedback
 
-In what follows we summarise the learners' experiences from the [Data Carpentry Online Workshop](https://sadilar.github.io/2020-05-05-SA-ONLINE/)
+In what follows we summarise the learner experiences from the [Data Carpentry Online Workshop](https://sadilar.github.io/2020-05-05-SA-ONLINE/)
 
 #### What worked
 
@@ -87,7 +87,7 @@ In what follows we summarise the learners' experiences from the [Data Carpentry 
 <p style="padding-left: 50px"><i>"It would be great to have time to try some of the techniques in exercises as we went along" <br> "I would have liked a few 1 minute pauses to try and test out ideas"</i></p>
 - **Make use of [cloud instances](https://carpentries.org/blog/2020/04/scaffolds/) for installation issues**<br><br>
 - Always have a **"back-up" instructor** just incase something goes wrong (Murphy!)<br><br>
-- SADiLaR are looking into ways how we can **support learners within South Africa with limited access** to internet attend online Carpentry workshops!<br><br>
+- SADiLaR is looking into ways how we can **support learners within South Africa with limited access** to internet attend online Carpentry workshops!<br><br>
 
 
 >"*Overall this is the best workshop I have been to in a long time and 100% the best online workshop ever*."
