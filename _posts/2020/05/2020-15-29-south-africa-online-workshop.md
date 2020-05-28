@@ -8,9 +8,9 @@ time: "09:00:00"
 tags: ["Online Workshops", "Africa"]
 ---
 
-The global COVID-19 pandemic did not leave South African Carpentry workshops unscathed. Under an ongoing national lockdown, tertiary institutions are closed leaving students without access to internet and computer laboratories. The [General Household Survey](http://www.statssa.gov.za/publications/P0318/P03182018.pdf) of South Africa (2018) indicated that only 10.14% of households have access to internet at home.
+COVID-19 has had an impact on in-person meetings globally, and South Africa's Carpentries workshops are no exception. Under an ongoing national lockdown, tertiary institutions are closed leaving students without access to internet and computer laboratories. The [General Household Survey](http://www.statssa.gov.za/publications/P0318/P03182018.pdf) of South Africa (2018) indicated that only 10.14% of households have access to internet at home.
 
- There is a silver lining, some universities have stepped up to bridge the digital divide and are offering access to laptops and mobile data for students to continue the academic year online (on loan or reduced prices). SADiLaR used this 'chopportunity' to host its’ first three day [Online Data Carpentry Workshop](https://sadilar.github.io/2020-05-05-SA-ONLINE/) from May 5-7. Six learners from South Africa and the United Kingdom attended the online workshop, which covered the [R for Social Scientists](https://datacarpentry.org/r-socialsci/) curriculum.
+ There is a silver lining, some universities have stepped up to bridge the digital divide and are offering access to laptops and mobile data for students to continue the academic year online (on loan or reduced prices). SADiLaR used this 'chopportunity' to host its first three-day [Online Data Carpentry Workshop](https://sadilar.github.io/2020-05-05-SA-ONLINE/) from May 5-7. Six learners from South Africa and the United Kingdom attended the online workshop, which covered Data Carpentry's [R for Social Scientists](https://datacarpentry.org/r-socialsci/) curriculum.
 
 The workshop was run by three experienced instructors who taught the lesson content (Spreadsheets, OpenRefine and R) and one instructor as technical coordinator (in charge of the Zoom room, keeping an eye on questions and sticky feedback after each session).
 In total seven supporting instructors assisted during breakout sessions and tasks/challenges over the three days. Instructors consulted the [online workshop recommendations](https://carpentries.org/online-workshop-recommendations/),
@@ -18,16 +18,16 @@ and the [guideline for cloud instances](https://carpentries.org/blog/2020/04/sca
 
 **What did we do**:
 
-- Kept video off to save bandwidth (resulted in 100-200MB of data usage per hour)
-- [Online stickies](https://pinup.com/) for feedback after each session
-- 10 minute break for every 50 minutes taught
+- Kept video off to save bandwidth (resulted in 100-200MB of data usage per hour);
 - Used [Zooms' non-verbal feedback functions](https://support.zoom.us/hc/en-us/articles/115001286183-Nonverbal-Feedback-During-Meetings) for red and green stickies
-- Zoom chat and a collaborative document (Google Documents since the Etherpad was down) to ask questions and communicate with
-- Small number of learners
-- Breakout rooms for support
-- Arranged learner screens to view both Zoom and the application together, if a second screen was not accessible
-- A lot of interrupting - since the instructor was not able to see the chat, hands raised or red/green stickies most of the time
-- Technical instructor (certified Carpentries Instructor) running the Zoom room. A tablet allowed the technical instructor to have a 'learner' view
+- Used [pinup](https://pinup.com/) for online sticky notes for feedback after each session;
+- Zoom chat and a collaborative document (Google Documents since the Etherpad was down) to ask questions and communicate with;
+- Zoom's Breakout rooms for learner support i.e. troubleshooting;
+- Took a 10 minute break for every 50 minutes taught;
+- Invited a smaller group of learners to the workshop - usually, a workshop will have 15-25 learners, ours had six learners;
+- Arranged learner screens to view both Zoom and the presentations together, if a second screen was not an option for the learners;
+- Organised interruption by co-instructors periodically to notify the lead instructor about hands raised or red/green stickies in the chat, and
+- Technical instructor (certified Carpentries Instructor) running the Zoom room. Use of a tablet allowed the technical instructor to have a 'learner' view.
 
 ![]({{ site.urlimg }}/blog/2020/05/south-african-online-workshop.png)
 
