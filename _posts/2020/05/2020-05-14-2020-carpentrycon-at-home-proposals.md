@@ -22,7 +22,7 @@ All community members are welcome to submit a proposal for the following session
 -   Social events
 -   Skill-ups
 -   Project sprints
--   Lightening Talks *a five minute talk on a topic related to the theme*
+-   Lightning Talks *a five minute talk on a topic related to the theme*
 
 A description of each session type is available within the proposal repository (see below).
 
