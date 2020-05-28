@@ -29,11 +29,12 @@ and the [guideline for cloud instances](https://carpentries.org/blog/2020/04/sca
 - Organised interruption by co-instructors periodically to notify the lead instructor about hands raised or red/green stickies in the chat, and
 - Technical instructor (certified Carpentries Instructor) running the Zoom room. Use of a tablet allowed the technical instructor to have a 'learner' view.
 
-![]({{ site.urlimg }}/blog/2020/05/south-african-online-workshop.png)
+![Multi-screen setup by one of the participants at the SADiLaR workshop]({{ site.urlimg }}/blog/2020/05/south-african-online-workshop.png)
+_Multi-screen setup by one of the participants at the SADiLaR workshop. Most participants in a workshop use one screen only._
 
 ## Sticky feedback
 
-In what follows we summarise the learner experiences from the [Data Carpentry Online Workshop](https://sadilar.github.io/2020-05-05-SA-ONLINE/)
+In what follows we summarise the learner experiences from the [Data Carpentry Online Workshop in South Africa](https://sadilar.github.io/2020-05-05-SA-ONLINE/)
 
 #### What worked
 
