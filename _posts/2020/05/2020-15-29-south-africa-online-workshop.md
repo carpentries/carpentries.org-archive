@@ -30,7 +30,7 @@ and the [guideline for cloud instances](https://carpentries.org/blog/2020/04/sca
 - Technical coordinator (certified Carpentries Instructor) running the Zoom room. Use of a tablet allowed the technical instructor to have a 'learner' view.
 
 ![Multi-screen setup by the technical coordinator at the SADiLaR workshop]({{ site.urlimg }}/blog/2020/05/south-african-online-workshop.png)
-_Multi-screen setup by one of the participants at the SADiLaR workshop. Most participants in a workshop use one screen only._
+_Multi-screen setup by the technical coordinator at the SADiLaR workshop. Most participants in a workshop use one screen only._
 
 ## Sticky feedback
 
