@@ -42,5 +42,5 @@ The CarpentryCon @ Home Task Force will offer an orientation to regional hosts b
 
 #### Sign me up!
 
-To volunteer as a regional host, sign up here [Google Doc signup](https://docs.google.com/spreadsheets/d/1h4V8BqOph8oAyQHKwFsjOihe_CAy-i19OLB2e4QcO9I/edit#gid=1983293344).
+To volunteer as a regional host, sign up here [Google Doc signup](https://docs.google.com/spreadsheets/d/1h4V8BqOph8oAyQHKwFsjOihe_CAy-i19OLB2e4QcO9I/edit#gid=1983293344); the timezones are organised in sheets.
 The task force will be in touch in late June to organise orientation sessions for the hosts and answer questions.
