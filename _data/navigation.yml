@@ -71,8 +71,6 @@
     url: "/involved-lessons/"
   - title: "Become a Member Organisation"
     url: "/membership/"
-  - title: "Current Member Organisations"
-    url: "/members/"
   - title: "Job Vacancies"
     url: "/jobs/"
 
@@ -96,6 +94,8 @@
     url: "/trainers/"
   - title: "Committees and Task Forces"
     url: "/committees/"
+  - title: "Current Member Organisations"
+    url: "/members/"
 
 
 - title: Connect
