@@ -176,9 +176,9 @@ In Q1 2019, the business Team worked on updating our grants collaboration workfl
 </details>
 
 ## Community Development Team
-<br>Angelique van Rensburg · Kari L. Jordan · Omar Khan · Serah Rono
+<br>Angelique van Rensburg · Kari L. Jordan · Kelly Barnes · Omar Khan · Serah Rono
 
-Led by Serah Njambi Rono, the Community Development Team works to develop and maintain an open and welcoming community culture by developing, testing and implementing various communication strategies, supporting our various committees and task forces, and by introducing and running various initiatives that result in increased pathways for collaboration in our community, as well as equitable  distribution of resources, opportunities and access to inclusive spaces for our community members globally. The Carpentries Equity and Inclusion Lead - Kari Jordan, Communications Manager - Omar Khan, Regional Consultant for Southern Africa - Angelique van Rensburg, and our incoming Curriculum Community Developer all sit on this team. Chris Erdmann and Tracy Teal also served in this team in 2019. Some of the projects the Community Development Team has embarked on since January 2019 include:
+Led by Serah Njambi Rono, the Community Development Team works to develop and maintain an open and welcoming community culture by developing, testing and implementing various communication strategies, supporting our various committees and task forces, and by introducing and running various initiatives that result in increased pathways for collaboration in our community, as well as equitable  distribution of resources, opportunities and access to inclusive spaces for our community members globally. The Carpentries Executive Director - Kari Jordan, Communications Manager - Omar Khan, Regional Consultant for Southern Africa - Angelique van Rensburg, Deputy Director of Instructor Training - Kelly Barnes and our incoming Curriculum Community Developer all sit on this team. Chris Erdmann and Tracy Teal also served in this team in 2019. Some of the projects the Community Development Team has embarked on since January 2019 include:
 developing and implementing a communications strategy for The Carpentries, updating our Code of Conduct documentation with the Code of Conduct Committee, The Carpentries Values Project, The Carpentries Tagathon, The Carpentries Gratitudes project among others. You can find more details about their quarterly project work below.
 
 <details>
@@ -289,7 +289,7 @@ In Q1 2019,  the Community Development Team worked on developing a communication
 ## Curriculum Team
 <br/>Erin Becker · François Michonneau · Zhian Kamvar
 
-Led by Erin Becker, the Curriculum Team guides and oversees curriculum development and maintenance and works closely with our Maintainer community and Curriculum Advisor committees. François Michonneau iand Zhian Kamvar are members of the Curriculum Team. Some of the projects the Curriculum Team has embarked on since January 2019 include: updating the format of Maintainer meetings, producing a first draft of a Curriculum Development Handbook, working with the Genomics R Maintainers to make progress towards publishing a lesson for working with Genomics data in R, working with the Maintainers group to develop a prototype for our new lesson template, and working with the Library Carpentry Maintainers and Curriculum Advisors to continue to develop Library Carpentry’s curricula. You can find more details about their quarterly projects work below.
+Led by Erin Becker, the Curriculum Team guides and oversees curriculum development and maintenance and works closely with our Maintainer community and Curriculum Advisor committees. François Michonneau and Zhian Kamvar are members of the Curriculum Team, and will be joined by the incoming Curriculum Community Developer. Some of the projects the Curriculum Team has embarked on since January 2019 include: updating the format of Maintainer meetings, producing a first draft of a Curriculum Development Handbook, working with the Genomics R Maintainers to make progress towards publishing a lesson for working with Genomics data in R, working with the Maintainers group to develop a prototype for our new lesson template, and working with the Library Carpentry Maintainers and Curriculum Advisors to continue to develop Library Carpentry’s curricula. You can find more details about their quarterly projects work below.
 
 <details>
 <summary> 
@@ -463,9 +463,9 @@ In Q1 2019, the Infrastructure Team worked on organising and documenting our inf
 </details>
 
 ## Instructor Training Team
-<br>Erin Becker · Karen Word · Sher! Hurt
+<br> Karen Word · Kelly Barnes · Maneesha Sane · Talisha Sutton-Kennedy Sher! Hurt
 
-Led by Karen Word, the Instructor Training Team manages our Instructor Training and Trainer Training programs and curricula and works closely with our Trainer community. The members of the Instructor Training Team are Sher! Hurt, Erin Becker and the incoming Deputy Director of Instructor Training. Some of the projects the Instructor Training Team has embarked on since January 2019 include: a workflow for offering a-la carte Instructor Trainings outside of our membership program. You can find more details about their quarterly projects work below.
+Led by Karen Word, the Instructor Training Team manages our Instructor Training and Trainer Training programs and curricula and works closely with our Trainer community. The members of the Instructor Training Team are Talisha Sutton-Kennedy, Sher! Hurt, Maneesha Sane and Kelly Barnes. Some of the projects the Instructor Training Team has embarked on since January 2019 include: a workflow for offering a-la carte Instructor Trainings outside of our membership program. You can find more details about their quarterly projects work below.
 
 <details>
 <summary> 
