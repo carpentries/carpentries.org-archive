@@ -463,7 +463,7 @@ In Q1 2019, the Infrastructure Team worked on organising and documenting our inf
 </details>
 
 ## Instructor Training Team
-<br> Karen Word · Kelly Barnes · Maneesha Sane · Talisha Sutton-Kennedy Sher! Hurt
+<br> Karen Word · Kelly Barnes · Maneesha Sane · Talisha Sutton-Kennedy · Sher! Hurt
 
 Led by Karen Word, the Instructor Training Team manages our Instructor Training and Trainer Training programs and curricula and works closely with our Trainer community. The members of the Instructor Training Team are Talisha Sutton-Kennedy, Sher! Hurt, Maneesha Sane and Kelly Barnes. Some of the projects the Instructor Training Team has embarked on since January 2019 include: a workflow for offering a-la carte Instructor Trainings outside of our membership program. You can find more details about their quarterly projects work below.
 
