@@ -23,7 +23,7 @@ We especially encourage you to “save the date” for our three featured presen
 
 - Opening Keynote, by Kari Jordan, [13 July - 14:00UTC](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Opening%20Keynote&iso=20200713T14) and [July 14 - 0:00 UTC](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Opening%20Keynote&iso=20200714T00)
 - Keynote, Andrea Jones-Rooy, [4 August - 0:00 UTC](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Featured%20Keynote&iso=20200804T00)
-- Fireside Chat with Stephanie Butland and Serah Rono, [August 26 - 21:00 UTC](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Fireside%20Chat&iso=20200826T21) and [27 August - 15:00 UTC](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Fireside%20Chat&iso=20200827T15)
+- Fireside Chat with Stefanie Butland and Serah Rono, [August 26 - 21:00 UTC](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Fireside%20Chat&iso=20200826T21) and [27 August - 15:00 UTC](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Fireside%20Chat&iso=20200827T15)
 
 ### Register
 
