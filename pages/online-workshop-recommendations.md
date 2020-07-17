@@ -56,7 +56,7 @@ _________
 ## Before Your Workshop
 ### Planning your workshop
 #### Planning Checklist
-Use this list to be sure you've given time and thought to each item. Not all items on this checklist are required, but all should be considered during planning. Details on specific recommendations are below.
+Use this list to be sure you have given time and thought to each item. Not all items on this checklist are required, but all should be considered during planning. Details on specific recommendations are below.
 
 <div class="checklist">
 	
@@ -198,7 +198,7 @@ The Carpentries now offers cloud instances, or "scaffolds" for all our core less
 ##### Check-ins and Exercises
 It is always a good idea to think through a workshop in advance to determine the best points to pause and engage learners in an active challenge to reinforce and demonstrate their learning. However, feedback from online workshops suggests that more or different exercises, in addition to any provided in our curricula, may be desirable to support learner engagement in this context. In particular, the added time cost for exercises in the context of slow-running workshops overall demands particular attention to ensure that exercise opportunities remain appropriate and available even where content needs to be cut.
 
-Think through the learner experience you'd like to create during your instructional time. If additional exercises seem worthwhile, work with your instructional team to ensure that these are focused, achievable, and informative as assessments.
+Think through the learner experience you would like to create during your instructional time. If additional exercises seem worthwhile, work with your instructional team to ensure that these are focused, achievable, and informative as assessments.
 
 ##### Making Your Workshop Accessible
 Online workshops introduce many challenges and opportunities with regard to accessibility. The ability to join a workshop remotely opens up many options for learners otherwise affected by travel constraints or physical accessibility concerns. However, it also introduces new challenges related to internet access, technology limitations, and sensory disabilities. 
@@ -266,7 +266,7 @@ Depending on the size of your workshop, it can be useful to do a round of introd
 You can then ask each learner to share their name, pronouns, and institution or location verbally, or have them type it in the chat. On Zoom, learners can adjust their screen name to reflect their preferred name and pronouns. 
 
 #### Do an Ice Breaker activity
-This can be combined with introductions, above, or done as a separate activity. Either way, an ice-breaker will do more than warm up your audience -- it is also an important opportunity to teach your learners how to interact during your workshop. Everyone can practice raising hands, muting and unmuting, typing in a collaborative document, and anything else you'd like them to try. 
+This can be combined with introductions, above, or done as a separate activity. Either way, an ice-breaker will do more than warm up your audience -- it is also an important opportunity to teach your learners how to interact during your workshop. Everyone can practice raising hands, muting and unmuting, typing in a collaborative document, and anything else you would like them to try. 
 
 With a large workshop, even a short prompt can take a while! For best results, keep it simple.
 
@@ -276,7 +276,7 @@ Everything you have planned with regard to how your workshop will function now n
 * [The Code of Conduct](https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html)
 * [The Emergency Plan](#emergency-planning-know-your-rally-point)
 * How to use the technology (e.g., conferencing platform features, chat, collaborative notetaking document)
-* Communication norms (e.g., [How to ask questions](#handling-questions), [how to indicate when you're ok or stuck](#tracking-progress))
+* Communication norms (e.g., [How to ask questions](#handling-questions), [how to indicate when you are ok or stuck](#tracking-progress))
 * How to arrange windows on a single, small laptop screen
 
 For this last item, a picture really is worth a thousand words. Here is a great example to get you started:
@@ -332,7 +332,7 @@ In addition to requesting help, learners often use sticky notes at in-person wor
 As always, be sure to keep screen space and cognitive load in mind when considering adding a tool to your learning environment.
 
 #### Asking questions
-Formative assessment is important in any format to evaluate where the learners are in relation to your objectives. This is particularly important online, where 'reading the room' is not an option and the only way to know what's going on out there is to ask. 
+Formative assessment is important in any format to evaluate where the learners are in relation to your objectives. This is particularly important online, where 'reading the room' is not an option and the only way to know what is going on out there is to ask. 
     * One quick approach is to offer prediction prompts while live coding, giving learners a chance to practice as they go.  Examples might include:
         * “How many lines will this print out when I execute this code?”
         * “Remind me what the name of this function is?” 
@@ -388,11 +388,11 @@ We know you have a 'real life' to get back to! As time allows, consider investin
 # What if I want to do it differently?
 The Carpentries is a community full of energy and ideas, and we know you are going to have your own thoughts about the best way to do this! 
 
-During the pilot phase, we ask that you reserve Carpentries branding for workshops that *mostly* follow these guidelines. Workshops that digress substantially, e.g. using a "flipped classroom" model with pre-recorded instruction and synchronous support, are best labeled "Carpentries-based" workshops for now. Also keep in mind our general guidelines on [what is and is not a Carpentries workshop](https://carpentries.github.io/instructor-training/21-carpentries/index.html#what-is-a-carpentries-workshop-the-rules). However, **we are interested in receiving feedback on all workshop formats,** even those that don't strictly qualify as Carpentries workshops under the pilot guidelines. 
+During the pilot phase, we ask that you reserve Carpentries branding for workshops that *mostly* follow these guidelines. Workshops that digress substantially, e.g. using a "flipped classroom" model with pre-recorded instruction and synchronous support, are best labeled "Carpentries-based" workshops for now. Also keep in mind our general guidelines on [what is and is not a Carpentries workshop](https://carpentries.github.io/instructor-training/21-carpentries/index.html#what-is-a-carpentries-workshop-the-rules). However, **we are interested in receiving feedback on all workshop formats,** even those that do not strictly qualify as Carpentries workshops under the pilot guidelines. 
 
-If you decide to experiment *within* the general parameters of these guidelines (e.g. splitting your workshop across 4 half days and adding an asynchronous support tool for the intervening times), you may still consider your workshop to be a Carpentries-branded pilot workshop. Be sure to let us know via our feedback channels what variation you've tried and how it worked out! 
+If you decide to experiment *within* the general parameters of these guidelines (e.g. splitting your workshop across 4 half days and adding an asynchronous support tool for the intervening times), you may still consider your workshop to be a Carpentries-branded pilot workshop. Be sure to let us know via our feedback channels what variation you have tried and how it worked out! 
 
 
 # Keep checking back here. These recommendations will change!
-As time passes, don't forget to check back here each time you teach! We won't be updating minor points continuously, but where adjustments really seem to have an impact we will update our recommendations ASAP. We will also consider expanding the constraints of the pilot if other experimental formats report solid outcomes with reproducible methods. 
+As time passes, do not forget to check back here each time you teach! We will not be updating minor points continuously, but where adjustments really seem to have an impact we will update our recommendations ASAP. We will also consider expanding the constraints of the pilot if other experimental formats report solid outcomes with reproducible methods. 
 
