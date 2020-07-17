@@ -13,7 +13,7 @@ header-includes: |
   <p>
   <a href="https://carpentries.org/files/pdf/online-workshop-recommendations.pdf" class="edit-on-github">
     <i class="far fa-file-pdf fa-lg"></i>
-    This page also available as a PDF file.
+    This page is also available as a PDF file.
   </a>
   </p>
 </div>
