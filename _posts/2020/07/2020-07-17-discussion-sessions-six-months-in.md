@@ -14,7 +14,7 @@ During the past six months the pre- and post-workshops discussions have grown fr
 
 Below are some information of pre- and post-workshops discussions held over the last six months.
 
-[Insert infographic here]       
+![Information of pre- and post-workshops discussions held over the last six months]({{ site.urlimg }}/blog/2020/07/Community-Discussion-Infographic-Updated.png)
 
 Have you recently **taught an online workshop** or want to **learn more** of online teaching?  View the [Carpentries Community Calendar](https://calendar.google.com/calendar/embed?src=oseuuoht0tvjbokgg3noh8c47g%40group.calendar.google.com) and sign up for a [Pre- and Post-workshop discussion](https://pad.carpentries.org/community-discussions) in your time zone!
 
