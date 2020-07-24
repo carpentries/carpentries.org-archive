@@ -89,7 +89,7 @@ Amari adds an inline code block `` `r gdef('linear_model', 'modéle linéaire')`
 When she knits her document,
 the code block produces the HTML:
 
-```
+```html
 <a href="http://carpentries.org/glosario/fr/#linear-model" class="glossary-definition">modéle linéaire</a>
 ```
 
