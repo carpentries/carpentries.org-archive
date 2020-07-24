@@ -95,7 +95,7 @@ the code block produces the HTML:
 
 ### Checking a lesson
 
-Beatriz* has made some changes to a lesson she inherited from Amari and wants to check that it is still consistent.
+Beatriz has made some changes to a lesson she inherited from Amari and wants to check that it is still consistent.
 She runs a tool provided with `glosario` that:
 
 1.  Reads the R Markdown file.
