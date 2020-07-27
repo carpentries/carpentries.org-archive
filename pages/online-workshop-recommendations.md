@@ -79,7 +79,7 @@ Use this list to be sure you have given time and thought to each item. Not all i
         - For communications within the instructional team
 * [Plan for instruction](#instructional-planning)
     - Who teaches what?
-    - [Who plays what role(s) during the workshop?](#instructional-team-roles-who-wFhat-when)
+    - [Who plays what role(s) during the workshop?](#instructional-team-roles-who-what-when)
     - [Software installation](#software-installation)
     - Teaching learners how to participate
     - [Check-ins and exercises](#check-ins-and-exercises)
