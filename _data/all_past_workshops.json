@@ -205,7 +205,7 @@
     "slug": "2020-07-07-delft",
     "tag_name": "automated-email,SWC,online",
     "helpers": "Raúl Ortiz-Merino,Heather Andrews,Nicolas Dintzner,Esther Plomp,Marcel van den Broek,Masha Rudneva",
-    "host_name": "Delft University of Technology",
+    "host_name": "Delft Univeristy of Technology",
     "latitude": 52.002677,
     "start_date": "2020-07-07"
   },
@@ -3130,7 +3130,7 @@
     "slug": "2020-02-03-delft",
     "tag_name": "DC",
     "helpers": "Mateusz Kuzak,Esther Plomp,Yan Wang,Jeff Love,Masha Rudneva,Lora Armstrong",
-    "host_name": "Delft University of Technology",
+    "host_name": "Delft Univeristy of Technology",
     "latitude": 52.00268,
     "start_date": "2020-02-03"
   },
@@ -5035,7 +5035,7 @@
     "slug": "2019-11-13-delft",
     "tag_name": "SWC",
     "helpers": "Kees den Heijer,Heather Andrews,Santosh Ilamparuthi,Esther Plomp,Sobhan Omranian Khorasani,Lena Karvovskaya,Jacques Flores,Andre van der Kraan,Mark Schenk,Yasemin Turkyilmaz",
-    "host_name": "Delft University of Technology",
+    "host_name": "Delft Univeristy of Technology",
     "latitude": 52.002677,
     "start_date": "2019-11-13"
   },
@@ -6175,7 +6175,7 @@
     "slug": "2019-10-08-delft",
     "tag_name": "SWC",
     "helpers": "Nicolas Dintzner,Santosh Ilamparuthi,Esther Plomp,Susan Branchett,Sobhan Omranian Khorasani,Yan Wang,Yasemin Türkyilmaz-van der Velden,Lena Karvovskaya,Ashutosh Kumar,James Van Leuven",
-    "host_name": "Delft University of Technology",
+    "host_name": "Delft Univeristy of Technology",
     "latitude": 52.002677,
     "start_date": "2019-10-08"
   },
@@ -6550,7 +6550,7 @@
     "slug": "2019-09-25-eindhoven",
     "tag_name": "SWC",
     "helpers": "Heather Andrews,Santosh Ilamparuthi,Barbara Vreede,Jan Dvorak,Peder Isager,Aliaksei Vasilevich,Koen Graat",
-    "host_name": "Delft University of Technology",
+    "host_name": "Delft Univeristy of Technology",
     "latitude": 51.447497,
     "start_date": "2019-09-25"
   },
@@ -8185,7 +8185,7 @@
     "slug": "2019-07-08-delft",
     "tag_name": "SWC",
     "helpers": "Yan Wang,Raúl Ortiz-Merino,Heather Andrews,Nicolas Dintzner,Santosh Ilamparuthi,Sobhan Omranian Khorasani",
-    "host_name": "Delft University of Technology",
+    "host_name": "Delft Univeristy of Technology",
     "latitude": 52.0015,
     "start_date": "2019-07-08"
   },
@@ -8995,7 +8995,7 @@
     "slug": "2019-06-04-Delft",
     "tag_name": "DC,Pilot",
     "helpers": "Kees den Heijer,Nicolas Dintzner,Mario Beck",
-    "host_name": "Delft University of Technology",
+    "host_name": "Delft Univeristy of Technology",
     "latitude": 52.011578,
     "start_date": "2019-06-04"
   },
@@ -10900,7 +10900,7 @@
     "slug": "2019-03-28-Delft",
     "tag_name": "SWC",
     "helpers": "Kees den Heijer,Raúl Ortiz-Merino,Heather Andrews,Paul van Gent,Leonor Guedes Da Silva,Nicolas Dintzner,Santosh Ilamparuthi,Barbara Vreede,Elena Zhebel,Susan Branchett,Marcel van den Broek",
-    "host_name": "Delft University of Technology",
+    "host_name": "Delft Univeristy of Technology",
     "latitude": 51.998153,
     "start_date": "2019-03-28"
   },
@@ -13360,7 +13360,7 @@
     "slug": "2018-11-29-Delft",
     "tag_name": "SWC",
     "helpers": "Elin Vesper,Raúl Ortiz-Merino,Nadir Ahami",
-    "host_name": "Delft University of Technology",
+    "host_name": "Delft Univeristy of Technology",
     "latitude": 52.0119,
     "start_date": "2018-11-29"
   },

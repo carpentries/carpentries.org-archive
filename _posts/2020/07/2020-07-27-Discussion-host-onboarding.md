@@ -14,7 +14,7 @@ Community Discussion sessions are one of our main tools for community interactio
 
 Interested in becoming a session host? Not sure how or what would be required of you? No problem! Follow these steps:
 
-1. Complete this [form](https://docs.google.com/forms/d/1TCeCOW-S2Haj-56-Mv77U9J9TRiVdLs9TQAWUVQHPgg/view) to start the onboarding process.
+1. Complete this [form](https://forms.gle/D23hVXAXbN4FKG9J7) to start the onboarding process.
 2. Work through the following section of the [Carpentries Handbook](https://docs.carpentries.org/topic_folders/instructor_development/community_discussions.html).
    Watch this [Discussion Host Onboarding video](https://www.youtube.com/watch?v=4hP5kBmNdYM&t=2s) and then the accompanying [slides](https://docs.google.com/presentation/d/11pm8NeYr5YwaW3AS5-cI4NLYebyDi_qTYQwL8V4M61M/), presented by our Executive Director, Dr Kari L. Jordan.
 3. To co-host a Community Discussion session, you can sign-up [here](https://pad.carpentries.org/community-discussions).
