@@ -14,10 +14,10 @@ Community Discussion sessions are one of our main tools for community interactio
 
 Interested in becoming a session host? Not sure how or what would be required of you? No problem! Follow these steps:
 
-1. Complete this [form](https://docs.google.com/forms/d/1TCeCOW-S2Haj-56-Mv77U9J9TRiVdLs9TQAWUVQHPgg/prefill) to start the onboarding process.
-2. Work through the following section of the [Carpentries Handbook](https://docs.carpentries.org/topic_folders/instructor_development/community_discussions.html)
-Watch this [Discussion Host Onboarding video](https://www.youtube.com/watch?v=4hP5kBmNdYM&t=2s) and then the accompanying [slides](https://docs.google.com/presentation/d/11pm8NeYr5YwaW3AS5-cI4NLYebyDi_qTYQwL8V4M61M/edit#slide=id.g4ba42962ac_13_1), presented by our Executive Director, Dr Kari L. Jordan
-3. Co-host a Community Discussion session you can sign-up [here](https://pad.carpentries.org/community-discussions)
-4. Have any other questions - reach out to the Discussion Host [Slack channel](https://swcarpentry.slack.com/archives/CBHECTZJN) or [TopicBox](https://carpentries.topicbox.com/groups/discussion-hosts) channels
+1. Complete this [form](https://docs.google.com/forms/d/1TCeCOW-S2Haj-56-Mv77U9J9TRiVdLs9TQAWUVQHPgg/view) to start the onboarding process.
+2. Work through the following section of the [Carpentries Handbook](https://docs.carpentries.org/topic_folders/instructor_development/community_discussions.html).
+   Watch this [Discussion Host Onboarding video](https://www.youtube.com/watch?v=4hP5kBmNdYM&t=2s) and then the accompanying [slides](https://docs.google.com/presentation/d/11pm8NeYr5YwaW3AS5-cI4NLYebyDi_qTYQwL8V4M61M/), presented by our Executive Director, Dr Kari L. Jordan.
+3. To co-host a Community Discussion session, you can sign-up [here](https://pad.carpentries.org/community-discussions).
+4. Have any other questions? - reach out to the Discussion Host [Slack channel](https://swcarpentry.slack.com/archives/CBHECTZJN) or [TopicBox](https://carpentries.topicbox.com/groups/discussion-hosts) channels.
 
 Discussion Host signups for Q4 (1 Oct - 31 Dec) open on 15 Aug. Feel free to send an email to community@carpentries.org if you have any questions or suggestions.
