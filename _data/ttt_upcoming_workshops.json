@@ -1,35 +1,5 @@
 [
   {
-    "instructors": "Eric Jankowski,Elizabeth Williams",
-    "end_date": "2020-07-14",
-    "url": "https://erjank.github.io/2020-07-13-ttt-online-PDT/",
-    "country": "W3",
-    "curriculum": null,
-    "venue": "Internet",
-    "longitude": -123.393333,
-    "slug": "2020-07-13-ttt-online-PDT",
-    "tag_name": "TTT",
-    "helpers": null,
-    "host_name": "Instructor Training",
-    "latitude": -48.876667,
-    "start_date": "2020-07-13"
-  },
-  {
-    "instructors": "Darya Vanichkina,Brian Ballsun-Stanton",
-    "end_date": "2020-08-18",
-    "url": "https://denubis.github.io/2020-07-20-ttt-online-AEST/",
-    "country": "W3",
-    "curriculum": null,
-    "venue": "Internet",
-    "longitude": -123.393333,
-    "slug": "2020-07-20-ttt-online-AEST",
-    "tag_name": "TTT",
-    "helpers": null,
-    "host_name": "Instructor Training",
-    "latitude": -48.876667,
-    "start_date": "2020-07-20"
-  },
-  {
     "instructors": "Juan (Zacharias Jacobus) Steyn,Martin Dreyer,Angelique van Rensburg",
     "end_date": "2020-07-30",
     "url": "https://nwu-eresearch.github.io/2020-07-27-ttt-online-SAST/",
@@ -43,6 +13,36 @@
     "host_name": "Instructor Training",
     "latitude": null,
     "start_date": "2020-07-27"
+  },
+  {
+    "instructors": "Tim Dennis,Ariel Deardorff",
+    "end_date": "2020-08-28",
+    "url": "https://arieldeardorff.github.io/2020-08-25-ttt-online-PDT/",
+    "country": "",
+    "curriculum": null,
+    "venue": "",
+    "longitude": null,
+    "slug": "2020-08-25-ttt-online-PDT",
+    "tag_name": "TTT",
+    "helpers": null,
+    "host_name": "Instructor Training",
+    "latitude": null,
+    "start_date": "2020-08-25"
+  },
+  {
+    "instructors": "Darya Vanichkina,Brian Ballsun-Stanton",
+    "end_date": "2020-09-22",
+    "url": "https://denubis.github.io/2020-07-20-ttt-online-AEST/",
+    "country": "W3",
+    "curriculum": null,
+    "venue": "Internet",
+    "longitude": -123.393333,
+    "slug": "2020-08-31-ttt-online-AEST",
+    "tag_name": "TTT",
+    "helpers": null,
+    "host_name": "Instructor Training",
+    "latitude": -48.876667,
+    "start_date": "2020-08-31"
   },
   {
     "instructors": "Stephen Crouch,Aleksandra Nenadic",

@@ -1,65 +1,5 @@
 [
   {
-    "instructors": "Lorraine Ling,Eve Bohnett,Sichong Peng,Rachel Lombardi",
-    "end_date": "2020-07-17",
-    "url": "https://loriling96.github.io/2020-07-08-genentech-online/",
-    "country": "US",
-    "curriculum": "dc-ecology-r",
-    "venue": "Genentech (online)",
-    "longitude": 0,
-    "slug": "2020-07-08-genentech-online",
-    "tag_name": "DC",
-    "helpers": null,
-    "host_name": "Genentech",
-    "latitude": 0,
-    "start_date": "2020-07-08"
-  },
-  {
-    "instructors": "Erin Roberts,Shaily Gandhi,Adam Hughes,Chandra Sarkar",
-    "end_date": "2020-07-17",
-    "url": "https://erinroberts.github.io/2020-07-13-noaa-online/",
-    "country": "W3",
-    "curriculum": "dc-ecology-r",
-    "venue": "Internet",
-    "longitude": -123.393333,
-    "slug": "2020-07-13-noaa-online",
-    "tag_name": "DC",
-    "helpers": null,
-    "host_name": "National Oceanic and Atmospheric Administration",
-    "latitude": -48.876667,
-    "start_date": "2020-07-13"
-  },
-  {
-    "instructors": "Maria Kamenetsky,Anne Fouilloux,Sarah Graves,Clare Michaud,Cid Freitag,Stephen Appel",
-    "end_date": "2020-07-17",
-    "url": "https://uw-madison-datascience.github.io/2020-07-13-uwmadison-dc/",
-    "country": "US",
-    "curriculum": "dc-geospatial",
-    "venue": "UW-Madison (online)",
-    "longitude": -89.5465041,
-    "slug": "2020-07-13-uwmadison-dc",
-    "tag_name": "DC",
-    "helpers": "Sarah Stevens",
-    "host_name": "University of Wisconsin - Madison",
-    "latitude": 43.0849081,
-    "start_date": "2020-07-13"
-  },
-  {
-    "instructors": "Mauro Lepore",
-    "end_date": "2020-07-16",
-    "url": "https://maurolepore.github.io/2020-07-15-rice/",
-    "country": "US",
-    "curriculum": "dc-ecology-r",
-    "venue": "Rice University (online)",
-    "longitude": -95.4018312,
-    "slug": "2020-07-15-rice",
-    "tag_name": "DC",
-    "helpers": "Clinton Heider,Miaomiao Rimmer,Lisa Spiro,John Mulligan",
-    "host_name": "Rice University",
-    "latitude": 29.7173941,
-    "start_date": "2020-07-15"
-  },
-  {
     "instructors": "Saber Soleymani,Wendy Wong",
     "end_date": "2020-07-28",
     "url": "https://asngrads.github.io/2020-07-27-ecr2-online/",
@@ -75,7 +15,7 @@
     "start_date": "2020-07-27"
   },
   {
-    "instructors": "Rooweither Mabuya",
+    "instructors": "Juan (Zacharias Jacobus) Steyn,Martin Dreyer,Sourav Singh,Rooweither Mabuya",
     "end_date": "2020-08-07",
     "url": "https://sadilar.github.io/2020-08-03-SA-ONLINE/",
     "country": "ZA",
@@ -114,7 +54,7 @@
     "longitude": -123.39333,
     "slug": "2020-08-17-SA-ONLINE",
     "tag_name": "DC",
-    "helpers": null,
+    "helpers": "Benson Muite",
     "host_name": "South African Centre for Digital Language Resources (SADiLaR)",
     "latitude": -48.876667,
     "start_date": "2020-08-17"
@@ -125,7 +65,7 @@
     "url": "https://www.eeassoc.org/index.php?site=EEA2020&page=294&trsz=295",
     "country": "NL",
     "curriculum": "dc-economics",
-    "venue": "The Maritime Museum",
+    "venue": "European Economic Association (Online)",
     "longitude": 4.4799,
     "slug": "2020-08-23-eea",
     "tag_name": "DC",
@@ -148,5 +88,35 @@
     "host_name": "University of Oklahoma",
     "latitude": 36.101354,
     "start_date": "2020-09-02"
+  },
+  {
+    "instructors": "Raúl Ortiz-Merino,Santosh Ilamparuthi,Esther Plomp,Marcel van den Broek",
+    "end_date": "2020-09-24",
+    "url": "https://4turesearchdata-carpentries.github.io/2020-09-16-delft/",
+    "country": "NL",
+    "curriculum": "dc-genomics",
+    "venue": "September 2020 Genomics Workshop @TUDelft (online)",
+    "longitude": 4.37524,
+    "slug": "2020-09-16-delft",
+    "tag_name": "DC",
+    "helpers": "Mario Beck",
+    "host_name": "Delft Univeristy of Technology",
+    "latitude": 52.002677,
+    "start_date": "2020-09-16"
+  },
+  {
+    "instructors": "Mario Antonioletti,Peter Smyth",
+    "end_date": "2020-10-13",
+    "url": "https://softwaresaved.github.io/2020-10-13-ssi-online/",
+    "country": "GB",
+    "curriculum": "dc-ecology-r",
+    "venue": "Software Sustainability Institute (online)",
+    "longitude": -1,
+    "slug": "2020-10-13-ssi-online",
+    "tag_name": "DC",
+    "helpers": "Aleksandra Nenadic,Robert Nagy",
+    "host_name": "University of Manchester",
+    "latitude": 45,
+    "start_date": "2020-10-13"
   }
 ]

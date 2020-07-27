@@ -1,5 +1,20 @@
 [
   {
+    "instructors": "Eric Jankowski,Elizabeth Williams",
+    "end_date": "2020-07-14",
+    "url": "https://erjank.github.io/2020-07-13-ttt-online-PDT/",
+    "country": "W3",
+    "curriculum": null,
+    "venue": "Internet",
+    "longitude": -123.393333,
+    "slug": "2020-07-13-ttt-online-PDT",
+    "tag_name": "TTT",
+    "helpers": null,
+    "host_name": "Instructor Training",
+    "latitude": -48.876667,
+    "start_date": "2020-07-13"
+  },
+  {
     "instructors": "Maneesha Sane,Sarah Pugachev",
     "end_date": "2020-06-19",
     "url": "https://www.sarah-pugachev.com/2020-06-18-ttt-NYDCLC/",

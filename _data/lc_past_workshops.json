@@ -1,5 +1,20 @@
 [
   {
+    "instructors": "Toni Hoberecht,Clarke Iakovakis",
+    "end_date": "2020-06-19",
+    "url": "https://osu-carpentry.github.io/2020-06-18-okacrl/",
+    "country": "US",
+    "curriculum": "lc-other",
+    "venue": "Online",
+    "longitude": -97.0737222,
+    "slug": "2020-06-18-okacrl",
+    "tag_name": "LC",
+    "helpers": "Mark Laufersweiler,Kay BJornen,Emrys Moreau,Alyssa Migdalsk,Beth Jones",
+    "host_name": "Oklahoma State University",
+    "latitude": 36.1270236,
+    "start_date": "2020-06-18"
+  },
+  {
     "instructors": "Kristina Hettne,Matthijs de Zwaan,Alice Doek,Henriette Reerink",
     "end_date": "2020-06-09",
     "url": "https://mtthsdzwn.github.io/2020-06-08-leiden/",

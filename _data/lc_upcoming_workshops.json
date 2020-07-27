@@ -1,5 +1,20 @@
 [
   {
+    "instructors": "Scott Peterson,Preethy Nair,Andrea Medina-Smith,Ann James",
+    "end_date": "2020-07-30",
+    "url": "https://nairps.github.io/2020-07-27-american-online/",
+    "country": "US",
+    "curriculum": "lc",
+    "venue": "America University (online)",
+    "longitude": -77.036873,
+    "slug": "2020-07-27-american-online",
+    "tag_name": "LC",
+    "helpers": null,
+    "host_name": "American University",
+    "latitude": 38.907192,
+    "start_date": "2020-07-27"
+  },
+  {
     "instructors": "Reid Otsuji,Leigh Phan",
     "end_date": "2020-08-14",
     "url": "https://arieldeardorff.github.io/2020-08-10-SoCal-Online/",
@@ -13,5 +28,50 @@
     "host_name": "California State University Long Beach",
     "latitude": 0,
     "start_date": "2020-08-10"
+  },
+  {
+    "instructors": null,
+    "end_date": "2020-09-04",
+    "url": "https://jordanpedersen.github.io/2020-08-14-international/",
+    "country": "CA",
+    "curriculum": "lc",
+    "venue": "International Library Carpentries, sponsored by the University of Toronto (online)",
+    "longitude": -1,
+    "slug": "2020-08-14-utoronto",
+    "tag_name": "LC",
+    "helpers": null,
+    "host_name": "University of Toronto",
+    "latitude": 45,
+    "start_date": "2020-08-14"
+  },
+  {
+    "instructors": "Konrad Förstner,Till Sauerwein,Rabea Müller",
+    "end_date": "2020-08-19",
+    "url": "https://zbmed.github.io/2020-08-18-LC_at_ZB_MED_online/",
+    "country": "FI",
+    "curriculum": "lc",
+    "venue": "Library Carpentry @ ZB MED ONLINE",
+    "longitude": 6.9142235,
+    "slug": "2020-08-18-LC_at_ZB_MED_online",
+    "tag_name": "LC",
+    "helpers": null,
+    "host_name": "ZB Med Information Centre for Life Sciences",
+    "latitude": 50.9246399,
+    "start_date": "2020-08-18"
+  },
+  {
+    "instructors": "Kaitlin Newson,Tim Ribaric,Kyla Jemison",
+    "end_date": "2020-08-27",
+    "url": "https://brockdsl.github.io/2020-08-19-Carpentry-Online/",
+    "country": "CA",
+    "curriculum": "lc",
+    "venue": "Discord",
+    "longitude": -1,
+    "slug": "2020-08-19-Carpentry-Online",
+    "tag_name": "LC",
+    "helpers": "John Fink",
+    "host_name": "Brock University",
+    "latitude": 45,
+    "start_date": "2020-08-19"
   }
 ]

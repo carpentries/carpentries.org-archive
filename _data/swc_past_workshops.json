@@ -1,5 +1,35 @@
 [
   {
+    "instructors": "Amanda Hulse-Kemp,Jonathan Shao,Jacob Deppen,Preethy Nair",
+    "end_date": "2020-07-23",
+    "url": "https://nairps.github.io/2020-07-22-usda-online/",
+    "country": "US",
+    "curriculum": "swc-reproducible-science",
+    "venue": "United States Department of Agriculture (online)",
+    "longitude": -77.03,
+    "slug": "2020-07-22-usda-online",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "United States Deparment of Agriculture",
+    "latitude": 38.9,
+    "start_date": "2020-07-22"
+  },
+  {
+    "instructors": "Lachlan Deer,Melissa Fabros,Kathy Yeater,Elnaz Amanzadeh Jajin",
+    "end_date": "2020-07-15",
+    "url": "https://lachlandeer.github.io/2020-07-14-usda-online/",
+    "country": "US",
+    "curriculum": "swc-plotting",
+    "venue": "Agriculture Research Services (ARS) (online)",
+    "longitude": -77.01991,
+    "slug": "2020-07-14-usda-online",
+    "tag_name": "SWC",
+    "helpers": "Steven Schroeder,Anna Childers",
+    "host_name": "United States Deparment of Agriculture",
+    "latitude": 38.89206,
+    "start_date": "2020-07-14"
+  },
+  {
     "instructors": "Paula Andrea Martinez,Jason Bell,Catherine Kim,Kevin Bairos-Novak",
     "end_date": "2020-07-09",
     "url": "https://qcif-training.github.io/2020-07-08-QCIF-R/",
@@ -15,7 +45,52 @@
     "start_date": "2020-07-08"
   },
   {
-    "instructors": "Amanda Miotto",
+    "instructors": "Kees den Heijer,Santosh Ilamparuthi,Susan Branchett",
+    "end_date": "2020-07-15",
+    "url": "https://4turesearchdata-carpentries.github.io/2020-07-07-delft/",
+    "country": "NL",
+    "curriculum": "swc-python",
+    "venue": "July 2020 SWC Workshop @TU Delft (online)",
+    "longitude": 4.37524,
+    "slug": "2020-07-07-delft",
+    "tag_name": "SWC",
+    "helpers": "Raúl Ortiz-Merino,Heather Andrews,Nicolas Dintzner,Esther Plomp,Marcel van den Broek,Masha Rudneva",
+    "host_name": "Delft Univeristy of Technology",
+    "latitude": 52.002677,
+    "start_date": "2020-07-07"
+  },
+  {
+    "instructors": "Satwinder Singh,Alan Crosswell,Axinia Radeva",
+    "end_date": "2020-07-22",
+    "url": "https://columbiaswc.github.io/2020-07-06-Columbia-CUIT-1/",
+    "country": "US",
+    "curriculum": "swc-plotting",
+    "venue": "Columbia University CUIT (online)",
+    "longitude": -1,
+    "slug": "2020-07-06-Columbia-CUIT-1",
+    "tag_name": "SWC",
+    "helpers": "Cesar Arias,Michael Weisner,Satwinder Singh,Alan Crosswell,Axinia Radeva",
+    "host_name": "Columbia University",
+    "latitude": 45,
+    "start_date": "2020-07-06"
+  },
+  {
+    "instructors": "Jannetta Steyn",
+    "end_date": "2020-07-10",
+    "url": "https://jsteyn.github.io/2020-07-06-Genesis/",
+    "country": "",
+    "curriculum": "swc-python",
+    "venue": "Newcastle University (online)",
+    "longitude": 0,
+    "slug": "2020-07-06-Genesis",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "University of Newcastle",
+    "latitude": 0,
+    "start_date": "2020-07-06"
+  },
+  {
+    "instructors": "Kim Keogh",
     "end_date": "2020-07-08",
     "url": "https://gu-eresearch.github.io/2020-07-06-GriffithUni-Python/",
     "country": "AU",
@@ -24,24 +99,9 @@
     "longitude": -27.552941,
     "slug": "2020-07-06-GriffithUni-Python",
     "tag_name": "SWC",
-    "helpers": null,
+    "helpers": "Masami Yamaguchi,McKenna Buckley,Jon Shuker",
     "host_name": "Griffith University",
     "latitude": -27.552941,
-    "start_date": "2020-07-06"
-  },
-  {
-    "instructors": null,
-    "end_date": "2020-07-07",
-    "url": "https://jsteyn.github.io/2020-07-06-Genesis/",
-    "country": "GB",
-    "curriculum": "swc-python",
-    "venue": "",
-    "longitude": null,
-    "slug": "2020-07-06-newcastle",
-    "tag_name": "SWC",
-    "helpers": null,
-    "host_name": "University of Newcastle",
-    "latitude": null,
     "start_date": "2020-07-06"
   },
   {
@@ -90,7 +150,7 @@
     "start_date": "2020-06-25"
   },
   {
-    "instructors": "Guilherme Castelão,Ana Beatriz (Bia) Villas Boas",
+    "instructors": "Guilherme Castelão,Ana Beatriz (Bia) Villas Boas,Chris Olson,André Palóczy,Alma Carolina CastilloTrujillo",
     "end_date": "2020-07-03",
     "url": "https://sio-carpentries.github.io/2020-06-23-SIO-online/",
     "country": "US",
@@ -99,13 +159,13 @@
     "longitude": -117.257288,
     "slug": "2020-06-23-SIO-online",
     "tag_name": "SWC",
-    "helpers": null,
+    "helpers": "Luke Colosi",
     "host_name": "University of California San Diego",
     "latitude": 32.867068,
     "start_date": "2020-06-23"
   },
   {
-    "instructors": "David Welch,Eve Bohnett,Ann James",
+    "instructors": "David Welch,Eve Bohnett,Ann James,Femi Ayoola",
     "end_date": "2020-06-26",
     "url": "https://evebohnett.github.io/2020-06-23-uchicago-online1/",
     "country": "US",
@@ -114,7 +174,7 @@
     "longitude": -87.60135,
     "slug": "2020-06-23-uchicago-online1",
     "tag_name": "SWC",
-    "helpers": null,
+    "helpers": "Julia Hanson,Kyle Chard,Katie Rosengarten",
     "host_name": "University of Chicago",
     "latitude": 41.79111,
     "start_date": "2020-06-23"
@@ -144,7 +204,7 @@
     "longitude": -1,
     "slug": "2020-06-22-UD-INBRE",
     "tag_name": "SWC",
-    "helpers": null,
+    "helpers": "Matthew Ralston",
     "host_name": "University of Delaware",
     "latitude": 45,
     "start_date": "2020-06-22"
@@ -159,7 +219,7 @@
     "longitude": -70.660599,
     "slug": "2020-06-22-WHOI-R",
     "tag_name": "SWC",
-    "helpers": "Stace Beaulieu",
+    "helpers": "Stace Beaulieu,Arianna Krinos,Christina Hernandez,Ciara Willis,Ryan Govostes",
     "host_name": "Woods Hole Oceanographic Institute",
     "latitude": 41.523998,
     "start_date": "2020-06-22"
@@ -702,6 +762,21 @@
     "helpers": "Christian Hüser",
     "host_name": "Helmholtz-Zentrum Dresden-Rossendorf",
     "latitude": 51.063611,
+    "start_date": "2020-03-31"
+  },
+  {
+    "instructors": "Danielle Quinn,Emilie Geissinger,Elena Salogni",
+    "end_date": "2020-04-21",
+    "url": "https://mun-swc-hub.github.io/2020-03-31-mun/",
+    "country": "CA",
+    "curriculum": "swc-es-r",
+    "venue": "Memorial University of Newfoundland",
+    "longitude": -52.733243,
+    "slug": "2020-03-31-mun",
+    "tag_name": "SWC",
+    "helpers": "Oihane Cereceda,Mathew Larade,Grace Fishbein,Abdula Abulaban,Aziz Abuselah",
+    "host_name": "ACENET",
+    "latitude": 47.571708,
     "start_date": "2020-03-31"
   },
   {
@@ -3639,7 +3714,7 @@
     "longitude": null,
     "slug": "2019-08-08-LANL",
     "tag_name": "SWC",
-    "helpers": "Chris Malone,Stephen Andrews,Grant Meadors",
+    "helpers": "Chris Malone,Stephen Andrews,Grant David Meadors",
     "host_name": "Los Alamos National Laboratory",
     "latitude": null,
     "start_date": "2019-08-08"

@@ -10,8 +10,8 @@ This page holds all reports published by The Carpentries' Core Team and Executiv
 
 Our annual reports serve as a high-level summary of The Carpentries work, providing a succinct introduction to our organisation for potential funders, new members, and others joining our community. These reports also serve as a rich resource for our existing community members, showcasing the work and growth of our community and providing a summary of the previous year, and what we plan to achieve in the coming year. Our annual reports also include a short overview of our finances for the year.
 
-- [Annual Report, 2019](/files/reports/TheCarpentries2019AnnualReport.pdf)·[Zenodo record](https://zenodo.org/record/3840372#.Xsgc2RNKiv4) · [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3840372.svg)](https://doi.org/10.5281/zenodo.3840372)
-- [Annual Report, 2018](/files/reports/TheCarpentries2018AnnualReport.pdf)
+- [Annual Report, 2019 (pdf)](/files/reports/TheCarpentries2019AnnualReport.pdf) // [Zenodo record](https://zenodo.org/record/3840372#.Xsgc2RNKiv4) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3840372.svg)](https://doi.org/10.5281/zenodo.3840372)
+- [Annual Report, 2018 (pdf)](/files/reports/TheCarpentries2018AnnualReport.pdf)
 
 
 ### Referencing Annual Reports
@@ -22,10 +22,10 @@ Our annual reports are published under a [Creative Commons Attribution 4.0](http
 
 Our Financial Reports are created in the interest of transparency, and to help communicate information on financial planning, and sustainability in The Carpentries more broadly with our global community. They contain information about key sources of income for The Carpentries,, our programmatic expenditure and income, new grant funding and community sponsorship, and a summary of our financial position at the time of release.
 
-- [Financial Report, 2019](/files/reports/2019FinancialReport.pdf)
-- [Financial Report Appendix, 2019](/files/reports/2019FinancialReportAppendix.pdf)
-- [Financial Report, 2018](/files/reports/2018FinancialReport.pdf)
-- [Financial Report Appendix, 2018](/files/reports/2018FinancialReportAppendix.pdf)
+- [Financial Report, 2019 (pdf)](/files/reports/2019FinancialReport.pdf)
+- [Financial Report Appendix, 2019 (pdf)](/files/reports/2019FinancialReportAppendix.pdf)
+- [Financial Report, 2018 (pdf)](/files/reports/2018FinancialReport.pdf)
+- [Financial Report Appendix, 2018 (pdf)](/files/reports/2018FinancialReportAppendix.pdf)
 
 ## Grant Reports
 
@@ -34,8 +34,8 @@ provide additional details beyond our blog posts, including detailed progress on
 encountered, and lessons learned through this work.
 
 - [Alfred P. Sloan Foundation](https://sloan.org)
-  - [2020 Sloan Curriculum Development Final Report](/files/reports/2020SloanCurriculumDevelopmentFinalReport.pdf)
-  - [2020 Sloan Lesson Development Year One Report](/files/reports/2020SloanLessonDevelopmentYearOneReport.pdf)
+  - [2020 Sloan Curriculum Development Final Report (pdf)](/files/reports/2020SloanCurriculumDevelopmentFinalReport.pdf)
+  - [2020 Sloan Lesson Development Year One Report (pdf)](/files/reports/2020SloanLessonDevelopmentYearOneReport.pdf)
 
 ## Assessment Reports
 

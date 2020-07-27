@@ -1,65 +1,5 @@
 [
   {
-    "instructors": "Satwinder Singh,Alan Crosswell,Axinia Radeva",
-    "end_date": "2020-07-22",
-    "url": "https://columbiaswc.github.io/2020-07-06-Columbia-CUIT-1/",
-    "country": "US",
-    "curriculum": "swc-plotting",
-    "venue": "Columbia University CUIT (online)",
-    "longitude": -1,
-    "slug": "2020-07-06-Columbia-CUIT-1",
-    "tag_name": "SWC",
-    "helpers": "Cesar Arias,Michael Weisner,Satwinder Singh,Alan Crosswell,Axinia Radeva",
-    "host_name": "Columbia University",
-    "latitude": 45,
-    "start_date": "2020-07-06"
-  },
-  {
-    "instructors": "Kees den Heijer,Santosh Ilamparuthi,Susan Branchett",
-    "end_date": "2020-07-15",
-    "url": "https://4turesearchdata-carpentries.github.io/2020-07-07-delft/",
-    "country": "NL",
-    "curriculum": "swc-python",
-    "venue": "July 2020 SWC Workshop @TU Delft (online)",
-    "longitude": 4.37524,
-    "slug": "2020-07-07-delft",
-    "tag_name": "SWC",
-    "helpers": "Raúl Ortiz-Merino,Heather Andrews,Nicolas Dintzner,Esther Plomp,Marcel van den Broek,Masha Rudneva",
-    "host_name": "Delft Univeristy of Technology",
-    "latitude": 52.002677,
-    "start_date": "2020-07-07"
-  },
-  {
-    "instructors": "Lachlan Deer,Melissa Fabros,Elnaz Amanzadeh Jajin",
-    "end_date": "2020-07-15",
-    "url": "https://lachlandeer.github.io/2020-07-14-usda-online/",
-    "country": "US",
-    "curriculum": "swc-plotting",
-    "venue": "Agriculture Research Services (ARS) (online)",
-    "longitude": -77.01991,
-    "slug": "2020-07-14-usda-online",
-    "tag_name": "SWC",
-    "helpers": null,
-    "host_name": "United States Deparment of Agriculture",
-    "latitude": 38.89206,
-    "start_date": "2020-07-14"
-  },
-  {
-    "instructors": "Amanda Hulse-Kemp,Jonathan Shao,Jacob Deppen,Preethy Nair",
-    "end_date": "2020-07-23",
-    "url": "https://nairps.github.io/2020-07-22-usda-online/",
-    "country": "US",
-    "curriculum": "swc-reproducible-science",
-    "venue": "United States Department of Agriculture (online)",
-    "longitude": -77.03,
-    "slug": "2020-07-22-usda-online",
-    "tag_name": "SWC",
-    "helpers": null,
-    "host_name": "United States Deparment of Agriculture",
-    "latitude": 38.9,
-    "start_date": "2020-07-22"
-  },
-  {
     "instructors": "Jamene Brooks-Kieffer,Elizabeth Everman,Matthew Deakyne",
     "end_date": "2020-08-14",
     "url": "https://kulibraries.github.io/2020-07-24-ku-online/",
@@ -69,7 +9,7 @@
     "longitude": -95.238251,
     "slug": "2020-07-24-ku-online",
     "tag_name": "SWC",
-    "helpers": "Tami Albin",
+    "helpers": "Mark Holder,Boryana Koseva,Tami Albin,Greg Smith,Tom Hill,Casey Russell,Paul Trana",
     "host_name": "University of Kansas",
     "latitude": 38.973148,
     "start_date": "2020-07-24"
@@ -135,6 +75,21 @@
     "start_date": "2020-08-17"
   },
   {
+    "instructors": "Tobias Huste,Fredo Erxleben",
+    "end_date": "2020-08-20",
+    "url": "https://hifis.gitlab.io/2020-08-19-hzdr/",
+    "country": "DE",
+    "curriculum": "swc-python",
+    "venue": "Helmholtz-Zentrum Dresden-Rossendorf",
+    "longitude": 13.95057,
+    "slug": "2020-08-19-hzdr",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "Helmholtz-Zentrum Dresden-Rossendorf",
+    "latitude": 51.06284,
+    "start_date": "2020-08-19"
+  },
+  {
     "instructors": "Jason Bell,Kasia Koziara,Dag Evensberget",
     "end_date": "2020-08-25",
     "url": "https://qcif-training.github.io/2020-08-24-QCIF-Python/",
@@ -148,5 +103,35 @@
     "host_name": "Queensland Cyber Infrastructure Foundation",
     "latitude": -27.499226,
     "start_date": "2020-08-24"
+  },
+  {
+    "instructors": "Konrad Förstner,Till Sauerwein,Rabea Müller",
+    "end_date": "2020-09-01",
+    "url": "https://zbmed.github.io/2020-08-31-SWC_at_ZB_MED_and_deNBI_online/",
+    "country": "DE",
+    "curriculum": "swc-python",
+    "venue": "Software Carpentry @ ZB MED and de.NBI ONLINE",
+    "longitude": 6.9142235,
+    "slug": "2020-08-31-SWC_at_ZB_MED_and_deNBI_online",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "ZB Med Information Centre for Life Sciences",
+    "latitude": 50.9246399,
+    "start_date": "2020-08-31"
+  },
+  {
+    "instructors": "Antonia Mey",
+    "end_date": "2020-11-11",
+    "url": "https://softwaresaved.github.io/2020-11-10-ssi-online/",
+    "country": "GB",
+    "curriculum": "swc-python",
+    "venue": "Software Sustainability Institute (online)",
+    "longitude": -1,
+    "slug": "2020-11-10-ssi-online",
+    "tag_name": "SWC",
+    "helpers": "Aleksandra Nenadic",
+    "host_name": "University of Manchester",
+    "latitude": 45,
+    "start_date": "2020-11-10"
   }
 ]

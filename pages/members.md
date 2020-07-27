@@ -23,7 +23,6 @@ the growth and sustainability of The Carpentries and is building local capacity 
 - The Jackson Laboratory
 - The University of Wisconsin
 - University of Chicago, Center for Spatial Data Science
-- University of Illinois
 - University of Oklahoma
 
 ### Gold Member Organisations
@@ -31,7 +30,8 @@ the growth and sustainability of The Carpentries and is building local capacity 
 - Chan Zuckerburg Initiative
 - Columbia University
 - CSIRO
-- CyVerse
+- Delft University of Technology, 4TU.Center
+- University of Arizona/CyVerse
 - National Institutes of Health (NIH)
 - New England Software Carpentry Library Consortium
 - New York Data Carpentries Library Consortium (NYDCLC)
@@ -93,6 +93,7 @@ the growth and sustainability of The Carpentries and is building local capacity 
 - University of Connecticut
 - University of Göttingen State and University Library
 - University of Idaho
+- University of Illinois
 - University of Kansas
 - University of Miami
 - University of Minnesota Libraries
@@ -107,5 +108,3 @@ the growth and sustainability of The Carpentries and is building local capacity 
 - VDB (Verein Deutscher Bibliothekarinnen und Bibliothekare - Association of German Libraries and Librarians)
 - West Virginia University
 - Woods Hole Oceanographic Institution
-
-
