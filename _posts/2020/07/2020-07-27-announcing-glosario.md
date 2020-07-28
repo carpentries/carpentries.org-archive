@@ -5,7 +5,7 @@ teaser: "An open source multilingual glossary of data science terms"
 title: "Announcing Glosario"
 date: 2020-07-28
 time: "09:00:00"
-tags: ["Community"]
+tags: ["Carpentries Lessons","Infrastructure"]
 ---
 
 [`glosario`](https://github.com/carpentries/glosario) is an open source glossary of terms used in data science
