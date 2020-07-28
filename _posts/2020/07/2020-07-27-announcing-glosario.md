@@ -17,7 +17,7 @@ what the lesson teaches,
 what learners ought to know before they start,
 and where they can go to find that knowledge.
 Authors can also use the library's functions to insert consistent hyperlinks for terms in their lessons in any of several (human) languages,
-and anyone who has installed the library can use it interactively to look things up while they're programming.
+and anyone who has installed the library can use it interactively to look things up while they are programming.
 
 ## Defining Terms
 
@@ -63,7 +63,7 @@ to search for lessons that define the concepts this one requires.
 ```
 glossary:
   sources:
-  - http://carpentries.org/glosario/
+  - https://carpentries.github.io/glosario/glossary.yml
   language: fr
   requires:
   - correlation
@@ -85,12 +85,12 @@ in alphabetical order by term according to the rules for `glossary/language`.
 
 ### Linking to definitions
 
-Amari adds an inline code block `` `r gdef('linear_model', 'modéle linéaire')` `` to her lesson.
+Amari adds an inline code block `` `r gdef('linear_model', 'modèle linéaire')` `` to her lesson.
 When she knits her document,
 the code block produces the HTML:
 
 ```html
-<a href="http://carpentries.org/glosario/fr/#linear-model" class="glossary-definition">modéle linéaire</a>
+<a href="https://carpentries.github.io/glosario/fr/#linear-model" class="glossary-definition">modèle linéaire</a>
 ```
 
 ### Checking a lesson
@@ -98,7 +98,7 @@ the code block produces the HTML:
 Beatriz has made some changes to a lesson she inherited from Amari and wants to check that it is still consistent.
 She runs a tool provided with `glosario` that:
 
-1.  Reads the R Markdown file.
+1.  Reads the RMarkdown file.
 1.  Extracts the terms under the `glossary/defines` key.
 1.  Searches the body of the document for calls to `gdef(...)`.
 1.  Checks that every term listed in `glossary/defines` is referenced in the document body,
