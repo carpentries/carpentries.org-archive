@@ -3,7 +3,7 @@ layout: page
 authors: ["Ian Flores Siaca", "François Michonneau", "Zhian Kamvar", "Greg Wilson"]
 teaser: "An open source multilingual glossary of data science terms"
 title: "Announcing Glosario"
-date: 2020-07-27
+date: 2020-07-28
 time: "09:00:00"
 tags: ["Community"]
 ---
