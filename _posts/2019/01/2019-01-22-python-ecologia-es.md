@@ -5,7 +5,7 @@ title: "Traducción al español de Ecología con Python, una lección de Data Ca
 teaser: "Nos complace anunciar una nueva lección traducida por la comunidad: Análisis y visualización de datos usando Python"
 date: 2019-01-22
 time: "01:00:00"
-tags: [Internalisation, Latin America, Carpentries Lessons, Data Carpentry, Community]
+tags: [Internationalisation, Latin America, Carpentries Lessons, Data Carpentry, Community]
 ---
 
 *Read the English version of this blog post [here](https://carpentries.org/blog/2019/01/python-ecology-es/).*
