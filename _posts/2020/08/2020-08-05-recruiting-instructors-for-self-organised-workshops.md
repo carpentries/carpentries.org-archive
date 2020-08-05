@@ -2,7 +2,7 @@
 layout: page
 authors: ["SherAaron Hurt"]
 teaser: "Here are a set of resources to help you recruit instructors for self-organised workshops"
-title: "How to Recruit Instructors for Self-rganised Workshops"
+title: "How to Recruit Instructors for Self-Organised Workshops"
 date: 2020-08-05
 time: "09:00:00"
 tags: ["Carpentries Workshops", "Instructors"]
