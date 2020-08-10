@@ -7,7 +7,7 @@ date: 2020-08-07
 time: "09:00:00"
 tags: ["Instructor Development", "Instructors"]
 ---
-> We invite you to complete this [short form](We invite you to complete this short form. Deadline for applications is at the end of day, Monday, 24 August 2020, anywhere on Earth.). Deadline for applications is at the end of day, Monday, 24 August 2020, anywhere on Earth.
+> We invite you to complete this [short form](https://forms.gle/hssLFFHunLaAHa378). Deadline for applications is at the end of day, Monday, 24 August 2020, anywhere on Earth.
 
 May 2020 officially marked the close of a year-long term for our 2019 [Instructor Development Committee Leaders](https://carpentries.org/blog/2019/04/new-idc-members/). We want to take this opportunity to thank Sarah Stevens, Arindam Basu, Tobin Magle, Marco Chiapello, Dr. Megbowon Kemi, and Martin Dreyer for their engagement, and for lending their time and expertise to different activities that served to improve instructors' experiences in our community.
 
