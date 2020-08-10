@@ -68,6 +68,7 @@ All of these issues are accessibility and inclusion issues. Our volunteers' time
 
 ### Human-centered lesson template
 
+{:start="4"}
 4. **The template does not live in the lesson repository**
 
    The lesson repository should only contain information that is relevant for the lesson. The files that are needed to render the lesson should not live within this repository.
@@ -99,6 +100,7 @@ All of these issues are accessibility and inclusion issues. Our volunteers' time
 
 ### Rendered lesson should make it easy to teach
 
+{:start="11"}
 11. **Instructor notes should be easy to access**
 
     Providing instructor notes for lessons is useful to help instructors explain the order in which concepts are being taught, ideas to emphasize when teaching, or common misconceptions that learners may face. Having these notes displayed in the context of the lesson (e.g., as asides) would guide instructors when preparing or teaching the lessons.
