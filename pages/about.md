@@ -52,7 +52,7 @@ through our [Carpentries Twitter](https://twitter.com/thecarpentries) account.
 Organisations are encouraged to <a href="{{site.url}}/membership/">join us as contributing members to support the work we do.</a> We 
 welcome <a href="{{site.url}}/volunteer/">new people</a> to our community. We have 
 <a href="{{site.url}}/volunteer/">many ways to engage</a>, including The Carpentries <a href="https://twitter.com/thecarpentries">Twitter</a> feed, our <a href="https://swc-slack-invite.herokuapp.com/">Slack</a> channel, 
-subscribing to <em>Carpentry Clippings</em>, our twice-monthly <a href="a href={{site.url}}/newsletter/">newsletter</a>, following our [Facebook](https://www.facebook.com/carpentries/) page, and by joining some of our <a href="https://carpentries.topicbox.com/groups">email lists</a>.
+subscribing to <em>Carpentry Clippings</em>, our twice-monthly <a href="{{site.url}}/newsletter/">newsletter</a>, following our [Facebook](https://www.facebook.com/carpentries/) page, and by joining some of our <a href="https://carpentries.topicbox.com/groups">email lists</a>.
 
 We announce a lot of what we do via our Twitter feed. [Follow us on Twitter](https://twitter.com/thecarpentries). 
 
