@@ -110,7 +110,7 @@ Use this list to be sure you have given time and thought to each item. Not all i
 #### Think about time 
 Our feedback indicates that many online workshops move more slowly than in-person events. This is particularly true where breakout sessions are used, and we do recommend using them. This means planning ahead to identify where content can be trimmed as the need arises, without cutting into breaks or activity time. 
 
-As the intstructor, there are several things to consider, while also providing all of the learners with as much personlised attention as possible. We recommend having a class size of 20 learners or fewer. With fewer numbers instructors/ supporting and instructors adn helpers are able to provide direct assistance to each participant without feeling overwhelmed.  
+As the instructor, there are several things to consider while also providing all of the learners with as much personlised attention as possible. We recommend having a class size of 20 learners or fewer. With fewer numbers, instructors/ supporting and instructors and helpers are able to provide direct assistance to each participant without feeling overwhelmed.  
 
 Breaks are vital in any workshop. In an online setting, particularly for those juggling multiple responsibilities at home, it is important that breaks be scheduled, [announced](pre-workshop-emails-to-learners), and on time. Consider allowing time for longer breaks (e.g. 30 minutes), especially if you plan to use breaks as opportunities to provide help.
 
