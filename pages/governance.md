@@ -51,7 +51,7 @@ The Carpentries Executive Council is the highest leadership body of The Carpentr
 
 ### Carpentries Bylaws and Policies
 
-The Carpentries Bylaws can be found in [handbook](https://docs.carpentries.org/topic_folders/governance/bylaws.html).
+The Carpentries Bylaws can be found in the [handbook](https://docs.carpentries.org/topic_folders/governance/bylaws.html).
 As well as our Code of Conduct, we have a number of [policies that govern how we operate, including our Privacy Policy, our instructor 'no-show' policy and others](https://docs.carpentries.org/topic_folders/policies/index.html).
 
 ### Contacting the Executive Council
