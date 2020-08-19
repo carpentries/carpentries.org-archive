@@ -36,6 +36,11 @@ People already familiar with The Carpentries teaching practices can teach
 Carpentries Incubator or CarpentriesLab lessons in meetups, in classes, or as complements to a "standard" 2-day Carpentries workshop. 
 These lessons can also be used by independent learners, outside of workshops.
 
+> **Looking for a list of our core lessons?** Follow the links below. 
+> * [Data Carpentry Core Lessons](https://datacarpentry.org/lessons/)
+> * [Software Carpentry Core Lessons](https://software-carpentry.org/lessons/index.html)
+> * [Library Carpentry Core Lessons](https://librarycarpentry.org/lessons/)
+
 ## The Carpentries Incubator
 
 The Carpentries Incubator is a place for Carpentries community members to share Carpentries-style teaching materials at all stages of development, to collaborate on lesson development, and receive feedback from other community members.
