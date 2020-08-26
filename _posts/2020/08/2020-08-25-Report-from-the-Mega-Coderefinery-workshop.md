@@ -3,7 +3,7 @@ layout: page
 authors: ["Richard Darst", "Naoe Tatara"]
 teaser: "Teaching 100 learners at once: does it work?"
 title: "Report from the Mega-Coderefinery workshop"
-date: 2020-08-25
+date: 2020-08-26
 time: "09:00:00"
 tags: [ "Teaching", "Online Workshops"]
 ---
