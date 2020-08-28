@@ -14,6 +14,7 @@ permalink: /workshops-curricula/
 * [Software Carpentry (Programming with Python)](#swc-prog-python)
 * [Software Carpentry (Programming with R)](#swc-prog-R)
 * [Software Carpentry (R for Reproducible Scientific Analysis)](#swc-repro-R)
+* [Community Developed Lessons](#community-lessons)
 
 
 ### <a id="dc-ecology"></a> Data Carpentry: Ecology
