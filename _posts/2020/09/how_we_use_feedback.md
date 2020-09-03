@@ -11,11 +11,17 @@ tags: ["Assessment", "Communications"]
 # How We Use Feedback at The Carpentries
 As you were filling out yet another survey or feedback form, you might have found yourself wondering, "What does The Carpentries do with all of this feedback anyway? Do they even use it? Do they really need to hear from *me*?" And the answer is yes, we definitely do! 
 
-If you have hung around The Carpentries for any period of time, you know that community is core to all we do. Everything is co-created by the community with support from The Carpentries [Core Team](https://carpentries.org/team/). But to be able to co-create, we have to be communicating effectively. As Core Team members, our job is to listen to you and use your feedback to inform the work we do. It is just as important, however, that we close that feedback loop by sharing back to you, to facilitate *your* work and to showcase your accomplishments. Think of it as Our Feedback Cycle. 
+If you have hung around The Carpentries for any period of time, you know that community is core to all we do. Everything is co-created by the community with 
+support from The Carpentries [Core Team](https://carpentries.org/team/). But to be able to co-create, we have to have strong lines of communication in all 
+directions. As Core Team members, our job is to listen to you and use your feedback to inform the work we do. It is just as important, however, that we close 
+that feedback loop by sharing back to you, to facilitate *your* work and to showcase your accomplishments. Since some of us really love concept maps here at 
+The Carpentries, here is a little diagram to illustrate the many ways that we listen and share through our assessment work:
 
 ![Diagram of the ways that feedback is created, shared, and used at The Carpentries]({{ site.filesurl }}/images/feedback_diagram.png)
 
-Closing the loop is exactly the purpose of this blog post. We know we frequently ask for feedback in many different forums and we want you to know why we ask, why your responses matter, and how the work that we do in gathering feedback comes back around to benefit you.
+The purpose of this blog post is to share our assessment efforts and highlight the critical role that you, our community members, play in this process. We know 
+we frequently ask for feedback in many different forums and we want you to know why we ask, why your responses matter, and how the work that we do in gathering 
+feedback comes back around to benefit you.
 
 ## The Ways We Listen 
 We have many channels where we get to hear from the community. Our current resources include: 
