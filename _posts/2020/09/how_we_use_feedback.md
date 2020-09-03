@@ -36,7 +36,7 @@ We have many channels where we get to hear from the community. Our current resou
 Some of these channels are part of our routine assessment program. Others support continual improvement in specific programs and subcommunities. But perhaps most importantly, as we learned in the transition to online training, *all* of these can be vital resources when we really need to 'turn on our ears' and hear what the community has to say.
 
 ## Routine Assessment 
-One important way we listen to the community is through routine assessment. 
+One important way we listen to the community is through routine assessment. While this assessment may be routine, that does not mean it isn't interesting or important! Without it, we would have no way to know how well our programs are running or where we could improve. Routine assessment is made up of our various surveys and  monitoring of programmatic data (e.g. number of workshops run, location of workshops, etc.).   
 
 ### Pre- and Post-Workshop Surveys
 The heart of our routine assessment is our Pre- and Post Workshop Surveys. We survey learners before and after each Carpentries workshop. Results from these surveys serve many purposes: 
