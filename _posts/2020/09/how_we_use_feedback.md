@@ -90,6 +90,6 @@ In order for us to share these data with you, however, we need to have them in t
 
 ## How Can We Help?
 
-Could pre- or post-workshop survey reports provide different data that would be more useful to you? Are there other kinds of reports that you would like to see? While privacy laws and practical considerations sometimes constrain the kinds of data we can release, we want to do everything we can to reward your efforts with ours on behalf of The Carpentries. This means... you guessed it... we have created a feedback form *just for feedback on feedback*! Embrace the meta and share your ideas about new assessments and/or reports with us using this [form](https://docs.google.com/forms/d/1QfhNkX9TbUzwLBbr5NqW00cA2C26-rWqs-Ub6RYMlaA/edit?usp=sharing).
+Could pre- or post-workshop survey reports provide different data that would be more useful to you? Are there other kinds of reports that you would like to see? While privacy laws and practical considerations sometimes constrain the kinds of data we can release, we want to do everything we can to reward your efforts with ours on behalf of The Carpentries. This means... you guessed it... we have created a feedback form *just for feedback on feedback*! Embrace the meta and share your ideas about new assessments and/or reports with us using this [form](https://forms.gle/gXRRVcsGhsQ2JFZ5A).
 
 
