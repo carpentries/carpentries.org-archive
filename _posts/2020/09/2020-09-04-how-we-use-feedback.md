@@ -17,7 +17,7 @@ directions. As Core Team members, our job is to listen to you and use your feedb
 that feedback loop by sharing back to you, to facilitate *your* work and to showcase your accomplishments. Since some of us really love concept maps here at 
 The Carpentries, here is a little diagram to illustrate the many ways that we listen and share through our assessment work:
 
-![Diagram of the ways that feedback is created, shared, and used at The Carpentries]({{ site.filesurl }}/images/feedback_diagram.png)
+![Diagram of the ways that feedback is created, shared, and used at The Carpentries]({{ site.urlimg }}/blog/2020/09/feedback_diagram.PNG)
 
 The purpose of this blog post is to share our assessment efforts and highlight the critical role that you, our community members, play in this process. We know 
 we frequently ask for feedback in many different forums and we want you to know why we ask, why your responses matter, and how the work that we do in gathering 
