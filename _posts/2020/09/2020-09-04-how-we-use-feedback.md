@@ -48,15 +48,15 @@ One important way we listen to the community is through routine assessment. Whil
 The heart of our routine assessment is our Pre- and Post Workshop Surveys. We survey learners before and after each Carpentries workshop. Results from these surveys serve many purposes: 
 - Instructors and Hosts receive workshop reports that can support program responsiveness at the local level. (More on this below!)
 - We review surveys as they come in for valuable insights into what is working and what is not. 
-- We periodically release summary reports to share our impact with the community; the latest available report from July 2018 can be found [here](https://zenodo.org/record/1325464#.X0Pmp8hKhpy).
+- We periodically release summary reports to share our impact with the community; the [latest available report from July 2018 can be found here](https://zenodo.org/record/1325464#.X0Pmp8hKhpy).
 
 #### Other Routine Assessment 
 
 Two other types of assessment are our Long-Term Survey and Programmatic Assessment. 
 
-- The Long-Term Survey is conducted every six months and allows us to see how learners are using the skills they learned months after the workshop they attended. The latest available report is from April 2020 and is available [here](https://zenodo.org/record/3728205#.X0PoqMhKhpy).
+- The Long-Term Survey is conducted every six months and allows us to see how learners are using the skills they learned months after the workshop they attended. The [latest available report is from April 2020 and is available here](https://zenodo.org/record/3728205#.X0PoqMhKhpy).
 
-- We regularly report on global workshop activity and the growth and diversity of our Instructor community through our Programmatic Assessment report. These reports do not incorporate community feedback, but summarise community accomplishments and compliment the survey reports in illustrating our organisational impact. The latest can be found [here](https://zenodo.org/record/2325620#.X0PpaMhKhpw).
+- We regularly report on global workshop activity and the growth and diversity of our Instructor community through our Programmatic Assessment report. These reports do not incorporate community feedback, but summarise community accomplishments and compliment the survey reports in illustrating our organisational impact. The [latest available report is from October 2018 and can be found here](https://zenodo.org/record/2325620#.X0PpaMhKhpw).
 
 Routine assessment may not sound all that exciting, but it paints a critical portrait of our community. Understanding the differences The Carpentries' community and programs make in your lives reminds each of us why we give our time and energy to this work. It is also key to demonstrating our value to our supporters, including member organisations, granting agencies, and donors. 
 
@@ -99,6 +99,6 @@ In order for us to share these data with you, however, we need to have them in t
 
 ### How Can We Help?
 
-Could pre- or post-workshop survey reports provide different data that would be more useful to you? Are there other kinds of reports that you would like to see? While privacy laws and practical considerations sometimes constrain the kinds of data we can release, we want to do everything we can to reward your efforts with ours on behalf of The Carpentries. This means... you guessed it... we have created a feedback form *just for feedback on feedback*! Embrace the meta and share your ideas about new assessments and/or reports with us using this [form](https://forms.gle/gXRRVcsGhsQ2JFZ5A).
+Could pre- or post-workshop survey reports provide different data that would be more useful to you? Are there other kinds of reports that you would like to see? While privacy laws and practical considerations sometimes constrain the kinds of data we can release, we want to do everything we can to reward your efforts with ours on behalf of The Carpentries. This means... you guessed it... we have created a feedback form *just for feedback on feedback*! Embrace the meta and [share your ideas about new assessments and/or reports with us using this form](https://forms.gle/gXRRVcsGhsQ2JFZ5A).
 
 
