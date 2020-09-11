@@ -230,6 +230,10 @@ Developing the Roadmap for this project was the first of multiple phases toward 
 
 More information about this will be available on The Carpentries blog in the next few weeks.
 
+#### CarpentryCon @ Home Planning
+
+We worked with Sher! Hurt and the [CarpentryCon @ Home Task Force](https://2020.carpentrycon.org/task-force/) to plan for our first ever online and seven-week community conference. Here is the [conference schedule](https://2020.carpentrycon.org/schedule/) and you can find session recordings [on our YouTube channel](http://youtube.com/thecarpentries/videos).
+
 </details>
 
 <details>
