@@ -188,7 +188,7 @@ In Q1 2019, the business Team worked on updating our grants collaboration workfl
 </details>
 
 ## Community Development Team
-<br>Angelique van Rensburg · Kari L. Jordan · Kelly Barnes · Omar Khan · Serah Rono
+<br>Angelique van Rensburg · Kari L. Jordan · Kelly Barnes · Omar Khan · Serah Rono · Toby Hodges
 
 Led by Serah Njambi Rono, the Community Development Team works to develop and maintain an open and welcoming community culture by developing, testing and implementing various communication strategies, supporting our various committees and task forces, and by introducing and running various initiatives that result in increased pathways for collaboration in our community, as well as equitable  distribution of resources, opportunities and access to inclusive spaces for our community members globally. The Carpentries Executive Director - Kari Jordan, Communications Manager - Omar Khan, Regional Consultant for Southern Africa - Angelique van Rensburg, Deputy Director of Instructor Training - Kelly Barnes and our incoming Curriculum Community Developer all sit on this team. Chris Erdmann and Tracy Teal also served in this team in 2019. Some of the projects the Community Development Team has embarked on since January 2019 include:
 developing and implementing a communications strategy for The Carpentries, updating our Code of Conduct documentation with the Code of Conduct Committee, The Carpentries Values Project, The Carpentries Tagathon, The Carpentries Gratitudes project among others. You can find more details about their quarterly project work below.
@@ -205,7 +205,8 @@ developing and implementing a communications strategy for The Carpentries, updat
 
 Angelique van Rensburg · Kari L. Jordan · Kelly Barnes · Omar Khan · Serah Rono
 
-#### Q2 2020 Community Development Team Work
+#### Online Workshops Pilot Project work
+
 In Q2 2020, the Community Development Team collaborated with other Carpentries teams on the Online Workshops Pilot project. Our mandate on this project was to:
 - [Identify ways community members can be supported through a tough period](https://carpentries.org/blog/2020/04/community-support/), and communicate extensively about this
 - [Create a central page on the website](https://carpentries.org/online-workshop-recommendations/) to share The Carpentries official recommendations around online workshops
@@ -216,6 +217,18 @@ support community members in drafting and publishing blog posts about online wor
 - [Facilitating sessions at CarpentryCon](https://2020.carpentrycon.org/schedule/#session-56) to enable instructors to share their experiences from teaching online
 - Find opportunities for Carpentries Core Team and community members to present and share strategies for teaching online
 - Define [facilitation roles necessary for successful convening in online spaces](https://carpentryconnect.org/online/#DefiningVolunteerRoles) and design guides for them. These are part of the [CarpentryConnect Planning Kit](https://carpentryconnect.org), a resource designed to guide community members as they organise local and regional Carpentries events, whether online or in-person. Herein you will find checklists to work with, recommendations for best practices and resources on event planning for further reading.
+
+#### Community Facilitators Program
+
+Developing the Roadmap for this project was the first of multiple phases toward the creation and launch of the Community Facilitators Program in The Carpentries, and you can read about this at length [under this issue](https://github.com/carpentries/strategic-plan/issues/14). In Q2 2020, we were able to
+- Identify all modules that will constitute the curriculum developed to support community facilitators
+- Develop a dependency map to show how the Community Facilitators Program supports existing initiatives in The Carpentries community and to help introduce the Community Facilitators Program to our community to create a shared understanding and help recruit community members to future cohorts of the program
+- Identify learning objectives for the first module of the Community Facilitators Program
+- Identify the first module of the Community facilitators Program to develop
+- Determine team composition & roles in the development of curriculum to train Community Facilitators, including licensing and branding
+- Create a Community Facilitators lifecycle summary to guide communication about, onboarding to, and offboarding from the Community Facilitator program
+
+More information about this will be available on The Carpentries blog in the next few weeks.
 
 </details>
 
