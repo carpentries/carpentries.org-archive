@@ -50,6 +50,15 @@ jobs:
 
       - name: identify files to invalidate
         run: |
-          ${{ steps.deploy.output.action_log }} | grep 'upload: ' | awk '{gsub("_site", "");print $3 }' > .updated_files && cat .updated_files
+          ${{ steps.deploy.outputs.action_log }} | grep 'upload: ' | awk '{gsub("_site", "");print $3 }' > .updated_files && cat .updated_files
 
 
+
+      # - name: invalidate cache
+      #   uses: chetan/invalidate-cloudfront-action@master
+      #   env:
+      #     PATHS_FROM: .updated_files
+      #     AWS_REGION: 'us-east-1'
+      #     DISTRIBUTION: ${{ secrets.DISTRIBUTION }}
+      #     AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID }}
+      #     AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
