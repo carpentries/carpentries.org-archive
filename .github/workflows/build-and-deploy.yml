@@ -38,7 +38,8 @@ jobs:
         run: make install && make site
 
       - name: Deploy to AWS
-        uses: jakejarvis/s3-sync-action@master
+        id: deploy
+        uses: fmichonneau/s3-sync-action@log-output
         with:
           args: --acl public-read --follow-symlinks --delete
         env:
@@ -46,12 +47,9 @@ jobs:
           AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID }}
           AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
           SOURCE_DIR: _site/
-        outputs:
-          deploy:
-            description: "log of deploy step"
 
       - name: identify files to invalidate
         run: |
-          ${{ steps.deploy.output }} | grep 'upload: ' | awk '{gsub("_site", "");print $3 }' > .updated_files && cat .updated_files
+          ${{ steps.deploy.output.action_log }} | grep 'upload: ' | awk '{gsub("_site", "");print $3 }' > .updated_files && cat .updated_files
 
 
