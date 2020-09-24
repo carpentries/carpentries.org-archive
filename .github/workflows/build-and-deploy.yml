@@ -1,0 +1,48 @@
+name: check, build, deploy carpentries.org
+
+on:
+  push:
+    branches: main
+  pull_request: []
+  schedule:
+    - cron: '0 */6 * * *'
+
+jobs:
+  build-website:
+    if: github.repository_owner == 'carpentries'
+    runs-on: ubuntu-latest
+
+    defaults:
+      run:
+        shell: bash
+
+    steps:
+      - name: Set up Ruby
+        uses: actions/setup-ruby@main
+        with:
+          ruby-version: '2.7.1'
+
+      - name: Install GitHub Pages, Bundler, and kramdown gems
+        run: |
+          gem install bundler
+
+      - name: Checkout the lesson
+        uses: actions/checkout@master
+
+      - name: Get GeoJSON for instructor map
+        run: |
+           curl --remote-name-all https://feeds.carpentries.org/all_instructors_by_airport.geojson &&\
+           cp all_instructors_by_airport.geojson files/.
+
+      - name: Build site
+        run: make site
+
+      - name: Deploy to AWS
+        uses: jakejarvis/s3-sync-action@master
+        with:
+          args: --acl public-read --follow-symlinks --delete
+        env:
+          AWS_S3_BUCKET: ${{ secrets.AWS_S3_BUCKET }}
+          AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID }}
+          AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
+          SOURCE_DIR: _site/

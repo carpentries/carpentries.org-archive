@@ -53,7 +53,7 @@ wrf_selforg: "https://amy.carpentries.org/forms/self-organised/" # Report self o
 
 # Website repository
 website_github_repo: "https://github.com/carpentries/carpentries.org"
-gh_default_branch: "gh-pages"
+gh_default_branch: "main"
 
 # Website configuration links
 mailing_lists   : "http://carpentries.topicbox.com/groups"
@@ -104,6 +104,26 @@ exclude:
     - LICENSE
     - README.md
     - INSTALL.md
+
+plugins:
+  - jekyll-get-json
+
+## external data sources
+jekyll_get_json:
+  - data: all_badged_people
+    json: 'https://feeds.carpentries.org/all_badged_people.json'
+  - data: all_past_workshops
+    json: 'https://feeds.carpentries.org/all_past_workshops.json'
+  - data: all_upcoming_workshops
+    json: 'https://feeds.carpentries.org/all_upcoming_workshops.json'
+  - data: badges_stats
+    json: 'https://feeds.carpentries.org/badges_stats.json'
+  - data: community_lessons
+    json: 'https://feeds.carpentries.org/community_lessons.json'
+  - data: help_wanted_issues
+    json: 'https://feeds.carpentries.org/help_wanted_issues.json'
+  - data: newsletter
+    json: 'https://feeds.carpentries.org/newsletter.json'
 
 
 # The language setting is used in /includes/header.html for html-settings
