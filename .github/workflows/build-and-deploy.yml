@@ -50,7 +50,7 @@ jobs:
 
       - name: identify files to invalidate
         run: |
-          echo "${{ steps.deploy.outputs.action_log }}" > log.txt && grep 'upload: ' log.txt  | awk '{gsub("_site", "");print $3 }' > .updated_files && cat .updated_files
+          grep 'upload: ' s3_action_log.txt  | awk '{gsub("_site", "");print $2 }' > .updated_files && cat .updated_files
 
 
 
