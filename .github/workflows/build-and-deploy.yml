@@ -35,7 +35,7 @@ jobs:
            cp all_instructors_by_airport.geojson files/.
 
       - name: Build site
-        run: make site
+        run: make install && make site
 
       - name: Deploy to AWS
         uses: jakejarvis/s3-sync-action@master
