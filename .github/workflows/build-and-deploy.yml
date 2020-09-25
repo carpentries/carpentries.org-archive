@@ -24,15 +24,24 @@ jobs:
 
       - name: Install GitHub Pages, Bundler, and kramdown gems
         run: |
-          gem install bundler
+          gem install bundler yaml-lint
 
-      - name: Checkout the lesson
+      - name: Checkout the Repository
         uses: actions/checkout@master
 
       - name: Get GeoJSON for instructor map
         run: |
            curl --remote-name-all https://feeds.carpentries.org/all_instructors_by_airport.geojson &&\
            cp all_instructors_by_airport.geojson files/.
+
+      - name: Lint _config.yml with yaml-lint
+        run: |
+          yaml-lint  _config.yml
+
+      - name: Lint pages and blog posts
+        run: |
+          yaml-lint -q -n $(find _posts -regex ".*.md\|.*html") &&\
+          yaml-lint -q -n $(find pages -regex ".*.md\|.*html")
 
       - name: Build site
         run: make install && make site
