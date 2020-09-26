@@ -26,6 +26,11 @@ jobs:
         run: |
           gem install bundler yaml-lint
 
+     - name: Set up caching for Bundler
+       uses: actions/cache@v2
+       with:
+         path: .vendor/bundle
+
       - name: Checkout the Repository
         uses: actions/checkout@master
 
@@ -43,8 +48,14 @@ jobs:
           yaml-lint -q -n $(find _posts -regex ".*.md\|.*html") &&\
           yaml-lint -q -n $(find pages -regex ".*.md\|.*html")
 
+      - name: Install & Update Ruby Gems
+        run: |
+          bundle config path .vendor/bundle
+          bundle install --jobs 4 --retry 3
+          bundle update
+
       - name: Build site
-        run: make install && make site
+        run: make site
 
       - name: Deploy to AWS
         id: deploy
