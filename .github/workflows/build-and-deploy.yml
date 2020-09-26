@@ -28,19 +28,19 @@ jobs:
 
       - name: Set up caching for Bundler
         uses: actions/cache@v2
-        key: gems-${{ hashFiles('**/Gemfile.lock') }}
-        restore-keys: |
-          gems-
         with:
           path: .vendor/bundle
+          key: gems-${{ hashFiles('**/Gemfile.lock') }}
+          restore-keys: |
+            gems-
 
       - name: Set up caching for _site folder
         uses: actions/cache@v2
-        key: site-folder-${{ github.sha}}
-        restore-keys: |
-          site-folder-
         with:
           path: _site
+          key: site-folder-${{ github.sha}}
+          restore-keys: |
+            site-folder-
 
       - name: Checkout the Repository
         uses: actions/checkout@master
