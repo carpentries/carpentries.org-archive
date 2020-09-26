@@ -26,10 +26,10 @@ jobs:
         run: |
           gem install bundler yaml-lint
 
-     - name: Set up caching for Bundler
-       uses: actions/cache@v2
-       with:
-         path: .vendor/bundle
+      - name: Set up caching for Bundler
+        uses: actions/cache@v2
+        with:
+          path: .vendor/bundle
 
       - name: Checkout the Repository
         uses: actions/checkout@master
