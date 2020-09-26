@@ -34,14 +34,6 @@ jobs:
           restore-keys: |
             gems-
 
-      - name: Set up caching for _site folder
-        uses: actions/cache@v2
-        with:
-          path: _site
-          key: site-folder-${{ github.sha}}
-          restore-keys: |
-            site-folder-
-
       - name: Checkout the Repository
         uses: actions/checkout@master
 
@@ -72,7 +64,7 @@ jobs:
         id: deploy
         uses: fmichonneau/s3-sync-action@log-output
         with:
-          args: --acl public-read --follow-symlinks --delete
+          args: --acl public-read --follow-symlinks --delete --size-only
         env:
           AWS_S3_BUCKET: ${{ secrets.AWS_S3_BUCKET }}
           AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID }}
