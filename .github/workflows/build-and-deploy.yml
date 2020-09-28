@@ -57,6 +57,9 @@ jobs:
           bundle install --jobs 4 --retry 3
           bundle update
 
+      - name: Create dir to store previous version
+        run: mkdir _site_prev
+
       - name: Get current version from S3
         uses: jakejarvis/s3-sync-action@master
         env:
