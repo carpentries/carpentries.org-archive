@@ -17,6 +17,9 @@ jobs:
         shell: bash
 
     steps:
+      - name: Checkout the Repository
+        uses: actions/checkout@master
+
       - name: Set up Ruby
         uses: actions/setup-ruby@main
         with:
@@ -26,9 +29,6 @@ jobs:
         run: |
           gem install bundler yaml-lint
 
-      - name: Checkout the Repository
-        uses: actions/checkout@master
-
       - name: Set up caching for Bundler
         uses: actions/cache@v2
         with:
@@ -37,10 +37,11 @@ jobs:
           restore-keys: |
             gems-
 
-      - name: Get GeoJSON for instructor map
+      - name: Install & Update Ruby Gems
         run: |
-           curl --remote-name-all https://feeds.carpentries.org/all_instructors_by_airport.geojson &&\
-           cp all_instructors_by_airport.geojson files/.
+          bundle config path .vendor/bundle
+          bundle install --jobs 4 --retry 3
+          bundle update
 
       - name: Lint _config.yml with yaml-lint
         run: |
@@ -51,24 +52,19 @@ jobs:
           yaml-lint -q -n $(find _posts -regex ".*.md\|.*html") &&\
           yaml-lint -q -n $(find pages -regex ".*.md\|.*html")
 
-      - name: Install & Update Ruby Gems
+      - name: Get GeoJSON for instructor map
         run: |
-          bundle config path .vendor/bundle
-          bundle install --jobs 4 --retry 3
-          bundle update
+           curl --remote-name-all https://feeds.carpentries.org/all_instructors_by_airport.geojson &&\
+           cp all_instructors_by_airport.geojson files/.
 
-      - name: Get current version from S3
-        uses: prewk/s3-cp-action@master
+      - name: Create PDF file of some pages
+        uses: docker://pandoc/latex:latest
         with:
-          args: --recursive
-        env:
-          AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID }}
-          AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
-          SOURCE: 's3://${{ secrets.AWS_S3_BUCKET }}'
-          DEST: './_site_prev'
-
-      - name: list content of previous version
-        run: ls -R _site_prev/
+          args: |>
+          --output files/pdf/online-workshop-recommendations.pdf
+          --latex-engine=xelatex
+          -V geometry:margin=1in
+          pages/online-workshop-recommendations.md
 
       - name: Build site
         run: make site
@@ -84,14 +80,24 @@ jobs:
           AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
           SOURCE_DIR: _site/
 
-      - name: identify files to invalidate
+      - name: Get current version from S3
+        uses: prewk/s3-cp-action@master
+        with:
+          args: --recursive
+        env:
+          AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID }}
+          AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
+          SOURCE: 's3://${{ secrets.AWS_S3_BUCKET }}'
+          DEST: './_site_prev'
+
+      - name: Identify files to invalidate
         uses: fmichonneau/ga-compare-folders@main
         env:
           FOLDER_1: _site_prev/
           FOLDER_2: _site/
           OUTPUT: changed_files.txt
 
-      - name: invalidate cache
+      - name: Invalidate CloudFront
         uses: chetan/invalidate-cloudfront-action@master
         env:
           PATHS_FROM: changed_files.txt
