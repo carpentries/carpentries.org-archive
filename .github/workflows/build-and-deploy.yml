@@ -61,12 +61,12 @@ jobs:
         run: mkdir _site_prev
 
       - name: Get current version from S3
-        uses: jakejarvis/s3-sync-action@master
+        uses: prewk/s3-cp-action@master
         env:
-          AWS_S3_BUCKET: ${{ secrets.AWS_S3_BUCKET }}
           AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID }}
           AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
-          SOURCE_DIR: _site_prev/
+          SOURCE: 's3://${{ secrets.AWS_S3_BUCKET }}/'
+          DEST: './_site_prev'
 
       - name: list content of previous version
         run: ls -R _site_prev/
