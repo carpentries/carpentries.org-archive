@@ -60,11 +60,11 @@ jobs:
       - name: Create PDF file of some pages
         uses: docker://pandoc/latex:latest
         with:
-          args: |>
-          --output files/pdf/online-workshop-recommendations.pdf
-          --latex-engine=xelatex
-          -V geometry:margin=1in
-          pages/online-workshop-recommendations.md
+          args: >
+            --output files/pdf/online-workshop-recommendations.pdf
+            --latex-engine=xelatex
+            -V geometry:margin=1in
+            pages/online-workshop-recommendations.md
 
       - name: Build site
         run: make site
