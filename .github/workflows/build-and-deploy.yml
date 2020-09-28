@@ -91,15 +91,11 @@ jobs:
           FOLDER_2: _site/
           OUTPUT: changed_files.txt
 
-      - name: check output
-        run: cat changed_files.txt
-
-
-      # - name: invalidate cache
-      #   uses: chetan/invalidate-cloudfront-action@master
-      #   env:
-      #     PATHS_FROM: .updated_files
-      #     AWS_REGION: 'us-east-1'
-      #     DISTRIBUTION: ${{ secrets.DISTRIBUTION }}
-      #     AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID }}
-      #     AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
+      - name: invalidate cache
+        uses: chetan/invalidate-cloudfront-action@master
+        env:
+          PATHS_FROM: changed_files.txt
+          AWS_REGION: 'us-east-1'
+          DISTRIBUTION: ${{ secrets.DISTRIBUTION }}
+          AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID }}
+          AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
