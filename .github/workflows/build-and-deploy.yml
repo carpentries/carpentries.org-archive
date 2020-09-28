@@ -37,6 +37,11 @@ jobs:
       - name: Checkout the Repository
         uses: actions/checkout@master
 
+      - uses: actions/download-artifact@v2
+        with:
+          name: previous-site-version
+          path: _site_old/
+
       - name: Get GeoJSON for instructor map
         run: |
            curl --remote-name-all https://feeds.carpentries.org/all_instructors_by_airport.geojson &&\
@@ -59,6 +64,11 @@ jobs:
 
       - name: Build site
         run: make site
+
+      - uses: actions/upload-artifact@v2
+        with:
+          name: previous-site-version
+          path: _site/
 
       - name: Deploy to AWS
         id: deploy
