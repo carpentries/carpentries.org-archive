@@ -88,8 +88,8 @@ jobs:
       - name: identify files to invalidate
         uses: fmichonneau/ga-compare-folders@main
         with:
-          path_1: _site_prev/
-          path_2: _site/
+          folder_1: _site_prev/
+          folder_2: _site/
           out: changed_files.txt
 
       - name: check output
