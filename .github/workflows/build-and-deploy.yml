@@ -86,10 +86,10 @@ jobs:
 
       - name: identify files to invalidate
         uses: fmichonneau/ga-compare-folders@main
-        with:
-          folder_1: _site_prev/
-          folder_2: _site/
-          out: changed_files.txt
+        env:
+          FOLDER_1: _site_prev/
+          FOLDER_2: _site/
+          OUTPUT: changed_files.txt
 
       - name: check output
         run: cat changed_files.txt
