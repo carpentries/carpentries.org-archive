@@ -62,7 +62,7 @@ jobs:
         with:
           args: >
             --output files/pdf/online-workshop-recommendations.pdf
-            --latex-engine=xelatex
+            --pdf-engine=xelatex
             -V geometry:margin=1in
             pages/online-workshop-recommendations.md
 
