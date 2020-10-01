@@ -92,7 +92,7 @@ authors: ["First Author", "Second Author", "Third Author"]
 ...
 ~~~
 
-rather than running all the authors' names together in one long string.
+rather than running all the author's names together in one long string.
 
 <a name="page"></a>
 To **create a new page**,
