@@ -1,6 +1,6 @@
 [![Build Status](https://travis-ci.org/carpentries/carpentries.org.svg?branch=gh-pages)](https://travis-ci.org/carpentries/carpentries.org)
 
-# The Carpentries Website
+# The Carpentries Website :-
 
 This is the repository for the new [Carpentries website](https://carpentries.org).
 Please submit additions and fixes as pull requests to [our GitHub repository](https://github.com/carpentries/new-website).
@@ -24,7 +24,7 @@ for links to the many individual lesson repositories.
 > under [these licenses](http://software-carpentry.org/license/),
 > and to abide by [our code of conduct](http://docs.carpentries.org/topic_folders/policies/code-of-conduct.html).
 
-## Setup <a name="setup"></a>
+## Setup <a name="setup"></a> :-
 
 The website uses [Jekyll](http://jekyllrb.com/), a static website generator written in Ruby.
 You need to have Version 2.0.0 or higher of Ruby and the package manager Bundler.
@@ -42,7 +42,7 @@ You will also need [Python 3](http://python.org/) with
 [PyYAML](https://pypi.python.org/pypi/PyYAML/) available in order to
 re-generate the [data files](#details) the site depends on.
 
-## Previewing <a name="previewing"></a>
+## Previewing <a name="previewing"></a> :-
 
 Please do **not** use `jekyll build` or `jekyll serve` directly to build or view the website.
 Instead, you should use the following commands:
@@ -56,7 +56,7 @@ Instead, you should use the following commands:
 The [details](#details) describes a few more advanced commands as well.
 
 
-## Development <a name="development"></a>
+## Development <a name="development"></a> :-
 
 <a name="blog"></a>
 To **write a blog post**,
@@ -117,7 +117,7 @@ You should fill in this form even for self-organized workshops in order to get y
 Do *not* edit the YAML in `_data/amy.yml`:
 this is overwritten every time the website is rebuilt on the server.
 
-## The Details <a name="details"></a>
+## The Details <a name="details"></a> :-
 
 
 ### How is the site built and rendered?
@@ -135,7 +135,7 @@ Travis does 3 things:
 Steps 2 and 3 allow us to detect possible issues with formatting that would prevent the website
 to render properly.
 
-### Data Files
+### Data Files :-
 
 The data files for the workshops and the instructors are generated every 6 hours
 from AMY (via our redash server) by the script in the
@@ -146,7 +146,7 @@ During the Travis process,
 these files are being pulled from their source and pushed to this website repository.
 
 
-### Styles
+### Styles :-
 
 The files in the `_sass` and `assets` directories control the appearance of this site.
 Their contents are pulled in manually from a stand-alone [https://github.com/swcarpentry/styles](styles) repository,
@@ -156,7 +156,7 @@ and [lesson template](https://github.com/swcarpentry/lesson-template).
 Please [contact us](mailto:team@carpentries.org) before modifying any of these files
 so that we can figure out the best way to incorporate your improvements.
 
-### Rebuilding the Main Web Site
+### Rebuilding the Main Web Site :-
 
 A copy of the shell script `bin/rebuild-site.sh` is installed in the website's home directory on our server
 and re-run hourly by cron.
