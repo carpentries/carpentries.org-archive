@@ -70,6 +70,7 @@ jobs:
         run: make site
 
       - name: Deploy to AWS
+        if: github.events.pull_request == false
         id: deploy
         uses: fmichonneau/s3-sync-action@log-output
         with:
