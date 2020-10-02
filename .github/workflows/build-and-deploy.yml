@@ -91,7 +91,7 @@ jobs:
           DEST: './_site_prev'
 
       - name: Identify files to invalidate
-        uses: fmichonneau/ga-compare-folders@main
+        uses: docker://fmichonneau/ga-compare-folders:latest
         env:
           FOLDER_1: _site_prev/
           FOLDER_2: _site/
