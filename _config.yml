@@ -53,7 +53,7 @@ wrf_selforg: "https://amy.carpentries.org/forms/self-organised/" # Report self o
 
 # Website repository
 website_github_repo: "https://github.com/carpentries/carpentries.org"
-gh_default_branch: "main"
+gh_default_branch: "gh-pages"
 
 # Website configuration links
 mailing_lists   : "http://carpentries.topicbox.com/groups"
