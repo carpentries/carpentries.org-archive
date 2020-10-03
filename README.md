@@ -134,7 +134,7 @@ and every 6 hours, the GitHub Action does the following:
 
 The data files for the workshops and the instructors are generated every 6 hours
 from AMY (via our redash server) by the script in the
-[amy-feeds repository](https://github.com/carpentries/feeds.carpentries.org).
+[feeds.carpentries.org repository](https://github.com/carpentries/feeds.carpentries.org).
 These files are available at <https://feeds.carpentries.org/>.
 
 ### Styles
