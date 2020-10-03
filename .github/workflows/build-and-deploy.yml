@@ -2,7 +2,7 @@ name: check, build, deploy carpentries.org
 
 on:
   push:
-    branches: main
+    branches: gh-pages
   pull_request: []
   schedule:
     - cron: '0 */6 * * *'
