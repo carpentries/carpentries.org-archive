@@ -3,7 +3,7 @@
 # The Carpentries Website
 
 This is the repository for the new [Carpentries website](https://carpentries.org).
-Please submit additions and fixes as pull requests to [our GitHub repository](https://github.com/carpentries/new-website).
+Please submit additions and fixes as pull requests to [our GitHub repository](https://github.com/carpentries/carpentries.org).
 
 *   [Setup](#setup)
 *   [Previewing](#previewing)
@@ -27,8 +27,8 @@ for links to the many individual lesson repositories.
 ## Setup <a name="setup"></a>
 
 The website uses [Jekyll](http://jekyllrb.com/), a static website generator written in Ruby.
-You need to have Version 2.0.0 or higher of Ruby and the package manager Bundler.
-(The package manager is used to make sure you use exactly the same versions of software as GitHub Pages.)
+You need to have Version 2.7.1 or higher of Ruby and the package manager Bundler.
+(The package manager is used to make sure you use exactly the same versions of the Ruby Gems as we do.)
 After checking out the repository, please run:
 
 ```
@@ -37,10 +37,6 @@ $ bundle install
 
 to install Jekyll and the software it depends on.
 You may consult [Using Jekyll with Pages](https://help.github.com/articles/using-jekyll-with-pages/) for further instructions.
-
-You will also need [Python 3](http://python.org/) with
-[PyYAML](https://pypi.python.org/pypi/PyYAML/) available in order to
-re-generate the [data files](#details) the site depends on.
 
 ## Previewing <a name="previewing"></a>
 
@@ -114,55 +110,33 @@ To **add a workshop**,
 fill in the [workshop request form](https://amy.carpentries.org/forms/workshop/) online.
 You should fill in this form even for self-organized workshops in order to get your workshop into our database.
 
-Do *not* edit the YAML in `_data/amy.yml`:
-this is overwritten every time the website is rebuilt on the server.
-
 ## The Details <a name="details"></a>
 
 
 ### How is the site built and rendered?
 
-The website is served directly by GitHub pages.
-Each time a commit is pushed to the repository and every 24 hours,
-Travis does 3 things:
+The website is build with a GitHub Actions (see [this file](https://github.com/carpentries/carpentries.org/blob/main/.github/workflows/build-and-deploy.yml)).
 
-1. it retrieves the latest version of the data feeds needed by the website (see below),
-   and pushes them to the `_data` folder
-   (only for commits to the `gh-pages` branch, not for pull requests)
+Each time a commit is pushed to the default branch of the repository (`main`)
+and every 6 hours, the GitHub Action does the following:
+
 1. it validates the YAML headers of all the pages and blog posts
-1. it builds the website
+1. it builds the website 1 using the latest versions of our [data
+   feeds](https://feeds.carpentries.org) to generate the dynamic content on the
+   site (list of community members, list of workshops, etc.). For this, we use
+   the [Jekyll Get JSON](https://github.com/brockfanning/jekyll-get-json)
+   plugin.
+1. it pushes the content of the site to an AWS S3 Bucket
+1. files that have changed since the last website update are invalidated in the AWS CloudFront distribution.
 
-Steps 2 and 3 allow us to detect possible issues with formatting that would prevent the website
-to render properly.
 
 ### Data Files
 
 The data files for the workshops and the instructors are generated every 6 hours
 from AMY (via our redash server) by the script in the
-[amy-feeds repository](https://github.com/carpentries/amy-feeds).
-These files are served at https://feeds.carpentries.org/.
-
-During the Travis process,
-these files are being pulled from their source and pushed to this website repository.
-
+[amy-feeds repository](https://github.com/carpentries/feeds.carpentries.org).
+These files are available at <https://feeds.carpentries.org/>.
 
 ### Styles
 
 The files in the `_sass` and `assets` directories control the appearance of this site.
-Their contents are pulled in manually from a stand-alone [https://github.com/swcarpentry/styles](styles) repository,
-which also controls the appearance of
-the [workshop template](https://github.com/carpentries/workshop-template)
-and [lesson template](https://github.com/swcarpentry/lesson-template).
-Please [contact us](mailto:team@carpentries.org) before modifying any of these files
-so that we can figure out the best way to incorporate your improvements.
-
-### Rebuilding the Main Web Site
-
-A copy of the shell script `bin/rebuild-site.sh` is installed in the website's home directory on our server
-and re-run hourly by cron.
-If you are able to ssh to the server,
-it can be re-run manually as:
-
-~~~
-$ ssh carpentries.org ./rebuild-site.sh
-~~~
