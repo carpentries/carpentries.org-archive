@@ -36,6 +36,7 @@ __Social Justice & Anti-Racism Resources__
 - [An Antiracist Reading List](https://www.nytimes.com/2019/05/29/books/review/antiracist-reading-list-ibram-x-kendi.html?smid=ig-nytbooks&utm_source=curalate_like2buy&utm_medium=curalate_like2buy_3R1Y8zBh__6b6c0a39-6df7-42c0-aeb9-104901a617a2&crl8_id=6b6c0a39-6df7-42c0-aeb9-104901a617a2)
 - [Taking Action in Solidarity with Minneapolis](https://indivisible.org/resource/taking-action-solidarity-minneapolis)
 - [List of Bail Funds for Protestors](https://bailfunds.github.io/)
+- [USC's Diversity Toolkit: A Guide to Discussing Identity, Power, and Privilege](https://msw.usc.edu/mswusc-blog/diversity-workshop-guide-to-discussing-identity-power-and-privilege/)
 
 
 In hope and solidarity,<br />
