@@ -3,7 +3,7 @@ layout: page
 authors: ["Toby Hodges", "Serah Rono", "Omar Khan"]
 teaser: "This October, help us internationalise and expand Glosario, the open source, multilingual glossary of data science terms."
 title: "Hacktoberfest 2020 - Glosario Contribution Drive"
-date: 2020-10-02
+date: 2020-10-05
 time: "09:00:00"
 tags: ["Community", "Communications"]
 ---
