@@ -14,7 +14,7 @@ cat > _config_netlify.yml <<EOF
 url: 		'$URL'
 baseurl: 	''
 filesurl:       '$URL/files'
-urlimg: 	'$URL/images/'
+urlimg: 	'$URL/images'
 
 # See › https://github.com/jekyll/jekyll-gist#disabling-noscript-support
 gist:
