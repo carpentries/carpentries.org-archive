@@ -34,7 +34,7 @@ To help expand Glosario, please define a new term or add a definition in another
 [5]: https://digitalocean.com/
 [6]: https://docs.google.com/document/d/1tJVYv5U0chIRrtX7ZME5SltTI74pKncxsD8TT6tWvoE/edit?usp=sharing
 [7]: https://github.com/unode
-[8]: https://github.com/masamiy
-[9]: http://dpshelio.github.io/
+[8]: http://dpshelio.github.io/
+[9]: https://github.com/masamiy
 [10]: https://github.com/psteinb
 [11]: https://github.com/beatrizmilz
