@@ -18,7 +18,7 @@ This month, as part of [Hacktoberfest][3], we are encouraging all members of our
 
 ### How you can contribute
 
-**You do not need to know any particular programming language to contribute to Glosario**: anyone possessing a basic familiarity with the GitHub web interface can get involved! We have prepared [a detailed and accessible guide for contributing][6], which has been translated into several languages. (A huge thank you to [Renato Alves][7], [Beatriz Milz][11], [David Pérez-Suárez][8], [Peter Steinbach][10], and [Masami Yamaguchi][9] for their help!) Contributions are welcome in **any** language, not only those represented in that document.
+**You do not need to know any particular programming language to contribute to Glosario**: anyone possessing a basic familiarity with the GitHub web interface can get involved! We have prepared [a detailed and accessible guide for contributing][6], which has been translated into several languages. (A huge thank you to [Renato Alves][7], [Beatriz Milz][11], [David Pérez-Suárez][9], [Peter Steinbach][10], and [Masami Yamaguchi][8] for their help!) Contributions are welcome in **any** language, not only those represented in that document.
 
 Those who are unsure about working in GitHub should find this is a fantastic opportunity to get comfortable with the system, while using their knowledge to the benefit of many others in the future. Those with more experience of GitHub are also encouraged to get involved: **the more terms and translations are available in Glosario, the greater the value of the resource for everyone**.
 
