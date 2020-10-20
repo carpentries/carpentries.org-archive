@@ -10,7 +10,7 @@ tags: [ "Instructor Development", "Carpentries Trainers"]
 
 Are you an active Instructor looking to take your involvement with The Carpentries to the next level? Or perhaps you are 
 an experienced educator who has found something to love in 
-our [Instructor Training curriculum](http://carpentries.github.io/instructor-training/)? 
+our [Instructor Training curriculum](https://carpentries.github.io/instructor-training/)? 
 Or maybe you want to understand more of the theory that underpins the success of our workshops?
 
 If so, we would like to hear from you, as we are about to open a new round of Instructor Trainer training. 

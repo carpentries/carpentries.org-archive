@@ -28,7 +28,7 @@ We hope you’re as excited about these new lessons as we are! If you’re inter
 - Check out the [workshop overview page](https://datacarpentry.org/genomics-workshop/) for an overview of the content and [frequently asked questions](https://datacarpentry.org/genomics-workshop/faq/)
 - Watch our [onboarding video](https://www.youtube.com/watch?v=zgdutO5tejo) for Instructors interested in teaching these lessons
 - Download and share [our promotional flyer](https://carpentries.org/files/assessment/Genomics-flyer-A4.pdf)
-- [Request a workshop](http://carpentries.org/request-workshop) or more information
+- [Request a workshop](https://carpentries.org/request-workshop) or more information
 
 If you’d like to help spread the word about these lessons, 
 - Post our promotional flyer on your department message board, circulate it on your department mailing list, or send it out to other genomics or bioinformatics mailing lists you’re a member of

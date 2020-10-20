@@ -16,7 +16,7 @@ We want to continue the discussion sessions to give instructors an opportunity t
 
 An [RFC Regarding Instructor Discussion Sessions](https://github.com/carpentries/instructor-development/issues/71) resulted in the following decision:
 
-- Anyone wishing to complete their Carpentries instructor training checkout before December 31, 2018 will complete the [current requirements](http://carpentries.github.io/instructor-training/checkout/), which include attending an [instructor discussion session](https://pad.carpentries.org/instructor-discussion).  
+- Anyone wishing to complete their Carpentries instructor training checkout before December 31, 2018 will complete the [current requirements](https://carpentries.github.io/instructor-training/checkout/), which include attending an [instructor discussion session](https://pad.carpentries.org/instructor-discussion).  
 - Anyone wishing to complete their Carpentries instructor training checkout beginning January 1, 2019 will do so with the revised requirements, i.e. anyone who is yet to complete their checkout when 2019 begins will then be required to fulfill whatever new requirements are decided on regarding discussion sessions.
 
 There are two issues we'd like your input on regarding the proposed new requirement(s) that would replace discussion sessions:

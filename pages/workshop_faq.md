@@ -13,7 +13,7 @@ permalink: /workshop_faq/
 
 ## Pre-Workshop Questions
 
-### Why isn't my workshop listed on the [carpentries.org](http://carpentries.org) webpage?
+### Why isn't my workshop listed on the [carpentries.org](https://carpentries.org) webpage?
 
 There are 3 things that must happen in order for a workshop to appear on The Carpentries webpage. You must complete the [workshop request/notification form](https://amy.carpentries.org/forms/workshop/), the workshop website must include the venue, and at least one Instructor must be identified. If the Instructors change, we will get notified and will be able to make the update. 
 
@@ -129,7 +129,7 @@ Ater being a Supporting Instructor for three Carpentries workshops you will be a
 
 ### How do I indicate my workshop will be online in the workshop website template?
 
-We updated the [workshop website template](https://github.com/carpentries/workshop-template) to make it easier to indicate that a workshop will be taught online. Instructions to customise your workshop website are available on the [customisation page](http://carpentries.github.io/workshop-template/customization/index.html).
+We updated the [workshop website template](https://github.com/carpentries/workshop-template) to make it easier to indicate that a workshop will be taught online. Instructions to customise your workshop website are available on the [customisation page](https://carpentries.github.io/workshop-template/customization/index.html).
 
 ### Does the workshop have to be 2 full days?
 

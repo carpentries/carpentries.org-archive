@@ -8,7 +8,7 @@ Posting date: 26 November 2019
 
 **This position has now been filled.**
 
-[The Carpentries](http://carpentries.org) is committed to “training and fostering an active, inclusive, diverse community of learners and
+[The Carpentries](https://carpentries.org) is committed to “training and fostering an active, inclusive, diverse community of learners and
 instructors who promote and model the importance of software and data in research.” We seek an engaged and collaborative individual who
 shares this vision for a full-time position as the Curriculum Community Developer for The Carpentries. The Curriculum Community Developer
 has a broad responsibility for developing community and guidelines around open, collaborative curriculum development within the 
@@ -21,7 +21,7 @@ the review process. The Curriculum Community Developer will establish effective 
 developing, and reviewing lessons. You will build a community of lesson developers and maintainers as part of a collaborative development
 ecosystem. You will work with the Lesson Infrastructure Technical Developer to guide development of the CarpentriesLab platform, 
 advocating for curriculum developers and effectively connecting them with the technical infrastructure. You will also be involved in 
-supporting our existing [community of maintainers](http://carpentries.org/maintainers/) for core Carpentries lessons through 
+supporting our existing [community of maintainers](https://carpentries.org/maintainers/) for core Carpentries lessons through 
 effective communication, transparency, and collaborative leadership.
 
 The Carpentries is an open, global community teaching the skills and perspectives to turn data into knowledge. We build capacity in 
@@ -104,7 +104,7 @@ apply.
 ## To Apply
  
 Please submit a cover letter and resume or CV to [jobs@carpentries.org](mailto:jobs@carpentries.org). If you would like to be considered 
-for any of our [other open positions](http://carpentries.org/jobs), please indicate all positions you are applying for in your cover 
+for any of our [other open positions](https://carpentries.org/jobs), please indicate all positions you are applying for in your cover 
 letter. Please also clearly indicate the country in which you pay taxes. 
  
 Applications received before [11 December 2019](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20191211T235959&p1=3400) 

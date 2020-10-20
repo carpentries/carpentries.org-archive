@@ -5,7 +5,7 @@ permalink: /lesson-infrastructure-technology-developer/
 ---
 Posting date: 26 November 2019
 
-[The Carpentries](http://carpentries.org) is committed to “training and fostering an active, inclusive, diverse community of learners
+[The Carpentries](https://carpentries.org) is committed to “training and fostering an active, inclusive, diverse community of learners
 and instructors who promote and model the importance of software and data in research.” We seek an engaged and collaborative individual
 who shares this vision for a full-time position as the Lesson Infrastructure Technology Developer for The Carpentries. The Lesson
 Infrastructure Technology Developer has a broad responsibility for developing infrastructure and processes to support hosting, curation,
@@ -111,7 +111,7 @@ apply.
 ## To Apply
  
 Please submit a cover letter and resume or CV to [jobs@carpentries.org](mailto:jobs@carpentries.org). If you would like to be considered 
-for any of our [other open positions](http://carpentries.org/jobs), please indicate all positions you are applying for in your cover 
+for any of our [other open positions](https://carpentries.org/jobs), please indicate all positions you are applying for in your cover 
 letter. Please also clearly indicate the country in which you pay taxes. 
  
 Applications received before [11 December 2019](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20191211T235959&p1=3400) 

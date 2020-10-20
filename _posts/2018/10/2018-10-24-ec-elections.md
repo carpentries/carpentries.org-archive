@@ -8,7 +8,7 @@ time: "09:00:00"
 tags: ["Executive Council", "Governance"]
 ---
 
-The Executive Council (EC), which provides  [governance for The Carpentries](http://carpentries.org/governance/), is pleased to announce the election process for 2019. 
+The Executive Council (EC), which provides  [governance for The Carpentries](https://carpentries.org/governance/), is pleased to announce the election process for 2019. 
 If you would like more information on the roles and structure of the EC, please see [this blog post](https://carpentries.org/blog/2018/09/executive-committee-structure/). These elections are for two community-elected seats, which are selected by all voting members of The Carpentries community. You must be a voting member of The Carpentries to self-nominate yourself for a community-elected position. The Executive Council is also looking for recommendations to three Council-elected seats. Anyone may recommend someone, independent of whether or not that person is a a voting member of The Carpentries.
 
 ### What expertise do we need on the Executive Council?

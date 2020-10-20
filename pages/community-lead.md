@@ -47,7 +47,7 @@ The Carpentries is dedicated to providing a welcoming and supportive environment
  
 ### About Us 
 
-We’re a [staff team of ten](https://carpentries.org/team/), with a nine person [Executive Council](http://carpentries.org/governance/). We’re a fiscally sponsored project of the 501(c)3 [Community Initiatives](http://communityin.org). We have a large community of instructors and contributors, and a much larger community of users. We use evidence based teaching practices to teach the core skills for effective computational and data work, and we promote reproducible research and open science/open source widely.
+We’re a [staff team of ten](https://carpentries.org/team/), with a nine person [Executive Council](https://carpentries.org/governance/). We’re a fiscally sponsored project of the 501(c)3 [Community Initiatives](http://communityin.org). We have a large community of instructors and contributors, and a much larger community of users. We use evidence based teaching practices to teach the core skills for effective computational and data work, and we promote reproducible research and open science/open source widely.
  
 ### To Apply
  

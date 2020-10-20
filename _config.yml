@@ -56,7 +56,7 @@ website_github_repo: "https://github.com/carpentries/carpentries.org"
 gh_default_branch: "main"
 
 # Website configuration links
-mailing_lists   : "http://carpentries.topicbox.com/groups"
+mailing_lists   : "https://carpentries.topicbox.com/groups"
 
 
 # This is for the editing function in _/includes/improve_content

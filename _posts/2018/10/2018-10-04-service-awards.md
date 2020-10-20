@@ -42,4 +42,4 @@ and the nomination text will be available only to Executive Council members.
 ## When and where the award will be announced?
 
 The Executive Council is planning to make the announcement
-on 10 December, 2018 on [The Carpentries website](http://carpentries.org).
+on 10 December, 2018 on [The Carpentries website](https://carpentries.org).

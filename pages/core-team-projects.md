@@ -182,7 +182,7 @@ In Q2, we assembled a [Sponsorship Model Task Force](https://carpentries.org/blo
 </summary>
 Elizabeth Williams · Tracy Teal
 
-In Q1 2019, the business Team worked on updating our grants collaboration workflow and producing a 2018 Annual Financial Report to support the [Executive Council](http://carpentries.org/governance/) in strategic planning.
+In Q1 2019, the business Team worked on updating our grants collaboration workflow and producing a 2018 Annual Financial Report to support the [Executive Council](https://carpentries.org/governance/) in strategic planning.
 </details>
 
 </details>
@@ -772,7 +772,7 @@ In Q2 and Q3, we have [redesigned our workshop request form!](https://carpentrie
 * reporting self-organised workshop
 * request for workshop consult and info
 
-This meant users had to answer a number of questions that weren’t relevant to them, and also made form responses more difficult to process on the back-end. We’ve separated out these three use cases, reducing the number of questions users will see, while keeping everything centralised with [a single landing page](http://carpentries.org/request-workshop). As part of this project, we’ve also updated our [workshops page](https://carpentries.org/workshops/) and begun a pilot to track (and give our Instructors credit for!) non-standard workshops. We are very excited to have these changes go live, and are now moving on to other projects focused on improving our community’s experience around workshops.  Read more in this [blog post](https://carpentries.org/blog/2019/09/Workshop-request-forms-and-more/).
+This meant users had to answer a number of questions that weren’t relevant to them, and also made form responses more difficult to process on the back-end. We’ve separated out these three use cases, reducing the number of questions users will see, while keeping everything centralised with [a single landing page](https://carpentries.org/request-workshop). As part of this project, we’ve also updated our [workshops page](https://carpentries.org/workshops/) and begun a pilot to track (and give our Instructors credit for!) non-standard workshops. We are very excited to have these changes go live, and are now moving on to other projects focused on improving our community’s experience around workshops.  Read more in this [blog post](https://carpentries.org/blog/2019/09/Workshop-request-forms-and-more/).
 
 </details>
 

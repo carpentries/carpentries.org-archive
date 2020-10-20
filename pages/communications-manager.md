@@ -8,7 +8,7 @@ Posting date: 26 November 2019
 
 **This position has now been filled.**
 
-[The Carpentries](http://carpentries.org) is committed to “training and fostering an active, inclusive, diverse community of learners 
+[The Carpentries](https://carpentries.org) is committed to “training and fostering an active, inclusive, diverse community of learners 
 and instructors who promote and model the importance of software and data in research.” We seek an engaged and collaborative individual
 who shares this vision for a full-time position as the Communications Manager for The Carpentries. The Communications Manager will
 execute the day-to-day internal and external communications workflows necessary to keep our community informed and engaged. The 
@@ -104,7 +104,7 @@ apply.
 ## To Apply
  
 Please submit a cover letter and resume or CV to [jobs@carpentries.org](mailto:jobs@carpentries.org). If you would like to be considered 
-for any of our [other open positions](http://carpentries.org/jobs), please indicate all positions you are applying for in your cover 
+for any of our [other open positions](https://carpentries.org/jobs), please indicate all positions you are applying for in your cover 
 letter. Please also clearly indicate the country in which you pay taxes. 
  
 Applications received before [11 December 2019](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20191211T235959&p1=3400) 

@@ -19,7 +19,7 @@ Carpentries leaders are needed! Do you have:
 If yes, then The Carpentries needs YOU!!
 
 
-In the search for qualified candidates to serve on [The Carpentries Executive Council](http://carpentries.org/governance/), every member of The Carpentries community is encouraged to participate in the process, by nominating themselves or a qualified individual for one of the seats coming up for election. 
+In the search for qualified candidates to serve on [The Carpentries Executive Council](https://carpentries.org/governance/), every member of The Carpentries community is encouraged to participate in the process, by nominating themselves or a qualified individual for one of the seats coming up for election. 
 
 The Executive Council is the governance body for The Carpentries, and is responsible for strategic and organisational planning. The members of the Executive Council serve two year terms, and are elected by either the community or Executive Council. 
 

@@ -27,7 +27,7 @@ We decided not to publish the communications strategy and implementation plan at
 
 - **How-To Guides**
 
-  Given that we are [a lean team](http://carpentries.org/team/) supporting [a global community](https://carpentries.org/files/reports/TheCarpentries2018AnnualReport.pdf), we are constantly thinking of ways to empower our community by equipping you with clear and summarised information that supports you adequately in the collaborative work you undertake with others in The Carpentries. We needed to convert learnings from our piloting efforts in Q2 into a handful of how-to guides to accompany the publication of the communications strategy and implementation plan.
+  Given that we are [a lean team](https://carpentries.org/team/) supporting [a global community](https://carpentries.org/files/reports/TheCarpentries2018AnnualReport.pdf), we are constantly thinking of ways to empower our community by equipping you with clear and summarised information that supports you adequately in the collaborative work you undertake with others in The Carpentries. We needed to convert learnings from our piloting efforts in Q2 into a handful of how-to guides to accompany the publication of the communications strategy and implementation plan.
 
 - **Consistency**
 

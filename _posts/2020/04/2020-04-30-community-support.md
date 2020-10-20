@@ -58,7 +58,7 @@ A vast majority of the members of our community first encounter The Carpentries 
 
 - Before a workshop, read this blog post by Darya Vanichkina to help you prepare adequately -[Having a Great Online Learning Experience: A Guide for Students](https://carpentries.org/blog/2020/04/great-online-learning-student/)
 
-- After attending a workshop, we encourage community members to join our community on Slack and TopicBox, and to feel confident to ask questions as they navigate our community spaces. The Carpentries is [a welcoming community](http://carpentries.org/values) and we are excited to hear from you. Remember, you belong in The Carpentries!
+- After attending a workshop, we encourage community members to join our community on Slack and TopicBox, and to feel confident to ask questions as they navigate our community spaces. The Carpentries is [a welcoming community](https://carpentries.org/values) and we are excited to hear from you. Remember, you belong in The Carpentries!
 
 ## For community members needing to take a break
 
@@ -66,7 +66,7 @@ Thank you SO MUCH for all you are doing as a member of The Carpentries community
 
 ## For community members looking to engage more at this time
 
-One of [The Carpentries' Core Values](http://carpentries.org/values) is 'We value all contributions'. Now more than ever, community members are reaching out to each other for advice and sharing tips for teaching and learning online. Here are some of the ways you can be a part of this:
+One of [The Carpentries' Core Values](https://carpentries.org/values) is 'We value all contributions'. Now more than ever, community members are reaching out to each other for advice and sharing tips for teaching and learning online. Here are some of the ways you can be a part of this:
 
 - [We are aggregating links to these community-contributed conversations and resources centrally in our Handbook](https://docs.carpentries.org/topic_folders/hosts_instructors/index_online.html), and updating the page regularly. You are welcome to contribute to it by opening an issue or submitting a PR [in our Handbook repository](https://github.com/carpentries/docs.carpentries.org).
 

@@ -16,7 +16,7 @@ Please be sure to [register your Self-Organised workshop](https://amy.carpentrie
 
 When creating your workshop website, please use the following naming convention: **YEAR-MM-DD-sitename-online**
 
-We updated the [workshop website template](https://github.com/carpentries/workshop-template) to make it easier to indicate that a workshop will be taught online. Instructions to customise your workshop website are available on the [customisation page](http://carpentries.github.io/workshop-template/customization/index.html).
+We updated the [workshop website template](https://github.com/carpentries/workshop-template) to make it easier to indicate that a workshop will be taught online. Instructions to customise your workshop website are available on the [customisation page](https://carpentries.github.io/workshop-template/customization/index.html).
 
 ## Instructor Selection for Workshops
 For Centrally-Organised online workshops, we will recruit up to 4 instructors: Two experienced Instructors and two Supporting Instructors. Instructor selection will remain at the discretion of the organisers for Self-Organised workshops, but we suggest a similar model, based on The Carpentries [Recommendations for Teaching Carpentries Workshops Online](https://carpentries.org/online-workshop-recommendations/),

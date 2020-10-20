@@ -9,7 +9,7 @@ tags: ["Community", "Discussion Sessions", "Carpentries Regional Coordinators", 
 ---
 
 
-On 11-March the New Zealand (NZ) Regional Coordinator will be hosting a Community Discussion for anyone interested in or currently involved with [The Carpentries](http://carpentries.org/) program. Here, the many faces of The Carpentries in NZ can touch base and share ideas.
+On 11-March the New Zealand (NZ) Regional Coordinator will be hosting a Community Discussion for anyone interested in or currently involved with [The Carpentries](https://carpentries.org/) program. Here, the many faces of The Carpentries in NZ can touch base and share ideas.
 
 We will discuss the history of The Carpentries in New Zealand, talk about where the community is headed, and, most importantly, highlight the support channels that you have access to as a member of The Carpentries in New Zealand.
 

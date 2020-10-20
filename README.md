@@ -62,7 +62,7 @@ YYYY is the 4-digit year of the post, MM the 2-digit month, and DD the 2-digit d
 `some-title` can be any hyphenated string of words that do not include special characters such as quotes.
 Please do *not* use underscores or periods in the names.
 When published,
-your blog post will appear as `http://carpentries.org/blog/YYYY/MM/some-title.html`.
+your blog post will appear as `https://carpentries.org/blog/YYYY/MM/some-title.html`.
 
 The YAML header of a blog post must look like this:
 

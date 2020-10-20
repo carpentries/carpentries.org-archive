@@ -8,7 +8,7 @@ time: "09:00:00"
 tags: [ "Instructor Development", "Carpentries Trainers"]
 ---
 
-We recently put out [a call for applications](http://carpentries.org/blog/2018/07/apply-to-train/) from members of our community
+We recently put out [a call for applications](https://carpentries.org/blog/2018/07/apply-to-train/) from members of our community
 who want to become Carpentries Trainers. The call was open to current Instructors and other qualified community members, for example,
 people with existing teaching or training experience.
 
