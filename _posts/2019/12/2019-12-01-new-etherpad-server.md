@@ -4,7 +4,7 @@ authors: ["François Michonneau"]
 teaser: "We upgraded our Etherpad server."
 title: "New Etherpad server"
 date: 2019-12-01
-tags: ["Infrastructure", "Etherpad"]
+tags: ["Infrastructure"]
 ---
 
 
