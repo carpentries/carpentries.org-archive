@@ -5,7 +5,7 @@ teaser: "Dr. Kari L. Jordan is the new Executive Director of The Carpentries!"
 title: "Introducing Our New Executive Director"
 date: 2020-04-21
 time: "00:00:00"
-tags: ["Carpentries Team", "Executive Director"]
+tags: ["Carpentries Team"]
 ---
 
 We are thrilled to announce that Dr. Kari L. Jordan is the new Executive Director of The Carpentries, effective 16 April, 2020. This announcement comes after a rigorous international search conducted by [Marcum LLP](https://www.marcumllp.com/careers/core-values) and members of the search committee (Karen Cranston, Amy Hodge and Elizabeth Wickes) appointed by the [Executive Council](https://carpentries.org/governance/) of The Carpentries. 
