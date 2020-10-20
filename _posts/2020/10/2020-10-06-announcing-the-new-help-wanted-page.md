@@ -5,7 +5,7 @@ teaser: "A new page to highlight issues needing your help."
 title: "Announcing the new Help Wanted page"
 date: 2020-10-06
 time: "09:00:00"
-tags: ["Infrustructure", "Communications"]
+tags: ["Infrastructure", "Communications"]
 ---
 
 A new [Help Wanted page][help-wanted] was recently added to The Carpentries website, providing a list of issues in need of some help, from Data Carpentry, Library Carpentry, Software Carpentry, The Carpentries, and Carpentries Incubator GitHub repositories. We hope this will serve as a single point of reference for trainee instructors completing the checkout process, and anyone else looking for a way to make an impact by contributing to our materials.
