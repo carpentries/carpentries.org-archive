@@ -203,4 +203,4 @@ The Instructors selected to teach workshops are volunteers and are not paid for 
 
 ## Further Resources
 
-See our [Membership FAQ page](https://static.carpentries.org/member_faq/) for frequently asked questions specifically relevant to Carpentries Member Organisations.
+See our [Membership FAQ page](https://carpentries.org/member_faq/) for frequently asked questions specifically relevant to Carpentries Member Organisations.

@@ -182,7 +182,7 @@ In Q2, we assembled a [Sponsorship Model Task Force](https://carpentries.org/blo
 </summary>
 Elizabeth Williams · Tracy Teal
 
-In Q1 2019, the business Team worked on updating our grants collaboration workflow and producing a 2018 Annual Financial Report to support the [Executive Council](http://static.carpentries.org/governance/) in strategic planning.
+In Q1 2019, the business Team worked on updating our grants collaboration workflow and producing a 2018 Annual Financial Report to support the [Executive Council](http://carpentries.org/governance/) in strategic planning.
 </details>
 
 </details>

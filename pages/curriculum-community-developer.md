@@ -21,7 +21,7 @@ the review process. The Curriculum Community Developer will establish effective 
 developing, and reviewing lessons. You will build a community of lesson developers and maintainers as part of a collaborative development
 ecosystem. You will work with the Lesson Infrastructure Technical Developer to guide development of the CarpentriesLab platform, 
 advocating for curriculum developers and effectively connecting them with the technical infrastructure. You will also be involved in 
-supporting our existing [community of maintainers](http://static.carpentries.org/maintainers/) for core Carpentries lessons through 
+supporting our existing [community of maintainers](http://carpentries.org/maintainers/) for core Carpentries lessons through 
 effective communication, transparency, and collaborative leadership.
 
 The Carpentries is an open, global community teaching the skills and perspectives to turn data into knowledge. We build capacity in 

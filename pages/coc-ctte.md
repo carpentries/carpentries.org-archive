@@ -32,7 +32,7 @@ Please email your concerns to [coc@carpentries.org](mailto:coc@carpentries.org).
 
 [**Francois Michonneau**](https://github.com/fmichonneau) is the Director of Technology for The Carpentries, and serves as the [core team](https://carpentries.org/team/) liaison to the Code of Conduct Committee.
 
-[**Konrad Förstner**](https://github.com/konrad) is the [Executive Council](https://static.carpentries.org/governance/) liaison to the Code of Conduct Committee.
+[**Konrad Förstner**](https://github.com/konrad) is the [Executive Council](https://carpentries.org/governance/) liaison to the Code of Conduct Committee.
 
 [**Malvika Sharan**](https://github.com/malvikasharan) is a computational biologist at the European Molecular Biology Laboratory, Germany. She is a Community Outreach Coordinator of EMBL Bio-IT project and works closely with ELIXIR Germany (de.NBI) with her training and community engagement activities. She became a Trainer with The Carpentries in 2015 while carrying out her Ph.D. research in bioinformatics. She hosts and teaches at multiple workshops in Europe. She engages with The Carpentries community by contributing to the mentoring program, instructor discussions and CarpentryCon+Connect Taskforce. She co-chaired the first CarpentryCon and counts it as one of the most rewarding experiences of her life! Her motivation for participating in The Carpentries CoC stems from her passion for promoting inclusiveness and accessibility in science.
 

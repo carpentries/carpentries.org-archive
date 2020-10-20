@@ -10,7 +10,7 @@ tags: ["Carpentries Trainers"]
 
 The purpose of this blog post is, first and foremost, to let those who are eagerly awaiting our next [Instructor Trainer](https://carpentries.org/trainers/) Training know that we will **not** be running one in October-December 2019 as we had previously planned. Our next Trainer onboarding opportunity will most likely come in January 2020, with applications in November 2019.
 
-([Instructor](https://carpentries.org/instructors/) Training events, in contrast, run year round and individual applications are always accepted [here](https://amy.carpentries.org/forms/request_training/). Access to Instructor Training is also available through [Organisational Memberships](http://static.carpentries.org/membership/).)
+([Instructor](https://carpentries.org/instructors/) Training events, in contrast, run year round and individual applications are always accepted [here](https://amy.carpentries.org/forms/request_training/). Access to Instructor Training is also available through [Organisational Memberships](http://carpentries.org/membership/).)
 
 With that out of the way, though, we can get to the important question you might be asking next: *why not*? 
 

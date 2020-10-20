@@ -28,4 +28,4 @@ This person will join a diverse and engaged team of professionals working to spr
 
 The Carpentries is dedicated to providing a welcoming and supportive environment for all people, regardless of background or identity. All qualified applicants will receive consideration for employment without regard to gender identity and expression, sexual orientation, disability, citizenship, nationality, ethnic or social origin, pregnancy, familial status, veteran status, religion or belief, age, education, or socio-economic status. We encourage all qualified individuals to apply.
 
-For details, including full job descriptions and the application procedures, please see our [jobs page](http://static.carpentries.org/jobs/).
+For details, including full job descriptions and the application procedures, please see our [jobs page](http://carpentries.org/jobs/).

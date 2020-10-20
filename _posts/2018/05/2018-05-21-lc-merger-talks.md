@@ -34,7 +34,7 @@ become such a global force - instructor training, workshop co-ordination, and sy
 Accordingly, rather than 'go it alone', a decision was taken by 
 the [Library Carpentry governance group](http://librarycarpentry.org/#team) to open discussions with 
 The Carpentries about becoming a Lesson Organisation. The motion to do so was carried unanimously 
-at the group's last meeting on 16 May. On The Carpentries' side, a motion to pursue discussion was also passed by the [Executive Council](http://static.carpentries.org/governance/), 
+at the group's last meeting on 16 May. On The Carpentries' side, a motion to pursue discussion was also passed by the [Executive Council](http://carpentries.org/governance/), 
 which means both sides are in agreement that this process should commence!
 
 With this agreement, we'll begin aligning operations, so look for updates over the next few months. 

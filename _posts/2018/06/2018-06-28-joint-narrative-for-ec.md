@@ -11,7 +11,7 @@ comments: true
 
 Software Carpentry and Data Carpentry merged officially on 1 January 2018 to form a new 
 organisation, [The Carpentries](https://carpentries.org/). In mid-June, The Carpentries held  their 
-first [Executive Council](http://static.carpentries.org/governance/) in-person meeting. 
+first [Executive Council](http://carpentries.org/governance/) in-person meeting. 
 A report of that meeting will be published shortly. 
 
 In preparation for the EC meeting, Carpentries' staff prepared a narrative report on the progress we have made 
