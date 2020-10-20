@@ -5,7 +5,7 @@ teaser: "Dr. Kelly Barnes joins The Carpentries as Deputy Director of Instructor
 title: "Introducing our new Deputy Director of Instructor Training"
 date: 2020-05-06
 time: "09:00:00"
-tags: ["Carpentries Team", "Instructor Training"]
+tags: ["Carpentries Team", "Carpentries Trainers"]
 ---
 
 We are ecstatic to welcome Dr. Kelly Barnes to [The Carpentries Team](https://carpentries.org/team/). Kelly’s role as Deputy Director of Instructor Training is supported by a [three year grant](https://carpentries.org/blog/2019/11/czi-moore-grant/) from the Chan Zuckerberg Initiative for scaling and sustaining our Instructor Training and Trainer Training programs. Her work will focus on developing an assessment strategy for instructor and trainer training and working with the [Trainer community](https://carpentries.org/trainers/) to maintain and modernise our [Instructor Training curriculum](https://carpentries.github.io/instructor-training/). She will also work with The Carpentries [Instructor Training Team](https://carpentries.org/core-team-projects/#instructor-training-team) to scale up our capacity for instructor training by improving our workflows and documentation. Welcome to the team Kelly!
