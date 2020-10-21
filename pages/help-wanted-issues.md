@@ -22,15 +22,24 @@ permalink: "/help-wanted-issues/"
 
 {% assign help_wanted = site.data.help_wanted_issues %}
 
+{% comment %}
+This was a way to get all the organizations automatically, but probably better to curate ordering
+
 {% assign orgs = help_wanted | map: "org_name" | uniq %}
+{% endcomment %}
+
+{% assign orgs = "Software Carpentry, Data Carpentry, Library Carpentry, The Carpentries Incubator, The Carpentries" | split: ", " %}
+
 
 {% for each_org in orgs %}
-
-<h2>{{ each_org }}</h2>
 
 {% assign org_repos = help_wanted | where: "org_name", each_org %}
 
 {% assign grouped_org_repos = org_repos | group_by: "full_repo" %}
+
+{% if org_repos.size > 0 %}
+
+<h2>{{ each_org }}</h2>
 
 {% for r in grouped_org_repos %}
 
@@ -54,7 +63,7 @@ permalink: "/help-wanted-issues/"
 
 <li>
 <a href="{{ i.url }}">{{ i.title}}</a>
-{% for l in labels %}<span class="radius label" style="background: {{colors[forloop.index0]}}; color: {{font_colors[forloop.index0]}}">{{ l }}</span>{% endfor %}
+{% for l in labels %}<span class="radius label" style="background: {{colors[forloop.index0]}}; color: {{font_colors[forloop.index0]}}">{{ l }}</span> {% endfor %}
 
 <p class="post-meta">
 Type: <span class="pr20">{{ i.type }}</span>
@@ -65,7 +74,9 @@ Updated: <time class="icon-calendar pr20" datetime="{{ i.updated_at | date_to_xm
 {% endfor %}
 </ul>
 {% endfor %}
+{% endif %}
 {% endfor %}
+
 
 <h2 id="for-maintainers">Information for Maintainers</h2>
 
@@ -90,11 +101,12 @@ issues on your lesson repository][handbook-github-labels].
 
 {% for each_org in orgs %}
 
-<h3><small>{{ each_org }}</small></h3>
-
 {% assign org_repos = help_wanted | where: "org_name", each_org %}
 
 {% assign grouped_org_repos = org_repos | group_by: "full_repo" %}
+
+{% if grouped_org_repos.size > 0 %}
+<h3><small>{{ each_org }}</small></h3>
 
 <ul>
 
@@ -114,7 +126,7 @@ issues on your lesson repository][handbook-github-labels].
 {% endfor %}
 
 </ul>
-
+{% endif %}
 {% endfor %}
 
 <div style="position: sticky; top: 4rem;">
