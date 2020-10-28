@@ -338,9 +338,20 @@ In Q1 2019,  the Community Development Team worked on developing a communication
 </details>
 
 ## Curriculum Team
-<br/>Erin Becker · François Michonneau · Zhian Kamvar
+<br/>Erin Becker · François Michonneau · Zhian Kamvar · Toby Hodges
 
-Led by Erin Becker, the Curriculum Team guides and oversees curriculum development and maintenance and works closely with our Maintainer community and Curriculum Advisor committees. François Michonneau and Zhian Kamvar are members of the Curriculum Team, and will be joined by the incoming Curriculum Community Developer. Some of the projects the Curriculum Team has embarked on since January 2019 include: updating the format of Maintainer meetings, producing a first draft of a Curriculum Development Handbook, working with the Genomics R Maintainers to make progress towards publishing a lesson for working with Genomics data in R, working with the Maintainers group to develop a prototype for our new lesson template, and working with the Library Carpentry Maintainers and Curriculum Advisors to continue to develop Library Carpentry’s curricula. You can find more details about their quarterly projects work below.
+Led by Erin Becker, the Curriculum Team guides and oversees curriculum
+development and maintenance and works closely with our Maintainer community and
+Curriculum Advisor committees. François Michonneau, Toby Hodges, and Zhian
+Kamvar are members of the Curriculum Team. Some of the projects the Curriculum
+Team has embarked on since January 2019 include: updating the format of
+Maintainer meetings, producing a first draft of a Curriculum Development
+Handbook, working with the Genomics R Maintainers to make progress towards
+publishing a lesson for working with Genomics data in R, working with the
+Maintainers group to develop a prototype for our new lesson template, and
+working with the Library Carpentry Maintainers and Curriculum Advisors to
+continue to develop Library Carpentry’s curricula. You can find more details
+about their quarterly projects work below.
 
 <details>
 <summary>
