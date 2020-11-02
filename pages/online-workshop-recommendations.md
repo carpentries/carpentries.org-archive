@@ -172,7 +172,7 @@ Formative assessment, feedback, and other communications can be supported using 
 - [Cuckoo timer](https://cuckoo.team/)
 - [Poll Everywhere](https://www.polleverywhere.com/)
 - [Mentimeter.com](https://www.mentimeter.com/)
-- [Doodle](https://doodle.com/free-poll) 
+- [When is Good](https://whenisgood.net/) or [Doodle](https://doodle.com/free-poll)
 - [Pinup](https://pinup.com/)
 
 
