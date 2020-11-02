@@ -32,7 +32,7 @@ _Our Governance Structure:_ Please see the [Code of Conduct Committee Governance
 
 [**Karen Cranston**](https://github.com/kcranston) is the Governance Chair of the committee. She is a computational evolutionary biologist working as an independent contractor from a farm in Ottawa, Canada. She has been involved with the Carpentries for many years, first as a Software Carpentry instructor, then as a founding board member of Data Carpentry, an instructor trainer, a member of The Carpentries merger commitee, and Chair of the first Executive Council of The Carpentries. Karen is the Executive Council liaison for the Committee. 
 
-[**Francois Michonneau**](https://github.com/fmichonneau) is the Director of Technology for The Carpentries, and serves as the [core team](https://carpentries.org/team/) liaison to the Code of Conduct Committee.
+[**Francois Michonneau**](https://github.com/fmichonneau) is the Senior Director of Technology for The Carpentries, and serves as the [core team](https://carpentries.org/team/) liaison to the Code of Conduct Committee.
 
 [**Konrad Förstner**](https://github.com/konrad) is the [Executive Council](https://carpentries.org/governance/) liaison to the Code of Conduct Committee.
 
