@@ -5,7 +5,7 @@ _paq.push(['requireConsent']);
 _paq.push(["setDoNotTrack", true]);
 _paq.push(["setDocumentTitle", document.domain + "/" + document.title]);
 _paq.push(["setCookieDomain", "*.carpentries.org"]);
-_paq.push(["setDomains", ["*.carpentries.org","*.static.carpentries.org"]]);
+_paq.push(["setDomains", ["*.carpentries.org","*.datacarpentry.org","*.software-carpentry.org","*.librarycarpentry.org"]]);
 _paq.push(['trackPageView']);
 _paq.push(['enableLinkTracking']);
 
