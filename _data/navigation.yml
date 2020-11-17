@@ -63,9 +63,9 @@
   url: "/volunteer/"
   side: left
   dropdown:
-  - title: "Join Us"
-    url: "/volunteer/"
   - title: "Get Involved"
+    url: "/volunteer/"
+  - title: "Community Overview"
     url: "/community/"
   - title: "Help Develop Lessons"
     url: "/involved-lessons/"

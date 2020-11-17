@@ -1,6 +1,6 @@
 ---
 layout: page-fullwidth
-title: "Join our Community"
+title: "Community Overview"
 permalink: /community/
 excerpt: Find ways to engage with the global Carpentries Community, including taking part in committees and taskforces.
 ---
