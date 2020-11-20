@@ -5,7 +5,7 @@ teaser: "This post covers instructors' experiences teaching a Data Carpentries w
 title: "Lessons Learned - Data Carpentries Workshop for SADiLaR (August 31, 2020)"
 date: 2020-10-07
 time: "9:00:00"
-tags: ["Carpentries Workshops", "Teaching", "Online Workshops"]
+tags: ["Carpentries Workshops", "Teaching", "Online Workshops", "Africa"]
 ---
 
 
