@@ -5,7 +5,7 @@ teaser: "Lessons learned during the author's first attendance at a Data Carpentr
 title: "Reflections on my First Data Carpentry Workshop"
 date: 2020-10-13
 time: "09:00:00"
-tags: ["Data Carpentry", "Online Workshops"]
+tags: ["Data Carpentry", "Online Workshops", "Africa"]
 ---
 _This blog post was [originally posted by the author on Medium](https://medium.com/@davidtamsey/reflections-on-my-first-data-carpentries-workshop-a853ccbcde44) and has been cross-posted here with the permission of the author._
 
