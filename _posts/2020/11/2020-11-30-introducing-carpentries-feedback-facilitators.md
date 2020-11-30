@@ -72,6 +72,6 @@ I joined The Carpentries with a desire to learn and pass on knowledge to the you
 A big thank you to Preethy Nair for her active participation and feedback during the onboarding process, and to Kari Jordan,  Lou Woodley and Camille Santistevan from the CSCCE for working with me (Serah Rono) to write the Feedback Facilitation module of the Carpentries Community Facilitators program and onboard this first cohort.
 
 ### Questions?
-Look out for updates and invitations to collaborate from our Feedback Facilitators in the coming months. In the meantime, [please reach outreach out via email](mailto:serah@carpentries.org?subject=Interest%20in%20co-creating%20Community%20Facilitators%20Program%20resources) if you have any questions or ideas about the new Community Facilitators Program, or if you are keen to be involved in the six remainng modules of the program in the coming months.
+Look out for updates and invitations to collaborate from our Feedback Facilitators in the coming months. In the meantime, [please reach out via email](mailto:serah@carpentries.org?subject=Interest%20in%20co-creating%20Community%20Facilitators%20Program%20resources) if you have any questions or ideas about the new Community Facilitators Program, or if you are keen to be involved in the six remainng modules of the program in the coming months.
 
 Happy days!
