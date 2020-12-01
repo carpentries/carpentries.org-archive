@@ -8,7 +8,7 @@ time: "09:00:00"
 tags: ["Governance", "Executive Council"]
 ---
 
-Edit (2020-12-01): Changes of the open/closing dates and one candidate status.
+**Edit (2020-12-01):** Changes of the open/closing dates and one candidate status.
 
 The election for Community-Elected members of the 2021 Executive Council will be open from December 2, and will close on Thursday, December 10 Anywhere on Earth. If you are a Voting Member, you should receive an email with a ballot and voting instructions from The Carpentries via ElectionBuddy by the end of the day on Wednesday, December 2. For more information on the Executive Council and election process, please see [the bylaws](https://docs.carpentries.org/topic_folders/governance/bylaws.html) and [this blog post](https://carpentries.org/blog/2019/10/executive-council-elections-2019/). If you have questions or concerns about the election process, please contact Juan Steyn at Juan.Steyn@nwu.ac.za.
 
