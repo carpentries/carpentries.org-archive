@@ -18,7 +18,6 @@ The self-nominated candidates for the two Community-Elected seats were asked to 
 - [Masami Yamaguchi](#masami-yamaguchi)
 - [Mojalefa Malahlela](#mojalefa-malahlela)
 - [Annajiat Alim Rasel](#annajiat-alim-rasel)
-- [Adam Hughes](#adam-hughes)
 - [Aleksandra Nenadic](#aleksandra-nenadic)
 
 ## Sarah Stevens
@@ -92,18 +91,6 @@ I believe growth and success lies in diversity and inclusion. I would like to ex
         </button>
 </a>
 
-## Adam Hughes
-
-University of Arkansas
-
-### What is your previous involvement with The Carpentries?
-
-Instructor
-
-### What would you do as a member of the Executive Council to contribute to the growth and success of the community?
-
-Stay focused on the goal of sharing foundational skills in doing reproducible research. I would also push for more local community envolvment.
-
 ## Aleksandra Nenadic
 
 UK Software Sustainability Institute
@@ -121,3 +108,6 @@ My focus would be two-fold: (1) supporting the community of getting more involve
             View Aleksandra's Video
         </button>
 </a>
+
+
+**Transparency statement:** Candidate 6 has rescinded their self-nomination..
