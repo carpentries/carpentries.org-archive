@@ -110,4 +110,6 @@ My focus would be two-fold: (1) supporting the community of getting more involve
 </a>
 
 
-**Transparency statement:** Candidate 6 has rescinded their self-nomination..
+## Transparency statement
+
+Adam Hughes has rescinded his self-nomination.
