@@ -16,6 +16,7 @@ The self-nominated candidates for the two Community-Elected seats were asked to 
 - [Masami Yamaguchi](#masami-yamaguchi)
 - [Mojalefa Malahlela](#mojalefa-malahlela)
 - [Annajiat Alim Rasel](#annajiat-alim-rasel)
+- [Adam Hughes](#adam-hughes)
 - [Aleksandra Nenadic](#aleksandra-nenadic)
 
 ## Sarah Stevens
