@@ -16,7 +16,6 @@ The self-nominated candidates for the two Community-Elected seats were asked to 
 - [Masami Yamaguchi](#masami-yamaguchi)
 - [Mojalefa Malahlela](#mojalefa-malahlela)
 - [Annajiat Alim Rasel](#annajiat-alim-rasel)
-- [Adam Hughes](#adam-hughes)
 - [Aleksandra Nenadic](#aleksandra-nenadic)
 
 ## Sarah Stevens
@@ -89,18 +88,6 @@ I believe growth and success lies in diversity and inclusion. I would like to ex
             View Annajiat's Video
         </button>
 </a>
-
-## Adam Hughes
-
-University of Arkansas
-
-### What is your previous involvement with The Carpentries?
-
-Instructor
-
-### What would you do as a member of the Executive Council to contribute to the growth and success of the community?
-
-Stay focused on the goal of sharing foundational skills in doing reproducible research. I would also push for more local community envolvment.
 
 ## Aleksandra Nenadic
 
