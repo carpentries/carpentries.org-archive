@@ -18,7 +18,7 @@ Our new Trainers are:
 - **Kelly Barnes** (The Carpentries, Canada)
 - **Carrie Brown** (University of Nebraska, USA)
 - **Amanda Charbonneau** (University of California, USA)
-- **Daniel Chen**	(Virginia Polytechnic Institute, USA)
+- **Daniel Chen**	(Virginia Tech, USA)
 - **Mark Crowe**	(Queensland Cyber Infrastructure Foundation, Australia)
 - **Luca Di Stasio**	(King Abdullah University of Science and Technology, Saudi Arabia / Sweden)
 - **Megan Guidry**	(New Zealand eScience Infrastructure, New Zealand)
