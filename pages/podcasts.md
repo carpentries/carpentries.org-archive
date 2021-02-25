@@ -14,7 +14,7 @@ The Carpentries' podcast is a way for us to share conversations and discussions 
 
 ## Mindfulness & Self-Care
 
-<br/> Serah Rono · Toby Hodges · Naomi Penfold · Angela Li · Marlene Mhangami · Abigail Mayes
+Serah Rono · Toby Hodges · Naomi Penfold · Angela Li · Marlene Mhangami · Abigail Mayes
 
 In this episode, consisting of excerpts of discussions of the two Fireside Chat sessions, during CarpentryCon @ Home 2020, we will be hearing from Toby Hodges, Naomi Penfold, Angela Li, Marlene Mhangami, and Abigail Mayes on topics related to Mindfulness & Self-Care in online communities
 
