@@ -100,7 +100,7 @@ We are also interested in training instructors in Japan and holding workshops. P
 if you are able to support this in any way. 
 
 We also actively contribute Japanese terms to the [Glosario](https://glosario.carpentries.org/)
-project and encourage pull requests to the [GitHub repository[(https://github.com/carpentries/glosario).
+project and encourage pull requests to the [GitHub repository](https://github.com/carpentries/glosario).
 
 ### Find Out More
 
