@@ -13,8 +13,19 @@ The Carpentries Executive Council is the highest leadership body of The Carpentr
 
 [Executive Council Meeting Minutes](https://github.com/carpentries/executive-council-info/tree/master/minutes)
 
-
 #### Current Executive Council Members
+
+- Cedric Chambers [Appointed since 2020]
+- John Chodacki [Appointed since 2021]
+- Konrad Förstner [Appointed since 2020], 2021 Secretary, 2020 [Code of Conduct](https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html) committee liaison
+- Paula Andrea Martinez [Elected since 2020], 2021 Vice Chair
+- Lex Nederbragt [Elected since 2018], 2021 Chair, 2020 Vice Chair, 2018 Secretary
+- Aleksandra Nenadic [Elected since 2021]
+- Michael Smith [Appointed since 2021], 2021 Treasurer
+- Sarah Stevens [Elected since 2021]
+- Masami Yamaguchi [Appointed since 2021], 2021 [Code of Conduct](https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html) committee liaison
+
+#### 2020 Executive Council
 
 - Cedric Chambers [Appointed since 2020]
 - Mesfin Diro Chaka [Appointed since 2019], 2019 Secretary
