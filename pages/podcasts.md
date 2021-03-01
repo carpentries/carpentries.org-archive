@@ -7,11 +7,6 @@ mediaplayer: true
 
 The Carpentries' podcast is a way for us to share conversations and discussions of interest to our community in a format that is portable and accessible. The goal is to ensure that our community is able to interact with us in whatever way they choose to do so. Please feel free to download or listen to each episode directly from this page. 
 
-*Note: Different web browsers have different functionality in terms of how to download and access embedded audio content. Below are a few browsers and a note on how to download the audio files.*
-
-**Safari:* Right-click on the media player and select 
-
-
 ## Mindfulness & Self-Care
 
 Serah Rono · Toby Hodges · Naomi Penfold · Angela Li · Marlene Mhangami · Abigail Mayes
