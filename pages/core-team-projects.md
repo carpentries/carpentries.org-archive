@@ -845,7 +845,7 @@ In Q1 2019, the Membership Team worked on [creating and deploying a membership s
 </details>
 
 ## Workshop Administration Team
-<br/>Angelique van Rensburg · Maneesha Sane · SherAaron Hurt · Talisha Sutton-Kennedy
+<br/>Angelique van Rensburg · Maneesha Sane · SherAaron Hurt · Danielle Sieh · Talisha Sutton-Kennedy
 
 Led by SherAaron Hurt, the Workshop Team develops and implements workflows to keep our workshops running smoothly. This team also supports the work of regional workshop administrators. Angelique van Rensburg, Maneesha Sane and Talisha Sutton-Kennedy are members of the Workshop Administration Team.  Some of the projects the Workshop Team has embarked on since January 2019 include: working with the workshop administrators, they will be developing a workshop workflow automation priority list. You can find more details about their quarterly projects work below.
 
