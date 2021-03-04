@@ -65,3 +65,7 @@ encountered, and lessons learned through this work.
 ## CarpentryCon Reports
 
 - [CarpentryCon 2018 Post-Conference Report](https://carpentries.org/blog/2018/09/carpentrycon-call/)
+
+## Code of Conduct Reports
+
+- [Code of Conduct Transparency Reports](https://github.com/carpentries/executive-council-info/tree/master/code-of-conduct-transparency-reports) All Code of Conduct Transparency reports are listed in this GitHub repo.

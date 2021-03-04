@@ -1,0 +1,6 @@
+header-includes: |
+    \usepackage{fancyhdr}
+    \pagestyle{fancy}
+    \fancyhead[RO,RE]{The Carpentries}
+    \fancyfoot[LO,LE]{CC-BY 2020 - The Carpentries, https://carpentries.org}
+    \fancyfoot[RE,RO]{\thepage}

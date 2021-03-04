@@ -95,6 +95,7 @@ jobs:
           FOLDER_1: _site_prev/
           FOLDER_2: _site/
           OUTPUT: changed_files.txt
+          ADD_ROOTS: true
 
       - name: Invalidate CloudFront
         uses: chetan/invalidate-cloudfront-action@master

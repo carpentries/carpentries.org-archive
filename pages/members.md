@@ -12,9 +12,11 @@ the growth and sustainability of The Carpentries and is building local capacity 
 - Boise State University
 - Compute Canada
 - Curtin University
+- Fred Hutchinson Cancer Research Center
 - New Zealand eScience Infrastructure (NeSI)
 - CodeRefinery (Nordic eInfrastructure Collaboration, NeIC)
 - North-West University
+- Queensland Cyber Infrastructure Foundation 
 - South African Centre for Digital Language Resources (SADiLaR)
 - Software Sustainability Institute
 - The University of Wisconsin Madison
@@ -28,6 +30,7 @@ the growth and sustainability of The Carpentries and is building local capacity 
 - Chan Zuckerburg Initiative
 - Columbia University
 - CSIRO
+- Helmholtz Information & Data Science Academy (HIDA)
 - National Oceanic and Atmospheric Administration 
 - New England Software Carpentry Library Consortium
 - Oak Ridge National Laboratory
@@ -54,6 +57,7 @@ the growth and sustainability of The Carpentries and is building local capacity 
 - Erasmus University Rotterdam
 - European Economic Association
 - Flatiron Institute
+- Florida State University
 - Genomics Aotearoa
 - George Mason University
 - Great Plains Network (GPN)
@@ -93,6 +97,7 @@ the growth and sustainability of The Carpentries and is building local capacity 
 - University of Notre Dame
 - University of Oregon
 - University of Oslo
+- University of Reading
 - University of Texas Arlington
 - Utrecht University
 - VDB (Verein Deutscher Bibliothekarinnen und Bibliothekare - Association of German Libraries and Librarians)

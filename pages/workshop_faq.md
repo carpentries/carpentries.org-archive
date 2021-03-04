@@ -33,7 +33,7 @@ A slug is a unique identifier used by The Carpentries to connect a workshop with
 
 This slug format is a part of a validation check in our system, including the dashes separating these variables.
 
-### Should the Instructor or a member of the host institution be listed as the contact person on the workshop webpage ?
+### Should the Instructor or a member of the host institution be listed as the contact person on the workshop webpage?
 
 The contact person for the workshop webpage can be designated by the workshop organiser. The person listed should be able to answer questions regarding the workshop, such as attendance policy, waitlist, location, installation, etc. You can have multiple persons listed as the contact person if needed.
 
@@ -49,13 +49,13 @@ If you are planning a workshop, please notify the Workshop Administration Team o
 
 ### If I am only teaching portions of the Carpentries curriculum, do I still need to register my workshop?
 
-It is important that we know about workshops being publicised because people often contact us to report that they will be unable to attend a workshop or to ask questions and if we do not know about planned workshops we can not provide support or share information with Instructors.
+It is important that we know about workshops being publicised because people often contact us to report that they will be unable to attend a workshop or to ask questions and if we do not know about planned workshops, we can not provide support or share information with Instructors.
 
 If you are teaching a portion of The Carpentries curriculum or if the workshop does not align with the [Core Curriculum](https://carpentries.org/workshops/#workshop-core) we ask that you still [register](https://amy.carpentries.org/forms/self-organised/) your workshop and select the “Mix & Match” option for the question “Which Carpentries workshop are you teaching?”. *This option is only available for Self-Organised workshops. Centrally-organised workshops are required to follow the Core Curricula.*
 
 ### When we teach our workshops, how closely do we have to stick to the Carpentries lesson plans?
 
-To be considered an official Carpentries workshop, you must follow the [Core Curricula](https://carpentries.org/workshops/#workshop-core). If you teach something other than what is listed on our webpage we ask that you acknowledge that your workshop is  "inspired by SWC/DC/LC" or "based on SWC/DC/LC". You can still [register](https://amy.carpentries.org/forms/self-organised/) your workshop and select the workshop you are teaching is “Mix & Match”, so that we can show others how you use The Carpentries resources.
+To be considered an official Carpentries workshop, you must follow the [Core Curricula](https://carpentries.org/workshops/#workshop-core). If you teach something other than what is listed on our webpage, we ask that you acknowledge that your workshop is "inspired by SWC/DC/LC" or "based on SWC/DC/LC". You can still [register](https://amy.carpentries.org/forms/self-organised/) your workshop and select the workshop you are teaching is “Mix & Match”, so that we can show others how you use The Carpentries resources.
 
 ## Centrally Organised Workshops
 
@@ -67,7 +67,7 @@ Please visit our [website](https://carpentries.org/workshops/#workshop-cost) for
 
 ### Do Instructors pay for travel?
 
-Our Instructors are volunteers and are not paid for their time teaching. Therefore we ask the host to cover travel and accommodation costs for Instructors assigned to teach at your institution. We work to find local Instructors but suggest that you estimate about $2000 total ($1000 per Instructor) for the travel, food, and accommodation of the Instructors. **Note travel and accommodation costs might vary globally.**
+Our Instructors are volunteers and are not paid for their time teaching. Therefore, we ask the host to cover travel and accommodation costs for Instructors assigned to teach at your institution. We work to find local Instructors but suggest that you estimate about $2000 total ($1000 per Instructor) for the travel, food, and accommodation of the Instructors. **Note travel and accommodation costs might vary globally.**
 
 The details of how you will manage the Instructors’ travel is discussed once the Instructors are confirmed and introduced to the host. *The Carpentries is not involved in this process.*
 
@@ -99,7 +99,7 @@ Self-organised workshops are managed by the instructor/organiser. Since you will
 
 ### How do I inform you I am running a self-organised workshop?
 
-When planning a Self-Organised workshop we ask that you notify us of your planned workshop. Once the workshop webpage is created, please share the link with us and notify us of your planned workshop via the [self-organised workshop form](https://amy.carpentries.org/forms/self-organised/). Once we receive the link to the workshop webpage, we will be able to [add your workshop to our website](https://carpentries.org/upcoming_workshops/), provide support (in the form of survey result links and AMI instances for Genomics workshops), and get Instructors and helpers credit for the workshops they teach.
+When planning a Self-Organised workshop, we ask that you notify us of your planned workshop. Once the workshop webpage is created, please share the link with us and notify us of your planned workshop via the [self-organised workshop form](https://amy.carpentries.org/forms/self-organised/). Once we receive the link to the workshop webpage, we will be able to [add your workshop to our website](https://carpentries.org/upcoming_workshops/), provide support (in the form of survey result links and AMI instances for Genomics workshops), and get Instructors and helpers credit for the workshops they teach.
 
 ### If I need help recruiting Instructors, Supporting Instructors, and/or Helpers for a Self-Organised workshop, what are my options?
 
@@ -125,7 +125,7 @@ The Supporting Instructor role is intended for Instructors with less practice te
 
 ### When can a Supporting Instructor become an Experienced Instructor?
 
-Ater being a Supporting Instructor for three Carpentries workshops you will be able to take the role of Experienced Instructor in any Carpentries online workshop. If you would like to continue in the Supporting Instructor role, please indicate your preference on the Instructor signup sheet.
+After being a Supporting Instructor for three Carpentries workshops you will be able to take the role of Experienced Instructor in any Carpentries online workshop. If you would like to continue in the Supporting Instructor role, please indicate your preference on the Instructor signup sheet.
 
 ### How do I indicate my workshop will be online in the workshop website template?
 
@@ -133,7 +133,7 @@ We updated the [workshop website template](https://github.com/carpentries/worksh
 
 ### Does the workshop have to be 2 full days?
 
-Your workshop does not have to be 2 full days. You are encouraged to  conduct your workshop over 4 half days if necessary. This is up to the discretion of the workshop organiser/Instructors and the needs of the audience.
+Your workshop does not have to be 2 full days. You are encouraged to conduct your workshop over 4 half days if necessary. This is up to the discretion of the workshop organiser/Instructors and the needs of the audience.
 
 ### Will I be provided with a Zoom room to run my online workshop?
 
@@ -152,7 +152,7 @@ Teaching online is a challenge. We recommend a minimum of two Instructors and a 
 
 *Supporting Instructor*: A certified Carpentries Instructor who has taught The Carpentries workshops less than 3 times. These persons are gaining experience while observing and teaching portions of the scheduled lessons.
 
-*Helper*: A person who is familiar with the topics being taught at a workshop.They support learners one-on-one if they are stuck installing software, understanding a certain line of code, or any other parts of the learning process.
+*Helper*: A person who is familiar with the topics being taught at a workshop. They support learners one-on-one if they are stuck installing software, understanding a certain line of code, or any other parts of the learning process.
 
 *Learner*: A person who is attending the workshop to learn the material being taught.
 
@@ -194,11 +194,11 @@ If you live in an area that does not have a Regional Coordinator in that region,
 
 ### Can I charge Learners a fee to attend a workshop I host?
 
-Yes, you can charge learners a fee to attend a workshop. It is up to the Host to decide if they will charge each participant. Often a nominal fee of $20 reduces the number of no-shows. Since most workshops have a wait list, it is best to be able to offer these spots to people on the wait list instead of having an empty seat.
+Yes, you can charge learners a fee to attend a workshop. It is up to the Host to decide if they will charge each participant. Often a nominal fee of $20 reduces the number of no-shows. Since most workshops have a wait list, it is best to be able to offer these spots to people on the waitlist instead of having an empty seat.
 
 ### Can I pay Instructors a stipend?
 
-The Instructors selected to teach workshops are volunteers and are not paid for their service. To compensate for their time we require the Host to cover travel expenses. If you would like to support our Instructors, you are encouraged to make a targeted [donation](https://carpentries.org/donate/) to The Carpentries to support instructor development.
+The Instructors selected to teach workshops are volunteers and are not paid for their service. To compensate for their time, we require the Host to cover travel expenses. If you would like to support our Instructors, you are encouraged to make a targeted [donation](https://carpentries.org/donate/) to The Carpentries to support instructor development.
 
 
 ## Further Resources

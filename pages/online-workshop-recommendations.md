@@ -171,10 +171,10 @@ Formative assessment, feedback, and other communications can be supported using 
 - [Socrative](https://www.socrative.com/) 
 - [Cuckoo timer](https://cuckoo.team/)
 - [Poll Everywhere](https://www.polleverywhere.com/)
-- [Mentimeter.com](https://www.mentimeter.com/)
-- [When is Good](https://whenisgood.net/) or [Doodle](https://doodle.com/free-poll)
+- [Mentimeter](https://www.mentimeter.com/)
+- [Whenisgood](https://whenisgood.net/) 
+- [Doodle](https://doodle.com/free-poll), Accessibility Note: It might be inaccessible to some of the users. Whenisgood might be a suitable alternative.
 - [Pinup](https://pinup.com/)
-
 
 Whatever your choices, remember that any platform is only as useful as you make it! Be sure to practice with your tools and features before the workshop. Try to keep things simple and consistent to build expertise and comfort within the instructional team.
 

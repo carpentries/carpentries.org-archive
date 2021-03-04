@@ -56,7 +56,7 @@ people:
       url: mailto:zkamvar@carpentries.org
 
 
-- name: Toby Hodges
+- name: Toby Hodges, PhD
   pic: tobyhodges
   position: Curriculum Community Developer
   social:
@@ -106,7 +106,6 @@ people:
     - icon: fa fa-envelope
       url: mailto:serah@carpentries.org
 
-
 - name: Omar Khan
   pic: omarkhan
   position: Communications Manager
@@ -154,26 +153,11 @@ people:
     - icon: fa fa-envelope
       url: mailto:krword@carpentries.org
 
-- name: Angelique van Rensburg, PhD
-  pic: angeliquevanrensburg
-  position: Regional Consultant for Southern Africa
+- name: Danielle Sieh
+  pic: daniellesieh
+  position: Workshop Administrator
   social:
-    - icon: fab fa-twitter
-      url: https://twitter.com/AngvanRensburg
+    - icon: fab fa-github
+      url: https://github.com/danielle06
     - icon: fa fa-envelope
-      url: mailto:angelique@carpentries.org 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-      
+      url: mailto:danielle@carpentries.org

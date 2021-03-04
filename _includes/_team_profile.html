@@ -1,0 +1,44 @@
+{% assign is_last_row = forloop.length | divided_by: 3 %}
+{% assign is_last_row = is_last_row | times: 3 %}
+{% if forloop.index <= is_last_row %}
+{% assign row_align = "" %}
+{% else %}
+{% assign n_last_row = forloop.length | modulo: 3 %}
+{% if n_last_row == 0 %}
+{% assign row_align = "" %}
+{% elsif n_last_row == 1 %}
+{% assign row_align = "medium-offset-4" %}
+{% else %}
+{% assign row_align = "medium-offset-2" %}
+{% endif %}
+{% endif %}
+                {% assign loopindex = forloop.index | modulo: 3 %}
+                {% if loopindex == 1 %}
+                <div class="row align-center">
+                {% endif %}
+                <div class="medium-4 columns  {{ row_align }}">
+                    <div class="team-member">
+                        <img src="{{ site.filesurl }}/team/{{ member.pic }}.jpg" class="img-responsive img-circle" alt="">
+                        <h4>{{ member.name }}</h4>
+                        <p class="text-muted">
+                            {{ member.position }}<br>
+
+                            {% if member.lead %}
+                                <i>{{ member.lead }}</i><br>
+                            {% endif %}
+                        </p>
+                        <ul class="list-inline social-buttons">
+                            {% for network in member.social %}
+                            <li>
+                                <a href="{{ network.url }}">
+                                    <i class="{{ network.icon }}"></i>
+                                </a>
+                            </li>
+                            {% endfor %}
+
+                        </ul>
+                    </div>
+                </div>
+                {% if loopindex == 0 %}
+                  </div>
+                {% endif %}

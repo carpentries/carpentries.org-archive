@@ -1,60 +1,36 @@
 <!-- Team Section -->
-    <section id="team" class="bg-light-gray">
+<section id="team" class="bg-light-gray">
+  <p>
+    Meet Carpentries staff and others who work with us.
+  </p>
+  <p>
+    We work in teams to manage our day to day work and our large projects. Read
+    more about
+    <a href="{{ site.url }}{{ site.baseurl }}/core-team-projects/">who is on
+      each team and what each team does</a>.
+  </p>
+
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-12 text-center">
+      </div>
+      {% assign staff = site.data.team.people %}
+      {% for member in staff %}
+      {% include _team_profile.html %}
+      {% endfor %}
+    </div>
+
+
+  <h2 class="section-heading">The Carpentries Strategic Partners</h2>
         <div class="container">
             <div class="row">
                 <div class="col-lg-12 text-center">
-                    <h2 class="section-heading">The Carpentries Team</h2>
-                    <h3 class="section-subheading text-muted">Meet Carpentries staff and others who work with us</h3>
-                    <br>We work in teams to manage our day to day work and our large projects. Read more about <a href="{{ site.url }}{{ site.baseurl }}/core-team-projects/">who is on each team and what each team does</a>. <br> 
-                </div>
-
-
-
-            </div>
-                {% for member in site.data.team.people %}
-
-                {% assign loopindex = forloop.index | modulo: 3 %}
-                {% if loopindex == 1 %}
-                <div class="row">
-                {% endif %}
-                <div class="medium-4 columns">
-                    <div class="team-member">
-                        <img src="{{ site.filesurl }}/team/{{ member.pic }}.jpg" class="img-responsive img-circle" alt="">
-                        <h4>{{ member.name }}</h4>
-                        <p class="text-muted">
-                            {{ member.position }}<br>
-
-                            {% if member.lead %}
-                                <i>{{ member.lead }}</i><br>
-                            {% endif %}
-                            
-<!--                             {% if member.jobplan %}
-                                <a href = "{{ member.jobplan }}">Job Plan</a>
-                            {% endif %} -->
-
-                            
-                        </p>
-                        <ul class="list-inline social-buttons">
-                            {% for network in member.social %}
-                            <li>
-                                <a href="{{ network.url }}">
-                                    <i class="{{ network.icon }}"></i>
-                                </a>
-                            </li>
-                            {% endfor %}
-
-                        </ul>
-                    </div>
-                </div>
-                {% if loopindex == 0 %}
-                  </div>
-                {% endif %}
-
-
-
+             </div>
+                {% assign consultants = site.data.strategic_partners.people %}
+                {% for member in consultants %}
+                {% include _team_profile.html %}
                 {% endfor %}
+            </div>
 
 
-
-        </div>
-    </section>
+</section>
