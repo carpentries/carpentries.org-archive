@@ -75,7 +75,7 @@
           <section id="subfooter-right" class="small-12 medium-6 columns">
             <ul class="inline-list social-icons">
             {% for social_item in site.data.socialmedia %}
-              <li><a href="{{ social_item.url }}"><i class="fab {{ social_item.class }}"></i></a></li>
+              <li><a href="{{ social_item.url }}" aria-label="{{ social_item.name }}"><i class="fab {{ social_item.class }}"></i></a></li>
             {% endfor %}
             </ul>
           </section>
