@@ -4,8 +4,7 @@ title: "Carpentries Governance"
 permalink: /governance/
 ---
 
-Governance of The Carpentries is undertaken by the **Executive Council**, to whom the Executive Director reports. The Council comprises nine members, from The Carpentries community or others, four elected by the community, and five appointed from the Executive Council. [Find out about our past Executive Council members](/governance-history/).
-
+Governance of The Carpentries is undertaken by the **Executive Council**, to whom the Executive Director reports. The Council comprises nine members, from The Carpentries community or others, four elected by the community, and five appointed from the Executive Council. 
 
 ## Roles and Responsibilities of the Executive Council
 
@@ -15,6 +14,8 @@ The Carpentries Executive Council is the highest leadership body of The Carpentr
 
 In addition to [publicly posting meeting minutes](https://github.com/carpentries/executive-council-info/tree/master/minutes), the Executive Council reports on its activities periodically in [Carpentry Clippings](https://carpentries.org/newsletter/) (the organizational newsletter) as well as through [blog posts](https://carpentries.org/posts-by-tags/#blog-tag-governance).
 The council also prepares [Yearly Summaries](https://github.com/carpentries/executive-council-info/tree/master/year-in-review) of its activities.
+
+## Executive Council Members
 
 ### Current Executive Council Members
 
@@ -28,7 +29,9 @@ The council also prepares [Yearly Summaries](https://github.com/carpentries/exec
 - Sarah Stevens [Elected since 2021]
 - Masami Yamaguchi [Appointed since 2021], 2021 [Code of Conduct](https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html) committee liaison
 
+### Past Executive Council Members
 
+You will find our past Executive Council members [on the Carpentries Governance History page](/governance-history/).
 
 ## Carpentries Bylaws and Policies
 
