@@ -1,6 +1,10 @@
 ---
 layout: page
-title: "Publishing Instructor Profiles"
-permalink: /instructor-profile-faq/
+title: "Publishing Community Member Profiles"
+permalink: /community-member-profile-faq/
 ---
+
+
+
+
 
