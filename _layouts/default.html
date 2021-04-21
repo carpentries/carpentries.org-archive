@@ -14,10 +14,11 @@ layout: compress
 	{% include _masthead.html %}
 	{{ content }}
 
+	{% include _edit_on_github.html %}
+
 	{% unless page.skip_boilerplate %}
 	{% include _footer.html %}
 	{% endunless %}
-
 	{% include _footer_scripts.html %}
 </body>
 </html>
