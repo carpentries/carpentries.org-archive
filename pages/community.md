@@ -33,7 +33,7 @@ and research software development through building local and global communities 
 	* Carpentries community in Japan
 	* Carpentries community in DACH countries
 	* Carpentries community in the UK
-	*Carpentries community in Canada
+	* Carpentries community in Canada
 
 * Keeping our community strong and connected through meetups (virtual and in-person) and interest-specific mailing lists
     * [CarpentryCon](#carpentry-con) - our annual in-person meetup for our global community
