@@ -50,3 +50,4 @@ flycheck_*.el
 Gemfile.lock
 /.jekyll-metadata
 .jekyll-cache/
+/_includes/_head_issue_table.html
