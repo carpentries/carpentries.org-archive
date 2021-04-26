@@ -132,27 +132,27 @@ Feedback facilitators are community facilitators who collect and organise feedba
 
 #### Code of Conduct Facilitators
 
-Code of Conduct Facilitators are community facilitators who serve as a bridge between community members at events and our Code of Conduct processes
+Code of Conduct Facilitators will be community facilitators who serve as a bridge between community members at events and our Code of Conduct processes
 
 #### Technology facilitators
 
-Technology facilitators are community facilitators who address everyday ‘how-do-I’ questions that newcomers have as they collaborate with others on platforms The Carpentries uses i.e. GitHub
+Technology facilitators will be community facilitators who address everyday ‘how-do-I’ questions that newcomers have as they collaborate with others on platforms The Carpentries uses i.e. GitHub
 
 #### Community buddies
 
-Community buddies - [community facilitators](https://carpentries.org/blog/2020/09/introducing-community-facilitators-program/) who spearhead the onboarding of new community members - saying hello and ‘come to me with any questions’, etc
+Community buddies will be community facilitators who spearhead the onboarding of new community members - saying hello and ‘come to me with any questions’, etc
 
 #### Communications facilitators
 
-Communications facilitators  are community facilitators who help translate key communications so we can share these in languages other than English across our socials and lead region-specific outreach campaigns 
+Communications facilitators will be community facilitators who help translate key communications so we can share these in languages other than English across our socials and lead region-specific outreach campaigns 
 
 #### Resource-enhancement facilitators 
 
-Resource-enhancement facilitators are community facilitators who spearhead discussions around content design  to guide the publication and archiving of community-created resources in a way that makes them accessible to all, and lowers barriers to knowledge acquisition by other community members i.e. replacing sea of text with images, GIFs, videos, illustrating workflows to make them easier to understand, managing tags and their use to collate resources across Carpentries platforms, etc
+Resource-enhancement facilitators will be community facilitators who spearhead discussions around content design  to guide the publication and archiving of community-created resources in a way that makes them accessible to all, and lowers barriers to knowledge acquisition by other community members i.e. replacing sea of text with images, GIFs, videos, illustrating workflows to make them easier to understand, managing tags and their use to collate resources across Carpentries platforms, etc
 
 #### Accessibility facilitators 
 
-Accessibility facilitators are community facilitators who lead conversations to review, update and implement Carpentries accessibility guidelines that guide interactions in online and in-person spaces, as well as the creation of written and audio-visual content and choice of platforms.
+Accessibility facilitators will be community facilitators who lead conversations to review, update and implement Carpentries accessibility guidelines that guide interactions in online and in-person spaces, as well as the creation of written and audio-visual content and choice of platforms.
 
 ### Curriculum Advisors
 Curriculum Advisors provide high-level guidance on the overall structure of a particular curriculum,
