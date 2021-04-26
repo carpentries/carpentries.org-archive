@@ -12,27 +12,56 @@ and research software development through building local and global communities 
 
 * Overseeing the training and certification of [Instructors](#instructors)
 * Maintaining global communities of practice:
+	* [Executive Council](#executive-council) - community members that constitute the governance and policy arm of The Carpentries
 	* [Instructor development](#instructor-development) - those who support Instructors as they build their skills
 	* [Trainers](#trainers) - those who prepare our new Instructors
 	* [Lesson developers](#lesson-developers) - those who create new lessons
 	* [Curriculum advisors](#curriculum-advisors) - those who guide development of existing lessons
 	* [Lesson maintainers](#maintainers) - those who support existing lessons
-	* [Lesson infrastructure](#lesson-infrastructure) - those who support lesson building and styling
-	* [Assessment](#assessment-network) - those who help us understand our impact
-	* [Champions](#champions) - those who work to spread our impact locally
 	* Infrastructure - those who work to support our infrastructure
 	* [Regional Coordinators](#regional-coordinators) - those who coordinate workshops regionally
-	* [Code of conduct](#code-of-conduct-committee) - those who keep our community friendly and welcoming
+	* [Code of Conduct Committee](#code-of-conduct-committee) - those who keep our community friendly and welcoming
+	* Feedback Facilitators - [community facilitators](https://carpentries.org/blog/2020/09/introducing-community-facilitators-program/) who collect and organise feedback shared publicly and informally in our community spaces for ease of filtering, action and response in The Carpentries
+	* Code of Conduct Facilitators - community facilitators](https://carpentries.org/blog/2020/09/introducing-community-facilitators-program/) who serve as a bridge between community members at events and our Code of Conduct processes
 
 * Supporting regional communities of practice:
 	* [Carpentries en Latinoamérica](#carpentries-en-latinoamérica) - building The Carpentries community across Latin America
-	* African Task Force (currently inactive) - building The Carpentries community across Africa
+	* Carpentries community in Africa  - building The Carpentries community across Africa
+	* Carpentries community in Middle East and North Africa 
+	* Carpentries community in New Zealand and Australia
+	* Carpentries community in the Nordics and Baltics
+	* Carpentries community in Japan
+	* Carpentries community in DACH countries
+	* Carpentries community in the UK
+	*Carpentries community in Canada
 
 * Keeping our community strong and connected through meetups (virtual and in-person) and interest-specific mailing lists
     * [CarpentryCon](#carpentry-con) - our annual in-person meetup for our global community
+		* [CarpentryConnects](#carpentry-connects) - regional community conferences organised by regional coordinators and local community members in The Carpentries
     * [Community discussions](#community-events)
     * [Networking opportunities](#network)
     * [Mailing lists](https://carpentries.topicbox.com/latest)
+
+* Here are some currently inactive roles that community members have fulfilled in the past:
+	* [Champions](#champions) - those who work to spread our impact locally
+	* [Assessment Committee](#assessment-network) - those who help us understand our impact
+	* [Lesson infrastructure Committee](#lesson-infrastructure) - those who support lesson building and styling
+
+* Here are new roles we are planning on onboarding community members to in the near future
+	* Technology facilitators - [community facilitators](https://carpentries.org/blog/2020/09/introducing-community-facilitators-program/) who address everyday ‘how-do-I’ questions that newcomers have as they collaborate with others on platforms The Carpentries uses i.e. GitHub
+	* Community buddies - [community facilitators](https://carpentries.org/blog/2020/09/introducing-community-facilitators-program/) who spearhead the onboarding of new community members - saying hello and ‘come to me with any questions’, etc
+	* Communications facilitators - [community facilitators](https://carpentries.org/blog/2020/09/introducing-community-facilitators-program/) who help translate key communications so we can share these in languages other than English across our socials and lead region-specific outreach campaigns 
+	* Resource-enhancement facilitators - [community facilitators](https://carpentries.org/blog/2020/09/introducing-community-facilitators-program/) who spearhead discussions around content design  to guide the publication and archiving of community-created resources in a way that makes them accessible to all, and lowers barriers to knowledge acquisition by other community members i.e. replacing sea of text with images, GIFs, videos, illustrating workflows to make them easier to understand, managing tags and their use to collate resources across Carpentries platforms, etc
+	* Accessibility facilitators - [community facilitators](https://carpentries.org/blog/2020/09/introducing-community-facilitators-program/) who lead conversations to review, update and implement Carpentries accessibility guidelines that guide interactions in online and in-person spaces, as well as the creation of written and audio-visual content and choice of platforms.
+
+
+### Executive Council
+
+Governance of The Carpentries is undertaken by the Executive Council, to whom the Executive Director reports. The Council comprises nine members, from The Carpentries community or others, four elected by the community, and five appointed from the Executive Council.
+
+The Carpentries Executive Council is the highest leadership body of The Carpentries project. It is responsible for strategic and organisational planning, selecting the Executive Director and evaluating their performance, financial oversight, identifying revenue streams and resource development, approving and monitoring The Carpentries programs and services, and enhancing The Carpentries public image. Members of the council also serve as advocates and ambassadors for the organisation, leveraging their networks to benefit the project’s reputation and fundraising. The Executive Council executes these responsibilities through a combination of monthly Executive Council meetings and regular correspondence and collaboration via email and online platforms.
+
+More information about the Executive Council and current members is available on [the Governance page](https://carpentries.org/governance/).
 
 
 ### Instructors
@@ -93,15 +122,37 @@ The Carpentries Maintainers work with the community to make sure that lessons st
 * [Slack](https://swc-slack-invite.herokuapp.com/)
 * [Contact](mailto:francois@carpentries.org)
 
-### Lesson Infrastructure
+### Community Facilitators
 
-Members of the Lesson Infrastructure Committee serve as
-Maintainers for [The Carpentries lesson template](https://github.com/swcarpentry/styles) and [its documentation](https://github.com/swcarpentry/lesson-example), as
-well as for [The Carpentries workshop template](https://github.com/swcarpentry/workshop-template).
+[Community Facilitators](https://carpentries.org/blog/2020/09/introducing-community-facilitators-program/) are people who are empowered to advocate for others in the community and guide community members as they navigate The Carpentries global community. Seven facilitation roles have been identified in The Carpentries community:
 
-* [Current members](https://github.com/carpentries/lesson-infrastructure#members)
-* [Upcoming meetings](http://pad.software-carpentry.org/infrastructure-subcommittee)
-* [Contact](mailto:francois@carpentries.org)
+#### Feedback Facilitators 
+
+Feedback facilitators are community facilitators who collect and organise feedback shared publicly and informally in our community spaces for ease of filtering, action and response in The Carpentries
+
+#### Code of Conduct Facilitators
+
+Code of Conduct Facilitators are community facilitators who serve as a bridge between community members at events and our Code of Conduct processes
+
+#### Technology facilitators
+
+Technology facilitators are community facilitators who address everyday ‘how-do-I’ questions that newcomers have as they collaborate with others on platforms The Carpentries uses i.e. GitHub
+
+#### Community buddies
+
+Community buddies - [community facilitators](https://carpentries.org/blog/2020/09/introducing-community-facilitators-program/) who spearhead the onboarding of new community members - saying hello and ‘come to me with any questions’, etc
+
+#### Communications facilitators
+
+Communications facilitators  are community facilitators who help translate key communications so we can share these in languages other than English across our socials and lead region-specific outreach campaigns 
+
+#### Resource-enhancement facilitators 
+
+Resource-enhancement facilitators are community facilitators who spearhead discussions around content design  to guide the publication and archiving of community-created resources in a way that makes them accessible to all, and lowers barriers to knowledge acquisition by other community members i.e. replacing sea of text with images, GIFs, videos, illustrating workflows to make them easier to understand, managing tags and their use to collate resources across Carpentries platforms, etc
+
+#### Accessibility facilitators 
+
+Accessibility facilitators are community facilitators who lead conversations to review, update and implement Carpentries accessibility guidelines that guide interactions in online and in-person spaces, as well as the creation of written and audio-visual content and choice of platforms.
 
 ### Curriculum Advisors
 Curriculum Advisors provide high-level guidance on the overall structure of a particular curriculum,
@@ -137,27 +188,6 @@ The Carpentries community is commited to a collaborative and open process for le
 
 Those looking for ways to contribute to existing lesson material can find
 a list of issues in need of attention on the [Help Wanted page](/help-wanted-issues/).
-
-### Assessment Network
-
-The Assessment Network is a community for those working on assessment within the open source/research computing space to collaborate and share resources. The network meets quarterly to discuss best practices and share resources.
-
-* [Activities](https://docs.carpentries.org/topic_folders/assessment/assessment-network.html#about)
-* [Current members](https://github.com/carpentries/assessment/blob/master/assessment-network/README.md#members)
-* [Upcoming meetings](http://pad.software-carpentry.org/assessment-network)
-* [Meeting minutes](https://github.com/carpentries/assessment/tree/master/assessment-network/minutes)
-* [Contact](mailto:kariljordan@carpentries.org)
-
-### Champions
-
-Carpentry Champions meet quarterly to discuss ways in which they can help support the growth of existing communities and attract new communities to building digital skills capacity at research organisations around the world. Come and learn from senior community leaders and get support as you work to build your own local community.
-
-* [Activities](https://github.com/carpentries/champions/blob/master/activities.md) - This community holds quarterly meetings.
-* [Upcoming meetings](http://pad.software-carpentry.org/champions)
-* [Mailing list](https://carpentries.topicbox.com/groups/champions)
-* [Meeting minutes](https://github.com/carpentries/champions/tree/master/meeting-minutes)
-* [Carpentries Community Cookbook](https://cookbook.carpentries.org/)
-* To get involved, contact our [Team](mailto:team@carpentries.org).
 
 ### Regional Coordinators
 
@@ -205,9 +235,43 @@ The Carpentries Instructor community in Africa is growing, with over a hundred c
 
 ### CarpentryCon
 
-The Carpentries hosts CarpentryCon, a community-organised meeting for our global community. [CarpentryCon 2018](http://www.carpentrycon.org/) was held from 30 May to 1 June in Dublin, Ireland and was a great success. If you are interested in helping to organise the next CarpentryCon, contact [The Carpentries](mailto:{{site.contact}}).
+The Carpentries hosts CarpentryCon, a community-organised meeting for our global community. [CarpentryCon 2018](http://www.carpentrycon.org/) was held from 30 May to 1 June in Dublin, Ireland. [An online, seven-week CarpentryCon @ Home](http://2020.carpentrycon.org) was held between July and August 2020. Both conferences were a great success. If you are interested in helping to organise the next CarpentryCon, contact [The Carpentries](mailto:{{site.contact}}).
 
 A global CarpentryCon will be held every two years, with locally organised CarpentryConnect events held in the off years.
+
+### CarpentryConnects
+
+CarpentryConnects are community convenings, organised to bring together community members of The Carpentries that are in close proximity geographically for knowledge exchange, collaboration, and networking. [The CarpentryConnect Planning Kit](https://carpentryconnect.org) provides checklists, templates, recommendations for best practices and resources to serve as guides in planning and carrying out CarpentryConnect events.
+
+Here is a list of all CarpentryConnect events held in the past: [carpentryconnect.org/case-studies/](https://carpentryconnect.org/case-studies/)
+
+### Champions
+
+<mark>Carpentry Champions are an inactive subcommunity in The Carpentries</mark>. Champions used to meet quarterly to discuss ways in which they can help support the growth of existing communities and attract new communities to building digital skills capacity at research organisations around the world. Come and learn from senior community leaders and get support as you work to build your own local community. Here are resources with information about this inactive group:
+
+* [Activities](https://github.com/carpentries/champions/blob/master/activities.md) - This community holds quarterly meetings.
+* [Mailing list](https://carpentries.topicbox.com/groups/champions)
+* [Meeting minutes](https://github.com/carpentries/champions/tree/master/meeting-minutes)
+* [Carpentries Community Cookbook](https://cookbook.carpentries.org/)
+* To get involved, contact our [Team](mailto:team@carpentries.org).
+
+### Assessment Network
+
+<mark>The Assessment Network is an inactive subcommunity in The Carpentries</mark>. It used to bring together those working on assessment within the open source/research computing space to collaborate and share resources. The network meets quarterly to discuss best practices and share resources.Here are resources with information about this inactive group:
+
+* [Activities](https://docs.carpentries.org/topic_folders/assessment/assessment-network.html#about)
+* [Current members](https://github.com/carpentries/assessment/blob/master/assessment-network/README.md#members)
+* [Upcoming meetings](http://pad.software-carpentry.org/assessment-network)
+* [Meeting minutes](https://github.com/carpentries/assessment/tree/master/assessment-network/minutes)
+* [Contact](mailto:kariljordan@carpentries.org)
+
+### Lesson Infrastructure
+
+<mark>This is an inactive subcommunity in The Carpentries</mark>. Members of the Lesson Infrastructure Committee used ti serve as Maintainers for [The Carpentries lesson template](https://github.com/swcarpentry/styles) and [its documentation](https://github.com/swcarpentry/lesson-example), as well as for [The Carpentries workshop template](https://github.com/swcarpentry/workshop-template).
+
+* [Current members](https://github.com/carpentries/lesson-infrastructure#members)
+* [Upcoming meetings](http://pad.software-carpentry.org/infrastructure-subcommittee)
+* [Contact](mailto:francois@carpentries.org)
 
 ###  Network
 
