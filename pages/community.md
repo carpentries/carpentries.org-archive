@@ -36,11 +36,10 @@ and research software development through building local and global communities 
 	* Carpentries community in Canada
 
 * Keeping our community strong and connected through meetups (virtual and in-person) and interest-specific mailing lists
-  * [CarpentryCon](#carpentrycon) - our annual in-person meetup for our global community
-	* [CarpentryConnects](#carpentryconnects) - regional community conferences organised by regional coordinators and local community members in The Carpentries
-  * [Community discussions](#community-events)
-  * [Networking opportunities](#network)
-  * [Mailing lists](https://carpentries.topicbox.com/latest)
+	*	[CarpentryCon](#carpentrycon) - our annual in-person meetup for our global community
+	*	[CarpentryConnects](#carpentryconnects) - regional community conferences organised by regional coordinators and local community members in The Carpentries
+	*	[Community discussions](#community-events)
+	*	[Mailing lists](https://carpentries.topicbox.com/latest)
 
 * Here are some currently inactive roles that community members have fulfilled in the past:
 	* [Champions](#champions) - those who work to spread our impact locally
