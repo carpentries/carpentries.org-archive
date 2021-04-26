@@ -8,6 +8,7 @@ commands :
 get_remote:
 	@curl -o _includes/_head_issue_table.html https://files.carpentries.org/_head_issue_table.html --retry 3
 	@curl -o _includes/_content_issue_table.html https://files.carpentries.org/_content_issue_table.html --retry 3
+	@curl -o _includes/_content_lesson_table.html https://files.carpentries.org/_content_lesson_table.html --retry 3
 
 ## serve      : run a local server.
 serve : get_remote

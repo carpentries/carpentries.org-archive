@@ -51,3 +51,5 @@ Gemfile.lock
 /.jekyll-metadata
 .jekyll-cache/
 /_includes/_head_issue_table.html
+/_includes/_content_issue_table.html
+/_includes/_content_lesson_table.html
