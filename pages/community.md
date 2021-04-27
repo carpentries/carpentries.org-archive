@@ -22,7 +22,7 @@ and research software development through building local and global communities 
 	* [Regional Coordinators](#regional-coordinators) - those who coordinate workshops regionally
 	* [Code of Conduct Committee](#code-of-conduct-committee) - those who keep our community friendly and welcoming
 	* Feedback Facilitators - [community facilitators](https://carpentries.org/blog/2020/09/introducing-community-facilitators-program/) who collect and organise feedback shared publicly and informally in our community spaces for ease of filtering, action and response in The Carpentries
-	* Code of Conduct Facilitators - community facilitators](https://carpentries.org/blog/2020/09/introducing-community-facilitators-program/) who serve as a bridge between community members at events and our Code of Conduct processes
+	* Code of Conduct Facilitators - [community facilitators](https://carpentries.org/blog/2020/09/introducing-community-facilitators-program/) who serve as a bridge between community members at events and our Code of Conduct processes
 
 * Supporting regional communities of practice:
 	* [Carpentries en Latinoamérica](#carpentries-en-latinoamérica) - building The Carpentries community across Latin America
