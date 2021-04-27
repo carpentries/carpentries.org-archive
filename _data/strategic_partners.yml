@@ -7,3 +7,11 @@ people:
         url: https://twitter.com/AngvanRensburg
       - icon: fa fa-envelope
         url: mailto:angelique@carpentries.org
+  - name: Michael Culshaw-Maurer, PhD
+    pic: michaelculshawmaurer
+    position: Postdoctoral researcher (joint with CyVerse)
+    social:
+      - icon: fab fa-twitter
+        url: https://twitter.com/MCulshawMaurer
+      - icon: fa fa-envelope
+        url: mailto:culshawmaurer@arizona.edu
