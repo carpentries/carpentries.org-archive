@@ -163,6 +163,7 @@ defaults:
       # sidebar:    		# Possible values › left, right › by default there will be no sidebar
       comments: false
       author: admin     # Default author for pages
+      edit_on_github: true
   -
     scope:
       path: ""
@@ -172,6 +173,7 @@ defaults:
       # sidebar:        # Possible values › left, right › by default there will be no sidebar
       comments: true
       author: admin     # Default author for posts
+      edit_on_github: true
 
 
 

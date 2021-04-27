@@ -14,7 +14,9 @@ layout: compress
 	{% include _masthead.html %}
 	{{ content }}
 
+        {% if page.edit_on_github  %}
 	{% include _edit_on_github.html %}
+        {% endif %}
 
 	{% unless page.skip_boilerplate %}
 	{% include _footer.html %}
