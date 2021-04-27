@@ -46,7 +46,7 @@ Over the course of 10 weeks with these objectives in mind, I completed an end to
     + 100% of instructors spoke about the unique paint points of online
       workshops as compared to in-person workshops.
     + **Opportunity:** How might we improve the UX of the lesson template to
-      respond to the unique context of digital workshops during Covid-19 and
+      respond to the unique context of digital workshops during COVID-19 and
       beyond?
   - The template is almost always modified by instructors for reference
     + 78% of instructors said they made significant changes to the template to
@@ -76,7 +76,7 @@ mid-fidelity grayscale wireframes (see example screen below). I completed a
 clickable prototype in order to be able to easily test the design.
 
 
-### Usabiility Testing
+### Usability Testing
 
 I then set up user testing with 5 different community members (still a mix of
 learners and instructors) and asked them to complete a targeted list of tasks to
@@ -107,10 +107,10 @@ that the new design of the lesson template didn’t clash too wildly with the
 current design of The Carpentries extended brands. You can see a small preview
 of some of the new color scheme below!
 
-![a sneak peak at the color scheme]({{ site.urlimg }}/blog/2021/04/colorway.png)
+![a sneak peek at the color scheme]({{ site.urlimg }}/blog/2021/04/colorway.png)
 
 <figcaption class="text-center">
-  A sneak peak at the color scheme
+  A sneak peek at the color scheme
 </figcaption>
 
 ### Usability Testing
@@ -126,8 +126,8 @@ features and the clarity of visual design applications.
 
 After incorporating user feedback from this last round and collaboratively
 evaluating design details, I was able to finalize the high fidelity screens for
-handoff!I can’t reveal the entirety of the design prior to its completion on the
-development side, but I will leave you with a small taste of what’s to come.
+handoff! I can’t reveal the entirety of the design prior to its completion on
+the development side, but I will leave you with a small taste of what’s to come.
 
 
 ![before and after]({{ site.urlimg }}/blog/2021/04/before-after.png)
