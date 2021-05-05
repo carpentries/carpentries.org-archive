@@ -1,5 +1,3 @@
-<h1>Our {{ role[0].name }}</h1>
-
 {% if role[0].starts_with_vowel %}
 {% assign article = "an" %}
 {% else %}
