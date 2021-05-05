@@ -2,32 +2,32 @@
 - name: Instructors
   name_singular: Instructor
   starts_with_vowel: True
-  description: Instructors teach workshops and are trained in evidence-based pedagogical practices. Bacon ipsum dolor amet ground round spare ribs chuck, rump sirloin frankfurter jowl bacon. Pancetta buffalo picanha beef ribs flank chuck salami venison. Picanha ribeye sausage meatball t-bone, kevin ham hock flank andouille biltong fatback kielbasa ball tip short ribs brisket.
+  description: Carpentry Instructors are the core of our community. Instructors organise and teach Carpentry workshops to spread data literacy and programmatic skills both locally and globally. Members of our Instructor community work together to actively grow their instructional and technical skills. Becoming an Instructor is a great step to leveling-up your own technical skills and helps you to become a more effective technical communicator.
   website_link: https://carpentries.org/community/#instructors
   handbook_link: https://docs.carpentries.org/topic_folders/for_instructors/index.html
 
 - name: Trainers
   name_singular: Trainer
   starts_with_vowel: False
-  description: Trainers are the ones who do this.  Turducken fatback sirloin pig jerky jowl porchetta pastrami pork cupim. Ham ham hock cow, landjaeger shoulder chicken kevin tri-tip kielbasa meatball pork belly capicola alcatra. Jerky buffalo brisket shoulder andouille alcatra hamburger sausage shank burgdoggen pork chop.
+  description: The Trainer community is a group of experienced Instructors, local champions, and education specialists who inspire and prepare new Instructors. They work as a team to maintain and teach the <a href="https://carpentries.github.io/instructor-training/">instructor training curriculum</a>. They also host teaching demonstration sessions to provide vital feedback as prospective Carpentries Instructors prepare to join the community. They showcase and embody the enthusiasm and conduct of our community as they prepare new instructors. Becoming a Trainer lets you scale your impact - sharing your own passion, experience, and enthusiasm with the next generation of The Carpentries Instructors.
   website_link: https://carpentries.org/community/#trainers
   handbook_link: https://docs.carpentries.org/topic_folders/instructor_training/index.html
 
 - name: Trainer Alumni
   name_singular: Trainer Alumnus
   starts_with_vowel: False
-  description: Trainer Alumni Carrot cake brownie danish chocolate. Icing powder pie ice cream topping. Apple pie jelly beans croissant sesame snaps toffee gummi bears. Icing croissant candy canes jelly-o muffin jelly beans macaroon cupcake.
+  description: <a href="/trainers">Trainers</a> may temporarily or permanently step away from their role. To continue to acknowledge their contributions to The Carpentries, we list them as Trainer Alumni.
 
 - name: Mentors  
   name_singular: Mentor
   starts_with_vowel: False
-  description: Mentors and Instructor Development. Ribeye short ribs strip steak, kielbasa leberkas pork fatback. Meatloaf pork loin alcatra chuck brisket venison chicken, pork chop tenderloin shoulder. Rump meatball ground round.
+  description: Mentors support Instructors in a variety of ways. Whether you are a new Instructor preparing to teach your first workshop, a seasoned Instructor hoping to launch workshops in a new community, or an Instructor excited about getting involved with lesson development and maintenance, Mentors will help you gain the confidence, technical skills, and teaching skills you need to reach your goal.
   website_link: https://carpentries.org/community/#instructor-development
   handbook_link: https://docs.carpentries.org/topic_folders/instructor_development/index.html
 
 - name: Maintainers
   name_singular: Maintainer
   starts_with_vowel: False
-  description: What Maintainers do. Prosciutto picanha fatback tail ham, meatloaf short ribs beef ribs spare ribs filet mignon bacon. Jerky picanha flank, buffalo shoulder ground round tri-tip pancetta pork belly meatball pig cupim salami pork.   
+  description: The Carpentries Maintainers work with the community to make sure that lessons stay up-to-date, accurate, functional and cohesive. Maintainers monitor their lesson repository, make sure that pull requests and issues are addressed in a timely manner, and participate in the lesson development cycle including lesson releases. They endeavor to be welcoming and supportive of contributions from all members of the community. This community of practice is a great place to learn to collaborate effectively in Git and GitHub.
   website_link: https://carpentries.org/community/#maintainers
   handbook_link: https://docs.carpentries.org/topic_folders/maintainers/index.html 
