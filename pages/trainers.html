@@ -7,33 +7,21 @@ excerpt: Trainers prepare new Instructors to teach in our global Carpentries Com
 
 {% include lazyload.html %}
 
+<section id="team" class="bg-light-gray">
+<div class="container">
 
-
-<p>
-The Carpentries Trainer community comprises a group of experienced Instructors who inspire and prepare
-the next wave of Instructors in our community. They work as a team to maintain and teach the
-<a href="https://carpentries.github.io/instructor-training/">instructor training curriculum</a> to
-  prepare prospective Instructors to join The Carpentries community.</p>
-
-Trainers can expect to acquire this <a href="https://github.com/carpentries/commons/blob/master/text-for-trainers.md">skill set</a>.
-<a href="https://docs.carpentries.org/topic_folders/instructor_training/index.html">Find out more about becoming a Trainer</a>.
-
- <p>This page lists the Trainers who have already consented to be listed on our website. If you are a badged
-  Trainer whose details do not appear here, but you would like to be listed, please 
-  <a href="https://amy.carpentries.org/">update your Instructor profile</a> in AMY and agree to make
-  your profile public. <b>Login with GitHub</b> and save your  
-  changes. If you are unable to log in, please 
-  <a href="mailto:{{site.contact}}">email us</a>.  <a href="/community-member-profile-faq/">Read more about how these profiles are published</a>.
-</p>
+{% assign role = site.data.profile_pages | where: "name", "Trainers"  %}
+{% include community_profile_header.md %}
 
 <p>Trainers may temporarily or permanently step away from this role. To continue to acknowledge their contributions to The Carpentries, we list them as <a href="{% link pages/trainer_alumni.html %}">Trainer Alumni</a>.</p>
 
-
 <br><br><br>
-<div class="container">
 
-{% assign people_list = site.data.all_badged_people | where: "is_trainer", "true" %}
+{% assign people_list = site.data.all_badged_people | where: "is_trainer","true" %}
 
 {% include community_profiles.md %}
 
 </div>
+
+
+
