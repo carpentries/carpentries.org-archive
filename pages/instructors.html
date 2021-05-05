@@ -1,6 +1,5 @@
 ---
 layout: page
-title: "Our Instructors"
 permalink: /instructors/
 ---
 {% include lazyload.html %}
@@ -8,18 +7,13 @@ permalink: /instructors/
 <section id="team" class="bg-light-gray">
 <div class="container">
 
+{% assign role = site.data.profile_pages | where: "name", "Instructors"  %}
+{% include community_profile_header.md %}
 
-<p>This page lists all the instructors who have consented to be listed publicly on our web site so far. If you are a badged
-  Instructor whose details do not appear here, but you would like to be listed, please
-  <a href="https://amy.carpentries.org/">update your Instructor profile</a> in AMY and agree to make
-  your profile public via the checkbox option within the record. To log in, select <b>Login with GitHub</b> and make and save your
-  changes. If we don't yet have your GitHub username in your instructor record, please
-  <a href="mailto:team@carpentries.org">email it to us</a> so we can add it and let you log in. If you add/have added your Twitter, GitHub, ORCiD,
-  and personal website URL to your AMY record, they will appear as part of
-  your record here. <a href="/community-member-profile-faq/">Read more about how these profiles are published</a>.</p>
 <p>
   <a href="/instructors-map/">View a map of our Instructors</a>
 </p>
+
 <br><br><br>
 
 {% assign people_list = site.data.all_badged_people | where: "is_instructor","true" %}
