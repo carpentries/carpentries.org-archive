@@ -7,23 +7,16 @@ excerpt: Trainers prepare new Instructors to teach in our global Carpentries Com
 
 {% include lazyload.html %}
 
-
-
-<p>
-The Carpentries Trainer community comprises a group of experienced Instructors who inspire and prepare
-the next wave of Instructors in our community. They work as a team to maintain and teach the
-<a href="https://carpentries.github.io/instructor-training/">instructor training curriculum</a> to
-  prepare prospective Instructors to join The Carpentries community.</p>
-
-<p>Trainers may temporarily or permanently step away from this role. To continue to acknowledge their contributions to The Carpentries, we present this list of Trainer Alumni.</p>
-
-<p>Check out our active Trainer community <a href="{% link pages/trainers.html %}">here</a>.</p>
-
-
-<br><br><br>
+<section id="team" class="bg-light-gray">
 <div class="container">
 
-{% assign people_list = site.data.all_badged_people | where: "is_trainer_inactive", "true" %}
+{% assign role = site.data.profile_pages | where: "name", "Trainer Alumni"  %}
+{% include community_profile_header.md %}
+
+<p>Check out our active Trainer community <a href="{% link pages/trainers.html %}">here</a>.</p>
+<br><br><br>
+
+{% assign people_list = site.data.all_badged_people | where: "is_trainer_inactive","true" %}
 
 {% include community_profiles.md %}
 
