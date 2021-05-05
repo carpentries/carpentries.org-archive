@@ -1,0 +1,28 @@
+# These data feed the community profile pages for Instructors, Trainers, Mentors, and Maintainers
+- name: Instructors
+  name_singular: Instructor
+  starts_with_vowel: True
+  description: Instructors teach workshops and are trained in evidence-based pedagogical practices. Bacon ipsum dolor amet ground round spare ribs chuck, rump sirloin frankfurter jowl bacon. Pancetta buffalo picanha beef ribs flank chuck salami venison. Picanha ribeye sausage meatball t-bone, kevin ham hock flank andouille biltong fatback kielbasa ball tip short ribs brisket.
+  website_link: https://carpentries.org/community/#instructors
+  handbook_link: https://docs.carpentries.org/topic_folders/for_instructors/index.html
+
+- name: Trainers
+  name_singular: Trainer
+  starts_with_vowel: False
+  description: Trainers are the ones who do this.  Turducken fatback sirloin pig jerky jowl porchetta pastrami pork cupim. Ham ham hock cow, landjaeger shoulder chicken kevin tri-tip kielbasa meatball pork belly capicola alcatra. Jerky buffalo brisket shoulder andouille alcatra hamburger sausage shank burgdoggen pork chop.
+  website_link: https://carpentries.org/community/#trainers
+  handbook_link: https://docs.carpentries.org/topic_folders/instructor_training/index.html
+
+- name: Mentors  
+  name_singular: Mentor
+  starts_with_vowel: False
+  description: Mentors and Instructor Development. Ribeye short ribs strip steak, kielbasa leberkas pork fatback. Meatloaf pork loin alcatra chuck brisket venison chicken, pork chop tenderloin shoulder. Rump meatball ground round.
+  website_link: https://carpentries.org/community/#instructor-development
+  handbook_link: https://docs.carpentries.org/topic_folders/instructor_development/index.html
+
+- name: Maintainers
+  name_singular: Maintainer
+  starts_with_vowel: False
+  description: What Maintainers do. Prosciutto picanha fatback tail ham, meatloaf short ribs beef ribs spare ribs filet mignon bacon. Jerky picanha flank, buffalo shoulder ground round tri-tip pancetta pork belly meatball pig cupim salami pork.   
+  website_link: https://carpentries.org/community/#maintainers
+  handbook_link: https://docs.carpentries.org/topic_folders/maintainers/index.html 
