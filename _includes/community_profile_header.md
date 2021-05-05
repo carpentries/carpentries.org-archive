@@ -6,7 +6,14 @@
 
 <p>{{ role[0].description }}</p>
 
-<p>Read more about our {{ role[0].name }} on  <a href="{{ role[0].website_link }}">The Carpentries website</a> and check out our resources for {{ role[0].name }} in our <a href="{{ role[0].handbook_link }}">Handbook</a>.  </p>
+
+{% if role[0].website_link %}
+<p>Read more about our {{ role[0].name }} on  <a href="{{ role[0].website_link }}">The Carpentries website</a>. 
+{% endif %}
+
+{% if role[0].handbook_link %}
+Check out our resources for {{ role[0].name }} in our <a href="{{ role[0].handbook_link }}">Handbook</a>.  </p>
+{% endif %}
 
 <p>This page lists {{ role[0].name }} who have consented to appear on our website. If you are {{ article }}
   {{ role[0].name_singular }} who is not listed here but would like to be, please 
