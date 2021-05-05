@@ -13,6 +13,11 @@
   website_link: https://carpentries.org/community/#trainers
   handbook_link: https://docs.carpentries.org/topic_folders/instructor_training/index.html
 
+- name: Trainer Alumni
+  name_singular: Trainer Alumnus
+  starts_with_vowel: False
+  description: Trainer Alumni Carrot cake brownie danish chocolate. Icing powder pie ice cream topping. Apple pie jelly beans croissant sesame snaps toffee gummi bears. Icing croissant candy canes jelly-o muffin jelly beans macaroon cupcake.
+
 - name: Mentors  
   name_singular: Mentor
   starts_with_vowel: False
