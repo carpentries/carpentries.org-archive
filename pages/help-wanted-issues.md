@@ -1,7 +1,7 @@
 ---
 layout: reactable
 permalink: help-wanted-issues
-title: Help Wanted Issues
+title: List of GitHub issues with the tag 'help wanted'
 ---
 
 The table below lists all lessons labelled "Help wanted" and/or
