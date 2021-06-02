@@ -1,7 +1,7 @@
 ---
 layout: page
 authors: ["Karen Cranston", "Karin Lagesen", "Francois Michonneau", "Malvika Sharan", "Masami Yamaguchi"]
-teaser: "Code of Conduct Committee recruiting new members, attend one of the community calls in June to find out more about how we help to  make The Carpentries a welcoming and supporting environment."
+teaser: "Code of Conduct Committee is recruiting new members. Attend one of our community discussions in June to find out more about how we help make The Carpentries a welcoming and supporting environment."
 title: "Recruiting new members to the Code of Conduct Committee"
 date: 2021-06-09
 time: "00:00:00"
