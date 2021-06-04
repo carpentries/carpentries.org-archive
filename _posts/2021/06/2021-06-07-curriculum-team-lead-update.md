@@ -3,7 +3,7 @@ layout: page
 authors: ["Erin Becker", "Toby Hodges"]
 teaser: "Toby Hodges takes up leadership of the Curriculum Team from June 2021."
 title: "Announcing our new Curriculum Team Lead"
-date: 2021-06-02
+date: 2021-06-07
 time: "09:00:00"
 tags: ["Curriculum", "Carpentries Team"]
 ---
