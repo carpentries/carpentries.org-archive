@@ -15,7 +15,7 @@ The Carpentries Code of Conduct Committee is currently recruiting new members. W
 The Code of Conduct Committee will be leading two community calls in June to discuss the CoC, the committee, and answer questions about the open positions. These calls are in two different time zones to accommodate interested community members around the world.
 
 * Tuesday, June 22, 11AM UTC
-* Tuesday, June 22 8PM UTC
+* Tuesday, June 22, 8PM UTC
 
 Please see the [Community Discussion etherpad](https://pad.carpentries.org/community-discussions) to sign up.
 
