@@ -22,8 +22,8 @@ The council also prepares [Yearly Summaries](https://github.com/carpentries/exec
 - Cedric Chambers [Appointed since 2020]
 - John Chodacki [Appointed since 2021]
 - Konrad Förstner [Appointed since 2020], 2021 Secretary, 2020 [Code of Conduct](https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html) committee liaison
-- Paula Andrea Martinez [Elected since 2020], 2021 Vice Chair
-- Lex Nederbragt [Elected since 2018], 2021 Chair, 2020 Vice Chair, 2018 Secretary
+- Paula Andrea Martinez [Elected since 2020], **2021 Vice Chair**
+- Lex Nederbragt [Elected since 2018], **2021 Chair**, 2020 Vice Chair, 2018 Secretary
 - Aleksandra Nenadic [Elected since 2021]
 - Michael Smith [Appointed since 2021], 2021 Treasurer
 - Sarah Stevens [Elected since 2021]
@@ -43,16 +43,16 @@ For the current Executive Council term, the Executive Council Standing Committee
 ### Officers Committee
 
 * Lex Nederbragt (Chair)
-* Paula Andrea
+* Paula Andrea Martinez
 * Michael Smith
 * Konrad Förstner
 
 ### Governance Committee
 
-* Paula Andrea (Committee Chair)
+* Paula Andrea Martinez (Committee Chair)
 * Sarah Stevens
 * Cedric Chambers
-* JohnChodacki
+* John Chodacki
 
 ### Finance Committee
 
@@ -64,14 +64,14 @@ For the current Executive Council term, the Executive Council Standing Committee
 
 * Konrad Förstner (Committee Chair)
 * Masami Yamaguchi
-* Aleks Nenadic
+* Aleksandra Nenadic
 * Omar Khan (Core Team member)
 
 ### Program Committee
 
 * Sarah Stevens (Committee Chair)
 * Masami Yamaguchi
-* Aleks Nenadic
+* Aleksandra Nenadic
 * Lex Nederbragt
 
 ## Carpentries Bylaws and Policies
