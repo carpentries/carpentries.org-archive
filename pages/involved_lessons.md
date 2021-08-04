@@ -25,7 +25,7 @@ The goal of The Carpentries Incubator is to be a place for Carpentries community
 
 In the near future, we will also provide a friendly, community-supported, peer-review process for lessons.
 After the peer-review process, the lessons will be hosted in [The Carpentries Lab][carpentries-lab] and will be officially endorsed
-by The Carpentries as high-quality resources. At this time, we are not accepting lesson submissions to The CarpentriesLab. If you
+by The Carpentries as high-quality resources. At this time, we are not accepting lesson submissions to The Carpentries Lab. If you
 are interested in having a lesson reviewed for inclusion in The Lab, please submit it first to The Incubator through our
 [GitHub Repository](https://github.com/carpentries-incubator/proposals#readme).
 

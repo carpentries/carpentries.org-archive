@@ -4,7 +4,7 @@ permalink: community-lessons/
 title: Community Developed Lessons
 ---
 
-The Carpentries community is commited to a collaborative and open process for lesson development and to sharing teaching materials. 
+The Carpentries community is commited to a collaborative and open process for lesson development and to sharing teaching materials.
 We provide two avenues for community members to share lesson materials - The Carpentries Incubator and The Carpentries Lab.
 
 [The Carpentries Incubator](#the-carpentries-incubator) is for:
@@ -22,7 +22,7 @@ We provide two avenues for community members to share lesson materials - The Car
 Explore the full collection of lessons developed by The Carpentries community
 in the table below.
 The table includes all lesson repositories in The Carpentries Incubator and
-CarpentriesLab.
+Carpentries Lab.
 It can be sorted and filtered based on the contents of its columns:
 click on a heading cell to sort the rows by that column,
 or type a term into the box included in a header cell to filter the table rows by
@@ -57,7 +57,7 @@ the general teaching practices used in Carpentries workshops.
 
 Lessons in The Carpentries Lab have been peer-reviewed and are vetted by The Carpentries as high-quality resources. We encourage you to browse the Lab lessons for materials that meet your needs and to use these materials freely (all lessons are licensed [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/)). However, we are unable to offer workshops teaching these lessons upon request.
 
-At this time, we are inviting submissions for review and acceptance to The Carpentries Lab. 
+At this time, we are inviting submissions for review and acceptance to The Carpentries Lab.
 If you are interested in having a lesson reviewed for inclusion in The Lab, please visit [The Carpentries Lab reviews repository](https://github.com/carpentries-lab/reviews/).
 
 ## Information for Lesson Developers

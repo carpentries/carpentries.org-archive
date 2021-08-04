@@ -49,7 +49,7 @@ and research software development through building local and global communities 
 * Here are new roles we are planning on onboarding community members to in the near future
 	* Technology facilitators - [community facilitators](https://carpentries.org/blog/2020/09/introducing-community-facilitators-program/) who address everyday ‘how-do-I’ questions that newcomers have as they collaborate with others on platforms The Carpentries uses i.e. GitHub
 	* Community buddies - [community facilitators](https://carpentries.org/blog/2020/09/introducing-community-facilitators-program/) who spearhead the onboarding of new community members - saying hello and ‘come to me with any questions’, etc
-	* Communications facilitators - [community facilitators](https://carpentries.org/blog/2020/09/introducing-community-facilitators-program/) who help translate key communications so we can share these in languages other than English across our socials and lead region-specific outreach campaigns 
+	* Communications facilitators - [community facilitators](https://carpentries.org/blog/2020/09/introducing-community-facilitators-program/) who help translate key communications so we can share these in languages other than English across our socials and lead region-specific outreach campaigns
 	* Resource-enhancement facilitators - [community facilitators](https://carpentries.org/blog/2020/09/introducing-community-facilitators-program/) who spearhead discussions around content design  to guide the publication and archiving of community-created resources in a way that makes them accessible to all, and lowers barriers to knowledge acquisition by other community members i.e. replacing sea of text with images, GIFs, videos, illustrating workflows to make them easier to understand, managing tags and their use to collate resources across Carpentries platforms, etc
 	* Accessibility facilitators - [community facilitators](https://carpentries.org/blog/2020/09/introducing-community-facilitators-program/) who lead conversations to review, update and implement Carpentries accessibility guidelines that guide interactions in online and in-person spaces, as well as the creation of written and audio-visual content and choice of platforms.
 
@@ -125,7 +125,7 @@ The Carpentries Maintainers work with the community to make sure that lessons st
 
 [Community Facilitators](https://carpentries.org/blog/2020/09/introducing-community-facilitators-program/) are people who are empowered to advocate for others in the community and guide community members as they navigate The Carpentries global community. Seven facilitation roles have been identified in The Carpentries community:
 
-#### Feedback Facilitators 
+#### Feedback Facilitators
 
 Feedback facilitators are community facilitators who collect and organise feedback shared publicly and informally in our community spaces for ease of filtering, action and response in The Carpentries
 
@@ -143,13 +143,13 @@ Community buddies will be community facilitators who spearhead the onboarding of
 
 #### Communications facilitators
 
-Communications facilitators will be community facilitators who help translate key communications so we can share these in languages other than English across our socials and lead region-specific outreach campaigns 
+Communications facilitators will be community facilitators who help translate key communications so we can share these in languages other than English across our socials and lead region-specific outreach campaigns
 
-#### Resource-enhancement facilitators 
+#### Resource-enhancement facilitators
 
 Resource-enhancement facilitators will be community facilitators who spearhead discussions around content design  to guide the publication and archiving of community-created resources in a way that makes them accessible to all, and lowers barriers to knowledge acquisition by other community members i.e. replacing sea of text with images, GIFs, videos, illustrating workflows to make them easier to understand, managing tags and their use to collate resources across Carpentries platforms, etc
 
-#### Accessibility facilitators 
+#### Accessibility facilitators
 
 Accessibility facilitators will be community facilitators who lead conversations to review, update and implement Carpentries accessibility guidelines that guide interactions in online and in-person spaces, as well as the creation of written and audio-visual content and choice of platforms.
 
@@ -183,7 +183,7 @@ The Carpentries community is commited to a collaborative and open process for le
 
 [The Carpentries Incubator](/community-lessons/#the-carpentries-incubator) is for Carpentries community members to share Carpentries-style teaching materials at all stages of development, to receive feedback from other community members. These lessons are not officially endorsed by The Carpentries. Read [more information](https://github.com/carpentries-incubator/proposals/blob/master/README.md) about contributing to The Carpentries Incubator.
 
-[The CarpentriesLab](/community-lessons/#the-carpentrieslab) is for sharing peer-reviewed lessons, vetted by the The Carpentries. We are not currently accepting submissions for these lessons.
+[The Carpentries Lab](/community-lessons/#the-carpentrieslab) is for sharing peer-reviewed lessons, vetted by the The Carpentries. We are not currently accepting submissions for these lessons.
 
 Those looking for ways to contribute to existing lesson material can find
 a list of issues in need of attention on the [Help Wanted page](/help-wanted-issues/).
@@ -241,7 +241,7 @@ Here are details about The Carpentries Instructor community in  Canada:
 * [Join Vancouver's mailing list](https://carpentries.topicbox.com/groups/local-vancouver)
 * [Contact](mailto:admin-ca@carpentries.org)
 
-#### Carpentries in Middle East and North Africa 
+#### Carpentries in Middle East and North Africa
 
 We have a budding Carpentries Instructor community in Middle East and North Africa, here is how to join in:
 
