@@ -73,4 +73,4 @@ SOFTWARE.
 
 ## Trademarks
 
-"Software Carpentry", "Data Carpentry", and "The Carpentries" and their respective logos are registered trademarks of Community Initiatives.
+"Software Carpentry", "Data Carpentry", "Library Carpentry" and "The Carpentries" and their respective logos are registered trademarks of Community Initiatives.
