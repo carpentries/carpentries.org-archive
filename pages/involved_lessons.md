@@ -10,7 +10,10 @@ The Carpentries lessons are collaboratively developed - anyone can contribute an
 All of our lessons are on GitHub and [creating an account][join-github] is required to contribute directly to the lessons. To fix a typo,
 correct an
 error, clarify an example, or otherwise suggest an improvement to an existing lesson, you can file an issue on the lesson's GitHub
-repository. For typo fixes and error corrections, pull requests are also welcome! For suggestions, and to propose large-scale changes,
+repository. For typo fixes and error corrections, pull requests are also welcome!
+If you are looking for a place to start contributing to our lessons, [the Help Wanted page](/help-wanted-issues/) is a good place to start.
+It provides a list of existing issues that are looking for help from the community.
+For suggestions, and to propose large-scale changes,
 please start a conversation through an issue rather than putting in a pull request. This gives the lesson Maintainers and the rest of the
 community an opportunity to discuss the suggestion before you've done all of the work. If you're not familiar with GitHub, you can
 also submit a comment or question through one of our [communication channels][comms].
