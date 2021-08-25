@@ -8,7 +8,7 @@ The Carpentries Sponsorship Program aims to help The Carpentries partner with li
 
 With support from sponsors, The Carpentries will continue our efforts to make coding and data skills equitable globally and expand our operations to better meet the needs of our community now and in the future.
 
-<a href="https://carpentries.typeform.com/to/EQdv1Qx4 ">
+<a href="https://carpentries.typeform.com/to/KYtpesXQ">
         <button class="btn">
             Sponsorship Application Form
         </button>
@@ -17,16 +17,16 @@ The Sponsorship Application Form is also available as a [fillable PDF](https://n
 
 <hr>
 
-## Sponsorship Levels     
+## Sponsorship Levels
 
 
 <table>
   <tr>
     <th>Benefits</th>
     <th>Empowerment Sponsor $150K <br><i>Limit 2</i></th>
-    <th>Champion $50 <i>Limit 4</i></th>
+    <th>Champion $50K <i>Limit 4</i></th>
     <th>Supporter $25K</th>
-    <th>Contributer $10</th>
+    <th>Contributer $10K</th>
     <th>Advocate $5K </th>
   </tr>
   <tr>
@@ -55,9 +55,9 @@ The Sponsorship Application Form is also available as a [fillable PDF](https://n
   </tr>
 <tr>
     <td>Mention in The Carpentries Newsletter</td>
-    <td align="center" style="text-align:center; font-size:150%; font-weight:bold; color:blue;">&#x2714;</td>    
-    <td align="center" style="text-align:center; font-size:150%; font-weight:bold; color:blue;">&#x2714;</td>    
-    <td align="center" style="text-align:center; font-size:150%; font-weight:bold; color:blue;">&#x2714;</td>    
+    <td align="center" style="text-align:center; font-size:150%; font-weight:bold; color:blue;">&#x2714</td>
+    <td align="center" style="text-align:center; font-size:150%; font-weight:bold; color:blue;">&#x2714</td>
+    <td align="center" style="text-align:center; font-size:150%; font-weight:bold; color:blue;">&#x2714</td>
     <td></td>    
     <td></td>
   </tr>
@@ -117,6 +117,7 @@ The Sponsorship Application Form is also available as a [fillable PDF](https://n
         <td></td>
       </tr>
 </table>
+
 In addition to the sponsorship levels listed above, we value all monetary contributions. Please support The Carpentries’ growing community as an Ally by making a donation of any amount. [Donate.]({{site.fundraising_link}})
 
 <hr>
@@ -169,6 +170,6 @@ Attend one Data, Software, or Library Carpentry workshop (in-person or virtual w
         <button class="btn">
             Sponsorship Application Form
         </button>
-        
+
 <hr>
 If you have any questions please contact us at [sponsorship@carpentries.org](mailto:sponsorship@carpentries.org)
