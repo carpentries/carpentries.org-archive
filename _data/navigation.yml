@@ -69,6 +69,8 @@
     url: "/involved-lessons/"
   - title: "Become a Member Organisation"
     url: "/membership/"
+  - title: "Become a Sponsor"
+    url: "/sponsorship/"
   - title: "Job Vacancies"
     url: "/jobs/"
 
