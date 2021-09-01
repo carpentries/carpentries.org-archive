@@ -31,59 +31,93 @@ The Sponsorship Application Form is also available as a fillable PDF
   </tr>
   <tr>
     <td>Digital supporter badge </td>
-    <td align="center" style="text-align:center; font-size:150%; font-weight:bold; color:blue;">&#x2714</td>
-    <td align="center" style="text-align:center; font-size:150%; font-weight:bold; color:blue;">&#x2714</td>    
-    <td align="center" style="text-align:center; font-size:150%; font-weight:bold; color:blue;">&#x2714</td>    
-    <td align="center" style="text-align:center; font-size:150%; font-weight:bold; color:blue;">&#x2714</td>    
-    <td align="center" style="text-align:center; font-size:150%; font-weight:bold; color:blue;">&#x2714</td>
+    <td align="center" style="text-align:center; font-size:150%; font-weight:bold; color:blue;">&#x2714;</td>
+    <td align="center" style="text-align:center; font-size:150%; font-weight:bold; color:blue;">&#x2714;</td>    
+    <td align="center" style="text-align:center; font-size:150%; font-weight:bold; color:blue;">&#x2714;</td>    
+    <td align="center" style="text-align:center; font-size:150%; font-weight:bold; color:blue;">&#x2714;</td>    
+    <td align="center" style="text-align:center; font-size:150%; font-weight:bold; color:blue;">&#x2714;</td>
   </tr>
   <tr>
     <td>Carpentries Philanthropy Recognition</td>
-    <td align="center" style="text-align:center; font-size:150%; font-weight:bold; color:blue;">&#x2714</td>
-    <td align="center" style="text-align:center; font-size:150%; font-weight:bold; color:blue;">&#x2714</td>    
-    <td align="center" style="text-align:center; font-size:150%; font-weight:bold; color:blue;">&#x2714</td>    
-    <td align="center" style="text-align:center; font-size:150%; font-weight:bold; color:blue;">&#x2714</td>    
-    <td align="center" style="text-align:center; font-size:150%; font-weight:bold; color:blue;">&#x2714</td>
+    <td align="center" style="text-align:center; font-size:150%; font-weight:bold; color:blue;">&#x2714;</td>
+    <td align="center" style="text-align:center; font-size:150%; font-weight:bold; color:blue;">&#x2714;</td>    
+    <td align="center" style="text-align:center; font-size:150%; font-weight:bold; color:blue;">&#x2714;</td>    
+    <td align="center" style="text-align:center; font-size:150%; font-weight:bold; color:blue;">&#x2714;</td>    
+    <td align="center" style="text-align:center; font-size:150%; font-weight:bold; color:blue;">&#x2714;</td>
   </tr>
 <tr>
     <td>Logo on carpentries.org</td>
-    <td align="center" style="text-align:center; font-size:150%; font-weight:bold; color:blue;">&#x2714</td>    
-    <td align="center" style="text-align:center; font-size:150%; font-weight:bold; color:blue;">&#x2714</td>    
-    <td align="center" style="text-align:center; font-size:150%; font-weight:bold; color:blue;">&#x2714</td>    
-    <td align="center" style="text-align:center; font-size:150%; font-weight:bold; color:blue;">&#x2714</td>    
+    <td align="center" style="text-align:center; font-size:150%; font-weight:bold; color:blue;">&#x2714;</td>    
+    <td align="center" style="text-align:center; font-size:150%; font-weight:bold; color:blue;">&#x2714;</td>    
+    <td align="center" style="text-align:center; font-size:150%; font-weight:bold; color:blue;">&#x2714;</td>    
+    <td align="center" style="text-align:center; font-size:150%; font-weight:bold; color:blue;">&#x2714;</td>    
     <td></td>
   </tr>
 <tr>
     <td>Mention in The Carpentries Newsletter</td>
-    <td align="center" style="text-align:center; font-size:150%; font-weight:bold; color:blue;">&#x2714</td>    
-    <td align="center" style="text-align:center; font-size:150%; font-weight:bold; color:blue;">&#x2714</td>    
-    <td align="center" style="text-align:center; font-size:150%; font-weight:bold; color:blue;">&#x2714</td>    
+    <td align="center" style="text-align:center; font-size:150%; font-weight:bold; color:blue;">&#x2714;</td>    
+    <td align="center" style="text-align:center; font-size:150%; font-weight:bold; color:blue;">&#x2714;</td>    
+    <td align="center" style="text-align:center; font-size:150%; font-weight:bold; color:blue;">&#x2714;</td>    
     <td></td>    
     <td></td>
   </tr>
 <tr>
     <td>Logo on carpentries.org/jobs</td>
-    <td align="center" style="text-align:center; font-size:150%; font-weight:bold; color:blue;">&#x2714</td>    
-    <td align="center" style="text-align:center; font-size:150%; font-weight:bold; color:blue;">&#x2714</td>    
+    <td align="center" style="text-align:center; font-size:150%; font-weight:bold; color:blue;">&#x2714;</td>    
+    <td align="center" style="text-align:center; font-size:150%; font-weight:bold; color:blue;">&#x2714;</td>    
     <td></td>    
     <td></td>    
     <td></td>
   </tr>
 <tr>
     <td>Social media visibility</td>
-    <td align="center" style="text-align:center; font-size:150%; font-weight:bold; color:blue;">&#x2714</td>    
-    <td align="center" style="text-align:center; font-size:150%; font-weight:bold; color:blue;">&#x2714</td>    
+    <td align="center" style="text-align:center; font-size:150%; font-weight:bold; color:blue;">&#x2714;</td>    
+    <td align="center" style="text-align:center; font-size:150%; font-weight:bold; color:blue;">&#x2714;</td>    
     <td></td>    
     <td></td>    
     <td></td>
   </tr>
-<tr>
-    <td>CarpentryCon Registration, Sponsor Table, & Recognition</td>
-    <td align="center" style="text-align:center; font-size:150%; font-weight:bold; color:blue;">&#x2714</td>    <td align="center" style="text-align:center; font-size:150%; font-weight:bold; color:blue;">&#x2714</td>    <td></td>    
-    <td></td>    
-    <td></td>
-  </tr>
+    <tr>
+        <td>CarpentryCon Registration, Sponsor Table, & Recognition</td>
+        <td align="center" style="text-align:center; font-size:150%; font-weight:bold; color:blue;">&#x2714;</td>    <td align="center" style="text-align:center; font-size:150%; font-weight:bold; color:blue;">&#x2714;</td>    
+        <td></td>    
+        <td></td>    
+        <td></td>
+      </tr>
+    <tr>
+        <td>Logo listed on The Carpentries Blog</td>
+        <td align="center" style="text-align:center; font-size:150%; font-weight:bold; color:blue;">&#x2714;</td>    
+        <td></td>    
+        <td></td>    
+        <td></td>    
+        <td></td>
+      </tr>
+    <tr>
+        <td>Original Blog Post</td>
+        <td align="center" style="text-align:center; font-size:150%; font-weight:bold; color:blue;">&#x2714;</td>    
+        <td></td>    
+        <td></td>    
+        <td></td>    
+        <td></td>
+      </tr>
+    <tr>
+        <td>Themed Community Discussion</td>
+        <td align="center" style="text-align:center; font-size:150%; font-weight:bold; color:blue;">&#x2714</td>    
+        <td></td>    
+        <td></td>    
+        <td></td>    
+        <td></td>
+      </tr>
+    <tr>
+        <td>Data, Software, or Library Carpentry Workshop</td>
+        <td align="center" style="text-align:center; font-size:150%; font-weight:bold; color:blue;">&#x2714;</td>    
+        <td></td>    
+        <td></td>    
+        <td></td>    
+        <td></td>
+      </tr>
 </table>
+In addition to the sponsorship levels listed above, we value all monetary contributions. Please support The Carpentries’ growing community as an Ally by making a donation of any amount. [Donate.](give.communityin.org/TheCarpentries)
 
 <hr>
 
@@ -117,3 +151,16 @@ CarpentryCon attendance: ~300 persons
 - **Champion** - 4 registrations, 1 sponsorship table
 
 *Additional registrations at a 20% discount.*
+
+
+#### Logo listed on The Carpentries blog
+Logo will be placed in the sidebar on the Carpentries blog (https://carpentries.org/blog/) for one year. The Carpentries blog receives ~2,500 views per month (~84,000 all time).
+
+#### Original Blog Post
+One blog post on The Carpentries blog.
+
+#### Themed Community Discussion
+Opportunity to present at one virtual discussion with The Carpentries global community. Discussion will be moderated by a Carpentries Core Team member. Sponsor will give a 20 minute overview of their mission, vision, and values, and how The Carpentries community can get involved.
+
+#### Data, Software, or Library Carpentry Workshop
+Attend one Data, Software, or Library Carpentry workshop (in-person or virtual where available).
