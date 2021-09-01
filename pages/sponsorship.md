@@ -102,7 +102,7 @@ The Sponsorship Application Form is also available as a fillable PDF
       </tr>
     <tr>
         <td>Themed Community Discussion</td>
-        <td align="center" style="text-align:center; font-size:150%; font-weight:bold; color:blue;">&#x2714</td>    
+        <td align="center" style="text-align:center; font-size:150%; font-weight:bold; color:blue;">&#x2714;</td>    
         <td></td>    
         <td></td>    
         <td></td>    
