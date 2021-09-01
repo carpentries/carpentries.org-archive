@@ -55,9 +55,9 @@ The Sponsorship Application Form is also available as a [fillable PDF](https://n
   </tr>
 <tr>
     <td>Mention in The Carpentries Newsletter</td>
-    <td align="center" style="text-align:center; font-size:150%; font-weight:bold; color:blue;">&#x2714</td>
-    <td align="center" style="text-align:center; font-size:150%; font-weight:bold; color:blue;">&#x2714</td>
-    <td align="center" style="text-align:center; font-size:150%; font-weight:bold; color:blue;">&#x2714</td>
+    <td align="center" style="text-align:center; font-size:150%; font-weight:bold; color:blue;">&#x2714;</td>    
+    <td align="center" style="text-align:center; font-size:150%; font-weight:bold; color:blue;">&#x2714;</td>    
+    <td align="center" style="text-align:center; font-size:150%; font-weight:bold; color:blue;">&#x2714;</td>    
     <td></td>    
     <td></td>
   </tr>
@@ -102,7 +102,7 @@ The Sponsorship Application Form is also available as a [fillable PDF](https://n
       </tr>
     <tr>
         <td>Themed Community Discussion</td>
-        <td align="center" style="text-align:center; font-size:150%; font-weight:bold; color:blue;">&#x2714;</td>    
+        <td align="center" style="text-align:center; font-size:150%; font-weight:bold; color:blue;">&#x2714</td>    
         <td></td>    
         <td></td>    
         <td></td>    
@@ -117,6 +117,7 @@ The Sponsorship Application Form is also available as a [fillable PDF](https://n
         <td></td>
       </tr>
 </table>
+In addition to the sponsorship levels listed above, we value all monetary contributions. Please support The Carpentries’ growing community as an Ally by making a donation of any amount. [Donate.](give.communityin.org/TheCarpentries)
 
 In addition to the sponsorship levels listed above, we value all monetary contributions. Please support The Carpentries’ growing community as an Ally by making a donation of any amount. [Donate.]({{site.fundraising_link}})
 
@@ -155,7 +156,7 @@ CarpentryCon attendance: ~300 persons
 
 
 #### Logo listed on The Carpentries blog
-Logo will be placed on the Carpentries blog (https://carpentries.org/blog/) for one year. The Carpentries blog receives ~2,500 views per month (~84,000 all time).
+Logo will be placed in the sidebar on the Carpentries blog (https://carpentries.org/blog/) for one year. The Carpentries blog receives ~2,500 views per month (~84,000 all time).
 
 #### Original Blog Post
 One blog post on The Carpentries blog.
