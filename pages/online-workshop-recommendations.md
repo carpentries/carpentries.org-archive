@@ -401,8 +401,8 @@ As time passes, do not forget to check back here each time you teach! We will no
 
 
 #### Changelog (content changes only)
-9 April 2020: Version 1.0 published
-16 July 2020: Version 2.0 published
-- Thematic organization replaced by chronological 
-- Widespread updates based on community feedback
-12 Aug 2020: Added specific recommendations re class size limit 20
+* 2020-08-12: Added specific recommendations regarding class size limit 20
+* 2020-07-16: Version 2.0 published 
+  * Thematic organization replaced by chronological 
+  * Widespread updates based on community feedback
+* 2020-04-09: Version 1.0 published
