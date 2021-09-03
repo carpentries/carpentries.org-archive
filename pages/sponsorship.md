@@ -117,7 +117,7 @@ The Sponsorship Application Form is also available as a fillable PDF
         <td></td>
       </tr>
 </table>
-In addition to the sponsorship levels listed above, we value all monetary contributions. Please support The Carpentries’ growing community as an Ally by making a donation of any amount. [Donate.](give.communityin.org/TheCarpentries)
+In addition to the sponsorship levels listed above, we value all monetary contributions. Please support The Carpentries’ growing community as an Ally by making a donation of any amount. [Donate.]({{site.fundraising_link}})
 
 <hr>
 
