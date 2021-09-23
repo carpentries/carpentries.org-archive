@@ -4,7 +4,7 @@ title: "The Nine Core Values of The Carpentries"
 permalink: /values/
 ---
 
-Shared values and goals have long been the starting point of communities of practice as they identify changes they want to see and start working together towards these changes. Between July and November 2019, The Carpentries team formed a Task Force which worked with our community to identify and articulate The Carpentries Values. Read [a long-form report detailing the work of the Values Task Force] (https://github.com/carpentries/task-forces/blob/master/2019/articulating-the-carpentries-values/2019-11-carpentries-values-summary.md).
+Shared values and goals have long been the starting point of communities of practice as they identify changes they want to see and start working together towards these changes. Between July and November 2019, The Carpentries team formed a Task Force which worked with our community to identify and articulate The Carpentries Values. Read [a long-form report detailing the work of the Values Task Force](https://github.com/carpentries/task-forces/blob/master/2019/articulating-the-carpentries-values/2019-11-carpentries-values-summary.md).
 
 Here are the nine core values of The Carpentries:
 
@@ -28,7 +28,8 @@ We help people build knowledge by creating a conducive environment for the excha
 <div class ="values">
 <img alt="Value icon by hafiudin from the Noun Project" src="{{ site.urlimg }}/values/value_all_contributions.png">
 <h3>Value All Contributions</h3>
-We value all contributions by individuals and entities to our community, code, lessons and broader ecosystem as long as those contributions adhere to [The Carpentries Code of Conduct](https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html).
+We value all contributions by individuals and entities to our community, code, lessons and broader ecosystem as long as those contributions adhere to
+[The Carpentries Code of Conduct](https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html).
 </div>
 
 
