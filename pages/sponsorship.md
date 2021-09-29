@@ -24,10 +24,10 @@ The Sponsorship Application Form is also available as a fillable PDF
   <tr>
     <th>Benefits</th>
     <th>Empowerment Sponsor $150K <br><i>Limit 2</i></th>
-    <th>Champion $50-75K <i>Limit 4</i></th>
+    <th>Champion $50 <i>Limit 4</i></th>
     <th>Supporter $25K</th>
-    <th>Contributer $10-15K</th>
-    <th>Advocate $1-5K </th>
+    <th>Contributer $10</th>
+    <th>Advocate $5K </th>
   </tr>
   <tr>
     <td>Digital supporter badge </td>
