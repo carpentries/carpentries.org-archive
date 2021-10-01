@@ -164,3 +164,6 @@ Opportunity to present at one virtual discussion with The Carpentries global com
 
 #### Data, Software, or Library Carpentry Workshop
 Attend one Data, Software, or Library Carpentry workshop (in-person or virtual where available).
+        
+<hr>
+If you have any questions please contact us at [sponsorship@carpentries.org](mailto:sponsorship@carpentries.org)
