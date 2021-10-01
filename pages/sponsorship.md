@@ -133,13 +133,13 @@ One mention in The Carpentries donor newsletter.
 Logo linked to sponsor designated URL, posted on https://carpentries.org/sponsorship. Sponsors listed in order of package level.
 
 #### Mention in The Carpentries Newsletter
-One mention in The Carpentries newsletter.
+One item submitted to The Carpentries biweekly newsletter, Carpentries Clippings.
 
 #### Logo on carpentries.org/jobs
 Logo linked to sponsor’s careers page listed on https://carpentries.org/jobs/ for one year.
 
 #### Social media visibility
-Social media promotion via @thecarpentries on Twitter (9,077 followers).
+Social media promotion via @thecarpentries on Twitter (9,077 followers). 
 - Empowerment Sponsor - up to 4 posts per year
 - Champion - up to 2 posts per year
 
