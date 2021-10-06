@@ -8,7 +8,7 @@ The Carpentries Sponsorship Program aims to help The Carpentries partner with li
 
 With support from sponsors, The Carpentries will continue our efforts to make coding and data skills equitable globally and expand our operations to better meet the needs of our community now and in the future.
 
-<a href="https://carpentries.typeform.com/to/KYtpesXQ">
+<a href="https://carpentries.typeform.com/to/EQdv1Qx4 ">
         <button class="btn">
             Sponsorship Application Form
         </button>
@@ -156,7 +156,7 @@ CarpentryCon attendance: ~300 persons
 
 
 #### Logo listed on The Carpentries blog
-Logo will be placed in the sidebar on the Carpentries blog (https://carpentries.org/blog/) for one year. The Carpentries blog receives ~2,500 views per month (~84,000 all time).
+Logo will be placed on the Carpentries blog (https://carpentries.org/blog/) for one year. The Carpentries blog receives ~2,500 views per month (~84,000 all time).
 
 #### Original Blog Post
 One blog post on The Carpentries blog.
@@ -166,6 +166,11 @@ Opportunity to present at one virtual discussion with The Carpentries global com
 
 #### Data, Software, or Library Carpentry Workshop
 Attend one Data, Software, or Library Carpentry workshop (in-person or virtual where available).
+
+<a href="https://carpentries.typeform.com/to/EQdv1Qx4 ">
+        <button class="btn">
+            Sponsorship Application Form
+        </button>
         
 <hr>
 If you have any questions please contact us at [sponsorship@carpentries.org](mailto:sponsorship@carpentries.org)
