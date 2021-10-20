@@ -26,9 +26,9 @@ We offer four tiers of Membership, based on the training and workshop activities
 {: .table .table-striped}
 || Bronze | Silver | Gold | Platinum |
 |:---:|:---:|:---:|:---:|:---:|
-| <b>Coordinated workshops</b> |:def:|:ghi:|:jkl:|:mno:|
-| <b>Discount for additional <br> coordinated workshops</b> |:def:|:ghi:|:jkl:|:mno:|
-| <b>Instructor training seats</b> |:def:|:ghi:|:jkl:|:mno:|
+| <b>Coordinated workshops</b> |2|2|2|Self organized <br> workshops only|
+| <b>Discount for additional <br> coordinated workshops</b> |50%|50%|50%|50%|
+| <b>Instructor training seats</b> |0|Up to 5 online|Up to 12 online|25-100|
 | <b>Local purchasting power <br> above 75</b> |:def:|:ghi:|:jkl:|:mno:|
 | <b>Local purchasting power <br> 50-74.9</b> |:def:|:ghi:|:jkl:|:mno:|
 | <b>Local purchasting power <br> 50-74.9</b> |:def:|:ghi:|:jkl:|:mno:|
