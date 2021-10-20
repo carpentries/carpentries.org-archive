@@ -9,9 +9,10 @@ A Member Organisation is an organisation which has made a commitment to the grow
 
 ### Membership Tiers
 
-We offer several levels of Memberships, based on training activities expected annually. All fees listed are in USD and represent costs for not-for-profit organisations. We also provide memberships for for-profit organisations. Please [contact us](mailto:membership@carpentries.org) for more information.
+We offer four tiers of Membership, based on the training and workshop activities expected annually. All fees listed are in USD and represent costs for not-for-profit organisations. Countries are grouped based on the Local Purchasing Power Index from [Numbeo](https://www.numbeo.com/cost-of-living/rankings_by_country.jsp?title=2021-mid&displayColumn=5). This is a part of our strategic plan to reduce barriers and create access for more organisations.  We also provide memberships for for-profit organisations. Please [contact us](mailto:membership@carpentries.org) for more information or pricing for for-profit organisations.
 
 {: .table .table-striped}
+
 ||Bronze|Silver|Gold|Platinum|
 | ------|:------:|:------:|:------:|:------:|
 |Number of coordinated workshops|2|4|6|6|
