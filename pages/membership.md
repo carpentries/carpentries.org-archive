@@ -69,13 +69,15 @@ A Platinum membership must include a minimum of 25 Instructor Training seats.
 <strong>Instructor Trainer Training</strong>
 
 Each year we provide training for a small number of qualified individuals to become Instructor Trainers. This training requires a significant time 
-commitment and has limited availability. The cost to support an individual through this training is $10,000. As each active Trainer at a member organisation
-earns a $5,000 discount on the membership price, and can support in-house Instructor Training, an Instructor Trainer Training seat
+commitment and has limited availability. The cost to support an individual through this training is $10,000. Each active Trainer at a member organisation
+earns a $5,000 discount on the membership price and can support in-house Instructor Training. An Instructor Trainer seat
 generally pays for itself within two years. 
 
 <strong>Workshops</strong>
 
-Each Platinum membership includes 6 Centrally-Organised workshops\* and unlimited Self-Organised workshops.\*\* 
+Each Platinum membership includes unlimited self-organised workshops. Centrally organised workshops 
+can be added to any membership for 50% of the A la Carte price
+
 
 <strong>Discounts</strong>
 
