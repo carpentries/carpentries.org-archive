@@ -57,15 +57,14 @@ development. To request a meeting with our team, [please send us an email](mailt
 <strong>Instructor Training</strong>  
 
 Instructor Training is a primary benefit of membership. A Platinum membership may
-include from 15 to 100 Instructor Training seats. Seats in Instructor Training are priced according to 
+include from 25 to 100 Instructor Training seats. Seats in Instructor Training are priced according to 
 whether the training is coordinated by The Carpentries or internally by the member organisation. 
-  * online, coordinated by The Carpentries = $1,000 each
-  * online with one in-house Instructor Trainer, coordinated by The Carpentries = $750 each
-  * online or in-person with two in-house Instructor Trainers, coordinated by member organisation = $500 each
 
-Prices listed above apply to the first 15 seats in online Instructor Training or the first 30 seats in in-house Instructor Training.
-We offer a 10% discount on additional seats, with a maximum total of 50 online seats, or 100 in-house seats. A Platinum membership 
-must include a minimum of 15 Instructor Training seats. 
+  * online, coordinated by The Carpentries: US$900 each
+  * online with one in-house Instructor Trainer, coordinated by The Carpentries: US$700 each
+  * online or in-person with two in-house Instructor Trainers, coordinated by member organisation: US$500 each
+
+A Platinum membership must include a minimum of 25 Instructor Training seats. 
 
 <strong>Instructor Trainer Training</strong>
 
