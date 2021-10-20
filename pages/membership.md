@@ -9,7 +9,7 @@ A Member Organisation is an organisation which has made a commitment to the grow
 
 ### Membership Tiers
 
-We offer four tiers of Membership, based on the training and workshop activities expected annually. All fees listed are in USD and represent costs for not-for-profit organisations. Countries are grouped based on the Local Purchasing Power Index from [Numbeo](https://www.numbeo.com/cost-of-living/rankings_by_country.jsp?title=2021-mid&displayColumn=5). This scale is used to set membership pricing rates.  This is a part of our strategic plan to reduce barriers and create access for more organisations.  We also provide memberships for for-profit organisations. Please [contact us](mailto:membership@carpentries.org) for more information or pricing for for-profit organisations.
+We offer four tiers of Membership, based on the training and workshop activities expected annually. All fees listed are in USD and represent costs for not-for-profit organisations. Countries are grouped based on the Local Purchasing Power Index from [Numbeo][purchasing-power-index]. This scale is used to set membership pricing rates.  This is a part of our strategic plan to reduce barriers and create access for more organisations.  We also provide memberships for for-profit organisations. Please [contact us](mailto:membership@carpentries.org) for more information or pricing for for-profit organisations.
 
 {: .table .table-striped}
 || Bronze | Silver | Gold | Platinum |
@@ -18,10 +18,10 @@ We offer four tiers of Membership, based on the training and workshop activities
 | <b>Discount for additional <br> coordinated workshops</b> |50%|50%|50%|50%|
 | <b>Instructor training seats</b> |0|Up to 5 online|Up to 12 online|25-100|
 ||| <b>Membership dues</b> |||
-| <b>Local purchasing power <br> above 75</b> |US$3,600|US$8,100|US$16,200|varies|
-| <b>Local purchasing power <br> 50-74.9</b> |US$2,700|US$6,075|US$12,150|varies|
-| <b>Local purchasing power <br> 25-49.9</b>|US$1,800|US$4,050|US$8,100|varies|
-| <b>Local purchasing power <br> below 24.9</b> |US$900|US$2,025|US$4,050|varies|
+| <b>[Local purchasing power][purchasing-power-index] <br> above 75</b> |US$3,600|US$8,100|US$16,200|varies|
+| <b>[Local purchasing power][purchasing-power-index] <br> 50-74.9</b> |US$2,700|US$6,075|US$12,150|varies|
+| <b>[Local purchasing power][purchasing-power-index] <br> 25-49.9</b>|US$1,800|US$4,050|US$8,100|varies|
+| <b>[Local purchasing power][purchasing-power-index] <br> below 24.9</b> |US$900|US$2,025|US$4,050|varies|
 
 ### A la carte pricing
 
@@ -100,4 +100,4 @@ find out more, [please send us an email](mailto:membership@carpentries.org).
 
 We provide a limited number of sponsored memberships for institutions with financial need and for institutions serving historically underserved populations. If you believe that your institution is eligible for support, [please send us an email](mailto:membership@carpentries.org).
 
-
+[purchasing-power-index]: https://www.numbeo.com/cost-of-living/rankings_by_country.jsp?title=2021-mid&displayColumn=5
