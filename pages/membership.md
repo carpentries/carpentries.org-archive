@@ -12,7 +12,6 @@ A Member Organisation is an organisation which has made a commitment to the grow
 We offer four tiers of Membership, based on the training and workshop activities expected annually. All fees listed are in USD and represent costs for not-for-profit organisations. Countries are grouped based on the Local Purchasing Power Index from [Numbeo](https://www.numbeo.com/cost-of-living/rankings_by_country.jsp?title=2021-mid&displayColumn=5). This is a part of our strategic plan to reduce barriers and create access for more organisations.  We also provide memberships for for-profit organisations. Please [contact us](mailto:membership@carpentries.org) for more information or pricing for for-profit organisations.
 
 {: .table .table-striped}
-
 ||Bronze|Silver|Gold|Platinum|
 | ------|:------:|:------:|:------:|:------:|
 |Number of coordinated workshops|2|4|6|6|
@@ -22,6 +21,31 @@ We offer four tiers of Membership, based on the training and workshop activities
 |Train an in-house Instructor Trainer|No|No|No|Available|
 |Seat on Member Council|Yes|Yes|Yes|Yes|
 |Membership Dues (USD annual)|$5,000|$7,500|$15,000|Varies - see below|
+
+
+{: .table .table-striped}
+|| Bronze | Silver | Gold | Platinum |
+|:---:|:---:|:---:|:---:|:---:|
+| <b>Coordinated workshops</b> |:def:|:ghi:|:jkl:|:mno:|
+| <b>Discount for additional <br> coordinated workshops</b> |:def:|:ghi:|:jkl:|:mno:|
+| <b>Instructor training seats</b> |:def:|:ghi:|:jkl:|:mno:|
+| <b>Local purchasting power <br> above 75</b> |:def:|:ghi:|:jkl:|:mno:|
+| <b>Local purchasting power <br> 50-74.9</b> |:def:|:ghi:|:jkl:|:mno:|
+| <b>Local purchasting power <br> 50-74.9</b> |:def:|:ghi:|:jkl:|:mno:|
+| <b>Local purchasting power <br> 25-49.9</b> |:def:|:ghi:|:jkl:|:mno:|
+| <b>Local purchasting power <br> below 24.9</b> |:def:|:ghi:|:jkl:|:mno:|
+
+
+
+
+
+
+
+
+
+
+
+
 
 <a href="https://carpentries.typeform.com/to/Hmfe6L">
   <button class="btn">
