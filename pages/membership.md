@@ -12,18 +12,6 @@ A Member Organisation is an organisation which has made a commitment to the grow
 We offer four tiers of Membership, based on the training and workshop activities expected annually. All fees listed are in USD and represent costs for not-for-profit organisations. Countries are grouped based on the Local Purchasing Power Index from [Numbeo](https://www.numbeo.com/cost-of-living/rankings_by_country.jsp?title=2021-mid&displayColumn=5). This scale is used to set membership pricing rates.  This is a part of our strategic plan to reduce barriers and create access for more organisations.  We also provide memberships for for-profit organisations. Please [contact us](mailto:membership@carpentries.org) for more information or pricing for for-profit organisations.
 
 {: .table .table-striped}
-||Bronze|Silver|Gold|Platinum|
-| ------|:------:|:------:|:------:|:------:|
-|Number of coordinated workshops|2|4|6|6|
-|Discount for additional <br>coordinated workshops|20%|33%|50%|50%|
-|Self-Organised workshops**|no-charge|no-charge|no-charge|no-charge|
-|Number of instructors <br>trained***|0|6 online|15 with possibility <br>for in-person^<br>training event|15-100 - see below|
-|Train an in-house Instructor Trainer|No|No|No|Available|
-|Seat on Member Council|Yes|Yes|Yes|Yes|
-|Membership Dues (USD annual)|$5,000|$7,500|$15,000|Varies - see below|
-
-
-{: .table .table-striped}
 || Bronze | Silver | Gold | Platinum |
 |:---:|:---:|:---:|:---:|:---:|
 | <b>Coordinated workshops</b> |2|2|2|Self organized <br> workshops only|
