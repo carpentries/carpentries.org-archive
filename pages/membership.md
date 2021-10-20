@@ -23,23 +23,22 @@ We offer four tiers of Membership, based on the training and workshop activities
 | <b>Local purchasing power <br> 25-49.9</b>|US$1,800|US$4,050|US$8,100|varies|
 | <b>Local purchasing power <br> below 24.9</b> |US$900|US$2,025|US$4,050|varies|
 
+### A la carte pricing
 
+| Instructor Training | 1-12 seats | 13-24 seats | 25+ seats | 
+|:---:|:---:|:---:|:---:|
+| Cost| US$1,500 | US$1,200 | Starts at US$900 |
 
-
-
-
-
-
-
-
-
-
+| Coordinated Workshops | In person | Online | 
+|:---:|:---:|:---:|:---:|
+| Cost| US$3,000 | TBD |
 
 <a href="https://carpentries.typeform.com/to/Hmfe6L">
   <button class="btn">
     Join Now
   </button>
 </a>
+
 
 ### Platinum Memberships
 
