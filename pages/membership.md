@@ -45,14 +45,14 @@ your organisation needs additional support, please [fill out this application](h
 ### Platinum Memberships
 
 The Platinum tier is our most customisable membership. The price of a Platinum membership 
-depends on the benefits selected from the options below. Many Platinum member organisations support individuals
-at their institution in carrying out work to further The Carpentries mission in specific
-ways. Organisations providing such in-kind services to The Carpentries are eligible
-to receive a discount on their membership price, as detailed below.
+depends on the number of  Instructor Training seats needed and the number of active Instructor 
+Trainers at that site. All workshops are self-organised at this level. Centrally organised
+workshops can be purchased at 50% of the a la Carte price.
 
-Members of our team are on hand to help you in constructing a Platinum membership that
+Members of our team are on hand to support you in constructing a Platinum membership that
 best suits your organisation's needs for training and community
-support. To request a meeting with our team, [please send us an email](mailto:membership@carpentries.org).
+development. To request a meeting with our team, [please send us an email](mailto:membership@carpentries.org).
+
 
 <strong>Instructor Training</strong>  
 
