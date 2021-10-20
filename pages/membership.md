@@ -29,10 +29,10 @@ We offer four tiers of Membership, based on the training and workshop activities
 | <b>Coordinated workshops</b> |2|2|2|Self organized <br> workshops only|
 | <b>Discount for additional <br> coordinated workshops</b> |50%|50%|50%|50%|
 | <b>Instructor training seats</b> |0|Up to 5 online|Up to 12 online|25-100|
-| <b>Local purchasting power <br> above 75</b> |US$3,600|US$8,100|US$16,200|varies|
-| <b>Local purchasting power <br> 50-74.9</b> |US$2,700|US$6,075|US$12,150|varies|
-| <b>Local purchasting power <br> 25-49.9</b>|US$1,800|US$4,050|US$8,100|varies|
-| <b>Local purchasting power <br> below 24.9</b> |US$900|US$2,025|US$4,050|varies|
+| <b>Local purchasing power <br> above 75</b> |US$3,600|US$8,100|US$16,200|varies|
+| <b>Local purchasing power <br> 50-74.9</b> |US$2,700|US$6,075|US$12,150|varies|
+| <b>Local purchasing power <br> 25-49.9</b>|US$1,800|US$4,050|US$8,100|varies|
+| <b>Local purchasing power <br> below 24.9</b> |US$900|US$2,025|US$4,050|varies|
 
 
 
