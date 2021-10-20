@@ -39,6 +39,8 @@ We offer four tiers of Membership, based on the training and workshop activities
   </button>
 </a>
 
+Regardless of the Purchasing Power group, we also offer financial assistance.  If you feel 
+your organisation needs additional support, please [fill out this application](https://carpentries.typeform.com/to/k5u7wpuH).
 
 ### Platinum Memberships
 
