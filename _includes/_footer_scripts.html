@@ -16,13 +16,6 @@ $('audio,video').mediaelementplayer();
 {% endif %}
 
 
-<!-- Matomo -->
-<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/cookieconsent@3/build/cookieconsent.min.css" />
-<script src="https://cdn.jsdelivr.net/npm/cookieconsent@3/build/cookieconsent.min.js" data-cfasync="false"></script>
-<script src="{{ url }}/assets/js/gdpr-tracking-consent.js"></script>
-
-
-
 <!-- Only include mapping stuff if we're going to draw a map -->
 {% if page.map_url && page.map_element %}
 <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyC2WQkpSyrmJhXRcBdqsonpcQjyy8BtPrA&v=3.exp"></script>
