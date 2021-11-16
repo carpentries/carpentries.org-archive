@@ -262,7 +262,18 @@ og_url:                           "https://thecarpentries.org"
 #
 # used in _includes/comments
 
-disqus_shortname: carpentries
+# disqus_shortname:
+
+#          __  __
+#   __  __/ /_/ /____  _________ _____  _____ ___  _____
+#  / / / / __/ __/ _ \/ ___/ __ `/ __ \/ ___// _ \/ ___/
+# / /_/ / /_/ /_/  __/ /  / /_/ / / / / /___/  __(__  )
+# \__,_/\__/\__/\___/_/   \__,_/_/ /_/\___(_)___/____/
+#
+
+utterances_gh_repo: carpentries/carpentries.org-comments
+
+
 
 
 #      _____
