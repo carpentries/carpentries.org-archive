@@ -37,6 +37,15 @@ Yes - organisations with financial need are encouraged to
 and Gold memberships only, and is subject to availability. Organisations awarded financial support may receive support between 
 25% - 50% of their tiered price.
 
+6. **Are any other discounts available?**<br>
+Organisations supporting [Instructor Trainers](https://docs.carpentries.org/topic_folders/instructor_training/duties_agreement.html), who engage in
+service activities to teach and support newly trained Instructors across our global community, are eligible for a discount to their membership fee 
+equivalent to six (6) seats in Instructor Training per active Instructor Trainer. This discount is available at any membership level. 
+
+7. **How can I find out if my institution already has a membership?**<br>
+A list of our [current Member organisations](https://carpentries.org/members/) can be found on our website. If you would like 
+help in making contact with the person in charge of your institutional membership, email [membership@carpentries.org](mailto:membership@carpentries.org).
+
 ## Workshops
 
 1. **How do your workshops run?**<br>
@@ -104,10 +113,6 @@ for their region. Individuals purchasing seats a la carte will receive equal pri
 Individuals who are not able to purchase seats can apply through our Open Instructor Training program. Acceptance rate varies, 
 not all applications are accepted, and multiple trainees from a single institution are not accepted at the same time. Apply to 
 this program by selecting “Open Training Application” in our [Instructor Training application form](https://amy.carpentries.org/forms/request_training/).
-
-8. **How can I find out if my institution already has a membership?**<br>
-A list of our [current Member organisations](https://carpentries.org/members/) can be found on our website. If you would like 
-help in making contact with the person in charge of your institutional membership, email [membership@carpentries.org](mailto:membership@carpentries.org).
 
 ## Contact us
 *Who do I talk to about...*
