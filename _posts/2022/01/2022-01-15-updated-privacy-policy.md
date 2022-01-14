@@ -27,7 +27,7 @@ belong to us.
 
 Cookie consent banners hamper the user experience and we therefore decided to
 only use strictly necessary cookies across all our sites, even if it means that
-some of our analytics is not as accurate or detailed as it could be.
+some of our analytics are not as accurate or detailed as it could be.
 Additionally, we switched the commenting system on our websites from Disqus to
 [utterances](https://utteranc.es). Utterances is an open source tool that uses
 GitHub as a backend for storing comments. The first time you leave a comment,
