@@ -1,8 +1,8 @@
 ---
 layout: page
 authors: ["François Michonneau"]
-teaser: "Updated Privacy Policy and Terms & Conditions for The Carpentries"
-title: ""
+teaser: "We are updating Privacy Policy and Terms & Conditions"
+title: "Update to our Privacy Policy"
 date: 2022-01-17
 time: "09:00:00"
 tags: ["Governance"]
