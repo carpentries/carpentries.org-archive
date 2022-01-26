@@ -84,6 +84,8 @@
     url: "/core-team-projects/"
   - title: "Community Overview"
     url: "/community/"
+  - title: "Our Curriculum Advisors"
+    url: "/curriculum-advisors/"
   - title: "Our Instructors"
     url: "/instructors/"
   - title: "Our Maintainers"
