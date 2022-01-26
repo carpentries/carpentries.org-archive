@@ -58,6 +58,11 @@
   github: jasonwilliamsny
   curriculum: genomics
   position: member
+  
+- name: Jeff Hollister
+  github: jhollist
+  curriculum: geospatial
+  position: chair
 
 - name: Ming Tang
   github: crazyhottommy
@@ -143,3 +148,8 @@
   github: richmccue
   curriculum: software
   position: member
+  
+- name: Stephen Appel
+  github: srappel
+  curriculum: geospatial
+  position: chair
