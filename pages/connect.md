@@ -1,4 +1,4 @@
----
+---t
 layout: page-fullwidth
 title: "Connecting with The Carpentries"
 permalink: "/connect/"
