@@ -36,3 +36,9 @@ _Our Governance Structure:_ Please see the [Code of Conduct Committee Governance
 
 [**Karin Lagesen**](https://github.com/karinlag) is a bioinformatician working at the Norwegian Veterinary Institute. Her time is spent building pipelines, teaching people how to analyze their data, and finding new and better ways of using bioinformatics for microbial surveillance. She was the chair of the CoC committee for 2 years, member of the Software Carpentry Steering Committee for three years, and is also an instructor trainer. Karin is part of this committee because she believes it is very important to ensure that The Carpentries is a safe and inclusive community. 
 
+[Andrea Sánchez-Tapia](https://github.com/AndreaSanchezTapia) is a biologist with a background in biodiversity informatics and a certified Carpentries Instructor since 2021. She has been part of Open Source communities of practice since 2017. She believes creating safe and inclusive spaces is necessary for the practice of open and responsible research.
+@dsarahstamps dsarahstamps 20 hours ago •
+
+[D. Sarah Stamps](https://github.com/dsarahstamps) is an Associate Professor of Geophysics at Virginia Tech in the Department of Geosciences. She runs the Geodesy and Tectonophysics Laboratory, which is a research group that conducts research that entails measuring the Earth's surface motions with millimeter precision and using computational modeling to understand the physical processes driving the Earth's volcanoes, earthquakes, and continental deformation while training future leaders that are culturally effective.
+
+
