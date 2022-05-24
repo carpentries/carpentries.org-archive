@@ -53,3 +53,6 @@ Gemfile.lock
 /_includes/_head_issue_table.html
 /_includes/_content_issue_table.html
 /_includes/_content_lesson_table.html
+
+# bundler detritus
+.vendor/
