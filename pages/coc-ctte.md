@@ -16,7 +16,7 @@ _Our Approach:_
 We do this by conducting meetings where we review current CoC issues. If a CoC violation is reported to us, we process that by following the Enforcement Manual.
 
 _Our Structure:_    
-We have meetings as needed, and we have a private email list where code of conduct issues are discussed. We also have a private GitHub repo for internal discussion and organisation.
+We have meetings as needed, and we have a private email list where Code of Conduct issues are discussed. We also have a private GitHub repo for internal discussion and organisation.
 
 _Our Leadership:_    
 The structure of the committee is such that a community member is the Chair of the Committee. In addition, a  staff member of The Carpentries is part of the committee as a staff liaison, and a member of the Executive Council (EC) is part of the committee as an EC liaison.
@@ -24,15 +24,23 @@ The structure of the committee is such that a community member is the Chair of t
 _Contacting the Committee:_     
 Please email your concerns to [coc@carpentries.org](mailto:coc@carpentries.org). All correspondence will be treated in confidence.
 
-_Our Governance Structure:_ Please see the [Code of Conduct Committee Governance document]({{site.handbook_url}}/topic_folders/policies/coc-governance.html) to find details on membership, onboarding, administration, positions, roles and responsibilities.
+_Our Governance Structure:_ Please see the [Code of Conduct Committee (CoCc) Governance document]({{site.handbook_url}}/topic_folders/policies/coc-governance.html) to find details on membership, onboarding, administration, positions, roles and responsibilities.
 
 #### Current Committee Members
 
-[**Malvika Sharan**](https://github.com/malvikasharan) is the Incident Response Chair of the committee. She is a co-founder of Open Life Science training and mentoring programme, and co-lead of _The Turing Way_ project at the Alan Turing Institute, UK. She became a Trainer with The Carpentries in 2015 while carrying out her Ph.D. research in bioinformatics. She hosted and taught at multiple instructor training, software and data workshops in Europe, and internationally. She co-chaired the first CarpentryCon that took place in Dublin in 2018. Her previous involvements in The Carpentries community includes her participation in the mentoring program, instructor discussions and CarpentryCon+Connect Taskforce. Her motivation for participating in The Carpentries CoC stems from her passion for promoting inclusiveness and accessibility in open research.
+**Chairs**
 
-[**Karen Cranston**](https://github.com/kcranston) is the Governance Chair of the committee. She is a computational evolutionary biologist working as an independent contractor from a farm in Ottawa, Canada. She has been involved with the Carpentries for many years, first as a Software Carpentry instructor, then as a founding board member of Data Carpentry, an instructor trainer, a member of The Carpentries merger commitee, and Chair of the first Executive Council of The Carpentries. Karen is the Executive Council liaison for the Committee. 
+**Incicent Response Chair**: [**Malvika Sharan**](https://github.com/malvikasharan) is the Incident Response Chair of the committee. She is a co-founder of Open Life Science training and mentoring programme, and co-lead of _The Turing Way_ project at the Alan Turing Institute, UK. She became a Trainer with The Carpentries in 2015 while carrying out her Ph.D. research in bioinformatics. She hosted and taught at multiple instructor training, software and data workshops in Europe, and internationally. She co-chaired the first CarpentryCon that took place in Dublin in 2018. Her previous involvements in The Carpentries community includes her participation in the mentoring program, instructor discussions and CarpentryCon+Connect Taskforce. Her motivation for participating in The Carpentries CoC stems from her passion for promoting inclusiveness and accessibility in open research.
 
-[**Francois Michonneau**](https://github.com/fmichonneau) is the Senior Director of Technology for The Carpentries, and serves as the [core team]({{site.url}}/team/) liaison to the Code of Conduct Committee.
+**Governance Chair**: [**Karen Cranston**](https://github.com/kcranston) is the Governance Chair of the committee. She is a computational evolutionary biologist working as an independent contractor from a farm in Ottawa, Canada. She has been involved with the Carpentries for many years, first as a Software Carpentry instructor, then as a founding board member of Data Carpentry, an instructor trainer, a member of The Carpentries merger commitee, and Chair of the first Executive Council of The Carpentries. Karen is the Executive Council liaison for the Committee. 
+
+**CoC Liaisons**
+
+**Core Team Liaison**: [**Francois Michonneau**](https://github.com/fmichonneau) is the Senior Director of Technology for The Carpentries, and serves as the [core team]({{site.url}}/team/) liaison to the CoC Committee.
+
+**Executive Council Liaison**: [Annajiat Alim Rasel](http://annajiat.googlepages.com/) is a Sr. Lecturer at the Department of Computer Science and Engineering under the School of Data and Sciences (SDS), Brac University, Bangladesh. He teaches problem-solving skills using Java and Python while trying to explore the exciting fields of Natural Language Processing (NLP) and Parallel, Distributed, and High-Performance Computing (HPC). He hopes to build a Carpentries community in Bangladesh while proomoting diversity; enhancing awareness for FAIR and CARE principles; and working on localization and accessibility in technology. Annajiat joined [The Carpentries Executive Council](https://carpentries.org/governance/) in 2022 and serves as the Liaison to CoC Committee.
+
+**Volunteer Members**
 
 [**Karin Lagesen**](https://github.com/karinlag) is a bioinformatician working at the Norwegian Veterinary Institute. Her time is spent building pipelines, teaching people how to analyze their data, and finding new and better ways of using bioinformatics for microbial surveillance. She was the chair of the CoC committee for 2 years, member of the Software Carpentry Steering Committee for three years, and is also an instructor trainer. Karin is part of this committee because she believes it is very important to ensure that The Carpentries is a safe and inclusive community. 
 
