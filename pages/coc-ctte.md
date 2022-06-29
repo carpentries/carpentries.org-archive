@@ -36,7 +36,7 @@ _Our Governance Structure:_ Please see the [Code of Conduct Committee (CoCc) Gov
 
 **CoC Liaisons**
 
-**Core Team Liaison**: [**Francois Michonneau**](https://github.com/fmichonneau) is the Senior Director of Technology for The Carpentries, and serves as the [core team]({{site.url}}/team/) liaison to the CoC Committee.
+**Core Team Liaison**: [**François Michonneau**](https://github.com/fmichonneau) is the Senior Director of Technology for The Carpentries, and serves as the [core team]({{site.url}}/team/) liaison to the CoC Committee.
 
 **Executive Council Liaison**: [Annajiat Alim Rasel](http://annajiat.googlepages.com/) is a Sr. Lecturer at the Department of Computer Science and Engineering under the School of Data and Sciences (SDS), Brac University, Bangladesh. He teaches problem-solving skills using Java and Python while trying to explore the exciting fields of Natural Language Processing (NLP) and Parallel, Distributed, and High-Performance Computing (HPC). He hopes to build a Carpentries community in Bangladesh while proomoting diversity; enhancing awareness for FAIR and CARE principles; and working on localization and accessibility in technology. Annajiat joined [The Carpentries Executive Council](https://carpentries.org/governance/) in 2022 and serves as the Liaison to CoC Committee.
 
