@@ -11,7 +11,8 @@ We seek engaged and collaborative individuals who shares this vision for full-ti
 
 ## Information Technology Developer
 
-**_Priority Consideration Deadline: Thursday, 25 August 2022 at 11:59:59 UTC_**
+**_Priority Consideration Deadline: Thursday, 25 August 2022 at midnight anywhere on Earth 
+([see deadline in your time zone](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220825T235959&p1=3399))_**
 
 The Information Technology Developer has a broad responsibility for maintaining and
 developing technical infrastructure at The Carpentries. They will work under the supervision of the Director of Technology to maintain and 
