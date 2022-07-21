@@ -112,7 +112,7 @@ Please submit a cover letter and resume or CV to jobs@carpentries.org. If you wo
 [other open positions](http://carpentries.org/jobs), please indicate all positions you are applying for in your cover letter. 
 Please also clearly indicate the country in which you pay taxes.
 
-Applications received before Thursday, 25 August 2022 at 11:59:59 UTC 
+Applications received before Thursday, 25 August 2022 at midnight anywhere on Earth 
 ([see deadline in your time zone](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220825T235959&p1=3399)) 
 will receive full consideration.
 
