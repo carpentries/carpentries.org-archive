@@ -69,7 +69,7 @@ El Consejo Ejecutivo de The Carpentries es el órgano de gobierno de la organiza
 
 Puedes encontrar más información sobre el propósito y las actividades del Consejo Ejecutivo en la [sección del Consejo Ejecutivo de nuestro manual](https://docs.carpentries.org/topic_folders/governance/executive-council.html).
 
-Además, puedes leer [The Structure of The Carpentries Executive Council](https://carpentries.org/blog/2018/09/executive-committee-structure/), and [On the Governance of The Carpentries](https://carpentries.org/blog/2021/07/carpentries-governance/).
+Además, puedes leer [The Structure of The Carpentries Executive Council](https://carpentries.org/blog/2018/09/executive-committee-structure/), y [On the Governance of The Carpentries](https://carpentries.org/blog/2021/07/carpentries-governance/).
 
 2. **¿Qué experiencia necesita el Consejo Ejecutivo?**  
 En general, los miembros del Consejo Ejecutivo poseen algunas de las siguientes características:
