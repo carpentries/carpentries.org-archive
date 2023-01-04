@@ -68,6 +68,19 @@ people:
   twitter: SherAaronHurt
   calendly: sheraaron
   et: false
+  
+- name: Robert Davey, PhD
+  pic: robertdavey
+  pronouns: he/him/his
+  position: Director of Technology
+  lead: Infrastructure Team Lead
+  jobplan: 
+  email: robertdavey@carpentries.org 
+  github: froggleston
+  linkedin: froggleston
+  twitter: froggleston
+  calendly: froggleston
+  et: false 
  
 - name: Omar Khan
   pic: omarkhan
