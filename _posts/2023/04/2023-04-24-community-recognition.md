@@ -16,8 +16,8 @@ goals:
 
 1. Build regional and local capacity to empower sustainable communities
 2. Intentionally incorporate equity, inclusion, and accessibility to support a diverse community.
-3, Provide opportunities for our volunteers' and Core Team's growth and professional development.
-4, Facilitate creating and maintaining relevant, high-quality, community-curated curricula.
+3. Provide opportunities for our volunteers' and Core Team's growth and professional development.
+4. Facilitate creating and maintaining relevant, high-quality, community-curated curricula.
 5. Strengthen organisational structure and capacity to be strategic and responsive.
 6. Advocate for our values and vision to empower more people to work with data and software.
 
