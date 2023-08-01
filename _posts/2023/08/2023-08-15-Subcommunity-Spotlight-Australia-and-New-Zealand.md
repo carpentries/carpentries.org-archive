@@ -37,7 +37,8 @@ The Australian Research Data Commons coordinates a national Carpentries partners
 
 ### Social Media Highlights
 
-![Australian Research Data Commons (ARDC) Tweet](https://twitter.com/ARDC_AU/status/1656117015650639872?s=20) 
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">PRESENTATION: Hammer Time: at the recent <a href="https://twitter.com/hashtag/EverythingOpen?src=hash&amp;ref_src=twsrc%5Etfw">#EverythingOpen</a> conference ARDC’s <a href="https://twitter.com/ragamouf?ref_src=twsrc%5Etfw">@ragamouf</a> discussed building <a href="https://twitter.com/thecarpentries?ref_src=twsrc%5Etfw">@thecarpentries</a> community in Australia. The Carpentries is a program teaching foundational <a href="https://twitter.com/hashtag/coding?src=hash&amp;ref_src=twsrc%5Etfw">#coding</a> + <a href="https://twitter.com/hashtag/datascience?src=hash&amp;ref_src=twsrc%5Etfw">#datascience</a> <a href="https://twitter.com/hashtag/skills?src=hash&amp;ref_src=twsrc%5Etfw">#skills</a> to researchers worldwide &gt; <a href="https://t.co/XJNHpPWuIy">https://t.co/XJNHpPWuIy</a></p>&mdash; Australian Research Data Commons (ARDC) (@ARDC_AU) <a href="https://twitter.com/ARDC_AU/status/1656117015650639872?ref_src=twsrc%5Etfw">May 10, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
 ## The Carpentries in New Zealand
@@ -64,8 +65,8 @@ This sub-community focuses on building relationships within the Carpentries comm
 
 ### Social Media Highlights
 
-<blockquote class="twitter-tweet"><p lang="tl" dir="ltr">Day 2 of the <a href="https://twitter.com/hashtag/RCCPII?src=hash&amp;ref_src=twsrc%5Etfw">#RCCPII</a> <a href="https://twitter.com/MySPU?ref_src=twsrc%5Etfw">@MySPU</a> <a href="https://twitter.com/datacarpentry?ref_src=twsrc%5Etfw">@datacarpentry</a> workshop in a FANTASTIC venue! Ayansina Ayangbenro teaching <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a>. <a href="https://twitter.com/hashtag/MayLoadsheddingNotInterfere?src=hash&amp;ref_src=twsrc%5Etfw">#MayLoadsheddingNotInterfere</a> <a href="https://t.co/ZfNId3387c">pic.twitter.com/ZfNId3387c</a></p><p>&mdash; Anelda van der Walt (@aneldavdw) <a href="https://twitter.com/aneldavdw/status/1107917558550851589?ref_src=twsrc%5Etfw">March 19, 2019</a></p></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Want to help researchers learn to code and work with data? Join <a href="https://twitter.com/thecarpentries?ref_src=twsrc%5Etfw">@thecarpentries</a> community of instructors - NeSI &amp; The Carpentries are running online Instructor Training workshops for New Zealand in October: <a href="https://t.co/oylDegJgRc">https://t.co/oylDegJgRc</a> <a href="https://t.co/oZzYpmfvt5">https://t.co/oZzYpmfvt5</a></p>&mdash; NeSI (@NeSI_NZ) <a href="https://twitter.com/NeSI_NZ/status/1440166399733731329?ref_src=twsrc%5Etfw">September 21, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
 ## Next subcommunity meeting
