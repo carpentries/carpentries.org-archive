@@ -37,7 +37,8 @@ The Australian Research Data Commons coordinates a national Carpentries partners
 
 ### Social Media Highlights
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">PRESENTATION: Hammer Time: at the recent <a href="https://twitter.com/hashtag/EverythingOpen?src=hash&amp;ref_src=twsrc%5Etfw">#EverythingOpen</a> conference ARDC’s <a href="https://twitter.com/ragamouf?ref_src=twsrc%5Etfw">@ragamouf</a> discussed building <a href="https://twitter.com/thecarpentries?ref_src=twsrc%5Etfw">@thecarpentries</a> community in Australia. The Carpentries is a program teaching foundational <a href="https://twitter.com/hashtag/coding?src=hash&amp;ref_src=twsrc%5Etfw">#coding</a> + <a href="https://twitter.com/hashtag/datascience?src=hash&amp;ref_src=twsrc%5Etfw">#datascience</a> <a href="https://twitter.com/hashtag/skills?src=hash&amp;ref_src=twsrc%5Etfw">#skills</a> to researchers worldwide &gt; <a href="https://t.co/XJNHpPWuIy">https://t.co/XJNHpPWuIy</a></p>&mdash; Australian Research Data Commons (ARDC) (@ARDC_AU) <a href="https://twitter.com/ARDC_AU/status/1656117015650639872?ref_src=twsrc%5Etfw">May 10, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+![Australian Research Data Commons (ARDC) Tweet](https://twitter.com/ARDC_AU/status/1656117015650639872?s=20) 
+
 
 ## The Carpentries in New Zealand
 
