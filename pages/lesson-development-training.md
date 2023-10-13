@@ -109,7 +109,7 @@ Costs for for-profit organisations are four times the fee listed for not-for-pro
 ## Register
 
 Collaborative Lesson Development Training events are regularly scheduled throughout the year.
-Send an email to <curriculum@carpentries.org>
+Send an email to <{{site.lessondev_training_contact}}>
 to register your interest in joining Collaborative Lesson Development Training.
 
 ---
