@@ -35,14 +35,6 @@ in three key areas:
 
 After attending this training, participants will be able to:
 
-
-define SMART learning objectives
-explain the pedagogical value of authentic tasks
-create exercises for formative assessment
-explain how considerations of cognitive load should influence the pacing, length, and organisation of a lesson
-
-
-
 * collaboratively develop and publish lessons
   using The Carpentries lesson infrastructure
 * identify and characterise the target audience for a lesson
