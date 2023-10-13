@@ -43,6 +43,8 @@
     url: "https://docs.carpentries.org/topic_folders/for_instructors/index.html"
   - title: "Online Workshop Recommendations"
     url: "/online-workshop-recommendations/"
+  - title: "Lesson Development Training"
+    url: /lesson-development-training/
 
 - title: Learn
   url: "/learn/"

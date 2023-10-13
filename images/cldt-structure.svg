@@ -1,0 +1,467 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="297mm"
+   height="110mm"
+   viewBox="0 0 297 110"
+   version="1.1"
+   id="svg8"
+   inkscape:version="1.0.2 (e86c8708, 2021-01-15)"
+   sodipodi:docname="cldt-structure.svg"
+   inkscape:export-filename="/Users/hodges/Documents/Miscellaneous/cldt-structure.png"
+   inkscape:export-xdpi="100"
+   inkscape:export-ydpi="100">
+  <defs
+     id="defs2">
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern2979"
+       id="pattern2985"
+       patternTransform="matrix(0.07200287,0.04157074,-0.03490127,0.06045078,275.63774,479.74072)" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient1054-7">
+      <stop
+         style="stop-color:#ff4955;stop-opacity:1;"
+         offset="0"
+         id="stop1050" />
+      <stop
+         style="stop-color:#ff4955;stop-opacity:0;"
+         offset="1"
+         id="stop1052" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1054-7"
+       id="linearGradient1056"
+       x1="237.25894"
+       y1="98.392982"
+       x2="237.25894"
+       y2="81.554596"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(1.8029174e-4)" />
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="75.590547"
+       height="215.0977"
+       patternTransform="translate(265.53606,457.95881)"
+       id="pattern2979">
+      <rect
+         style="fill:#719eff;fill-opacity:1;stroke:none;stroke-width:3.77951;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0"
+         id="rect915-7"
+         width="37.795277"
+         height="215.0977"
+         x="0"
+         y="0" />
+      <rect
+         style="fill:#ffdf70;fill-opacity:1;stroke:none;stroke-width:3.77952;stroke-linejoin:round"
+         id="rect915-84-6"
+         width="37.795273"
+         height="215.0977"
+         x="37.795273"
+         y="0" />
+    </pattern>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.75591471"
+     inkscape:cx="557.39238"
+     inkscape:cy="261.23058"
+     inkscape:document-units="mm"
+     inkscape:current-layer="g1680"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     inkscape:window-width="1470"
+     inkscape:window-height="891"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g1779"
+       transform="translate(0.71095472,4.702018)">
+      <rect
+         style="fill:#383838;fill-opacity:1;stroke:none;stroke-width:0.999999;stroke-linejoin:round"
+         id="rect833"
+         width="146.50549"
+         height="1.7785451"
+         x="2.7465661"
+         y="78.083595" />
+      <rect
+         style="fill:#383838;fill-opacity:1;stroke:none;stroke-width:0.999999;stroke-linejoin:round"
+         id="rect833-0"
+         width="73.252747"
+         height="1.7785451"
+         x="219.63564"
+         y="78.083595" />
+      <rect
+         style="fill:#787878;fill-opacity:1;stroke:none;stroke-width:0.999999;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+         id="rect833-0-5"
+         width="6.0544071"
+         height="1.7785451"
+         x="177.11266"
+         y="78.083595" />
+      <rect
+         style="fill:#787878;fill-opacity:1;stroke:none;stroke-width:0.999999;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+         id="rect833-0-5-4"
+         width="6.0544071"
+         height="1.7785451"
+         x="194.37785"
+         y="78.083595" />
+      <rect
+         style="fill:#787878;fill-opacity:1;stroke:none;stroke-width:0.999999;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+         id="rect833-0-5-1"
+         width="6.0544071"
+         height="1.7785451"
+         x="203.01045"
+         y="78.083595" />
+      <rect
+         style="fill:#787878;fill-opacity:1;stroke:none;stroke-width:0.999999;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+         id="rect833-0-5-7"
+         width="6.0544071"
+         height="1.7785451"
+         x="211.64304"
+         y="78.083595" />
+      <g
+         id="g1680"
+         transform="matrix(1.2208791,0,0,1.2208791,-22.678565,-59.353603)"
+         style="stroke-width:0.819081">
+        <rect
+           style="fill:#719eff;fill-opacity:1;stroke:none;stroke-width:0.819081;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0"
+           id="rect915"
+           width="30.292973"
+           height="13.119455"
+           x="20.825266"
+           y="99.452858" />
+        <rect
+           style="fill:url(#pattern2985);fill-opacity:1;stroke:none;stroke-width:0.819081;stroke-linejoin:round"
+           id="rect915-8"
+           width="74.709663"
+           height="13.119235"
+           x="66.115601"
+           y="99.453094" />
+        <rect
+           style="fill:#ffdf70;fill-opacity:1;stroke:none;stroke-width:0.819081;stroke-linejoin:round"
+           id="rect915-84"
+           width="15"
+           height="13.119455"
+           x="51.11824"
+           y="99.452858" />
+      </g>
+      <g
+         id="g1674"
+         transform="matrix(1.2208791,0,0,1.2208791,-22.678565,-59.353603)"
+         style="stroke-width:0.819081">
+        <rect
+           style="fill:#719eff;fill-opacity:1;stroke:none;stroke-width:0.819081;stroke-linejoin:round"
+           id="rect915-0"
+           width="15"
+           height="13.119455"
+           x="198.47517"
+           y="99.452858" />
+        <rect
+           style="fill:#fc757e;fill-opacity:1;stroke:none;stroke-width:0.819081;stroke-linejoin:round"
+           id="rect915-0-0"
+           width="45"
+           height="13.119455"
+           x="213.47517"
+           y="99.452858" />
+      </g>
+      <path
+         style="fill:none;stroke:#383838;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 3.0517853,78.86339 v 4.397706"
+         id="path1169" />
+      <path
+         style="fill:none;stroke:#383838;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 39.525546,78.86339 v 4.397706"
+         id="path1169-0" />
+      <path
+         style="fill:none;stroke:#383838;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 112.47308,78.86339 v 4.397706"
+         id="path1169-1" />
+      <path
+         style="fill:none;stroke:#383838;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 148.94685,78.86339 v 4.397706"
+         id="path1169-9" />
+      <path
+         style="fill:none;stroke:#383838;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 292.58317,78.86339 v 4.397706"
+         id="path1169-9-4" />
+      <path
+         style="fill:none;stroke:#383838;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 256.262,78.86339 v 4.397706"
+         id="path1169-9-4-3" />
+      <path
+         style="fill:none;stroke:#383838;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 75.999311,78.88632 v 4.397696"
+         id="path1169-1-2" />
+      <text
+         xml:space="preserve"
+         style="font-weight:600;font-size:12.0595px;line-height:1.25;font-family:Mulish;-inkscape-font-specification:'Mulish Semi-Bold';fill:#383838;fill-opacity:1;stroke-width:0.264583"
+         x="35.796959"
+         y="88.030327"
+         id="text1280"><tspan
+           sodipodi:role="line"
+           id="tspan1278"
+           x="35.796959"
+           y="88.030327"
+           style="font-size:5.16839px;fill:#383838;fill-opacity:1;stroke-width:0.264583">0.5</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-weight:600;font-size:12.0595px;line-height:1.25;font-family:Mulish;-inkscape-font-specification:'Mulish Semi-Bold';fill:#383838;fill-opacity:1;stroke-width:0.264583"
+         x="74.298912"
+         y="88.030327"
+         id="text1280-1"><tspan
+           sodipodi:role="line"
+           id="tspan1278-3"
+           x="74.298912"
+           y="88.030327"
+           style="font-size:5.16839px;fill:#383838;fill-opacity:1;stroke-width:0.264583">1</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-weight:600;font-size:12.0595px;line-height:1.25;font-family:Mulish;-inkscape-font-specification:'Mulish Semi-Bold';fill:#383838;fill-opacity:1;stroke-width:0.264583"
+         x="1.5012728"
+         y="88.030327"
+         id="text1280-8"><tspan
+           sodipodi:role="line"
+           id="tspan1278-8"
+           x="1.5012728"
+           y="88.030327"
+           style="font-size:5.16839px;fill:#383838;fill-opacity:1;stroke-width:0.264583">0</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-weight:600;font-size:12.0595px;line-height:1.25;font-family:Mulish;-inkscape-font-specification:'Mulish Semi-Bold';fill:#383838;fill-opacity:1;stroke-width:0.264583"
+         x="108.5507"
+         y="88.012222"
+         id="text1280-9"><tspan
+           sodipodi:role="line"
+           id="tspan1278-4"
+           x="108.5507"
+           y="88.012222"
+           style="font-size:5.16839px;fill:#383838;fill-opacity:1;stroke-width:0.264583">1.5</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-weight:600;font-size:12.0595px;line-height:1.25;font-family:Mulish;-inkscape-font-specification:'Mulish Semi-Bold';fill:#383838;fill-opacity:1;stroke-width:0.264583"
+         x="147.36957"
+         y="88.050995"
+         id="text1280-3"><tspan
+           sodipodi:role="line"
+           id="tspan1278-9"
+           x="147.36957"
+           y="88.050995"
+           style="font-size:5.16839px;fill:#383838;fill-opacity:1;stroke-width:0.264583">2</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-weight:600;font-size:12.0595px;line-height:1.25;font-family:Mulish;-inkscape-font-specification:'Mulish Semi-Bold';fill:#383838;fill-opacity:1;stroke-width:0.264583"
+         x="252.50499"
+         y="88.032875"
+         id="text1280-5"><tspan
+           sodipodi:role="line"
+           id="tspan1278-1"
+           x="252.50499"
+           y="88.032875"
+           style="font-size:5.16839px;fill:#383838;fill-opacity:1;stroke-width:0.264583">2.5</tspan></text>
+      <rect
+         style="fill:#787878;fill-opacity:1;stroke:none;stroke-width:0.999999;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+         id="rect833-0-5-13"
+         width="6.0544071"
+         height="1.7785451"
+         x="151.21486"
+         y="78.083595" />
+      <rect
+         style="fill:#787878;fill-opacity:1;stroke:none;stroke-width:0.999999;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+         id="rect833-0-5-4-2"
+         width="6.0544071"
+         height="1.7785451"
+         x="159.84744"
+         y="78.083595" />
+      <rect
+         style="fill:#787878;fill-opacity:1;stroke:none;stroke-width:0.999999;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+         id="rect833-0-5-1-6"
+         width="6.0544071"
+         height="1.7785451"
+         x="168.48007"
+         y="78.083595" />
+      <rect
+         style="fill:#787878;fill-opacity:1;stroke:none;stroke-width:0.999999;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+         id="rect833-0-5-7-9"
+         width="6.0544071"
+         height="1.7785451"
+         x="185.74524"
+         y="78.083595" />
+      <text
+         xml:space="preserve"
+         style="font-weight:600;font-size:12.0595px;line-height:1.25;font-family:Mulish;-inkscape-font-specification:'Mulish Semi-Bold';fill:#383838;fill-opacity:1;stroke-width:0.264583"
+         x="291.08432"
+         y="88.032875"
+         id="text1280-5-1"><tspan
+           sodipodi:role="line"
+           id="tspan1278-1-4"
+           x="291.08432"
+           y="88.032875"
+           style="font-size:5.16839px;fill:#383838;fill-opacity:1;stroke-width:0.264583">3</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-weight:600;font-size:6.89118px;line-height:1.25;font-family:Mulish;-inkscape-font-specification:'Mulish Semi-Bold';stroke-width:0.264583"
+         x="116.67546"
+         y="97.50695"
+         id="text1412"><tspan
+           sodipodi:role="line"
+           id="tspan1410"
+           x="116.67546"
+           y="97.50695"
+           style="font-style:italic;font-variant:normal;font-weight:600;font-stretch:normal;font-size:6.89118px;font-family:Mulish;-inkscape-font-specification:'Mulish Semi-Bold Italic';fill:#383838;fill-opacity:1;stroke-width:0.264583">training time (days)</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-weight:600;font-size:5.27533000000000030px;line-height:1.25;font-family:Mulish;-inkscape-font-specification:'Mulish Semi-Bold';stroke-width:0.264583;fill:#787878;fill-opacity:0.97254902;"
+         x="184.5367"
+         y="68.294823"
+         id="text1412-9"><tspan
+           sodipodi:role="line"
+           id="tspan1410-3"
+           x="184.5367"
+           y="68.294823"
+           style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.27533000000000030px;font-family:Mulish;-inkscape-font-specification:'Mulish Bold Italic';text-align:center;text-anchor:middle;fill:#787878;fill-opacity:0.97254902;stroke-width:0.264583;">break for lesson trial runs</tspan><tspan
+           sodipodi:role="line"
+           x="184.5367"
+           y="74.888985"
+           style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.27533000000000030px;font-family:Mulish;-inkscape-font-specification:'Mulish Bold Italic';text-align:center;text-anchor:middle;fill:#787878;fill-opacity:0.97254902;stroke-width:0.264583;"
+           id="tspan1450">(≥6 weeks)</tspan></text>
+      <g
+         id="g1582"
+         transform="matrix(1.2208791,0,0,1.2208791,-39.323554,-59.353603)"
+         style="stroke-width:0.819081">
+        <rect
+           style="fill:#719eff;fill-opacity:1;stroke:none;stroke-width:0.819081;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0"
+           id="rect915-06"
+           width="10"
+           height="10"
+           x="204.71484"
+           y="49.86433" />
+        <text
+           xml:space="preserve"
+           style="font-weight:600;font-size:5.64444px;line-height:1.25;font-family:Mulish;-inkscape-font-specification:'Mulish Semi-Bold';stroke-width:0.216715"
+           x="216.91003"
+           y="56.312122"
+           id="text1412-0"><tspan
+             sodipodi:role="line"
+             id="tspan1410-2"
+             x="216.91003"
+             y="56.312122"
+             style="font-style:italic;font-variant:normal;font-weight:600;font-stretch:normal;font-size:5.64444px;font-family:Mulish;-inkscape-font-specification:'Mulish Semi-Bold Italic';fill:#383838;fill-opacity:1;stroke-width:0.216715">lesson design skills</tspan></text>
+      </g>
+      <g
+         id="g1587"
+         transform="matrix(1.2208791,0,0,1.2208791,-39.323554,-56.123362)"
+         style="stroke-width:0.819081">
+        <rect
+           style="fill:#ffdf70;fill-opacity:1;stroke:none;stroke-width:0.819081;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0"
+           id="rect915-06-4"
+           width="10"
+           height="10"
+           x="204.71484"
+           y="59.86433" />
+        <text
+           xml:space="preserve"
+           style="font-weight:600;font-size:5.64444px;line-height:1.25;font-family:Mulish;-inkscape-font-specification:'Mulish Semi-Bold';stroke-width:0.216715"
+           x="216.90962"
+           y="66.346016"
+           id="text1412-0-9"><tspan
+             sodipodi:role="line"
+             id="tspan1410-2-5"
+             x="216.90962"
+             y="66.346016"
+             style="font-style:italic;font-variant:normal;font-weight:600;font-stretch:normal;font-size:5.64444px;font-family:Mulish;-inkscape-font-specification:'Mulish Semi-Bold Italic';fill:#383838;fill-opacity:1;stroke-width:0.216715">infrastructure skills</tspan></text>
+      </g>
+      <g
+         id="g1592"
+         transform="matrix(1.2208791,0,0,1.2208791,-39.323554,-59.353603)"
+         style="stroke-width:0.819081">
+        <rect
+           style="fill:#fc757e;fill-opacity:1;stroke:none;stroke-width:0.819081;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0"
+           id="rect915-06-9"
+           width="10"
+           height="10"
+           x="204.71484"
+           y="75.155998" />
+        <text
+           xml:space="preserve"
+           style="font-weight:600;font-size:5.64444px;line-height:1.25;font-family:Mulish;-inkscape-font-specification:'Mulish Semi-Bold';stroke-width:0.216715"
+           x="216.96649"
+           y="81.60379"
+           id="text1412-0-0"><tspan
+             sodipodi:role="line"
+             id="tspan1410-2-2"
+             x="216.96649"
+             y="81.60379"
+             style="font-style:italic;font-variant:normal;font-weight:600;font-stretch:normal;font-size:5.64444px;font-family:Mulish;-inkscape-font-specification:'Mulish Semi-Bold Italic';fill:#383838;fill-opacity:1;stroke-width:0.216715">collaboration skills</tspan></text>
+      </g>
+      <text
+         xml:space="preserve"
+         style="font-weight:600;font-size:7.75258px;line-height:1.25;font-family:Mulish;-inkscape-font-specification:'Mulish Semi-Bold';fill:#383838;fill-opacity:0.807843;stroke-width:0.264583"
+         x="75.999748"
+         y="58.948631"
+         id="text1412-9-8"><tspan
+           sodipodi:role="line"
+           x="75.999748"
+           y="58.948631"
+           style="font-style:italic;font-variant:normal;font-weight:800;font-stretch:normal;font-size:7.75258px;font-family:Mulish;-inkscape-font-specification:'Mulish Ultra-Bold Italic';text-align:center;text-anchor:middle;fill:#383838;fill-opacity:0.807843;stroke-width:0.264583"
+           id="tspan1450-7">PART 1</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-weight:600;font-size:7.75258px;line-height:1.25;font-family:Mulish;-inkscape-font-specification:'Mulish Semi-Bold';fill:#383838;fill-opacity:0.807843;stroke-width:0.264583"
+         x="256.24274"
+         y="58.42514"
+         id="text1412-9-8-8"><tspan
+           sodipodi:role="line"
+           x="256.24274"
+           y="58.42514"
+           style="font-style:italic;font-variant:normal;font-weight:800;font-stretch:normal;font-size:7.75258px;font-family:Mulish;-inkscape-font-specification:'Mulish Ultra-Bold Italic';text-align:center;text-anchor:middle;fill:#383838;fill-opacity:0.807843;stroke-width:0.264583"
+           id="tspan1450-7-8">PART 2</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-weight:600;font-size:12.0595px;line-height:1.25;font-family:Mulish;-inkscape-font-specification:'Mulish Semi-Bold';stroke-width:0.264583"
+         x="8.6884899"
+         y="10.460854"
+         id="text1684"><tspan
+           sodipodi:role="line"
+           x="8.6884899"
+           y="10.460854"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Mulish;-inkscape-font-specification:'Mulish Bold';fill:#383838;fill-opacity:1;stroke-width:0.264583"
+           id="tspan1688"
+           dx="0 0 0 0 0 0 0 0 0 0 0 0 0 6.682551e-09">Structure of Collaborative </tspan><tspan
+           sodipodi:role="line"
+           x="8.6884899"
+           y="25.535229"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Mulish;-inkscape-font-specification:'Mulish Bold';fill:#383838;fill-opacity:1;stroke-width:0.264583"
+           id="tspan1686">Lesson Development Training</tspan></text>
+    </g>
+  </g>
+</svg>

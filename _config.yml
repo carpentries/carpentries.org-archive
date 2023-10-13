@@ -49,6 +49,7 @@ community_contact: "community@carpentries.org"
 finance_contact: "finance@carpentries.org"
 jobs_contact: "jobs@carpentries.org"
 sponsorship_contact: "sponsorship@carpentries.org"
+lessondev_training_contact: "curriculum@carpentries.org"
 
 # Code of Conduct URL
 code_of_conduct_url: "https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html"
