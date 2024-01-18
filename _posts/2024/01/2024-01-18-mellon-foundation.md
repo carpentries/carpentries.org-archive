@@ -16,10 +16,10 @@ The Glosario glossary itself is openly available online (https://github.com/carp
 
 We are proud to be supported by the [Public Knowledge Program](https://www.mellon.org/grant-programs/public-knowledge) at Mellon and are among projects worldwide actively making knowledge accessible to all. 
 
-##What’s Next?
+## What’s Next?
 We hope you will join us at one of the virtual Glosario contribution drives this year! These drives will increase the number of languages Glosario supports and the number of data science terms available for current Glosario languages. 
 
 The first ‘codefest’ will run in conjunction with The Carpentries’ Board of Directors retreat in Oakland, California (USA) to encourage new contributions to Glosario from our governance. The linguistically diverse board represents several regions, including [DACH](https://en.wiktionary.org/wiki/DACH), [Oceania](https://en.wikipedia.org/wiki/Oceania), and South America. Board members will translate terms into several languages, including Hindi, Spanish, and German. 
 
-##Get Involved
+## Get Involved
 Interested in learning more about Glosario? Email us at team@carpentries.org!
