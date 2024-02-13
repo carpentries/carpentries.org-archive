@@ -22,7 +22,7 @@ Germany, Austria, and Switzerland), Oceania, and South America, will actively tr
 
 ## Get Involved
 
-We invite you to be a part of this initiative If you are passionate about data science, programming, and making knowledge accessible, join us at the Glosario Codefest. Are you interested in learning more about Glosario or contributing to the event? Reach out to us at [team@carpentries.org](mailto:team@carpentries.org). Your involvement is crucial in shaping the future of inclusive data science education.
+We invite you to be a part of this initiative. If you are passionate about data science, programming, and making knowledge accessible, join us at the Glosario Codefest. Are you interested in learning more about Glosario or contributing to the event? Reach out to us at [team@carpentries.org](mailto:team@carpentries.org). Your involvement is crucial in shaping the future of inclusive data science education.
 Let's celebrate diversity, break language barriers, and empower learners worldwide through the Glosario Codefest.
 
 
