@@ -3,7 +3,7 @@ layout: page
 authors: ["Angelique Trusler"]
 teaser: "Let's celebrate diversity and break language barriers."
 title: "Breaking Language Barriers in Data Science: Glosario Codefest Event"
-date: 2024-01-18
+date: 2024-02-18
 time: "09:00:00"
 tags: ["Glosario", "Lesson Infrastructure", "Accessibility"]
 ---
