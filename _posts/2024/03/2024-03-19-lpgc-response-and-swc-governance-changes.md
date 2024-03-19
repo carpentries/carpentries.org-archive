@@ -2,7 +2,7 @@
 layout: page
 authors: ["Samantha Ahern", "Valentina Hurtado-McCormick", "Martino Sorbaro", "Menglan Xiang"]
 teaser: "In response to recent changes to The Carpentries Core Team, the Software Carpentry LPGC announces changes to their workflow and governance."
-title: "Changes to the Software Carpentry's Lesson Programme Governance Committee and governance"
+title: "Changes to Software Carpentry's Lesson Programme Governance Committee and their work"
 date: 2024-03-19
 time: "09:00:00"
 tags: ["Governance", "Software Carpentry", "Feedback"]
