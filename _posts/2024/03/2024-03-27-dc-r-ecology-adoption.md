@@ -10,7 +10,7 @@ tags: ["Curriculum", "Data Carpentry", "Carpentries Incubator", "Curriculum Deve
 
 We are delighted to announce that [a redesigned version of the _Data Analysis and Visualization in R for Ecologists_ lesson](https://datacarpentry.org/R-ecology-lesson-alternative/) has been approved for adoption into the Data Carpentry Ecology curriculum. The redesigned version will replace [the existing lesson](https://datacarpentry.org/R-ecology-lesson/) later this year. The Curriculum Advisory Committee previously published [a call for Instructors to test the lesson and provide feedback](https://carpentries.org/blog/2023/07/r-ecology-alt-beta/), which includes a summary of the differences between the two lessons.
 
-The new lesson lets learners dive into data visualisation much more quickly, letting you quickly *see* the benefits of the lesson and enticing you to learn more about data storage, manipulation and analysis as the lesson progresses. The new structure of the lesson helps make it more approachable for beginners and more motivating for all learners, and has received great feedback from Instructors who have taught the lesson so far.
+The new lesson lets learners dive into data visualisation much more quickly, letting you quickly *appreciate* the benefits of the lesson and enticing you to learn more about data storage, manipulation and analysis as the lesson progresses. The new structure of the lesson helps make it more approachable for beginners and more motivating for all learners, and has received great feedback from Instructors who have taught the lesson so far.
 
 ![Overview of the redesigned lesson content]({{ site.urlimg }}/blog/2023/07/2023-07-10-r-ecology-alt-beta-overview.svg)
 
