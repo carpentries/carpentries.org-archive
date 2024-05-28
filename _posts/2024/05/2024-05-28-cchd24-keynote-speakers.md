@@ -10,7 +10,7 @@ tags: ["CarpentryConnect", "Events"]
 
 We are thrilled to share exciting news from the organising committee of [the BioNT Community Event & CarpentryConnect Heidelberg 2024](https://biont-training.eu/event-details/CarpentryConnect2024)! 
 As we approach the event, themed _"Community-led training beyond academia,"_ we are excited to announce several key updates that highlight our commitment to fostering an inclusive and enriching experience for all participants. 
-These updates include our keynote speakers, the introduction of the Inclusivity Ticket, and our provisional program.
+These updates include our keynote speakers, the introduction of the Inclusivity Ticket, and our provisional programme.
 
 ## 1. Announcing our Keynote Speakers
 
@@ -36,7 +36,7 @@ We are so excited to have you join us!
 * The deadline for submitting your abstract for the Inclusivity Ticket is July 12
 * Notification of acceptance will be sent to winners no later than July 26
 * Event registration will open on June 17
-* A definitive program will be released on the 17th of June
+* A definitive programme will be released on the 17th of June
 * CarpentryConnect and BioNT community event takes place 12 - 14 November
 
 For updates, announcements, and information about the event, please [visit the event website](https://biont-training.eu/event-details/CarpentryConnect2024).
