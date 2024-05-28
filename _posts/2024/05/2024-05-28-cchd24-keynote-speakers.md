@@ -33,10 +33,11 @@ We are so excited to have you join us!
 
 ## 4. Important Information
 
-The deadline for submitting your abstract for the Inclusivity Ticket is July 12
-Notification of acceptance will be sent to winners no later than July 26
-Event registration will open on June 17
-A definitive program will be released on the 17th of June
-CarpentryConnect and BioNT community event takes place 12 - 14 November
+* The deadline for submitting your abstract for the Inclusivity Ticket is July 12
+* Notification of acceptance will be sent to winners no later than July 26
+* Event registration will open on June 17
+* A definitive program will be released on the 17th of June
+* CarpentryConnect and BioNT community event takes place 12 - 14 November
+
 For updates, announcements, and information about the event, please [visit the event website](https://biont-training.eu/event-details/CarpentryConnect2024).
 If you need any support completing the form or have any questions, please [contact us at programme-biont@embl.de](mailto:programme-biont@embl.de).
