@@ -3,7 +3,7 @@ layout: page
 authors: ["Lena Bohman", "Marla Hertz", "Daria Orlowska", "Tim Dennis", "Cody Hennesy", "Zhiyuan Yao"]
 teaser: "Explore the newly approved Data Management Plan Course for Librarians--empowering information professionals to support research data management effectively."
 title: "Library Carpentry Curriculum Committee Approves Data Management Plan Lesson"
-date: 2024-05-27
+date: 2024-06-11
 time: "09:00:00"
 tags: ["Curriculum", "Library Carpentry", "Maintainers", "Curriculum Development", "IMLS"]
 
@@ -11,9 +11,9 @@ tags: ["Curriculum", "Library Carpentry", "Maintainers", "Curriculum Development
 
 ### Introduction
 
-We are excited to announce that the Library Carpentry Curriculum Advisory Committee (LC-CAC) has approved a new lesson Data Management Plan Course for Librarians [http://librarycarpentry.org/lc-dmp101/](http://librarycarpentry.org/lc-dmp101/) for inclusion in the [Library Carpentry curriculum](https://librarycarpentry.org/lessons/). This course was developed as part of an Institute for Museum and Library Services (IMLS) grant to UCLA to develop open science lessons for Library Carpentry.
+We are excited to announce that the Library Carpentry Curriculum Advisory Committee (LC-CAC) has approved a new lesson [Data Management Plan Course for Librarians](http://librarycarpentry.org/lc-dmp101/) for inclusion in the [Library Carpentry curriculum](https://librarycarpentry.org/lessons/). This course was developed as part of an Institute for Museum and Library Services (IMLS) grant to UCLA to develop open science lessons for Library Carpentry.
 
-This course provides an introduction to conducting data management plan (DMP) services for librarians. By the end of the course, students should be able to begin providing DMP review services in their libraries.
+This course provides an introduction to conducting data management plan (DMP) services for librarians. By the end of this course, librarians should be equipped to offer basic DMP review services to researchers.
 
 ### What does this lesson cover?
 
@@ -27,11 +27,9 @@ This lesson is divided into five episodes:
 
 4. **DMPTool and Common DMP Issues**. This episode includes a demo of the DMPTool application and provides solutions for working with researchers on common DMP issues.
 
-5. **Data Management Plan Services**. This episode provides strategies for starting a data management plan service in the library.
+5. **Data Management Plan Services**. This episode provides strategies for starting a DMP service in the library.
 
 ### Why a DMP course for librarians?
-
-By the end of this course, librarians should be equipped to offer basic DMP review services to researchers.
 
 Why was this course developed now? It was built to support the needs of the growing data librarianship community. In 2023, the National Institutes of Health, a top federal funder of research in the United States, rolled out a new data management and sharing policy. The policy expanded the requirement for grantees to write data management and sharing plans (DMP), meaning many researchers were submitting a DMP for the first time. While this was a major change in US policy and a positive step in the shift towards open science, much of the work of educating researchers and reviewing plans fell on the shoulders of data librarians. 
 
@@ -43,7 +41,7 @@ Lena Bohman is the senior data management and research impact librarian at the Z
 
 Marla Hertz is an Associate Professor and the Research Data Management Librarian (RDM) at the University of Alabama at Birmingham (UAB). UAB is a public research-intensive university with roughly 21K students and over $700 million dollars of extramural research awards last year. Marla has a PhD in microbiology and 15+ years of research experience. Marla transitioned into RDM librarianship 2 years ago to support the data management and sharing needs of UAB researchers.
 
-Daria Orlowska is a data librarian and assistant professor at Western Michigan University, a public doctorate-granting university with ~17,000 students with high research activity by the Great Lakes in the United States. Daria has a bachelor’s degree in psychology and a master’s degree in library and information science and experience coordinating federally-funded health psychology research full-time for several years. Daria has been in my role for 4.5 years. As part of her role, Daria provides data education and services to students, faculty, and staff within the university community. 
+Daria Orlowska is a data librarian and assistant professor at Western Michigan University, a public doctorate-granting university with ~17,000 students with high research activity by the Great Lakes in the United States. Daria has a bachelor’s degree in psychology and a master’s degree in library and information science and experience coordinating federally-funded health psychology research full-time for several years. Daria has been in her role for 4.5 years. As part of her role, Daria provides data education and services to students, faculty, and staff within the university community. 
 
 ### Why did the curriculum advisors adopt this lesson?
 
