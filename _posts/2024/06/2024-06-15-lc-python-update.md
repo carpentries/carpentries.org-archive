@@ -21,7 +21,7 @@ The updated lesson includes twelve substantive episodes that cover Python fundam
 - Generate figures and interactive plots
   
 ### Why a course on Python?
-Python is a widely used language for data science tasks and is commonly leveraged for metadata and cataloging, collection analysis, assessment, and other related tasks in libraries. Python can be used for web scraping, collecting data via Application Programming Interfaces (APIs), and to clean and organize data and metadata. As a popular tool in data science, computational social sciences, and digital humanities, Python is also a great toolkit for working with researchers across multiple disciplines.
+Python is a widely used language for data science tasks and is commonly leveraged for metadata and cataloguing, collection analysis, assessment, and other related tasks in libraries. Python can be used for web scraping, collecting data via Application Programming Interfaces (APIs), and to clean and organise data and metadata. As a popular tool in data science, computational social sciences, and digital humanities, Python is also a great toolkit for working with researchers across multiple disciplines.
 
 ### Course Development
 The current Library Carpentry Python course has been developed, taught, and adapted by many past and present members of the Carpentries communities. The previous iteration of the lesson was adapted from the Software Carpentry [Plotting & Programming in Python lesson](https://swcarpentry.github.io/python-novice-gapminder/), and was developed and maintained by Konrad Foerstner, Drew Heles, Elizabeth Wickes, Laura Wrubel, Carlos Martinez and Richard Vankoningsveld. The current iteration was created by Cody Hennesy, Tim Dennis, Scott Peterson, and David Palmquist.
