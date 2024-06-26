@@ -3,7 +3,7 @@ layout: page
 authors: ["Cody Hennesy", "Tim Dennis", "Scott Peterson", "David Palmquist"]  
 teaser: "Introducing Python Intro for Libraries, an updated lesson designed to introduce Python and reproducible workflows for library data analysis."
 title: "Library Carpentry Curriculum Advisory Committee Approves a Major Update to the LC Python Lesson"
-date: 2024-06-15
+date: 2024-06-26
 time: "09:00:00"
 tags: ["Curriculum", "Library Carpentry", "Python", "Maintainers"]
 ---
