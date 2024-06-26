@@ -16,7 +16,7 @@ The lesson demonstrates how to use Python to clean, analyse, and visualise libra
 ### What is covered in this lesson?
 The updated lesson includes twelve substantive episodes that cover Python fundamentals such as variables, types, lists, functions, for loops, and conditionals. The lesson demonstrates how to import CSV files representing annual usage data from the Chicago Public Library system into Pandas, and focuses on wrangling, analysing, and visualising this quantitative dataset. Packages that are introduced include glob, Pandas, and Plotly. Along with Python fundamentals, learners will use Pandas to:
 - Import and export CSV files 
-- Manipulate, clean, and analyze data
+- Manipulate, clean, and analyse data
 - Create tidy datasets 
 - Generate figures and interactive plots
   
