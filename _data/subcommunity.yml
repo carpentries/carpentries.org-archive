@@ -1003,7 +1003,7 @@ subcommunities:
     # facebook: 
     # linkedin: 
  
- - name: Carpentries US-Northeast
+- name: Carpentries US-Northeast
   type:
     geographic_local: 
     geographic_regional: true
@@ -1058,7 +1058,7 @@ subcommunities:
     # facebook: 
     # linkedin: 
  
- - name: Carpentries Ukraine
+- name: Carpentries Ukraine
   type:
     geographic_local: 
     geographic_regional: 
