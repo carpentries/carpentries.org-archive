@@ -1003,3 +1003,113 @@ subcommunities:
     # facebook: 
     # linkedin: 
  
+- name: Carpentries US-Northeast
+  type:
+    geographic_local: 
+    geographic_regional: true
+    language:
+    domain:
+    interest:
+    other: 
+  member:  
+  description: The US-Northeast Carpentries subcommunity convenes for semi-regular, informal get-togethers and mentoring opportunities. 
+  activities: 
+    carpentry_connect: true
+    communication: true
+    prof_dev: 
+    sow: true
+    fundraising: 
+    student_programs: 
+    translation: 
+    mentoring: true
+    other: 
+  volunteers: true
+  logo:
+  location: Boston
+  country: USA
+  website: 
+  tags:
+    assessment:
+    carpentry_connect: true
+    communication: true
+    community_discussion: true
+    curriculum: 
+    events: 
+    governance:
+    inperson_workshops: true
+    instructor_development: 
+    instructor_training:
+    internationalisation:
+    membership:
+    mentoring: true
+    online_workshops: true 
+    teaching: true
+    other: 
+  contact:
+    email: nrrome@berklee.edu
+    slack: "Carpentries workspace, #local-us-northeast"
+    mailing_list: 
+    contact_form: 
+    contact_person: Rachel Rome
+  social_media: 
+    # twitter: 
+    # mastodon: 
+    # instagram: 
+    # facebook: 
+    # linkedin: 
+ 
+- name: Carpentries Ukraine
+  type:
+    geographic_local: 
+    geographic_regional: 
+    language: true
+    domain:
+    interest:
+    other: 
+  member:  
+  description: Ukrainian Carpentries is a subcommunity translating the Carpentries teaching materials into Ukrainian language.
+  activities: 
+    carpentry_connect: 
+    communication: true
+    prof_dev: 
+    sow: true
+    fundraising: 
+    student_programs: 
+    translation: true
+    mentoring: 
+    other: 
+  volunteers: true
+  logo:
+  location: 
+  country: 
+  website: 
+  tags:
+    assessment:
+    carpentry_connect: 
+    communication:
+    community_discussion:
+    curriculum: 
+    events: 
+    governance:
+    inperson_workshops: 
+    instructor_development: 
+    instructor_training:
+    internationalisation: true
+    membership:
+    mentoring: 
+    online_workshops: true 
+    teaching: 
+    other: 
+  contact:
+    email: obk1@st-andrews.ac.uk
+    slack: "Carpentries workspace, #local-ukrainian"
+    mailing_list: 
+    contact_form: 
+    contact_person: Olexandr Konovalov
+  social_media: 
+    # twitter: 
+    # mastodon: 
+    # instagram: 
+    # facebook: 
+    # linkedin: 
+    Github: https://github.com/ukrainian-carpentries 
