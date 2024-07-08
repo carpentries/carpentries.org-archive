@@ -3,7 +3,7 @@ layout: page
 authors: ["Toby Hodges"]
 teaser: "The redesigned version of the lesson becomes official curriculum today."
 title: "New R Ecology Lesson Released"
-date: 2024-07-08
+date: 2024-07-09
 time: "16:00:00"
 tags: ["Curriculum", "Data Carpentry"]
 ---
