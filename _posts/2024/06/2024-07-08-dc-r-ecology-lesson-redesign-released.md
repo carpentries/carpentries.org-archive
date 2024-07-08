@@ -11,7 +11,7 @@ tags: ["Curriculum", "Data Carpentry"]
 Those visiting the [Data Carpentry _Data Analysis and Visualisation in R for Ecologists_ lesson](https://datacarpentry.org/R-ecology-lesson/) today might notice things have changed!
 The redesigned version of the lesson, [approved for adoption by the Curriculum Advisory Committee](https://carpentries.org/blog/2024/03/dc-r-ecology-adoption/) earlier this year, has now replaced the previous content.
 
-The former version was [released to Zenodo](FIXME-ADD-URL) before the redesigned content was merged into the lesson, and the files and folders of that version can be downloaded from there or [accessed through the history of the lesson repository](FIXME-LINK-TO-LAST-COMMIT-OF-OLD-VERSION).
+The former version was [released to Zenodo](https://doi.org/10.5281/zenodo.12684301) before the redesigned content was merged into the lesson, and the files and folders of that version can be downloaded from there or [accessed through the history of the lesson repository](https://github.com/datacarpentry/R-ecology-lesson/tree/6a5ab5e94985b3b528bdb9b7455bf4f6b238e20c).
 
 ## What happens next?
 
