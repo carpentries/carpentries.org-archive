@@ -3,7 +3,7 @@ layout: page
 authors: ["Kari L. Jordan"]
 teaser: "Here's what I learned over the last six months speaking with our community."
 title: "Reigniting Community: Reflections from Coffee with The Carpentries Executive Director"
-date: 2022-07-08
+date: 2024-07-08
 time: "09:00:00"
 tags: ["Community", "Community Discussions"]
 ---
