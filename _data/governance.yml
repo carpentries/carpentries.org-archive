@@ -79,18 +79,7 @@ people:
   active: true
   term: Appointed 2023
   role: Treasurer
-  
-- person_name: Tara Robertson
-  pic: tara_robertson.jpg
-  country: CA
-  github: tararobertson
-  linkedin: tararobertson
-  url: https://tararobertson.ca/
-  mastodon: https://fosstodon.org/@tararobertson@mastodon.social
-  advisory: false
-  active: true
-  term: Appointed 2024
-  
+ 
 - person_name: Eboni Dotson
   pic: eboni_dotson.jpg
   country: US
