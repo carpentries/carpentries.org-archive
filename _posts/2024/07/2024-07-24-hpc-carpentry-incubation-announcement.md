@@ -34,7 +34,7 @@ If you are interested in teaching an HPC Carpentry workshop to your local commun
 HPC Carpentry is looking to expand its community of contributors to the existing lesson projects. Many members of The Carpentries community will have expertise and experience to bring to the project's lessons. During the Incubation phase, HPC Carpentry will be establishing and polishing its core curriculum, and you can help to guide the ongoing development of the lesson program.
 
 ### Tell Your Friends!
-Do you know somebody who may be interested in contributing to HPC Carpentry or who could benefit from learning the skills it teaches? If so, tell them about it and share the information below about how they can learn more and get involved.
+Do you know somebody who may be interested in contributing to HPC Carpentry, or who could benefit from learning the skills it teaches? If so, tell them about it and share the information below about how they can learn more and get involved.
 
 * **Contact:** [maintainers-hpc@lists.carpentries.org](mailto:maintainers-hpc@lists.carpentries.org)
 * **Website:** [hpc-carpentry.org](https://hpc-carpentry.org/)
