@@ -1,7 +1,7 @@
 ---
 layout: page
 authors: ["Trevor Keller", "Alan O'Cais", "Wirawan Purwanto", "Annajiat Alim Rasel", "Andrew Reid", "Toby Hodges"]
-teaser: "Project teaching high-performance compting skills takes another step towards joining The Carpentries"
+teaser: "Project teaching high-performance computing skills takes another step towards joining The Carpentries"
 title: "HPC Carpentry Enters Lesson Program Incubation"
 date: 2024-07-24
 time: "09:00:00"
