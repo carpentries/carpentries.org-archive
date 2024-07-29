@@ -8,7 +8,7 @@ time: "09:00:00"
 tags: ["Curriculum", "Publishing"]
 ---
 
-In this post, co-authored by members of the Code Refinery project and The Carpentries Curriculum Team, we discuss the current state and potential future applications of the Citation File Format (CFF) for open source lesson projects. The post concludes with a set of recommendations for what information should be captured in a `CITATION.cff` and how.
+In this post, co-authored by members of the CodeRefinery project and The Carpentries Curriculum Team, we discuss the current state and potential future applications of the Citation File Format (CFF) for open source lesson projects. The post concludes with a set of recommendations for what information should be captured in a `CITATION.cff` and how.
 
 
 ## What is the Citation File Format (CFF)?
@@ -17,7 +17,7 @@ The [Citation File Format](https://citation-file-format.github.io/)
 is a plain-text human- and machine readable citation information metadata for
 software and datasets.
 The text files contain standardized fields and use the [YAML](https://en.wikipedia.org/wiki/YAML) serialization
-language. These fields are listed in a `CITATION.cff` text file, including but not limited to authors, title, version, identifiers and type. Type is currently restricted to software and dataset.
+language. These fields are listed in a `CITATION.cff` text file, including but not limited to authors, title, version, identifiers, and type. Type is currently restricted to software and dataset.
 While lessons are neither software nor a dataset, the metadata collected in the CFF file represents well everything needed in order to also cite lesson materials.
 
 Popular tools and platforms like GitHub, Zenodo, and Zotero integrate with
@@ -37,9 +37,9 @@ The validation step can be automated and part of code review using the [cff-vali
 
 The motivation to adopt and integrate CFF into lesson metadata and to make lessons citable is first and foremost to give the many contributors, editors, and lesson maintainers credit and hopefully more visibility for their work (which is sometimes paid but often on volunteer basis). Lessons can then be cited and their contributors can point to these on their CVs to highlight their work and the reach of their work.
 
-The second motivation is that by assigning a digital object identifier (which is persistent) to lessons we have a chance to make the material more persistent and findable beyond the lifetime of projects. Many projects are limited in time and we wish to avoid that knowledge and lessons simply disappear when a project website is discontinued.
+The second motivation is that by assigning a digital object identifier to lessons we have a chance to make the material more persistent and findable beyond the lifetime of projects. Many projects are limited in time and we wish to avoid that knowledge and lessons simply disappear when a project website is discontinued.
 
-Citation File Format was conceived to describe software and data, and it is sometimes not obvious how it should translate to "creative" outputs like lessons. Nevertheless, Open Source lessons like those created by the CodeRefinery and Carpentries communities are similar to software projects in many of the ways that matter for CFF: they have a commit history, an open license, multiple versions, publicly-accessible repositories, etc. Another similarity to software and data projects is that it is often not clear how Open Source lessons should be cited by those who have used and benefitted from them. The growing ecosystem of tools and platforms that support CFF lead us to conclude that adopting the format is the sensible choice when providing citation information for our lessons.
+Citation File Format was conceived to describe software and data, and it is sometimes not obvious how it should translate to "creative" outputs like lessons. Nevertheless, Open Source lessons like those created by the CodeRefinery and Carpentries communities are similar to software projects in many of the ways that matter for CFF: they have a commit history, an open license, multiple versions, publicly-accessible repositories, etc. Another similarity to software and data projects is that it is often not clear how Open Source lessons should be cited by those who have used and benefited from them. The growing ecosystem of tools and platforms that support CFF lead us to conclude that adopting the format is the sensible choice when providing citation information for our lessons.
 
 
 ## Towards FAIR metadata for lessons
@@ -47,7 +47,7 @@ Citation File Format was conceived to describe software and data, and it is some
 We currently anticipate a yearly release cycle for stable lessons. Lessons in the early stages of development, which can be expected to undergo relatively frequent and dramatic changes, may be released more often and less regularly. Before each release, we plan to verify the `CITATION.cff` file, and then create a new
 release with the version tag in the form `YYYY-MM-DD`.
 
-Ideally, the CFF file is continuously modified with pull requests (merge requests) that bring in lesson changes. With pull/merge requests as the main mechanism to suggest changes, updating the author information becomes part of code/lesson review, and is ideally not postponed to the time when we finalize a new release.
+Ideally, the CFF file is continuously modified with pull requests (or merge requests) that bring in lesson changes. With pull/merge requests as the main mechanism to suggest changes, updating the author information becomes part of code/lesson review, and is ideally not postponed to the time when we finalize a new release.
 
 A successful adoption of the CFF metadata in lessons could bring us one step closer to have a well-defined FAIR metadata for lessons by reusing some of the information captured in the CFF metadata. For this, we will need to compare metadata specifications of related efforts (e.g. [the TrainingMaterial specification from BioSchemas](https://bioschemas.org/profiles/TrainingMaterial/1.0-RELEASE), [the Course specification from schema.org](https://schema.org/Course)) to find and define a common overlap (however, we might explore this in more detail in a future blog post).
 
@@ -57,12 +57,12 @@ A successful adoption of the CFF metadata in lessons could bring us one step clo
 We will start integrating the CFF first into few of our lessons (in order to test and debug the process
 and to collect more experience and possibly identify new problems that we did not anticipate). Eventually, we will roll this out to all our lessons. Our hope is, that other projects will then follow our example and also contribute to the process itself.
 
-The first step towards making a lesson citable is often to collect a list of all contributors and to reach out to them to get their consent to be listed. We plan to do this through GitHub issues tracked close to the corresponding lesson repositories (example from CodeRefinery: https://github.com/coderefinery/documentation/pull/270#issuecomment-1673439760). The Carpentries records community members' consent to be included in lesson publications as part of their profile in the community database, [AMY](https://amy.carpentries.org/)
+The first step towards making a lesson citable is often to collect a list of all contributors and to reach out to them to get their consent to be listed. We plan to do this through GitHub issues tracked close to the corresponding lesson repositories (example from CodeRefinery: https://github.com/coderefinery/documentation/pull/270#issuecomment-1673439760). The Carpentries records community members' consent to be included in lesson publications as part of their profile in the community database, [AMY](https://amy.carpentries.org/).
 
 In order to simplify the process of uploading release artifacts to Zenodo we will create a GitHub Actions workflow which will upload the data and the metadata to Zenodo using the Zenodo API. Although further development is required to implement this workflow, [the HERMES tool](https://project.software-metadata.pub/) may be pivotal in the retrieval, collation, processing, and publication of the relevant metadata.
 
 What should be the release artifacts? Our plan is to upload both the lesson sources as well as a generated PDF/HTML from the lesson sources. This workflow will be run on each release creation. Using the Zenodo API rather than uploading the lessons manually
-offers several advantages, formost that we can avoid the situation that future updates to a lesson record would be tied to the person who uploaded the first version. By the time we will want to upload the next version, that person might have already left the organization or project. Instead, we should be able to share the permission to update the lesson record and metadata within organizations, projects, and research groups (where applicable).
+offers several advantages, foremost that we can avoid the situation that future updates to a lesson record would be tied to the person who uploaded the first version. By the time we will want to upload the next version, that person might have already left the organization or project. Instead, we should be able to share the permission to update the lesson record and metadata within organizations, projects, and research groups (where applicable).
 
 
 ## What information should be captured in a CFF for a lesson?
@@ -70,7 +70,7 @@ offers several advantages, formost that we can avoid the situation that future u
 Based on previous experience and discussions at various conferences and events, we have developed the following list of information that should be captured in the CFF of an open source lesson.
 
 ### Authorship information
-Lessons are usually the product of numerous and diverse contributions from a group of people. Contributions can be made in a wide variety of different ways: most directly by writing and commiting content to the default branch of the project, but also by providing feedback on pull requests, contributing to discussions on issues and elsewhere that influence the content, and/or providing input during the initial planning/ideation of the project. The list of authors should aim to include everyone who has contributed to the project, _whether or not they are represented in the commit history_. Although some omissions are inevitable, especially on large/long-established projects, capturing all of these contributions in the author list best represents the open and collaborative nature of such projects. This aligns with one of [the core values of The Carpentries community](https://carpentries.org/values/): _valuing all contributions_. 
+Lessons are usually the product of numerous and diverse contributions from a group of people. Contributions can be made in a wide variety of different ways: most directly by writing and committing content to the default branch of the project, but also by providing feedback on pull requests, contributing to discussions on issues and elsewhere that influence the content, and/or providing input during the initial planning/ideation of the project. The list of authors should aim to include everyone who has contributed to the project, _whether or not they are represented in the commit history_. Although some omissions are inevitable, especially on large/long-established projects, capturing all of these contributions in the author list best represents the open and collaborative nature of such projects. This aligns with one of [the core values of The Carpentries community](https://carpentries.org/values/): _valuing all contributions_. 
 
 Inclusion of non-committing contributors complicates the definition of an order of authors in the list. Furthermore, we feel that any order based solely on the commit history of the project -- whether by number of commits or number of lines added/deleted -- are imprecise proxies to the magnitude and importance of contributions. Therefore, our recommendation is to provide a list of authors ordered alphabetically by last name.
 
