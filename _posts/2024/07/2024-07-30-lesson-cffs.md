@@ -23,7 +23,7 @@ While lessons are neither software nor a dataset, the metadata collected in the 
 Popular tools and platforms like GitHub, Zenodo, and Zotero integrate with
 the Citation File Format and understand and use `CITATION.cff` files.
 
-[GitHub displays a 'Cite this repository' pop-up on projects containing a CITATION.cff file.]({{ site.urlimg }}/blog/2024/07/cite-this-repository.png)
+![GitHub displays a 'Cite this repository' pop-up on projects containing a CITATION.cff file.]({{ site.urlimg }}/blog/2024/07/cite-this-repository.png)
 
 Creating a new `CITATION.cff` file is easy with the initializer [CFF-init](https://citation-file-format.github.io/cff-initializer-javascript/), but fields need to be filled with care. The webtool can also be used to update an existing CFF: the current version is uploaded to the site, pre-populating fields in the form with the information in the file.
 
