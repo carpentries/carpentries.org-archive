@@ -102,7 +102,6 @@ The following fields should also be included in a lesson's `CITATION.cff`:
 
 - Example in a CodeRefinery lesson:
     - [Zenodo](https://zenodo.org/records/8280235)
-    - [CFF](![](https://codimd.carpentries.org/uploads/upload_d80f1e7da8607da171d80fdd23ad5228.png)
-)
+    - [CFF](https://github.com/coderefinery/documentation/blob/main/CITATION.cff)
 - Example in The Carpentries Collaborative Lesson Development Training repository:
     - [CFF](https://github.com/carpentries/lesson-development-training/blob/main/CITATION.cff)
