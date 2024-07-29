@@ -44,7 +44,7 @@ Citation File Format was conceived to describe software and data, and it is some
 
 ## Towards FAIR metadata for lessons
 
-We currently anticipate a yearly release cycle for stable lessons. Lessons in the early stages of development, which can be expected to undergo relatively frequent and dramatic changes, may be released more often and less regularly. Before each release, we plan to verify the `CITATION.cff` file, and then create a new
+In future, we hope to establish a yearly release cycle for stable lessons. Lessons in the early stages of development, which can be expected to undergo relatively frequent and dramatic changes, may be released more often and less regularly. Before each release, we plan to verify the `CITATION.cff` file, and then create a new
 release with the version tag in the form `YYYY-MM-DD`.
 
 Ideally, the CFF file is continuously modified with pull requests (or merge requests) that bring in lesson changes. With pull/merge requests as the main mechanism to suggest changes, updating the author information becomes part of code/lesson review, and is ideally not postponed to the time when we finalize a new release.
@@ -57,13 +57,19 @@ A successful adoption of the CFF metadata in lessons could bring us one step clo
 We will start integrating the CFF first into few of our lessons (in order to test and debug the process
 and to collect more experience and possibly identify new problems that we did not anticipate). Eventually, we will roll this out to all our lessons. Our hope is, that other projects will then follow our example and also contribute to the process itself.
 
-The first step towards making a lesson citable is often to collect a list of all contributors and to reach out to them to get their consent to be listed. We plan to do this through GitHub issues tracked close to the corresponding lesson repositories (example from CodeRefinery: https://github.com/coderefinery/documentation/pull/270#issuecomment-1673439760). The Carpentries records community members' consent to be included in lesson publications as part of their profile in the community database, [AMY](https://amy.carpentries.org/).
+The first step towards making a lesson citable is often to collect a list of all contributors and to reach out to them to get their consent to be listed. CodeRefinery plans to do this through GitHub issues tracked close to the corresponding lesson repositories ([review an example from CodeRefinery](https://github.com/coderefinery/documentation/pull/270#issuecomment-1673439760)). The Carpentries already records community members' consent to be included in lesson publications as part of their profile in the community database, [AMY](https://amy.carpentries.org/). (You can log in an update your content preferences any time!)
 
 In order to simplify the process of uploading release artifacts to Zenodo we will create a GitHub Actions workflow which will upload the data and the metadata to Zenodo using the Zenodo API. Although further development is required to implement this workflow, [the HERMES tool](https://project.software-metadata.pub/) may be pivotal in the retrieval, collation, processing, and publication of the relevant metadata.
 
 What should be the release artifacts? Our plan is to upload both the lesson sources as well as a generated PDF/HTML from the lesson sources. This workflow will be run on each release creation. Using the Zenodo API rather than uploading the lessons manually
 offers several advantages, foremost that we can avoid the situation that future updates to a lesson record would be tied to the person who uploaded the first version. By the time we will want to upload the next version, that person might have already left the organization or project. Instead, we should be able to share the permission to update the lesson record and metadata within organizations, projects, and research groups (where applicable).
 
+Thanks for reading this far!
+Do you have ideas for how citation information could be used in our lessons, or feedback about the proposed implementation above? If so, we would be delighted to [discuss it further](mailto:tobyhodges@carpentries.org).
+For those interested in the finer details of CFF for lesson projects, the remainder of this post describes the specific information that we recommend to include in the `CITATION.cff` of an open source lesson. 
+
+
+---
 
 ## What information should be captured in a CFF for a lesson?
 
