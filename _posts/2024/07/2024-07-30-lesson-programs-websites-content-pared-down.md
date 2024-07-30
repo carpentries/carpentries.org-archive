@@ -1,7 +1,7 @@
 ---
 layout: page
 authors: ["Oscar Masinyana", "Maneesha Sane"]
-teaser: "Most of the three lesson programs' websites content will now be accessed on the main Carpentries website."
+teaser: "Most of the content on the three lesson programs' websites will now be accessed from the main Carpentries website."
 title: "Lesson programs' websites content pared down"
 Date: 2024-07-30
 time: "18:00:00"
@@ -12,4 +12,4 @@ The content on the three Carpentries lesson programs websites - [Data Carpentry]
 
 This latest development comes shortly after our announcement that [the three lesson programs' blog posts have been merged into The Carpentries blog](https://carpentries.org/blog/2024/03/lesson-program-blog-posts-migration/) as part of our ongoing journey towards consolidating our lesson programs and our resources under one, unified, identity as The Carpentries. We are also in the process of redesigning our main website and handbooks, and we will update the community on progress on the redesigned resources closer to the time of their relaunch. 
 
-If you have any queries on these developments, please feel free to reach out to [team@carpentries.org](mailto:team@carpentries.org). 
+If you have any queries about these developments, please feel free to reach out to [team@carpentries.org](mailto:team@carpentries.org). 
