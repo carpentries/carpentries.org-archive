@@ -1,7 +1,7 @@
 ---
 layout: page
 authors: ["Andrew Reid", Trevor Keller", "Jane Herriman"]
-teaser: "Report from a recent HPC Carpentry workshop."
+teaser: "Report from a recent HPC Carpentry workshop at Lawrence Livermore National Laboratory."
 title: "HPC Carpentry at LLNL"
 date: 2024-08-13
 time: "12:00:00"
@@ -12,7 +12,7 @@ _This is a cross-posting from [the HPC Carpentry blog][original], reporting on a
 
 ## HPC Carpentry at LLNL
 
-In the first week of June, 2024, instructors from [HPC Carpentry][hpcc]
+In the first week of June, 2024, Instructors from [HPC Carpentry][hpcc]
 taught our full workflow workshop for the first time. Over a four-day
 stint at Lawrence Livermore National Laboratory, we delivered this
 content not once, but twice!
@@ -30,12 +30,12 @@ intro][shell] lesson from Software Carpentry in the morning, and our own
 variant of the [workflow lesson][work], adapted for the Maestro workflow
 tool (rather than Snakemake), because it is developed and used at LLNL.
 
-The instructor team consisted of Andrew Reid and Trevor Keller from
+The Instructor team consisted of Andrew Reid and Trevor Keller from
 the HPC Carpentry steering committee, and Jane Herriman from LLNL,
 along with helpers from the LLNL community.
 
 While split-terminal tools exist, we used vanilla [tmux][tmux] with two
-terminals attached to the same session. This allowed the instructors to type on
+terminals attached to the same session. This allowed the Instructors to type on
 their own laptop while referencing the lesson webpage and selectively sharing
 the terminal. Learners followed along on the enhanced terminal displayed at the
 front of the room. Note: to "scroll up" in `tmux`, press 
@@ -61,7 +61,7 @@ at a slightly faster pace than expected, without leaving anyone
 behind. This was in part because access to LLNL's system `Ruby` was by means
 of pre-authorized RSA tokens, removing a lot of the friction
 from the initial connection process that has been time-consuming in other
-versions of the workshop. The instructors live-coded plenty of mistakes, opening
+versions of the workshop. The Instructors live-coded plenty of mistakes, opening
 discussions on some interesting tangential topics. LLNL runs a pool of "login
 nodes" per HPC system, rather than a single machine, which made for interesting,
 early discussion of networked filesystems. The sheer number of nodes also made
