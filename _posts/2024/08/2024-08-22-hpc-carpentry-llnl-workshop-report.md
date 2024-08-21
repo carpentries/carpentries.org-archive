@@ -3,8 +3,8 @@ layout: page
 authors: ["Andrew Reid", Trevor Keller", "Jane Herriman"]
 teaser: "Report from a recent HPC Carpentry workshop at Lawrence Livermore National Laboratory."
 title: "HPC Carpentry at LLNL"
-date: 2024-08-13
-time: "12:00:00"
+date: 2024-08-22
+time: "09:00:00"
 tags: ["HPC Carpentry", "Lesson Program Implementation"]
 ---
 
