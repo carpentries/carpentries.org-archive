@@ -5,7 +5,7 @@ teaser: "Questions about Membership? Email membership@carpentries.org"
 title: "Transition for The Carpentries Membership Team"
 date: 2021-10-26
 time: "09:00:00"
-tags: ["Carpentries Membership"]
+tags: ["Membership"]
 ---
 Carpentries Community,
 
