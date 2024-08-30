@@ -5,7 +5,7 @@ teaser: "We invite institutions serving underrepresented groups in Central and S
 title: "Applications for sponsored Carpentries Memberships open now!"
 date: 2022-05-18
 time: "09:00:00"
-tags: ["Carpentries Membership"]
+tags: ["Membership"]
 ---
 
 During our Executive Director, Dr. Kari L. Jordan's, [New Year address](https://carpentries.org/blog/2022/01/executive-director-new-years-message/) we annouced funding
