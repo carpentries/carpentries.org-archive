@@ -28,14 +28,14 @@ We are also looking to understand if there are any aspects of our current member
 
 Participating in the survey is simple and only takes a few minutes. Your responses will remain confidential, and the data collected will be used solely to improve our services and better support you and your organisation.
 
-**[Click here to take the survey](insert-survey-link)**
+**Take the [Survey](https://carpentries.typeform.com/to/cSkqdrOL) now and stand a chance to win an Instructor Training seat in our lucky draw!**
 
 **Stay Connected**
 
 We have also noticed that some members may not be aware of all the communication channels we offer. To ensure that you are always up to date with our latest news, events, and opportunities, please take a moment to join our Slack channel and sign up for our email updates:
 
-- **Join our Slack channel**: [Slack link](https://slack-invite.carpentries.org/)
-- **Sign up for email updates**: [Insert email signup link here]
+- **Join our [Slack](https://slack-invite.carpentries.org/) channel**
+- **Sign up to our [newsletter](https://carpentries.org/newsletter/)**
 
 **Thank You for Your Participation!**
 
