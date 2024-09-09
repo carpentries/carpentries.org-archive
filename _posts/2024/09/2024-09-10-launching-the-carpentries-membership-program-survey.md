@@ -34,7 +34,7 @@ Participating in the survey is simple and only takes a few minutes. Your respons
 
 We have also noticed that some members may not be aware of all the communication channels we offer. To ensure that you are always up to date with our latest news, events, and opportunities, please take a moment to join our Slack channel and sign up for our email updates:
 
-- **Join our [Slack](https://slack-invite.carpentries.org/) channel**
+- **Join our [Slack](https://slack-invite.carpentries.org/) workspace**
 - **Sign up to our [newsletter](https://carpentries.org/newsletter/)**
 
 **Thank You for Your Participation!**
