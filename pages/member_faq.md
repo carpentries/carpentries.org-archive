@@ -106,7 +106,7 @@ Our current [pricing is here](/membership/#a-la-carte-pricing).
 
 ### Can individuals get trained to become Instructors outside of the context of institutional membership?
 Yes! Individuals can purchase Instructor Training seats at the [a la carte price](/membership/#a-la-carte-pricing)
-for their region. Individuals purchasing seats a la carte will receive equal priority with Members in scheduling.<br><be>
+for their region. Individuals purchasing seats a la carte will receive equal priority with Members in scheduling.<br><br>
 
 ### What is the attendance policy for Instructor Training?
 In the case of [no shows](https://docs.carpentries.org/topic_folders/instructor_training/cancellations_and_makeups.html#no-shows), if extenuating circumstances have prevented a trainee from cancelling, contacting, or attending an event, they may request permission to register for an additional event using the same registration code by emailing [instructor.training@carpentries.org](mailto:instructor.training@carpentries.org). **IMPORTANT**: Requests to re-register must be received within **7 days after** the end date of the training. 
