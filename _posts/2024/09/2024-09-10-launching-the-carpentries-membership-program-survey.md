@@ -12,7 +12,7 @@ At The Carpentries, we are committed to creating a vibrant, inclusive community 
 
 **We Want to Hear From You**
 
-We are launching a survey to gather valuable feedback from our current and past Member organisations and our dedicated Subcommunity Coordinators. This is an opportunity for you to share your thoughts on how we can enhance our membership model, better align with your organisation’s needs, and ensure that we are providing the most meaningful benefits to our community.
+We are launching a survey to gather valuable feedback from our current and past Member organisations. This is an opportunity for you to share your thoughts on how we can enhance our membership model, better align with your organisation’s needs, and ensure that we provide the most meaningful benefits to our community.
 
 **Why Your Feedback Matters**
 
