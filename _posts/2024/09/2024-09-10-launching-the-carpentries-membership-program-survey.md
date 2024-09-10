@@ -28,7 +28,7 @@ We are also looking to understand if any aspects of our current membership offer
 
 Participating in the survey is simple and only takes a few minutes. Your responses will remain confidential, and the data collected will be used solely to improve our services and better support you and your organisation.
 
-**Take the [Survey](https://carpentries.typeform.com/to/cSkqdrOL) now and stand a chance to win an Instructor Training seat in our lucky draw!**
+**Take the [Survey](https://carpentries.typeform.com/to/cSkqdrOL) now for a chance to win an Instructor Training seat in our lucky draw!**
 
 **Stay Connected**
 
