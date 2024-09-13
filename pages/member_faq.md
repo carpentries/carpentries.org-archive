@@ -108,6 +108,15 @@ Our current [pricing is here](/membership/#a-la-carte-pricing).
 Yes! Individuals can purchase Instructor Training seats at the [a la carte price](/membership/#a-la-carte-pricing)
 for their region. Individuals purchasing seats a la carte will receive equal priority with Members in scheduling.<br><br>
 
+### What is the attendance policy for Instructor Training?
+In the case of [no shows](https://docs.carpentries.org/topic_folders/instructor_training/cancellations_and_makeups.html#no-shows), if extenuating circumstances have prevented a trainee from cancelling, contacting, or attending an event, they may request permission to register for an additional event using the same registration code by emailing [instructor.training@carpentries.org](mailto:instructor.training@carpentries.org). **IMPORTANT**: Requests to re-register must be received within **7 days after** the end date of the training. 
+
+In the event of [partial absences](https://docs.carpentries.org/topic_folders/instructor_training/cancellations_and_makeups.html#partial-absence) trainees who miss up to 4 hours (1 half day) of an event can schedule a 45-minute 1:1 makeup meeting to complete their training with The Carpentries Director of Workshops and Training. 
+
+[Ineligibility for Makeup Opportunities](https://docs.carpentries.org/topic_folders/instructor_training/cancellations_and_makeups.html#ineligibility-for-makeup-opportunities): Trainees who miss an event **in full without cancelling within 7 days (no-show)** or who miss part of an event but **do not request a makeup opportunity within 7 days** are ineligible to register for a new training event using the same registration code. Trainees interested in completing training may contact [instructor.training@carpentries.org](mailto:instructor.training@carpentries.org) to be advised on their options for re-admission.
+
+
+
 
 ## Contact us
 *Who do I talk to about...*
