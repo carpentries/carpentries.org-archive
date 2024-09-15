@@ -1,6 +1,6 @@
 ---
 layout: page
-authors: ["Mike Trizna", "Adriana De Palma", "Sichong Peng", "Reinder Radersma", "Jen Thomas", Toby Hodges"]
+authors: ["Mike Trizna", "Adriana De Palma", "Sichong Peng", "Reinder Radersma", "Jen Thomas", "Toby Hodges"]
 teaser: "The redesigned lesson will replace the existing version in the curriculum in July."
 title: "Curriculum Advisors Approve Redesigned DC R Ecology Lesson"
 date: 2024-03-27
