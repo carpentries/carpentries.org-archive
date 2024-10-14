@@ -12,6 +12,11 @@ We would like to extend our heartfelt thanks to everyone who **[contributed](htt
 Thank you for Breaking the Language Barriers in Data Science and Programming
 # What have we achieved?
 
+- Updated contribution guide
+- English contribution video
+- Spanis contribution video
+- Technology updates
+
 #add infographic here
 
 
