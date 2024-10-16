@@ -8,7 +8,7 @@ time: "09:00:00"
 tags: ["Glosario"]
 ---
 
-We would like to extend our heartfelt thanks to everyone who **[contributed](https://github.com/carpentries/glosario/graphs/contributors)** in the Glosario Codefest, an event that highlighted the importance of breaking down language barriers in data science and programming. Your contributions have helped create a more inclusive learning environment, advancing our vision of accessibility for the global community. This event, supported by a grant from the [Andrew W. Mellon Foundation](https://carpentries.org/blog/2024/01/mellon-foundation/), reflects a significant step forward in making data science knowledge available to all. Thank you for Breaking the Language Barriers in Data Science and Programming
+We would like to extend our heartfelt thanks to everyone who **[contributed](https://github.com/carpentries/glosario/graphs/contributors)** in the Glosario Codefest, an event that highlighted the importance of breaking down language barriers in data science and programming. Your contributions have helped create a more inclusive learning environment, advancing our vision of accessibility for the global community. This event, supported by a grant from the [Andrew W. Mellon Foundation](https://carpentries.org/blog/2024/01/mellon-foundation/), reflects a significant step forward in making data science knowledge available to all.
 
 # What have we achieved?
 
@@ -52,12 +52,8 @@ With a total of 26 langauges, our translations keep growing!
 We’re thrilled to share some recent improvements to Glosario, aimed at making it more user-friendly and versatile for both learners and lesson creators!
 
 ### Modernised Site Design
- The Glosario site has been revamped, giving it a fresh look with modern fonts and a consistent design thanks to a Bootstrap library. Navigating through language pages is now easier, with categories being more visible and accessible. Additionally, new anchor links allow users to jump directly to specific terms, making it easier to copy and share these links for quick reference.
+ The Glosario site has been revamped, giving it a fresh look with modern fonts and a consistent design. Navigating through language pages is now easier, with categories being more visible and accessible. Additionally, new anchor links allow users to jump directly to specific terms, making it easier to copy and share these links for quick reference.
 
-### Enhanced Lesson Integration
-Another significant upgrade is the introduction of support for embedding Glosario links directly into lesson content. Lesson creators can now use a superscript format (e.g., {{ glosario.data_structure }}) to reference glossary terms, providing seamless access to definitions as learners move through lesson material.
-
-Moreover, the integration is multilingual! If a lesson is translated into another language, the glossary links will automatically adapt to match the lesson’s language code. This ensures that translated lessons can benefit from the glossary without needing additional adjustments.
 
 
 # What is next?
@@ -74,4 +70,4 @@ This event encourages new contributions to Glosario from our governance and glob
 
 # Get involved? 
 
-We invite you to be part of this exciting initiative! If you are passionate about data science, programming, and making knowledge accessible to all, we encourage you to join us for future **[Glosario co-working sessions](https://carpentries.org/community/#community-events)**. Whether you want to learn more about Glosario or contribute to this event, we’d love to hear from you at **community@carpentries.org**. Your participation is key to shaping the future of inclusive data science education. Together, let’s celebrate diversity, break down language barriers, and empower learners worldwide through the Glosario!
+We invite you to be part of this exciting initiative! If you are passionate about data science, programming, and making knowledge accessible to all, we encourage you to join us for future **[Glosario co-working sessions](https://carpentries.org/community/#community-events)**. Whether you want to learn more about Glosario or contribute to this event, we’d love to hear from you at **community@carpentries.org**. Your participation is key to shaping the future of inclusive data science education. Together, let’s celebrate diversity, break down language barriers, and empower learners worldwide through Glosario!
