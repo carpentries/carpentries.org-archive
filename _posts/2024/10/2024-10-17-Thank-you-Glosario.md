@@ -15,7 +15,7 @@ We would like to extend our heartfelt thanks to everyone who **[contributed](htt
 - The [Glosario contribution guide](https://docs.google.com/document/d/18oxYd6D9heESqw2gw9cbtxiCfkb4wlxazERFBIDCoeM/edit#heading=h.wsi1psxc3n64) has been updated with step-by-step screenshots.
 - A quick guide in [English](https://www.youtube.com/watch?v=ew1eb1ug-Q8) and [Spanish](https://www.youtube.com/watch?v=f9K5wYq0dQM&t=23s) has been uploaded to YouTube on how to contribute to Glosario.
 
-#add infographic here
+![Glosario statistics]({{ site.urlimg }}/blog/2024/10/Glosario.jpg)
 
 
 | Language            | Total terms defined |
