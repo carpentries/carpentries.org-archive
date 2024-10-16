@@ -17,6 +17,8 @@ We would like to extend our heartfelt thanks to everyone who **[contributed](htt
 
 ![Glosario statistics]({{ site.urlimg }}/blog/2024/10/Glosario.jpg)
 
+With a total of 26 langauges, our translations keep growing!
+
 
 | Language            | Total terms defined |
 |---------------------|---------------------|
