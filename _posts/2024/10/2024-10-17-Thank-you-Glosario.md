@@ -8,7 +8,7 @@ time: "09:00:00"
 tags: ["Glosario"]
 ---
 
-We would like to extend our heartfelt thanks to everyone who **[contributed](https://github.com/carpentries/glosario/graphs/contributors)** in the Glosario Codefest, an event that highlighted the importance of breaking down language barriers in data science and programming. Your contributions have helped create a more inclusive learning environment, advancing our vision of accessibility for the global community. This event, supported by a grant from the [Andrew W. Mellon Foundation](https://carpentries.org/blog/2024/01/mellon-foundation/), reflects a significant step forward in making data science knowledge available to all.
+We would like to extend our heartfelt thanks to everyone who **[contributed](https://github.com/carpentries/glosario/graphs/contributors)** in the Glosario Codefest, an event that highlighted the importance of breaking down language barriers in data science and programming. Your contributions have helped create a more inclusive learning environment, advancing our vision of accessibility for the global community. This event, [supported by a grant from the Andrew W. Mellon Foundation](https://carpentries.org/blog/2024/01/mellon-foundation/), reflects a significant step forward in making data science knowledge available to all.
 
 # What have we achieved?
 
