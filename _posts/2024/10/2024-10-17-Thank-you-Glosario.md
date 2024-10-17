@@ -20,32 +20,11 @@ We would like to extend our heartfelt thanks to everyone who **[contributed](htt
 With a total of 26 langauges, our translations keep growing!
 
 
-| Language            | Total terms defined |
-|---------------------|---------------------|
-| Afrikaans           | 90                  |
-| አማርኛ (Amharic)     | 288                 |
-| اَلْعَرَبِيَّةُ (Arabic) | 27               |
-| Bangla              | 1                   |
-| Deutsch (German)    | 73                  |
-| Ελληνικά (Greek)    | 8                   |
-| English             | 631                 |
-| Español (Spanish)   | 146                 |
-| Français (French)   | 95                  |
-| עִברִית (Hebrew)    | 1                   |
-| Hrvatski (Croatian) | 1                   |
-| Bahasa Indonesia    | 16                  |
-| Italiano (Italian)  | 13                  |
-| 日本語 (Japanese)    | 9                   |
-| 한국어 (Korean)      | 2                   |
-| Latin               | 0                   |
-| Português (Portuguese) | 73               |
-| Nederlands (Dutch)  | 3                   |
-| Southern Sotho      | 2                   |
-| Kiswahili (Swahili) | 73                  |
-| Setswana            | 19                  |
-| Українська (Ukrainian) | 98               |
-| isiXhosa            | 2                   |
-| isiZulu             | 2                   |
+| **Category**              | **Afrikaans** | **Amharic** | **Arabic** | **Bangla** | **German** | **Greek** | **English** | **Spanish** | **French** | **Hebrew** | **Croatian** | **Indonesian** | **Italian** | **Japanese** | **Korean** | **Latin** | **Portuguese** | **Dutch** | **Southern Sotho** | **Swahili** | **Setswana** | **Ukrainian** | **isiXhosa** | **isiZulu** |
+|---------------------------|---------------|-------------|------------|------------|------------|-----------|-------------|-------------|------------|------------|--------------|----------------|-------------|--------------|------------|-----------|----------------|-----------|---------------------|-------------|--------------|----------------|-------------|------------|
+| **Total Terms Defined**    | 90            | 288         | 27         | 1          | 73         | 8         | 631         | 146         | 95         | 1          | 1            | 16             | 13          | 9            | 2          | 0         | 73             | 3         | 2                   | 73          | 19           | 98             | 2           | 2          |
+
+
 
 ## Exciting Updates to Glosario: Enhancing Usability and Integration
 
