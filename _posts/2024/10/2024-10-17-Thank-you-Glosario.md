@@ -20,9 +20,20 @@ We would like to extend our heartfelt thanks to everyone who **[contributed](htt
 With a total of 26 langauges, our translations keep growing!
 
 
-| **Category**              | **Afrikaans** | **Amharic** | **Arabic** | **Bangla** | **German** | **Greek** | **English** | **Spanish** | **French** | **Hebrew** | **Croatian** | **Indonesian** | **Italian** | **Japanese** | **Korean** | **Latin** | **Portuguese** | **Dutch** | **Southern Sotho** | **Swahili** | **Setswana** | **Ukrainian** | **isiXhosa** | **isiZulu** |
-|---------------------------|---------------|-------------|------------|------------|------------|-----------|-------------|-------------|------------|------------|--------------|----------------|-------------|--------------|------------|-----------|----------------|-----------|---------------------|-------------|--------------|----------------|-------------|------------|
-| **Total Terms Defined**    | 90            | 288         | 27         | 1          | 73         | 8         | 631         | 146         | 95         | 1          | 1            | 16             | 13          | 9            | 2          | 0         | 73             | 3         | 2                   | 73          | 19           | 98             | 2           | 2          |
+| Language            | Total terms defined | Language            | Total terms defined |
+|---------------------|---------------------|---------------------|---------------------|
+| Afrikaans           | 90                  | Kiswahili (Swahili)  | 73                  |
+| አማርኛ (Amharic)     | 288                 | Setswana            | 19                  |
+| اَلْعَرَبِيَّةُ (Arabic) | 27               | Українська (Ukrainian) | 98               |
+| Bangla              | 1                   | isiXhosa            | 2                   |
+| Deutsch (German)    | 73                  | isiZulu             | 2                   |
+| Ελληνικά (Greek)    | 8                   | Nederlands (Dutch)  | 3                   |
+| English             | 631                 | Southern Sotho      | 2                   |
+| Español (Spanish)   | 146                 | Latin               | 0                   |
+| Français (French)   | 95                  | Bahasa Indonesia    | 16                  |
+| עִברִית (Hebrew)    | 1                   | Italiano (Italian)  | 13                  |
+| Hrvatski (Croatian) | 1                   | 日本語 (Japanese)    | 9                   |
+| 한국어 (Korean)      | 2                   | Português (Portuguese) | 73               |
 
 
 
