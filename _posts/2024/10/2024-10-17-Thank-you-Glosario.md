@@ -41,7 +41,7 @@ The Carpentries will host a Glosario Hackathon on 13 November 2024 during Carpen
 
 - **Bi-monthly [Glosario co-working sessions](https://carpentries.org/community/#community-events)**
 
-This event encourages new contributions to Glosario from our governance and global community. This co-working session is a continuation of the work during the Glosario CodeFest 2024.The next session will be on **[6 November 2024 @ 15:00 UTC](https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=MTZubWQwZ2s0Ym81MXVjM25lZDFnZGk3YXJfMjAyNDExMDZUMTUwMDAwWiBvc2V1dW9odDB0dmpib2tnZzNub2g4YzQ3Z0Bn&tmsrc=oseuuoht0tvjbokgg3noh8c47g%40group.calendar.google.com&scp=ALL)**. You can sign up on this [Etherpad](https://pad.carpentries.org/Glosario_Codefest_2024) to attend: 
+This event encourages new contributions to Glosario from our governance and global community. This co-working session is a continuation of the work during the Glosario CodeFest 2024.The next session will be on **[6 November 2024 @ 15:00 UTC](https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=MTZubWQwZ2s0Ym81MXVjM25lZDFnZGk3YXJfMjAyNDExMDZUMTUwMDAwWiBvc2V1dW9odDB0dmpib2tnZzNub2g4YzQ3Z0Bn&tmsrc=oseuuoht0tvjbokgg3noh8c47g%40group.calendar.google.com&scp=ALL)**. You can [sign up on this Etherpad](https://pad.carpentries.org/Glosario_Codefest_2024) to attend. 
 
 
 # Get involved? 
