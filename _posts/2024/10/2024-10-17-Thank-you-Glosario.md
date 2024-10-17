@@ -37,7 +37,7 @@ With a total of 26 langauges, our translations keep growing!
 
 - **[CarpentryConnect Heidelberg 2024](https://carpentries.org/blog/2024/01/announcing-cchd24/)**
 
-The Carpentries will host a Glosario Hackathon on 13 November 2024 during CarpentryConnect Heidelberg. The event is be hosted by [**The Bio Network for Training (BioNT) consortium](https://biont-training.eu/)** with all its international partners and in collaboration with The Carpentries and their community members. CCHD2024 will run parallel to the BioNT community event, fostering collaboration and networking opportunities. 
+The Carpentries will host a Glosario Hackathon on 13 November 2024 during CarpentryConnect Heidelberg (CCHD2024). The event is be hosted by **[The Bio Network for Training (BioNT) consortium](https://biont-training.eu/)** with all its international partners and in collaboration with The Carpentries and their community members. CCHD2024 will run parallel to the BioNT community event, fostering collaboration and networking opportunities. 
 
 - **Bi-monthly [Glosario co-working sessions](https://carpentries.org/community/#community-events)**
 
