@@ -28,11 +28,8 @@ With a total of 26 langauges, our translations keep growing!
 
 ## Exciting Updates to Glosario: Enhancing Usability and Integration
 
-We’re thrilled to share some recent improvements to Glosario, aimed at making it more user-friendly and versatile for both learners and lesson creators!
-
 ### Modernised Site Design
  The Glosario site has been revamped, giving it a fresh look with modern fonts and a consistent design. Navigating through language pages is now easier, with categories being more visible and accessible. Additionally, new anchor links allow users to jump directly to specific terms, making it easier to copy and share these links for quick reference.
-
 
 
 # What is next?
