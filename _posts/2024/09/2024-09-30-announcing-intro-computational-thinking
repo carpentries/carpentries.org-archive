@@ -10,7 +10,7 @@ tags: ["Computational thinking", "Problem breakdown", "Structure diagrams"]
 
 ## Introduction
 
-The idea for [this lesson](http://librarycarpentry.org/lc-computational-thinking/) came from the author’s own experiences of teaching Software Carpentry lessons and learning to code. While Software Carpentry taught the fundamentals of task automation and coding, it did not directly address how to break problems down or how to apply a coding mindset to research questions. As a result, when I tried to apply what I had learned, I found it challenging to break problems down into computable chunks. I therefore saw a lesson on computational thinking as a necessary precursor to learning how to code.
+The idea for the [Introducing Computational Thinking](http://librarycarpentry.org/lc-computational-thinking/) lesson came from my own experiences of teaching Software Carpentry lessons and learning to code. While Software Carpentry taught the fundamentals of task automation and coding, it did not directly address how to break problems down or how to apply a coding mindset to research questions. As a result, when I tried to apply what I had learned, I found it challenging to break problems down into computable chunks. I therefore saw a lesson on computational thinking as a necessary precursor to learning how to code.
 
 This workshop is for individuals at all career stages who want to understand the uses and building blocks of computational thinking. This skill is valuable for solving all kinds of problems, whether in real life or in computing. The workshop does not teach computer programming per se. Instead, it covers the thought processes involved for those who may want to learn programming in the future.
 
