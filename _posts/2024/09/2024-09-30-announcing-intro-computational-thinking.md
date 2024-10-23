@@ -1,9 +1,9 @@
 ---
 layout: page  
 authors: ["Belinda Weaver"] 
-teaser: "Introducing Computational Thinking, a new addition to our curriculum designed to teach people how to break problems down into computable steps before starting to code."  
+teaser: "Introducing Computational Thinking, a new addition to our curriculum, is designed to teach people how to break problems down into computable steps before starting to code."  
 title: "Library Carpentry Curriculum Advisory Committee Announces New Lesson: Introducing Computational Thinking"  
-date: 2024-10-21  
+date: 2024-10-23  
 time: "09:00:00"
 tags: ["Lessons", "Library Carpentry"]
 ---
@@ -30,7 +30,7 @@ Almost all research today is computational, but computational thinking and codin
 
 I couldn’t find a step-by-step course on computational thinking, so I decided to create one myself, which led to the development of [this lesson](http://librarycarpentry.org/lc-computational-thinking/).
 
-## Course Development
+## Course development
 
 I developed this course while working at Griffith University. Initially, I tested its usefulness with colleagues in the university library. I also shared it with academics teaching statistical courses, and some have since adopted parts of the material for first-year courses.
 
@@ -45,7 +45,7 @@ The curriculum advisors adopted this lesson because it fills a critical gap in r
 
 We invite Carpentries Instructors to teach the new lesson and provide feedback via the [repository Issues page](https://github.com/LibraryCarpentry/lc-computational-thinking/issues) or by [reaching out to the Maintainers](https://carpentries.topicbox.com/groups/curriculum-advisors-lc).
 
-## Course Author Biography
+## Course author biography
 
 Belinda Weaver is a former librarian who was very active in the Software Carpentry and Library Carpentry communities for several years before retiring in 2022 due to ill health. She has taught Library Carpentry workshops in Australia, the U.S., and New Zealand. She developed this lesson while leading a team supporting researchers at Griffith University Library. Belinda has worked as a repository manager, contributed to the Australian research cloud, and served as Community and Communications Lead for The Carpentries for 20 months.
 
