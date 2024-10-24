@@ -131,25 +131,22 @@ In addition to the sponsorship levels listed above, we value all monetary contri
 #### Digital supporter badge
 The Carpentries provides a digital icon that can be displayed on sponsor’s website and social media accounts as a way to show support for The Carpentries community.
 
-#### Carpentries Philanthropy Recognition
-One mention in The Carpentries donor newsletter, [Carpentries Philanthropy](https://carpentries.us14.list-manage.com/subscribe?u=46d7513c798c6bd41e5f58f4a&id=33f76196ac).
-
 #### Logo on carpentries.org
 Logo linked to sponsor designated URL, posted on [The Carpentries Sponsorship page](/sponsorship). Sponsors listed in order of package level.
 
 #### Mention in The Carpentries Newsletter
-One item submitted to The Carpentries biweekly newsletter, [Carpentries Clippings](/newsletter/).
+One item submitted to The Carpentries monthly newsletter, [Carpentries Clippings](/newsletter/).
 
 #### Logo on carpentries.org/jobs
 Logo linked to sponsor’s careers page listed on [The Carpentries jobs page](/jobs/) for one year.
 
 #### Social media visibility
-Social media promotion via [@thecarpentries on Twitter](https://twitter.com/thecarpentries) (9,447 followers).
+Social media promotion via [@thecarpentries on Mastodon]([https://twitter.com/thecarpentries](https://mastodon.social/@thecarpentries@hachyderm.io)) (1,500 followers).
 - Empowerment Sponsor - up to 4 posts per year
 - Champion - up to 2 posts per year
 
 #### CarpentryCon Registration, Sponsor Table, & Recognition
-Registration to attend The Carpentries biennial meeting, [CarpentryCon](https://carpentrycon.org/), to be held in-person or virtually. Sponsor name and logo on conference marketing material.
+Registration to attend The Carpentries meeting, [CarpentryCon](https://carpentrycon.org/), to be held in-person or virtually. Sponsor name and logo on conference marketing material.
 
 CarpentryCon attendance: ~300 persons
 - Empowerment Sponsor - 3 registrations, 1 keynote presentation, 1 sponsorship table
@@ -161,8 +158,8 @@ Logo will be placed on [The Carpentries blog](/blog/) for one year. The Carpentr
 #### Original Blog Post
 One blog post on [The Carpentries blog](/blog/).
 
-#### Themed Community Discussion
-Opportunity to present at one virtual discussion with The Carpentries global community. Discussion will be moderated by a Carpentries Core Team member. Sponsor will give a 20 minute overview of their mission, vision, and values, and how The Carpentries community can get involved.
+#### Themed Community Session
+Opportunity to present at one virtual Community Session with The Carpentries global community. The session will be moderated by a Carpentries Core Team member. Sponsor will give a 20-minute overview of their mission, vision, and values, and how The Carpentries community can get involved.
 
 #### Data, Software, or Library Carpentry Workshop
 Attend one Data, Software, or Library Carpentry [workshop](/workshops/) (in-person or virtual where available).
