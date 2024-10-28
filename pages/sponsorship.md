@@ -40,14 +40,6 @@ The Sponsorship Application Form is also available as a [fillable PDF](/files/pd
     <td align="center" style="text-align:center; font-size:150%; font-weight:bold; color:blue;">&#x2714;</td>
     <td align="center" style="text-align:center; font-size:150%; font-weight:bold; color:blue;">&#x2714;</td>
   </tr>
-  <tr>
-    <td>Carpentries Philanthropy Recognition</td>
-    <td align="center" style="text-align:center; font-size:150%; font-weight:bold; color:blue;">&#x2714;</td>
-    <td align="center" style="text-align:center; font-size:150%; font-weight:bold; color:blue;">&#x2714;</td>
-    <td align="center" style="text-align:center; font-size:150%; font-weight:bold; color:blue;">&#x2714;</td>
-    <td align="center" style="text-align:center; font-size:150%; font-weight:bold; color:blue;">&#x2714;</td>
-    <td align="center" style="text-align:center; font-size:150%; font-weight:bold; color:blue;">&#x2714;</td>
-  </tr>
 <tr>
     <td>Logo on carpentries.org</td>
     <td align="center" style="text-align:center; font-size:150%; font-weight:bold; color:blue;">&#x2714;</td>
@@ -141,7 +133,7 @@ One item submitted to The Carpentries monthly newsletter, [Carpentries Clippings
 Logo linked to sponsor’s careers page listed on [The Carpentries jobs page](/jobs/) for one year.
 
 #### Social media visibility
-Social media promotion via [@thecarpentries on Mastodon]([https://twitter.com/thecarpentries](https://mastodon.social/@thecarpentries@hachyderm.io)) (1,500 followers).
+Social media promotion via [@thecarpentries on Mastodon](https://hachyderm.io/@thecarpentries) (1,500 followers).
 - Empowerment Sponsor - up to 4 posts per year
 - Champion - up to 2 posts per year
 
