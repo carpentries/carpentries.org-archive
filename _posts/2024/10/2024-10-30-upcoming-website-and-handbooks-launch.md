@@ -20,7 +20,7 @@ We are pleased to announce that we are now closer to the relaunch of [the main C
 
 We are also planning to relaunch the new [Carpentries Handbooks](https://docs.carpentries.org/index.html) shortly afterward on **9 December 2024**!
 
-This is really exciting news for us and the community. The theme and layout of the current Carpentries website have not been updated since 2018, and over the years, the website’s content has also grown substantially in volume. The themes for the lesson program websites are even older and have not been updated in many years. As a result, it was not always clear to ascertain the ongoing usefulness of some information contained therein to the community, our sponsors, funders, and the general public. There was also an overlap between the website and the Handbook content and clarity on where to find between the two resources was not always clear. 
+This is really exciting news for us and the community. The theme and layout of the current Carpentries website have not been updated since 2018, and over the years, the website’s content has also grown substantially in volume. The themes for the lesson program websites are even older and have not been updated in many years. As a result, it was not always clear to ascertain the ongoing usefulness of some information contained therein to the community, our sponsors, funders, and the general public. There was also an overlap between the website and the Handbook content and clarity on where to find what between the two resources was not always clear cut.
 
 ## Content distribution between websites and Handbooks
 
