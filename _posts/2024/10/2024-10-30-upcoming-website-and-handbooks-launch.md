@@ -1,7 +1,7 @@
 ---
 layout: page
 authors: ["Oscar Masinyana", "Maneesha Sane"]
-teaser: "The Carpentries is preparing to relaunch its main and Lesson programs websites and also Handbooks next month!"
+teaser: "The Carpentries is preparing to relaunch its main and Lesson programs websites and its Handbooks next month!"
 title: "Almost Ready: The Carpentries’ new websites and Handbooks"
 Date: 2024-10-30
 time: "09:00:00"
