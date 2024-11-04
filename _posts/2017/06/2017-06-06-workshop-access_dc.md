@@ -7,7 +7,7 @@ categories:
    - blog
 comments: true
 show_meta: true
-tags: ["Accessibility", "Equity", "Data Carpentry"]
+tags: ["Accessibility", "Equity and Inclusion", "Data Carpentry"]
 authors: ["Erin Becker", "Jonah Duckles", "Kari L. Jordan", "Maneesha Sane", "Tracy Teal"]
 redirect_from: /blog/workshop-access/
 --- 
