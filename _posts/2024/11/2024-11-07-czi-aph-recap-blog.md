@@ -36,7 +36,7 @@ It seemed like more people came to the workshop prepared and ensured everyone ha
 4. As the host, starting the workshop each day with introductions of the Instructors and helpers, setting expectations (how to ask questions, when lunch break will be, etc.), and reviewing the [Code of Conduct](https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html#code-of-conduct-summary-view) was a good way to lead into the workshop and ensure everyone was starting on the same page. 
 
 5. Things that I learned from Instructors that seem small but extremely helpful were
- - including Instructor, Helper, or Host (depending on your role) as an extension of your Zoom name.
+ - including Instructor, helper, or host (depending on your role) as an extension of your Zoom name.
  - using the green check and red x react buttons in Zoom to gauge the room (especially with learners off camera). This was proven more effective than asking an open-ended question.
  - open breakout rooms for each helper at the beginning of the workshop so that they are readily available for anyone who needs additional help.
  
