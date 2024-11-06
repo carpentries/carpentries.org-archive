@@ -28,7 +28,7 @@ As a member of the Workshops and Instruction Team, you might think I would be an
 2. For the first workshop, I sent two emails - one with detailed information about workshop preparation, the workshop itself, and how to connect and a second reminder email with less detail. I received feedback that it would be helpful to have multiple pre-workshop emails with reminders about installations, so for the next two workshops I set up emails to go out as follows:
  * Two weeks before the workshop: all of the workshop information and pre-workshop tasks in full detail.
  * Two days before the workshop: a condensed version of the first email with a reminder of pre-workshop tasks.
- * Day-of the workshop: a reminder of the workshop and a link to the workshop details.  
+ * Day-of the workshop: a reminder of the workshop and a link to the workshop details.
 It seemed like more people came to the workshop prepared and ensured everyone had the correct information!
 
 3. Although we provided an extra hour before the workshop for learners to work through installations, attendance was low. The importance of completing installations before the workshop became apparent during the workshop, as we spent a significant amount of time troubleshooting. The big question remains: how can we encourage more participants to attend troubleshooting sessions in advance?
