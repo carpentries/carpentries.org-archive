@@ -33,7 +33,7 @@ It seemed like more people came to the workshop prepared and ensured everyone ha
 
 3. Although we provided an extra hour before the workshop for learners to work through installations, attendance was low. The importance of completing installations before the workshop became apparent during the workshop, as we spent a significant amount of time troubleshooting. The big question remains: how can we encourage more participants to attend troubleshooting sessions in advance?
 
-4. As the host, starting the workshop each day with introductions of the Instructors and Helpers, setting expectations (how to ask questions, when lunch break will be, etc.), and reviewing the [Code of Conduct](https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html#code-of-conduct-summary-view) was a good way to lead into the workshop and ensure everyone was starting on the same page. 
+4. As the host, starting the workshop each day with introductions of the Instructors and helpers, setting expectations (how to ask questions, when lunch break will be, etc.), and reviewing the [Code of Conduct](https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html#code-of-conduct-summary-view) was a good way to lead into the workshop and ensure everyone was starting on the same page. 
 
 5. Things that I learned from Instructors that seem small but extremely helpful were
  - including Instructor, Helper, or Host (depending on your role) as an extension of your Zoom name.
