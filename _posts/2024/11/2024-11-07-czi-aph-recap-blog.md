@@ -38,7 +38,7 @@ It seemed like more people came to the workshop prepared and ensured everyone ha
 5. Things that I learned from Instructors that seem small but extremely helpful were
  - including Instructor, Helper, or Host (depending on your role) as an extension of your Zoom name.
  - using the green check and red x react buttons in Zoom to gauge the room (especially with learners off camera). This was proven more effective than asking an open-ended question.
- - open breakout rooms for each Helper at the beginning of the workshop so that they are readily available for anyone who needs additional help.
+ - open breakout rooms for each helper at the beginning of the workshop so that they are readily available for anyone who needs additional help.
  
 6. I also learned:
 - It’s okay to have a smaller group of learners who are truly engaged.
