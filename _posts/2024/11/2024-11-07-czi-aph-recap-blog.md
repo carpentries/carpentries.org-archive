@@ -21,7 +21,7 @@ It is not often that The Carpentries host workshops. We generally only support l
 # Lessons Learned from Danielle Sieh, Workshops and Training Manager
 
 
-As a member of the Workshops and Instruction Team, you might think I would be an expert in all things workshops. But the truth is, as a first-time host I’ve learned so much from the Instructors, Helpers, and learners! Below, I’ve highlighted some of the most valuable lessons I’ve gained from the experience to date:
+As a member of the Workshops and Instruction Team, you might think I would be an expert in all things workshops. But the truth is, as a first-time host I’ve learned so much from the Instructors, helpers, and learners! Below, I’ve highlighted some of the most valuable lessons I’ve gained from the experience to date:
 
 1. To create a task checklist and schedule of availability for Instructors and Helpers, we used a new resource developed based on feedback from our recent Instructor meetings - the workshop planning sheet. The sheet was super helpful in dividing tasks, storing important links for easy access, and providing a visual of everyone’s availability. 
 
