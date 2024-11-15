@@ -16,7 +16,7 @@ To that end, the new websites are pared down to facilitate ease of navigation be
 
 ## Next up: Handbooks relaunch!
 
-![Handbooks relauch countdown]({{ site.urlimg }}/blog/2024/11/Handbooks relauch countdown_21 days.png)
+![Handbooks relauch countdown]({{ site.urlimg }}/blog/2024/11/Handbooks21days.png)
 
 On 9 December, we will relaunch [The Carpentries Handbooks](https://docs.carpentries.org/) for Instructor Trainers, Instructors, Curriculum Advisors, Lesson Developers, Maintainers, Lesson Program Governors, and Community Session Hosts. These Handbooks will be accompanied by folders of curated resources, as with the websites, for ease of accessibility, but this time for our volunteer community to carry out their duties in collaboration. Unlike the website, the Handbooks contain detailed information for active volunteers in onboarded roles or for community members familiar with  The Carpenries’ operations. 
 
